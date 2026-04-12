@@ -1,0 +1,210 @@
+{
+  "Cantidad": 1,
+  "FechaCreacion": "2026-04-05T09:44:53.0787673Z",
+  "Version": "v1",
+  "Listado": [
+    {
+      "CodigoExterno": "948356-13-LE26",
+      "Nombre": "Adquisición de Medicamentos Antimicrobianos Críticos ",
+      "CodigoEstado": 8,
+      "Descripcion": "Adquisición de Medicamentos Antimicrobianos Críticos, por Sistema de Suministro para el Hospital Dipreca ",
+      "FechaCierre": null,
+      "Estado": "Adjudicada",
+      "Comprador": {
+        "CodigoOrganismo": "220665",
+        "NombreOrganismo": "FONDO HOSPITAL DE LA DIRECCION DE PREVISION DE CARABINEROS DE CHILE",
+        "RutUnidad": "61.513.003-6",
+        "CodigoUnidad": "948356",
+        "NombreUnidad": "Unidad de Compra Fármacos Nutrición y Reactivos",
+        "DireccionUnidad": "Avenida Vital Apoquindo Nº1200",
+        "ComunaUnidad": "Las Condes",
+        "RegionUnidad": "Región Metropolitana de Santiago",
+        "RutUsuario": "",
+        "CodigoUsuario": "1565693",
+        "NombreUsuario": "Felipe Sanchez Vera",
+        "CargoUsuario": "Profesional de Adquisiciones"
+      },
+      "DiasCierreLicitacion": "0",
+      "Informada": 0,
+      "CodigoTipo": 1,
+      "Tipo": "LE",
+      "TipoConvocatoria": "1",
+      "Moneda": "CLP",
+      "Etapas": 1,
+      "EstadoEtapas": "1",
+      "TomaRazon": "0",
+      "EstadoPublicidadOfertas": 1,
+      "JustificacionPublicidad": "",
+      "Contrato": "2",
+      "Obras": "0",
+      "CantidadReclamos": 389,
+      "Fechas": {
+        "FechaCreacion": "2026-02-13T00:00:00",
+        "FechaCierre": "2026-02-20T16:00:00",
+        "FechaInicio": "2026-02-13T13:31:00",
+        "FechaFinal": "2026-02-18T15:59:00",
+        "FechaPubRespuestas": "2026-02-19T15:59:00",
+        "FechaActoAperturaTecnica": "2026-02-20T16:01:00",
+        "FechaActoAperturaEconomica": "2026-02-20T16:01:00",
+        "FechaPublicacion": "2026-02-13T12:59:06.49",
+        "FechaAdjudicacion": "2026-04-01T16:42:44.27",
+        "FechaEstimadaAdjudicacion": "2026-04-01T18:00:00",
+        "FechaSoporteFisico": null,
+        "FechaTiempoEvaluacion": "1900-02-10T00:00:00",
+        "FechaEstimadaFirma": null,
+        "FechasUsuario": null,
+        "FechaVisitaTerreno": null,
+        "FechaEntregaAntecedentes": null
+      },
+      "UnidadTiempoEvaluacion": 2,
+      "DireccionVisita": "",
+      "DireccionEntrega": "",
+      "Estimacion": 1,
+      "FuenteFinanciamiento": "Fondo Hospital Dipreca ",
+      "VisibilidadMonto": 1,
+      "MontoEstimado": 50000000.0,
+      "Tiempo": "24",
+      "UnidadTiempo": "2",
+      "Modalidad": 1,
+      "TipoPago": "1",
+      "NombreResponsablePago": "Viviana García Pino",
+      "EmailResponsablePago": "",
+      "NombreResponsableContrato": "Holger Lucin Ramírez ",
+      "EmailResponsableContrato": "",
+      "FonoResponsableContrato": "",
+      "ProhibicionContratacion": "",
+      "SubContratacion": "1",
+      "UnidadTiempoDuracionContrato": 4,
+      "TiempoDuracionContrato": "24",
+      "TipoDuracionContrato": " ",
+      "JustificacionMontoEstimado": "Ver Anexos adjuntos",
+      "ObservacionContract": null,
+      "ExtensionPlazo": 0,
+      "EsBaseTipo": 0,
+      "UnidadTiempoContratoLicitacion": "2",
+      "ValorTiempoRenovacion": "0",
+      "PeriodoTiempoRenovacion": " ",
+      "EsRenovable": 0,
+      "CodigoBIP": null,
+      "Adjudicacion": {
+        "Tipo": 2,
+        "Fecha": "2026-04-01T00:00:00",
+        "Numero": "N°795",
+        "NumeroOferentes": 15,
+        "UrlActa": "http://www.mercadopublico.cl/Procurement/Modules/RFB/StepsProcessAward/PreviewAwardAct.aspx?qs=kvXkFg+LPtNpxHwjZnxgSSRnzci7ufNdnNdx5DeyNT4="
+      },
+      "Items": {
+        "Cantidad": 7,
+        "Listado": [
+          {
+            "Correlativo": 1,
+            "CodigoProducto": 51101527,
+            "CodigoCategoria": "51101500",
+            "Categoria": "Medicamentos y productos farmacéuticos / Medicamentos anti infecciosos / Antibióticos",
+            "NombreProducto": "Colistimetato sódico",
+            "Descripcion": "COLISTIMETATO SÓDICO F.A. 3.000.000 UI (240 MG COLISTINA BASE) HOSDIP AJ9102",
+            "UnidadMedida": "Frasco Ampolla",
+            "Cantidad": 300.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.062.131-5",
+              "NombreProveedor": "REPRESENTACIONES BIOTEC SPA",
+              "Cantidad": 300.0,
+              "MontoUnitario": 15000.0
+            }
+          },
+          {
+            "Correlativo": 2,
+            "CodigoProducto": 51102001,
+            "CodigoCategoria": "51102000",
+            "Categoria": "Medicamentos y productos farmacéuticos / Medicamentos anti infecciosos / Medicamentos contra la malaria",
+            "NombreProducto": "Cicloserina",
+            "Descripcion": "TIGECICLINA 50 MG LIOF F.A. HOSDIP AJ1603",
+            "UnidadMedida": "Frasco Ampolla",
+            "Cantidad": 300.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.956.140-4",
+              "NombreProveedor": "ETHON PHARMACEUTICALS  COMERCIALIZADORA  IMP EXP Y DIST SPA",
+              "Cantidad": 300.0,
+              "MontoUnitario": 2153.8
+            }
+          },
+          {
+            "Correlativo": 3,
+            "CodigoProducto": 51101504,
+            "CodigoCategoria": "51101500",
+            "Categoria": "Medicamentos y productos farmacéuticos / Medicamentos anti infecciosos / Antibióticos",
+            "NombreProducto": "Clindamicina",
+            "Descripcion": "CLINDAMICINA FOSF. AMP. 600 MG /4 ML HOSDIP AJ1705",
+            "UnidadMedida": "Ampolla",
+            "Cantidad": 1300.0,
+            "Adjudicacion": {
+              "RutProveedor": "91.546.000-3",
+              "NombreProveedor": "LABORATORIO SANDERSON SPA",
+              "Cantidad": 1300.0,
+              "MontoUnitario": 735.0
+            }
+          },
+          {
+            "Correlativo": 4,
+            "CodigoProducto": 51101504,
+            "CodigoCategoria": "51101500",
+            "Categoria": "Medicamentos y productos farmacéuticos / Medicamentos anti infecciosos / Antibióticos",
+            "NombreProducto": "Clindamicina",
+            "Descripcion": "PIPERACILINA 4 GR – TAZOBACTAM 500 MG HOSDIP AJ1528",
+            "UnidadMedida": "Frasco Ampolla",
+            "Cantidad": 7000.0,
+            "Adjudicacion": {
+              "RutProveedor": "79.581.120-6",
+              "NombreProveedor": "DIFEM LABORATORIOS S A",
+              "Cantidad": 7000.0,
+              "MontoUnitario": 2045.0
+            }
+          },
+          {
+            "Correlativo": 5,
+            "CodigoProducto": 51181608,
+            "CodigoCategoria": "51181600",
+            "Categoria": "Medicamentos y productos farmacéuticos / Hormonas y antagonistas hormonales / Medicamentos tiroideas y antitiroideas",
+            "NombreProducto": "Levotiroxina",
+            "Descripcion": "LEVOFLOXACINO F.A. 500 MG / 100 ML HOSDIP AJ1908",
+            "UnidadMedida": "Frasco Ampolla",
+            "Cantidad": 160.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.423.281-K",
+              "NombreProveedor": "PISA FARMACEUTICA DE CHILE SPA",
+              "Cantidad": 160.0,
+              "MontoUnitario": 5500.0
+            }
+          },
+          {
+            "Correlativo": 6,
+            "CodigoProducto": 51102307,
+            "CodigoCategoria": "51102300",
+            "Categoria": "Medicamentos y productos farmacéuticos / Medicamentos anti infecciosos / Medicamentos antivirales",
+            "NombreProducto": "Ganciclovir sódico",
+            "Descripcion": "GANCICLOVIR F.A. 500 MG LIOF. HOSDIP AJ7111",
+            "UnidadMedida": "Frasco Ampolla",
+            "Cantidad": 150.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.458.051-6",
+              "NombreProveedor": "NEOETHICALS CHILE SPA",
+              "Cantidad": 150.0,
+              "MontoUnitario": 10275.0
+            }
+          },
+          {
+            "Correlativo": 7,
+            "CodigoProducto": 51102314,
+            "CodigoCategoria": "51102300",
+            "Categoria": "Medicamentos y productos farmacéuticos / Medicamentos anti infecciosos / Medicamentos antivirales",
+            "NombreProducto": "Ritonavir",
+            "Descripcion": "RITONAVIR 100 MG/NIRMATRELVIR 150 MG COMP. HOSDIP AJ7153",
+            "UnidadMedida": "Comprimido",
+            "Cantidad": 420.0,
+            "Adjudicacion": null
+          }
+        ]
+      }
+    }
+  ]
+}

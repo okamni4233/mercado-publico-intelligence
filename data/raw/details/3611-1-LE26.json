@@ -1,0 +1,1985 @@
+{
+  "Cantidad": 1,
+  "FechaCreacion": "2026-04-06T01:55:03.9379421Z",
+  "Version": "v1",
+  "Listado": [
+    {
+      "CodigoExterno": "3611-1-LE26",
+      "Nombre": "Insumos Dentales 2026",
+      "CodigoEstado": 8,
+      "Descripcion": "Insumos Dentales 2026",
+      "FechaCierre": null,
+      "Estado": "Adjudicada",
+      "Comprador": {
+        "CodigoOrganismo": "115313",
+        "NombreOrganismo": "I MUNICIPALIDAD DE SAAVEDRA",
+        "RutUnidad": "69.190.600-0",
+        "CodigoUnidad": "4531",
+        "NombreUnidad": "Municipalidad de Saavedra-Salud",
+        "DireccionUnidad": "18 de Septiembre # 554",
+        "ComunaUnidad": "Puerto Saavedra",
+        "RegionUnidad": "Región de la Araucanía ",
+        "RutUsuario": "",
+        "CodigoUsuario": "1848609",
+        "NombreUsuario": "Luis Guillermo Santibáñez Paillalef",
+        "CargoUsuario": "Encargado Unidad de Abastecimiento"
+      },
+      "DiasCierreLicitacion": "0",
+      "Informada": 0,
+      "CodigoTipo": 1,
+      "Tipo": "LE",
+      "TipoConvocatoria": "1",
+      "Moneda": "CLP",
+      "Etapas": 1,
+      "EstadoEtapas": "1",
+      "TomaRazon": "0",
+      "EstadoPublicidadOfertas": 1,
+      "JustificacionPublicidad": "",
+      "Contrato": "2",
+      "Obras": "0",
+      "CantidadReclamos": 138,
+      "Fechas": {
+        "FechaCreacion": "2026-02-13T00:00:00",
+        "FechaCierre": "2026-02-27T19:30:00",
+        "FechaInicio": "2026-02-17T18:31:00",
+        "FechaFinal": "2026-02-20T08:30:00",
+        "FechaPubRespuestas": "2026-02-20T16:30:00",
+        "FechaActoAperturaTecnica": "2026-03-02T09:01:00",
+        "FechaActoAperturaEconomica": "2026-03-02T09:01:00",
+        "FechaPublicacion": "2026-02-17T17:48:26.15",
+        "FechaAdjudicacion": "2026-04-01T12:40:50.31",
+        "FechaEstimadaAdjudicacion": "2026-04-13T17:30:00",
+        "FechaSoporteFisico": null,
+        "FechaTiempoEvaluacion": null,
+        "FechaEstimadaFirma": null,
+        "FechasUsuario": null,
+        "FechaVisitaTerreno": null,
+        "FechaEntregaAntecedentes": null
+      },
+      "UnidadTiempoEvaluacion": 1,
+      "DireccionVisita": "",
+      "DireccionEntrega": "",
+      "Estimacion": 1,
+      "FuenteFinanciamiento": "215.22.04.004.002.000  215.22.04.004.005.000",
+      "VisibilidadMonto": 1,
+      "MontoEstimado": 22440000.0,
+      "Tiempo": null,
+      "UnidadTiempo": "1",
+      "Modalidad": 1,
+      "TipoPago": "4",
+      "NombreResponsablePago": "Yeimi Alonzo Martinez",
+      "EmailResponsablePago": "",
+      "NombreResponsableContrato": "Luis Santibáñez Paillalef",
+      "EmailResponsableContrato": "",
+      "FonoResponsableContrato": "",
+      "ProhibicionContratacion": "",
+      "SubContratacion": "1",
+      "UnidadTiempoDuracionContrato": 1,
+      "TiempoDuracionContrato": "0",
+      "TipoDuracionContrato": " ",
+      "JustificacionMontoEstimado": "Presupuesto total disponible con IVA Incluido",
+      "ObservacionContract": null,
+      "ExtensionPlazo": 0,
+      "EsBaseTipo": 0,
+      "UnidadTiempoContratoLicitacion": "1",
+      "ValorTiempoRenovacion": "0",
+      "PeriodoTiempoRenovacion": " ",
+      "EsRenovable": 0,
+      "CodigoBIP": null,
+      "Adjudicacion": {
+        "Tipo": 4,
+        "Fecha": "2026-04-30T00:00:00",
+        "Numero": "480",
+        "NumeroOferentes": 17,
+        "UrlActa": "http://www.mercadopublico.cl/Procurement/Modules/RFB/StepsProcessAward/PreviewAwardAct.aspx?qs=zEW1tgx8p+KS+LcV891Kia8X7NJNLFfF0PCOmExohgs="
+      },
+      "Items": {
+        "Cantidad": 122,
+        "Listado": [
+          {
+            "Correlativo": 1,
+            "CodigoProducto": 42151601,
+            "CodigoCategoria": "42151600",
+            "Categoria": "Equipamiento y suministros médicos / Equipos y suministros odontológicos / Instrumentos y dispositivos dentales y de sub-especialidad",
+            "NombreProducto": "Accesorios o piezas de repuesto para instrumentos dentales",
+            "Descripcion": "ADHESIVO 4TA GENERACION, GRABADO TOTAL, 2 COMPONENTES: KIT 1 BOTELLA DE PRIMER 8 ML + 1 BOTELLA DE ADHESIVO 8ML (2 BOTELLAS, 1 PRIMER-2ADHESIVO) Producto igual o equivalente. Fecha de Vencimiento igual o posterior al 05/2027",
+            "UnidadMedida": "Kit",
+            "Cantidad": 5.0,
+            "Adjudicacion": {
+              "RutProveedor": "77.371.920-9",
+              "NombreProveedor": "CLAN DENT COMERCIALIZADORA LIMITADA",
+              "Cantidad": 5.0,
+              "MontoUnitario": 75260.0
+            }
+          },
+          {
+            "Correlativo": 2,
+            "CodigoProducto": 42151601,
+            "CodigoCategoria": "42151600",
+            "Categoria": "Equipamiento y suministros médicos / Equipos y suministros odontológicos / Instrumentos y dispositivos dentales y de sub-especialidad",
+            "NombreProducto": "Accesorios o piezas de repuesto para instrumentos dentales",
+            "Descripcion": "AGUJA PARA CARPULE DESECHABLE 27G X 1 5/8 TIPO TERUMO USO ODONTOLÓGICO. CAJAS DE 100 UNIDADES FECHA DE VENCIMIENTO IGUAL O POSTERIOR A 05/2027",
+            "UnidadMedida": "Caja",
+            "Cantidad": 7.0,
+            "Adjudicacion": null
+          },
+          {
+            "Correlativo": 3,
+            "CodigoProducto": 42151601,
+            "CodigoCategoria": "42151600",
+            "Categoria": "Equipamiento y suministros médicos / Equipos y suministros odontológicos / Instrumentos y dispositivos dentales y de sub-especialidad",
+            "NombreProducto": "Accesorios o piezas de repuesto para instrumentos dentales",
+            "Descripcion": "AGUJA PARA CARPULE DESECHABLE 30G X 7/8 caja de 100 unidades. Fecha de vencimiento posterior a 05/2027",
+            "UnidadMedida": "Caja",
+            "Cantidad": 30.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.962.948-3",
+              "NombreProveedor": "VAMPRODEN SPA",
+              "Cantidad": 30.0,
+              "MontoUnitario": 6300.0
+            }
+          },
+          {
+            "Correlativo": 4,
+            "CodigoProducto": 12191601,
+            "CodigoCategoria": "12191600",
+            "Categoria": "Productos químicos industriales / Solventes / Solventes oxigenados",
+            "NombreProducto": "Solventes de alcohol",
+            "Descripcion": "ALCOHOL DE QUEMAR DE 1 LITRO. FECHA DE VENCIMIENTO POSTERIOR A 05/2027",
+            "UnidadMedida": "Frasco",
+            "Cantidad": 20.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.393.260-5",
+              "NombreProveedor": "EXPRO SUR S.A.",
+              "Cantidad": 20.0,
+              "MontoUnitario": 2100.0
+            }
+          },
+          {
+            "Correlativo": 5,
+            "CodigoProducto": 51142904,
+            "CodigoCategoria": "51142900",
+            "Categoria": "Medicamentos y productos farmacéuticos / Medicamentos para el sistema nervioso central / Fármacos anestésicos, complementos relacionados y analépticos",
+            "NombreProducto": "Lidocaína",
+            "Descripcion": "ANESTESIA TOPICA SPRAY SOLUCIÓN PARA USO DENTAL 36GR APROX. SOLUCIÓN ACTIVA LIDOCAÍNA BASE 15,00G /CETRIMIDA 0,15G igual o equivalente a XYLONOR. Fecha de vencimiento posterior a 05/2027.La oferta debe indicar características del producto, fecha de vencim",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 6.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.962.948-3",
+              "NombreProveedor": "VAMPRODEN SPA",
+              "Cantidad": 6.0,
+              "MontoUnitario": 56900.0
+            }
+          },
+          {
+            "Correlativo": 6,
+            "CodigoProducto": 42151802,
+            "CodigoCategoria": "42151800",
+            "Categoria": "Equipamiento y suministros médicos / Equipos y suministros odontológicos / Rellenos y acabados dentales y suministros para pulir",
+            "NombreProducto": "Perforadoras odontológicas, puntas o accesorios",
+            "Descripcion": "APLICADORES MICROBRUSH SÚPER FINOS PARA ADHESIVO (100 C/U) FECHA DE VENCIMIENTO POSTERIOR A 05/2027. La oferta debe indicar características del producto, fecha de vencimiento, marca, otros ",
+            "UnidadMedida": "Frasco",
+            "Cantidad": 26.0,
+            "Adjudicacion": {
+              "RutProveedor": "78.378.160-3",
+              "NombreProveedor": "COMERCIAL EXPRESS DENT SPA",
+              "Cantidad": 26.0,
+              "MontoUnitario": 1150.0
+            }
+          },
+          {
+            "Correlativo": 7,
+            "CodigoProducto": 42151802,
+            "CodigoCategoria": "42151800",
+            "Categoria": "Equipamiento y suministros médicos / Equipos y suministros odontológicos / Rellenos y acabados dentales y suministros para pulir",
+            "NombreProducto": "Perforadoras odontológicas, puntas o accesorios",
+            "Descripcion": "APLICADORES MICROBRUSH GRUESOS PARA ADHESIVO (100 C/U) FECHA DE VENCIMIENTO POSTERIOR A 05/2027. La oferta debe indicar características del producto, fecha de vencimiento, marca, otros. ",
+            "UnidadMedida": "Frasco",
+            "Cantidad": 8.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.962.948-3",
+              "NombreProveedor": "VAMPRODEN SPA",
+              "Cantidad": 8.0,
+              "MontoUnitario": 1500.0
+            }
+          },
+          {
+            "Correlativo": 8,
+            "CodigoProducto": 42151802,
+            "CodigoCategoria": "42151800",
+            "Categoria": "Equipamiento y suministros médicos / Equipos y suministros odontológicos / Rellenos y acabados dentales y suministros para pulir",
+            "NombreProducto": "Perforadoras odontológicas, puntas o accesorios",
+            "Descripcion": "APLICADORES MICROBRUSH MEDIANOS PARA ADHESIVO (100 C/U) FECHA DE VENCIMIENTO POSTERIOR A 05/2027. La oferta debe indicar características del producto, fecha de vencimiento, marca, otros ",
+            "UnidadMedida": "Frasco",
+            "Cantidad": 57.0,
+            "Adjudicacion": {
+              "RutProveedor": "78.378.160-3",
+              "NombreProveedor": "COMERCIAL EXPRESS DENT SPA",
+              "Cantidad": 57.0,
+              "MontoUnitario": 1445.0
+            }
+          },
+          {
+            "Correlativo": 9,
+            "CodigoProducto": 42151665,
+            "CodigoCategoria": "42151600",
+            "Categoria": "Equipamiento y suministros médicos / Equipos y suministros odontológicos / Instrumentos y dispositivos dentales y de sub-especialidad",
+            "NombreProducto": "Dispositivos de medición dental o accesorios",
+            "Descripcion": "Fibras de polietileno trenzadas de ultra alta resistencia con un alto coeficiente de elasticidad de 22 cms de largo por 3 mm de ancho. Similar o equivalente a Ribbond. Fecha de vencimiento posterior a 05/2027. La oferta debe indicar marca, características",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 4.0,
+            "Adjudicacion": null
+          },
+          {
+            "Correlativo": 10,
+            "CodigoProducto": 42151602,
+            "CodigoCategoria": "42151600",
+            "Categoria": "Equipamiento y suministros médicos / Equipos y suministros odontológicos / Instrumentos y dispositivos dentales y de sub-especialidad",
+            "NombreProducto": "Bandas para matriz dental",
+            "Descripcion": "BANDA MATRIZ 7MM X 3 METROS ACERO INOXIDABLE USO ODONTOLOGICO. Fecha de vencimiento igual o posterior a 05/27.",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 10.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.942.799-6",
+              "NombreProveedor": "COMERCIALIZADORA E IMPORTADORA BLASDENT SPA",
+              "Cantidad": 10.0,
+              "MontoUnitario": 1000.0
+            }
+          },
+          {
+            "Correlativo": 11,
+            "CodigoProducto": 42151807,
+            "CodigoCategoria": "42151800",
+            "Categoria": "Equipamiento y suministros médicos / Equipos y suministros odontológicos / Rellenos y acabados dentales y suministros para pulir",
+            "NombreProducto": "Puntas de torno o pulidor dental",
+            "Descripcion": "BLOCK DE MEZCLA PAPEL REVESTIDO 15 X 7,5 CM.",
+            "UnidadMedida": "Block",
+            "Cantidad": 15.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.942.799-6",
+              "NombreProveedor": "COMERCIALIZADORA E IMPORTADORA BLASDENT SPA",
+              "Cantidad": 15.0,
+              "MontoUnitario": 2841.0
+            }
+          },
+          {
+            "Correlativo": 12,
+            "CodigoProducto": 42291706,
+            "CodigoCategoria": "42291700",
+            "Categoria": "Equipamiento y suministros médicos / Productos quirúrgicos / Taladros quirúrgicos de mano, escariadores, instrumentos de punzonar, accesorios y productos relacionados",
+            "NombreProducto": "Fresas quirúrgicas o sus accesorios",
+            "Descripcion": "DETECTOR DE CARIES DE 6 ML. FECHA DE VECIMIENTO POSTERIOR A 05/2027",
+            "UnidadMedida": "Frasco",
+            "Cantidad": 5.0,
+            "Adjudicacion": null
+          },
+          {
+            "Correlativo": 13,
+            "CodigoProducto": 42151601,
+            "CodigoCategoria": "42151600",
+            "Categoria": "Equipamiento y suministros médicos / Equipos y suministros odontológicos / Instrumentos y dispositivos dentales y de sub-especialidad",
+            "NombreProducto": "Accesorios o piezas de repuesto para instrumentos dentales",
+            "Descripcion": "CEMENTO PARA OBTURACION PROVISORIA SIMILAR AL FERMIN O EQUIVALENTE. USO ODONTOLOGICO 40 GR. FECHA DE VENCIMIENTO IGUAL O POSTERIOR AL 05/2027.",
+            "UnidadMedida": "Frasco",
+            "Cantidad": 2.0,
+            "Adjudicacion": {
+              "RutProveedor": "78.378.160-3",
+              "NombreProveedor": "COMERCIAL EXPRESS DENT SPA",
+              "Cantidad": 2.0,
+              "MontoUnitario": 6590.0
+            }
+          },
+          {
+            "Correlativo": 14,
+            "CodigoProducto": 42151611,
+            "CodigoCategoria": "42151600",
+            "Categoria": "Equipamiento y suministros médicos / Equipos y suministros odontológicos / Instrumentos y dispositivos dentales y de sub-especialidad",
+            "NombreProducto": "Cepillos operativos dentales",
+            "Descripcion": "CEPILLO DENTAL ADULTO FILAMENTOS SUAVES, CON CABEZAL REDUCIDO, DISEÑADO PARA ELIMINAR EFICAZMENTE EL BIOFILM ORAL. CON CAPUCHON. FECHA DE VENCIMIENTO IGUAL O POSTERIOR AL 05/2027",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 300.0,
+            "Adjudicacion": {
+              "RutProveedor": "78.378.160-3",
+              "NombreProveedor": "COMERCIAL EXPRESS DENT SPA",
+              "Cantidad": 300.0,
+              "MontoUnitario": 2170.0
+            }
+          },
+          {
+            "Correlativo": 15,
+            "CodigoProducto": 42151601,
+            "CodigoCategoria": "42151600",
+            "Categoria": "Equipamiento y suministros médicos / Equipos y suministros odontológicos / Instrumentos y dispositivos dentales y de sub-especialidad",
+            "NombreProducto": "Accesorios o piezas de repuesto para instrumentos dentales",
+            "Descripcion": "CERA ROSADA EN LAMINAS PARA TRABAJOS DE PROTESIS DENTAL. PUNTO DE FUSION SOBRE 60°. CAJAS DE 30 UNIDADES.",
+            "UnidadMedida": "Caja",
+            "Cantidad": 5.0,
+            "Adjudicacion": {
+              "RutProveedor": "78.378.160-3",
+              "NombreProveedor": "COMERCIAL EXPRESS DENT SPA",
+              "Cantidad": 5.0,
+              "MontoUnitario": 4941.0
+            }
+          },
+          {
+            "Correlativo": 16,
+            "CodigoProducto": 42151612,
+            "CodigoCategoria": "42151600",
+            "Categoria": "Equipamiento y suministros médicos / Equipos y suministros odontológicos / Instrumentos y dispositivos dentales y de sub-especialidad",
+            "NombreProducto": "Retractadores dentales",
+            "Descripcion": "Clamps B4",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 6.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.962.948-3",
+              "NombreProveedor": "VAMPRODEN SPA",
+              "Cantidad": 6.0,
+              "MontoUnitario": 4370.0
+            }
+          },
+          {
+            "Correlativo": 17,
+            "CodigoProducto": 42151612,
+            "CodigoCategoria": "42151600",
+            "Categoria": "Equipamiento y suministros médicos / Equipos y suministros odontológicos / Instrumentos y dispositivos dentales y de sub-especialidad",
+            "NombreProducto": "Retractadores dentales",
+            "Descripcion": "Clamps W3",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 6.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.393.260-5",
+              "NombreProveedor": "EXPRO SUR S.A.",
+              "Cantidad": 6.0,
+              "MontoUnitario": 1060.0
+            }
+          },
+          {
+            "Correlativo": 18,
+            "CodigoProducto": 51102707,
+            "CodigoCategoria": "51102700",
+            "Categoria": "Medicamentos y productos farmacéuticos / Medicamentos anti infecciosos / Antisépticos",
+            "NombreProducto": "Gluconato de clorhexidina",
+            "Descripcion": "CLOREHEXIDINA COLUTORIO 0.12 %, bidón de 3,8 litros aprox. fecha de vencimiento igual o posterior a 05/2027. La oferta debe indicar características del producto, fecha de vencimiento, marca, otros. ",
+            "UnidadMedida": "Bidón",
+            "Cantidad": 2.0,
+            "Adjudicacion": {
+              "RutProveedor": "78.378.160-3",
+              "NombreProveedor": "COMERCIAL EXPRESS DENT SPA",
+              "Cantidad": 2.0,
+              "MontoUnitario": 8360.0
+            }
+          },
+          {
+            "Correlativo": 19,
+            "CodigoProducto": 51102707,
+            "CodigoCategoria": "51102700",
+            "Categoria": "Medicamentos y productos farmacéuticos / Medicamentos anti infecciosos / Antisépticos",
+            "NombreProducto": "Gluconato de clorhexidina",
+            "Descripcion": "CLOREHEXIDINA COLUTORIO 0.12 % de 250 ML. fecha de vencimiento posterior a 05/2027. La oferta debe indicar características del producto, fecha de vencimiento, marca, otros. ",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 50.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.393.260-5",
+              "NombreProveedor": "EXPRO SUR S.A.",
+              "Cantidad": 50.0,
+              "MontoUnitario": 2460.0
+            }
+          },
+          {
+            "Correlativo": 20,
+            "CodigoProducto": 42151601,
+            "CodigoCategoria": "42151600",
+            "Categoria": "Equipamiento y suministros médicos / Equipos y suministros odontológicos / Instrumentos y dispositivos dentales y de sub-especialidad",
+            "NombreProducto": "Accesorios o piezas de repuesto para instrumentos dentales",
+            "Descripcion": "CREMA ADHESIVA PARA PROTESIS DENTALES DE 40 GRS. VENCIMIENTO POSTERIOR A 05/2027",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 60.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.962.948-3",
+              "NombreProveedor": "VAMPRODEN SPA",
+              "Cantidad": 60.0,
+              "MontoUnitario": 6100.0
+            }
+          },
+          {
+            "Correlativo": 21,
+            "CodigoProducto": 42151504,
+            "CodigoCategoria": "42151500",
+            "Categoria": "Equipamiento y suministros médicos / Equipos y suministros odontológicos / Suministros y equipos de odontología cosmética",
+            "NombreProducto": "Barniz dental",
+            "Descripcion": "CUÑAS DE MADERA SURTIDAS FINAS Y SUPER FINAS DE COLORES, BOLSAS DE 25 UNIDADES O MÁS.",
+            "UnidadMedida": "Bolsa",
+            "Cantidad": 20.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.962.948-3",
+              "NombreProveedor": "VAMPRODEN SPA",
+              "Cantidad": 20.0,
+              "MontoUnitario": 4200.0
+            }
+          },
+          {
+            "Correlativo": 22,
+            "CodigoProducto": 42151623,
+            "CodigoCategoria": "42151600",
+            "Categoria": "Equipamiento y suministros médicos / Equipos y suministros odontológicos / Instrumentos y dispositivos dentales y de sub-especialidad",
+            "NombreProducto": "Fórceps de dentista",
+            "Descripcion": "DECOLADOR DENTAL DE ACERO INOXIDABLE, TIPO LEGRA",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 4.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.962.948-3",
+              "NombreProveedor": "VAMPRODEN SPA",
+              "Cantidad": 4.0,
+              "MontoUnitario": 1950.0
+            }
+          },
+          {
+            "Correlativo": 23,
+            "CodigoProducto": 42151608,
+            "CodigoCategoria": "42151600",
+            "Categoria": "Equipamiento y suministros médicos / Equipos y suministros odontológicos / Instrumentos y dispositivos dentales y de sub-especialidad",
+            "NombreProducto": "Bandejas o tinas para instrumentos dentales",
+            "Descripcion": "DESINFECTANTE DE FRESAS IGUAL O EQUIVALENTE A BECHTOL. DE 1 LITRO. FECHA DE VENCIMIENTO POSTERIOR A 05/2027",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 3.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.393.260-5",
+              "NombreProveedor": "EXPRO SUR S.A.",
+              "Cantidad": 3.0,
+              "MontoUnitario": 5880.0
+            }
+          },
+          {
+            "Correlativo": 24,
+            "CodigoProducto": 42151613,
+            "CodigoCategoria": "42151600",
+            "Categoria": "Equipamiento y suministros médicos / Equipos y suministros odontológicos / Instrumentos y dispositivos dentales y de sub-especialidad",
+            "NombreProducto": "Bruñidores dentales",
+            "Descripcion": "DISCO DE PULIDO GRUESO (NEGRO) IGUAL O EQUIVALENTE A 1982 C DE 3M. BOLSAS DE MINIMO 30 UNIDADES.",
+            "UnidadMedida": "Bolsa",
+            "Cantidad": 50.0,
+            "Adjudicacion": {
+              "RutProveedor": "78.378.160-3",
+              "NombreProveedor": "COMERCIAL EXPRESS DENT SPA",
+              "Cantidad": 50.0,
+              "MontoUnitario": 10900.0
+            }
+          },
+          {
+            "Correlativo": 25,
+            "CodigoProducto": 42151613,
+            "CodigoCategoria": "42151600",
+            "Categoria": "Equipamiento y suministros médicos / Equipos y suministros odontológicos / Instrumentos y dispositivos dentales y de sub-especialidad",
+            "NombreProducto": "Bruñidores dentales",
+            "Descripcion": "DISCO DE PULIDO GRUESO (ROJO) IGUAL O EQUIVALENTE A 2382 C DE 3M. BOLSAS DE MINIMO 30 UNIDADES",
+            "UnidadMedida": "Bolsa",
+            "Cantidad": 50.0,
+            "Adjudicacion": {
+              "RutProveedor": "78.378.160-3",
+              "NombreProveedor": "COMERCIAL EXPRESS DENT SPA",
+              "Cantidad": 50.0,
+              "MontoUnitario": 10900.0
+            }
+          },
+          {
+            "Correlativo": 26,
+            "CodigoProducto": 42151613,
+            "CodigoCategoria": "42151600",
+            "Categoria": "Equipamiento y suministros médicos / Equipos y suministros odontológicos / Instrumentos y dispositivos dentales y de sub-especialidad",
+            "NombreProducto": "Bruñidores dentales",
+            "Descripcion": "DISCO DE PULIDO PEQUEÑO GRUESO (ROJO) IGUAL O EQUIVALENTE A 2381 C DE 3M. BOLSAS DE MINIMO 30 UNIDADES",
+            "UnidadMedida": "Bolsa",
+            "Cantidad": 27.0,
+            "Adjudicacion": {
+              "RutProveedor": "78.378.160-3",
+              "NombreProveedor": "COMERCIAL EXPRESS DENT SPA",
+              "Cantidad": 27.0,
+              "MontoUnitario": 10900.0
+            }
+          },
+          {
+            "Correlativo": 27,
+            "CodigoProducto": 42151613,
+            "CodigoCategoria": "42151600",
+            "Categoria": "Equipamiento y suministros médicos / Equipos y suministros odontológicos / Instrumentos y dispositivos dentales y de sub-especialidad",
+            "NombreProducto": "Bruñidores dentales",
+            "Descripcion": "DISCO DE PULIDO MEDIO (NARANJO). IGUAL O EQUIVALENTE A 2382 M DE 3M. BOLSAS DE MINIMO 30 UNIDADES",
+            "UnidadMedida": "Bolsa",
+            "Cantidad": 70.0,
+            "Adjudicacion": {
+              "RutProveedor": "78.378.160-3",
+              "NombreProveedor": "COMERCIAL EXPRESS DENT SPA",
+              "Cantidad": 70.0,
+              "MontoUnitario": 10900.0
+            }
+          },
+          {
+            "Correlativo": 28,
+            "CodigoProducto": 42151627,
+            "CodigoCategoria": "42151600",
+            "Categoria": "Equipamiento y suministros médicos / Equipos y suministros odontológicos / Instrumentos y dispositivos dentales y de sub-especialidad",
+            "NombreProducto": "Espejos o mangos de espejos dentales",
+            "Descripcion": "ESPEJOS DENTALES N° 5 DE ACERO INOXIDABLE",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 160.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.962.948-3",
+              "NombreProveedor": "VAMPRODEN SPA",
+              "Cantidad": 160.0,
+              "MontoUnitario": 410.0
+            }
+          },
+          {
+            "Correlativo": 29,
+            "CodigoProducto": 42151911,
+            "CodigoCategoria": "42151900",
+            "Categoria": "Equipamiento y suministros médicos / Equipos y suministros odontológicos / Equipo y suministros para higiene dental y cuidado preventivo",
+            "NombreProducto": "Sets acondicionadores del tejido dental",
+            "Descripcion": "ESPONJA HEMOSTÁTICA DE COLÁGENO HIDROLISADO (GELATINA) DIMENSIÓN 1,0X1,0X1,0 CM envase individual. Fecha de vencimiento igual o posterior a 05/2027. CAJAS DE 10 UNIDADES O MÁS.",
+            "UnidadMedida": "Caja",
+            "Cantidad": 110.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.962.948-3",
+              "NombreProveedor": "VAMPRODEN SPA",
+              "Cantidad": 110.0,
+              "MontoUnitario": 3400.0
+            }
+          },
+          {
+            "Correlativo": 30,
+            "CodigoProducto": 42152213,
+            "CodigoCategoria": "42152200",
+            "Categoria": "Equipamiento y suministros médicos / Equipos y suministros odontológicos / Equipo y suministros dentales de laboratorio y de esterilización",
+            "NombreProducto": "Modelos de laboratorio dental",
+            "Descripcion": "EUGENOL USO ODONTOLOGICO DE 20 ML. FECHA DE VENCIMIENTO IGUAL O POSTERIOR AL 05/2027",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "77.371.920-9",
+              "NombreProveedor": "CLAN DENT COMERCIALIZADORA LIMITADA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 4874.0
+            }
+          },
+          {
+            "Correlativo": 31,
+            "CodigoProducto": 42151606,
+            "CodigoCategoria": "42151600",
+            "Categoria": "Equipamiento y suministros médicos / Equipos y suministros odontológicos / Instrumentos y dispositivos dentales y de sub-especialidad",
+            "NombreProducto": "Trinchadores de amalgama dental",
+            "Descripcion": "FORCEPS RECTO SOBRE EL PLANO MEDIANO DE ACERO INOXIDABLE",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 4.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.962.948-3",
+              "NombreProveedor": "VAMPRODEN SPA",
+              "Cantidad": 4.0,
+              "MontoUnitario": 6900.0
+            }
+          },
+          {
+            "Correlativo": 32,
+            "CodigoProducto": 42291706,
+            "CodigoCategoria": "42291700",
+            "Categoria": "Equipamiento y suministros médicos / Productos quirúrgicos / Taladros quirúrgicos de mano, escariadores, instrumentos de punzonar, accesorios y productos relacionados",
+            "NombreProducto": "Fresas quirúrgicas o sus accesorios",
+            "Descripcion": "FRESA CILINDRICA DE DIAMANTE PUNTA REDONDEADA ALTA VELOCIDAD N°10",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 28.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.962.948-3",
+              "NombreProveedor": "VAMPRODEN SPA",
+              "Cantidad": 28.0,
+              "MontoUnitario": 1200.0
+            }
+          },
+          {
+            "Correlativo": 33,
+            "CodigoProducto": 42291706,
+            "CodigoCategoria": "42291700",
+            "Categoria": "Equipamiento y suministros médicos / Productos quirúrgicos / Taladros quirúrgicos de mano, escariadores, instrumentos de punzonar, accesorios y productos relacionados",
+            "NombreProducto": "Fresas quirúrgicas o sus accesorios",
+            "Descripcion": "FRESA DE DIAMANTE PUNTA REDONDEADA ALTA VELOCIDAD N°12",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 85.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.962.948-3",
+              "NombreProveedor": "VAMPRODEN SPA",
+              "Cantidad": 85.0,
+              "MontoUnitario": 1740.0
+            }
+          },
+          {
+            "Correlativo": 34,
+            "CodigoProducto": 42291706,
+            "CodigoCategoria": "42291700",
+            "Categoria": "Equipamiento y suministros médicos / Productos quirúrgicos / Taladros quirúrgicos de mano, escariadores, instrumentos de punzonar, accesorios y productos relacionados",
+            "NombreProducto": "Fresas quirúrgicas o sus accesorios",
+            "Descripcion": "FRESA DE DIAMANTE PUNTA REDONDEADA ALTA VELOCIDAD N°14",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 75.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.962.948-3",
+              "NombreProveedor": "VAMPRODEN SPA",
+              "Cantidad": 75.0,
+              "MontoUnitario": 1740.0
+            }
+          },
+          {
+            "Correlativo": 35,
+            "CodigoProducto": 42291706,
+            "CodigoCategoria": "42291700",
+            "Categoria": "Equipamiento y suministros médicos / Productos quirúrgicos / Taladros quirúrgicos de mano, escariadores, instrumentos de punzonar, accesorios y productos relacionados",
+            "NombreProducto": "Fresas quirúrgicas o sus accesorios",
+            "Descripcion": "FRESA DE DIAMANTE PUNTA REDONDEADA ALTA VELOCIDAD N°16",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 65.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.962.948-3",
+              "NombreProveedor": "VAMPRODEN SPA",
+              "Cantidad": 65.0,
+              "MontoUnitario": 1740.0
+            }
+          },
+          {
+            "Correlativo": 36,
+            "CodigoProducto": 42291706,
+            "CodigoCategoria": "42291700",
+            "Categoria": "Equipamiento y suministros médicos / Productos quirúrgicos / Taladros quirúrgicos de mano, escariadores, instrumentos de punzonar, accesorios y productos relacionados",
+            "NombreProducto": "Fresas quirúrgicas o sus accesorios",
+            "Descripcion": "FRESA BAJA VELOCIDAD DE CARBIDE REDONDA N°10",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 18.0,
+            "Adjudicacion": {
+              "RutProveedor": "78.378.160-3",
+              "NombreProveedor": "COMERCIAL EXPRESS DENT SPA",
+              "Cantidad": 18.0,
+              "MontoUnitario": 990.0
+            }
+          },
+          {
+            "Correlativo": 37,
+            "CodigoProducto": 42291706,
+            "CodigoCategoria": "42291700",
+            "Categoria": "Equipamiento y suministros médicos / Productos quirúrgicos / Taladros quirúrgicos de mano, escariadores, instrumentos de punzonar, accesorios y productos relacionados",
+            "NombreProducto": "Fresas quirúrgicas o sus accesorios",
+            "Descripcion": "FRESA BAJA VELOCIDAD DE CARBIDE REDONDA N°12",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 43.0,
+            "Adjudicacion": {
+              "RutProveedor": "78.378.160-3",
+              "NombreProveedor": "COMERCIAL EXPRESS DENT SPA",
+              "Cantidad": 43.0,
+              "MontoUnitario": 990.0
+            }
+          },
+          {
+            "Correlativo": 38,
+            "CodigoProducto": 42291706,
+            "CodigoCategoria": "42291700",
+            "Categoria": "Equipamiento y suministros médicos / Productos quirúrgicos / Taladros quirúrgicos de mano, escariadores, instrumentos de punzonar, accesorios y productos relacionados",
+            "NombreProducto": "Fresas quirúrgicas o sus accesorios",
+            "Descripcion": "FRESA BAJA VELOCIDAD DE CARBIDE REDONDA N°16",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 37.0,
+            "Adjudicacion": {
+              "RutProveedor": "78.378.160-3",
+              "NombreProveedor": "COMERCIAL EXPRESS DENT SPA",
+              "Cantidad": 37.0,
+              "MontoUnitario": 990.0
+            }
+          },
+          {
+            "Correlativo": 39,
+            "CodigoProducto": 42291706,
+            "CodigoCategoria": "42291700",
+            "Categoria": "Equipamiento y suministros médicos / Productos quirúrgicos / Taladros quirúrgicos de mano, escariadores, instrumentos de punzonar, accesorios y productos relacionados",
+            "NombreProducto": "Fresas quirúrgicas o sus accesorios",
+            "Descripcion": "FRESA BAJA VELOCIDAD DE CARBIDE REDONDA N°18",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "77.371.920-9",
+              "NombreProveedor": "CLAN DENT COMERCIALIZADORA LIMITADA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 1099.0
+            }
+          },
+          {
+            "Correlativo": 40,
+            "CodigoProducto": 42291706,
+            "CodigoCategoria": "42291700",
+            "Categoria": "Equipamiento y suministros médicos / Productos quirúrgicos / Taladros quirúrgicos de mano, escariadores, instrumentos de punzonar, accesorios y productos relacionados",
+            "NombreProducto": "Fresas quirúrgicas o sus accesorios",
+            "Descripcion": "FRESON CARBIDE CON FILAMENTO CRUZADOS PARA PIEZA DE MANO. 040 DE DIAMETRO APROX.",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 4.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.962.948-3",
+              "NombreProveedor": "VAMPRODEN SPA",
+              "Cantidad": 4.0,
+              "MontoUnitario": 4650.0
+            }
+          },
+          {
+            "Correlativo": 41,
+            "CodigoProducto": 42152004,
+            "CodigoCategoria": "42152000",
+            "Categoria": "Equipamiento y suministros médicos / Equipos y suministros odontológicos / Equipo y suministros para imágenes dentales",
+            "NombreProducto": "Perchas de película de radiología dental",
+            "Descripcion": "GOMA DIQUE AZUL, MEDIO, DE 6*6, SE DEBE ESTIRAR 800% SIN DESGARRO, CAJAS DE 36 UNIDADES. TIPO NIC TONE AZUL MEDIO O EQUIVALENTE. FECHA DE VENCIMIENTO IGUAL O POSTERIOR AL 05/2027.",
+            "UnidadMedida": "Caja",
+            "Cantidad": 3.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.962.948-3",
+              "NombreProveedor": "VAMPRODEN SPA",
+              "Cantidad": 3.0,
+              "MontoUnitario": 6400.0
+            }
+          },
+          {
+            "Correlativo": 42,
+            "CodigoProducto": 42151614,
+            "CodigoCategoria": "42151600",
+            "Categoria": "Equipamiento y suministros médicos / Equipos y suministros odontológicos / Instrumentos y dispositivos dentales y de sub-especialidad",
+            "NombreProducto": "Trépanos dentales",
+            "Descripcion": "GOMA DIQUE AZUL, GRUESA, DE 6*6, SE DEBE ESTIRAR 800% SIN DESGARRO, CAJAS DE 36 UNIDADES. TIPO NIC TONE GRUESA AZUL O EQUIVALENTE. FECHA DE VENCIMIENTO IGUAL O POSTERIOR AL 05/2027.",
+            "UnidadMedida": "Caja",
+            "Cantidad": 2.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.962.948-3",
+              "NombreProveedor": "VAMPRODEN SPA",
+              "Cantidad": 2.0,
+              "MontoUnitario": 17000.0
+            }
+          },
+          {
+            "Correlativo": 43,
+            "CodigoProducto": 42151614,
+            "CodigoCategoria": "42151600",
+            "Categoria": "Equipamiento y suministros médicos / Equipos y suministros odontológicos / Instrumentos y dispositivos dentales y de sub-especialidad",
+            "NombreProducto": "Trépanos dentales",
+            "Descripcion": "GOMA DIQUE MORADA, GRUESA, DE 6*6, SE DEBE ESTIRAR 800% SIN DESGARRO, CAJAS DE 36 UNIDADES. FLEXIDAM MORADA O EQUIVALENTE. FECHA DE VENCIMIENTO IGUAL O POSTERIOR AL 05/2027.",
+            "UnidadMedida": "Caja",
+            "Cantidad": 2.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.962.948-3",
+              "NombreProveedor": "VAMPRODEN SPA",
+              "Cantidad": 2.0,
+              "MontoUnitario": 40900.0
+            }
+          },
+          {
+            "Correlativo": 44,
+            "CodigoProducto": 42132203,
+            "CodigoCategoria": "42132200",
+            "Categoria": "Equipamiento y suministros médicos / Vestuario clínico / Guantes médicos y accesorios",
+            "NombreProducto": "Guantes médicos de examen o para usos no quirúrgicos",
+            "Descripcion": "GUANTE EXAMEN PROCEDIMIENTO NITRILO TALLA XS, SIN POLVO. FECHA DE VENCIMIENTO IGUAL O POSTERIOR AL 05/2027. CAJAS DE 100 UNIDADES.",
+            "UnidadMedida": "Caja",
+            "Cantidad": 40.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.962.948-3",
+              "NombreProveedor": "VAMPRODEN SPA",
+              "Cantidad": 40.0,
+              "MontoUnitario": 3200.0
+            }
+          },
+          {
+            "Correlativo": 45,
+            "CodigoProducto": 42151904,
+            "CodigoCategoria": "42151900",
+            "Categoria": "Equipamiento y suministros médicos / Equipos y suministros odontológicos / Equipo y suministros para higiene dental y cuidado preventivo",
+            "NombreProducto": "Soluciones o comprimidos de revelar",
+            "Descripcion": "HILO RETRACTOR DE USO ODONTOLOGICO 01. Fecha de vencimiento igual o posterior a 05/2027",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.393.260-5",
+              "NombreProveedor": "EXPRO SUR S.A.",
+              "Cantidad": 1.0,
+              "MontoUnitario": 3630.0
+            }
+          },
+          {
+            "Correlativo": 46,
+            "CodigoProducto": 42151904,
+            "CodigoCategoria": "42151900",
+            "Categoria": "Equipamiento y suministros médicos / Equipos y suministros odontológicos / Equipo y suministros para higiene dental y cuidado preventivo",
+            "NombreProducto": "Soluciones o comprimidos de revelar",
+            "Descripcion": "HILO RETRACTOR DE USO ODONTOLOGICO 000. Fecha de vencimiento igual o posterior a 05/2027",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 3.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.962.948-3",
+              "NombreProveedor": "VAMPRODEN SPA",
+              "Cantidad": 3.0,
+              "MontoUnitario": 12500.0
+            }
+          },
+          {
+            "Correlativo": 47,
+            "CodigoProducto": 42151904,
+            "CodigoCategoria": "42151900",
+            "Categoria": "Equipamiento y suministros médicos / Equipos y suministros odontológicos / Equipo y suministros para higiene dental y cuidado preventivo",
+            "NombreProducto": "Soluciones o comprimidos de revelar",
+            "Descripcion": "HILO RETRACTOR DE USO ODONTOLOGICO 00. Fecha de vencimiento igual o posterior a 05/2027",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 3.0,
+            "Adjudicacion": {
+              "RutProveedor": "78.378.160-3",
+              "NombreProveedor": "COMERCIAL EXPRESS DENT SPA",
+              "Cantidad": 3.0,
+              "MontoUnitario": 8250.0
+            }
+          },
+          {
+            "Correlativo": 48,
+            "CodigoProducto": 42151904,
+            "CodigoCategoria": "42151900",
+            "Categoria": "Equipamiento y suministros médicos / Equipos y suministros odontológicos / Equipo y suministros para higiene dental y cuidado preventivo",
+            "NombreProducto": "Soluciones o comprimidos de revelar",
+            "Descripcion": "HILO RETRACTOR DE USO ODONTOLOGICO 02. Fecha de vencimiento igual o posterior a 05/2027",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 5.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.393.260-5",
+              "NombreProveedor": "EXPRO SUR S.A.",
+              "Cantidad": 5.0,
+              "MontoUnitario": 4000.0
+            }
+          },
+          {
+            "Correlativo": 49,
+            "CodigoProducto": 42152108,
+            "CodigoCategoria": "42152100",
+            "Categoria": "Equipamiento y suministros médicos / Equipos y suministros odontológicos / Equipo y suministros dentales para impresión",
+            "NombreProducto": "Jeringas de material de impresión dental o accesorios",
+            "Descripcion": "HIPOCLORITO DE SODIO 5,25% FRASCO OSCURO DE 1 LT APROX. FECHA DE VENCIMIENTO POSTERIOR A 05/2027",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 7.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.393.260-5",
+              "NombreProveedor": "EXPRO SUR S.A.",
+              "Cantidad": 7.0,
+              "MontoUnitario": 2070.0
+            }
+          },
+          {
+            "Correlativo": 50,
+            "CodigoProducto": 42151614,
+            "CodigoCategoria": "42151600",
+            "Categoria": "Equipamiento y suministros médicos / Equipos y suministros odontológicos / Instrumentos y dispositivos dentales y de sub-especialidad",
+            "NombreProducto": "Trépanos dentales",
+            "Descripcion": "HOJA DE BISTURI N°15 CAJA DE 100 UNIDADES. FECHA DE VENCIMIENTO IGUAL O POSTERIOR AL 05/2027.",
+            "UnidadMedida": "Caja",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "80.447.400-5",
+              "NombreProveedor": "MUNNICH PHARMA MEDICAL SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 5000.0
+            }
+          },
+          {
+            "Correlativo": 51,
+            "CodigoProducto": 42152114,
+            "CodigoCategoria": "42152100",
+            "Categoria": "Equipamiento y suministros médicos / Equipos y suministros odontológicos / Equipo y suministros dentales para impresión",
+            "NombreProducto": "Kits de entrega de material de impresión dental",
+            "Descripcion": "HUINCHA DE PULIDO LIJA DE AMALGAMA DE 4 MM DE ANCHO, BOLSAS DE 12 UNIDADES. FECHA DE VENCIMIENTO IGUAL O POSTERIOR AL 05/2027.",
+            "UnidadMedida": "Bolsa",
+            "Cantidad": 18.0,
+            "Adjudicacion": {
+              "RutProveedor": "78.378.160-3",
+              "NombreProveedor": "COMERCIAL EXPRESS DENT SPA",
+              "Cantidad": 18.0,
+              "MontoUnitario": 2300.0
+            }
+          },
+          {
+            "Correlativo": 52,
+            "CodigoProducto": 42152111,
+            "CodigoCategoria": "42152100",
+            "Categoria": "Equipamiento y suministros médicos / Equipos y suministros odontológicos / Equipo y suministros dentales para impresión",
+            "NombreProducto": "Endurecedores de material de impresión dental",
+            "Descripcion": "HUINCHA DE LIJA DE POLIESTER PARA RESINAS 170x4MM APROX, CAJAS DE 150 UNIDADES. FECHA DE VENCIMIENTO IGUAL O POSTERIOR AL 05/2027.",
+            "UnidadMedida": "Caja",
+            "Cantidad": 38.0,
+            "Adjudicacion": {
+              "RutProveedor": "78.378.160-3",
+              "NombreProveedor": "COMERCIAL EXPRESS DENT SPA",
+              "Cantidad": 38.0,
+              "MontoUnitario": 2960.0
+            }
+          },
+          {
+            "Correlativo": 53,
+            "CodigoProducto": 42151616,
+            "CodigoCategoria": "42151600",
+            "Categoria": "Equipamiento y suministros médicos / Equipos y suministros odontológicos / Instrumentos y dispositivos dentales y de sub-especialidad",
+            "NombreProducto": "Calibres de profundidad dentales",
+            "Descripcion": "JIFFY CEPILLO PELO DE CABRA",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 3.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.962.948-3",
+              "NombreProveedor": "VAMPRODEN SPA",
+              "Cantidad": 3.0,
+              "MontoUnitario": 2480.0
+            }
+          },
+          {
+            "Correlativo": 54,
+            "CodigoProducto": 42152507,
+            "CodigoCategoria": "42152500",
+            "Categoria": "Equipamiento y suministros médicos / Equipos y suministros odontológicos / Suministros dentales generales",
+            "NombreProducto": "Rollos dentales",
+            "Descripcion": "LAPIZ DE GODIVA VERDE, MATERIAL TERMOPLASTICO EN KIT DE 15 BARRAS (113 g) aprox",
+            "UnidadMedida": "Kit",
+            "Cantidad": 31.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.962.948-3",
+              "NombreProveedor": "VAMPRODEN SPA",
+              "Cantidad": 31.0,
+              "MontoUnitario": 7765.0
+            }
+          },
+          {
+            "Correlativo": 55,
+            "CodigoProducto": 51142904,
+            "CodigoCategoria": "51142900",
+            "Categoria": "Medicamentos y productos farmacéuticos / Medicamentos para el sistema nervioso central / Fármacos anestésicos, complementos relacionados y analépticos",
+            "NombreProducto": "Lidocaína",
+            "Descripcion": "LIDOCAINA CLORHIDRATO 2% CON VASO CONTRITOR AMPOLLA DE VIDRIO DE 1,8 MM. CAJAS DE 50 UNIDADES. FECHA DE VENCIMIENTO POSTERIOR A 05/2027",
+            "UnidadMedida": "Caja",
+            "Cantidad": 40.0,
+            "Adjudicacion": {
+              "RutProveedor": "78.378.160-3",
+              "NombreProveedor": "COMERCIAL EXPRESS DENT SPA",
+              "Cantidad": 40.0,
+              "MontoUnitario": 21180.0
+            }
+          },
+          {
+            "Correlativo": 56,
+            "CodigoProducto": 42151616,
+            "CodigoCategoria": "42151600",
+            "Categoria": "Equipamiento y suministros médicos / Equipos y suministros odontológicos / Instrumentos y dispositivos dentales y de sub-especialidad",
+            "NombreProducto": "Calibres de profundidad dentales",
+            "Descripcion": "LIMAS K FLEXIBLE SET DE 45-45 DE 25 MM. SET DE MINIMO 6 LIMAS. FECHA DE VENCIMIENTO IGUAL O POSTERIOR AL 05/2027.",
+            "UnidadMedida": "Kit",
+            "Cantidad": 7.0,
+            "Adjudicacion": null
+          },
+          {
+            "Correlativo": 57,
+            "CodigoProducto": 42151660,
+            "CodigoCategoria": "42151600",
+            "Categoria": "Equipamiento y suministros médicos / Equipos y suministros odontológicos / Instrumentos y dispositivos dentales y de sub-especialidad",
+            "NombreProducto": "Aplicadores o absorbentes odontológicos",
+            "Descripcion": "MATERIAL DE REBASADO PARA PROTESIS DENTALES, DURO, PERMANENTE. PRESENTACION EN KIT  que contiene como  mínimo: Polvo: 80 gr, Líquido: 50 ml, Adhesivo: 12 gr y Accesorios. Fecha de vencimiento igual o posterior a 05/2027. Tipo GC Reline marca GC America o ",
+            "UnidadMedida": "Kit",
+            "Cantidad": 5.0,
+            "Adjudicacion": {
+              "RutProveedor": "78.378.160-3",
+              "NombreProveedor": "COMERCIAL EXPRESS DENT SPA",
+              "Cantidad": 5.0,
+              "MontoUnitario": 120000.0
+            }
+          },
+          {
+            "Correlativo": 58,
+            "CodigoProducto": 51142917,
+            "CodigoCategoria": "51142900",
+            "Categoria": "Medicamentos y productos farmacéuticos / Medicamentos para el sistema nervioso central / Fármacos anestésicos, complementos relacionados y analépticos",
+            "NombreProducto": "Mepivacaína",
+            "Descripcion": "MEPIVACAINA ISOCAINA 3% SIN VASOCONSTRICOR TUBO DE VIDRIO DE 1,8 ML. CAJAS DE 50 UNIDADES. FECHA DE VENCIMIENTO POSTERIOR A 05/2027",
+            "UnidadMedida": "Caja",
+            "Cantidad": 2.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.962.948-3",
+              "NombreProveedor": "VAMPRODEN SPA",
+              "Cantidad": 2.0,
+              "MontoUnitario": 25900.0
+            }
+          },
+          {
+            "Correlativo": 59,
+            "CodigoProducto": 42152102,
+            "CodigoCategoria": "42152100",
+            "Categoria": "Equipamiento y suministros médicos / Equipos y suministros odontológicos / Equipo y suministros dentales para impresión",
+            "NombreProducto": "Formadores dentales",
+            "Descripcion": "Monómero autocurado rápido frasco de 210 ml aprox. Fecha de vencimiento posterior a 05/2027. La oferta debe indicar características, marca, fecha de vencimiento de producto ofertado.",
+            "UnidadMedida": "Frasco",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.962.948-3",
+              "NombreProveedor": "VAMPRODEN SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 6490.0
+            }
+          },
+          {
+            "Correlativo": 60,
+            "CodigoProducto": 42152009,
+            "CodigoCategoria": "42152000",
+            "Categoria": "Equipamiento y suministros médicos / Equipos y suministros odontológicos / Equipo y suministros para imágenes dentales",
+            "NombreProducto": "Visores de radiografías odontológicas o accesorios",
+            "Descripcion": "OXIDO DE ZINC 70 GRS APROX. FECHA DE VENCIMIENTO POSTERIOR A 05/2027",
+            "UnidadMedida": "Frasco",
+            "Cantidad": 8.0,
+            "Adjudicacion": null
+          },
+          {
+            "Correlativo": 61,
+            "CodigoProducto": 42151661,
+            "CodigoCategoria": "42151600",
+            "Categoria": "Equipamiento y suministros médicos / Equipos y suministros odontológicos / Instrumentos y dispositivos dentales y de sub-especialidad",
+            "NombreProducto": "Estuches o bolsas de instrumental odontológico",
+            "Descripcion": "PAPEL ARTICULAR RECTO EN TIRAS BICOLOR 12 SHEETS POR BLOCK",
+            "UnidadMedida": "Caja",
+            "Cantidad": 40.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.962.948-3",
+              "NombreProveedor": "VAMPRODEN SPA",
+              "Cantidad": 40.0,
+              "MontoUnitario": 3860.0
+            }
+          },
+          {
+            "Correlativo": 62,
+            "CodigoProducto": 53131502,
+            "CodigoCategoria": "53131500",
+            "Categoria": "Ropa, maletas y productos de aseo personal / Artículos de baño o tocador / Artículos dentales",
+            "NombreProducto": "Pasta de dientes",
+            "Descripcion": "PASTA DENTAL ADULTOS DESDE 1450 PPM DE FLUOR 150 ml aprox. Fecha de vencimiento posterior a 07/27. La oferta debe indicar características del producto, fecha de vencimiento, marca, otros.",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1100.0,
+            "Adjudicacion": null
+          },
+          {
+            "Correlativo": 63,
+            "CodigoProducto": 53131502,
+            "CodigoCategoria": "53131500",
+            "Categoria": "Ropa, maletas y productos de aseo personal / Artículos de baño o tocador / Artículos dentales",
+            "NombreProducto": "Pasta de dientes",
+            "Descripcion": "PASTA PARA PROFILAXIS DENTAL. 100 grs aprox. Fecha de vencimiento posterior a 06/2027",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 9.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.962.948-3",
+              "NombreProveedor": "VAMPRODEN SPA",
+              "Cantidad": 9.0,
+              "MontoUnitario": 4010.0
+            }
+          },
+          {
+            "Correlativo": 64,
+            "CodigoProducto": 42151643,
+            "CodigoCategoria": "42151600",
+            "Categoria": "Equipamiento y suministros médicos / Equipos y suministros odontológicos / Instrumentos y dispositivos dentales y de sub-especialidad",
+            "NombreProducto": "Recortadores dentales del margen",
+            "Descripcion": "PORTA BANDA MATRIZ METALICO, USO ODONTOLOGICO",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 5.0,
+            "Adjudicacion": {
+              "RutProveedor": "78.378.160-3",
+              "NombreProveedor": "COMERCIAL EXPRESS DENT SPA",
+              "Cantidad": 5.0,
+              "MontoUnitario": 2000.0
+            }
+          },
+          {
+            "Correlativo": 65,
+            "CodigoProducto": 42152223,
+            "CodigoCategoria": "42152200",
+            "Categoria": "Equipamiento y suministros médicos / Equipos y suministros odontológicos / Equipo y suministros dentales de laboratorio y de esterilización",
+            "NombreProducto": "Unidades de procesado de resinas odontológicas o accesorios",
+            "Descripcion": "RESINA COMPUESTA FOTOPOLIMERIZABLE con Tecnología S-PRG. Material altamente estético con liberación constante de flúor, formato jeringa de 4,5 grs línea LS II. Color A1. Fecha de vencimiento igual o posterior a 05/2027",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 3.0,
+            "Adjudicacion": null
+          },
+          {
+            "Correlativo": 66,
+            "CodigoProducto": 42152223,
+            "CodigoCategoria": "42152200",
+            "Categoria": "Equipamiento y suministros médicos / Equipos y suministros odontológicos / Equipo y suministros dentales de laboratorio y de esterilización",
+            "NombreProducto": "Unidades de procesado de resinas odontológicas o accesorios",
+            "Descripcion": "RESINA COMPUESTA FOTOPOLIMERIZABLE con Tecnología S-PRG. Material altamente estético con liberación constante de flúor, formato jeringa de 4,5 grs línea LS II. Color A2. Fecha de Vencimiento igual o posterior al 05/2027",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 7.0,
+            "Adjudicacion": null
+          },
+          {
+            "Correlativo": 67,
+            "CodigoProducto": 42152223,
+            "CodigoCategoria": "42152200",
+            "Categoria": "Equipamiento y suministros médicos / Equipos y suministros odontológicos / Equipo y suministros dentales de laboratorio y de esterilización",
+            "NombreProducto": "Unidades de procesado de resinas odontológicas o accesorios",
+            "Descripcion": "RESINA COMPUESTA FOTOPOLIMERIZABLE con Tecnología S-PRG. Material altamente estético con liberación constante de flúor, formato jeringa de 4,5 grs línea LS II. Color 30. Fecha de Vencimiento igual o posterior al 05/2027",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 5.0,
+            "Adjudicacion": null
+          },
+          {
+            "Correlativo": 68,
+            "CodigoProducto": 42152223,
+            "CodigoCategoria": "42152200",
+            "Categoria": "Equipamiento y suministros médicos / Equipos y suministros odontológicos / Equipo y suministros dentales de laboratorio y de esterilización",
+            "NombreProducto": "Unidades de procesado de resinas odontológicas o accesorios",
+            "Descripcion": "RESINA COMPUESTA OPACADORA, UNIVERSAL, 1 JERINGA DE 2 GR + PUNTAS APLICADORAS TIPO BEAUTIFIL OPAQUER UO SHOFU O EQUIVALENTE. Fecha de Vencimiento igual o posterior al 05/2027",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 4.0,
+            "Adjudicacion": null
+          },
+          {
+            "Correlativo": 69,
+            "CodigoProducto": 42152223,
+            "CodigoCategoria": "42152200",
+            "Categoria": "Equipamiento y suministros médicos / Equipos y suministros odontológicos / Equipo y suministros dentales de laboratorio y de esterilización",
+            "NombreProducto": "Unidades de procesado de resinas odontológicas o accesorios",
+            "Descripcion": "RESINA COMPUESTA PARA RESTAURACIONES CON NANO CLUSTER 100% CON TIEMPO DE FOTOPOLIMERIZACION 20´´ Y 30´´ JERINGA 4GR COLOR A2 DENTINA. Fecha de Vencimiento igual o posterior al 05/2027",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 7.0,
+            "Adjudicacion": {
+              "RutProveedor": "80.447.400-5",
+              "NombreProveedor": "MUNNICH PHARMA MEDICAL SPA",
+              "Cantidad": 7.0,
+              "MontoUnitario": 19990.0
+            }
+          },
+          {
+            "Correlativo": 70,
+            "CodigoProducto": 42152223,
+            "CodigoCategoria": "42152200",
+            "Categoria": "Equipamiento y suministros médicos / Equipos y suministros odontológicos / Equipo y suministros dentales de laboratorio y de esterilización",
+            "NombreProducto": "Unidades de procesado de resinas odontológicas o accesorios",
+            "Descripcion": "RESINA COMPUESTA PARA RESTAURACIONES CON NANO CLUSTER 100% CON TIEMPO DE FOTOPOLIMERIZACION 20´´ Y 30´´ JERINGA 4GR COLOR A2 ESMALTE. Fecha de Vencimiento igual o posterior al 05/2027",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 8.0,
+            "Adjudicacion": {
+              "RutProveedor": "80.447.400-5",
+              "NombreProveedor": "MUNNICH PHARMA MEDICAL SPA",
+              "Cantidad": 8.0,
+              "MontoUnitario": 19990.0
+            }
+          },
+          {
+            "Correlativo": 71,
+            "CodigoProducto": 42152223,
+            "CodigoCategoria": "42152200",
+            "Categoria": "Equipamiento y suministros médicos / Equipos y suministros odontológicos / Equipo y suministros dentales de laboratorio y de esterilización",
+            "NombreProducto": "Unidades de procesado de resinas odontológicas o accesorios",
+            "Descripcion": "RESINA COMPUESTA PARA RESTAURACIONES CON NANO CLUSTER 100% CON TIEMPO DE FOTOPOLIMERIZACION 20´´ Y 30´´ JERINGA 4GR COLOR A2 UNIVERSAL. Fecha de Vencimiento igual o posterior al 05/2027",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 6.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.393.260-5",
+              "NombreProveedor": "EXPRO SUR S.A.",
+              "Cantidad": 6.0,
+              "MontoUnitario": 22400.0
+            }
+          },
+          {
+            "Correlativo": 72,
+            "CodigoProducto": 42152223,
+            "CodigoCategoria": "42152200",
+            "Categoria": "Equipamiento y suministros médicos / Equipos y suministros odontológicos / Equipo y suministros dentales de laboratorio y de esterilización",
+            "NombreProducto": "Unidades de procesado de resinas odontológicas o accesorios",
+            "Descripcion": "RESINA COMPUESTA PARA RESTAURACIONES CON NANO CLUSTER 100% CON TIEMPO DE FOTOPOLIMERIZACION 20´´ Y 30´´ JERINGA 4GR COLOR A3 DENTINA. Fecha de Vencimiento igual o posterior al 05/2027",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 9.0,
+            "Adjudicacion": {
+              "RutProveedor": "80.447.400-5",
+              "NombreProveedor": "MUNNICH PHARMA MEDICAL SPA",
+              "Cantidad": 9.0,
+              "MontoUnitario": 19990.0
+            }
+          },
+          {
+            "Correlativo": 73,
+            "CodigoProducto": 42152223,
+            "CodigoCategoria": "42152200",
+            "Categoria": "Equipamiento y suministros médicos / Equipos y suministros odontológicos / Equipo y suministros dentales de laboratorio y de esterilización",
+            "NombreProducto": "Unidades de procesado de resinas odontológicas o accesorios",
+            "Descripcion": "RESINA COMPUESTA PARA RESTAURACIONES POSTERIOR DE RELLENO EN BLOQUE, FOTOPOLIMERIZACION DE 5MM EN 40´ JERINGA 4 GR COLOR A2 TIPO BULK FILL. Fecha de Vencimiento igual o posterior al 05/2027",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 14.0,
+            "Adjudicacion": {
+              "RutProveedor": "80.447.400-5",
+              "NombreProveedor": "MUNNICH PHARMA MEDICAL SPA",
+              "Cantidad": 14.0,
+              "MontoUnitario": 27970.0
+            }
+          },
+          {
+            "Correlativo": 74,
+            "CodigoProducto": 42152223,
+            "CodigoCategoria": "42152200",
+            "Categoria": "Equipamiento y suministros médicos / Equipos y suministros odontológicos / Equipo y suministros dentales de laboratorio y de esterilización",
+            "NombreProducto": "Unidades de procesado de resinas odontológicas o accesorios",
+            "Descripcion": "RESINA COMPUESTA PARA RESTAURACIONES POSTERIOR DE RELLENO EN BLOQUE, FOTOPOLIMERIZACION DE 5MM EN 40´ JERINGA 4 GR COLOR A3 TIPO BULK FILL. Fecha de Vencimiento igual o posterior al 05/2027",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 15.0,
+            "Adjudicacion": {
+              "RutProveedor": "78.378.160-3",
+              "NombreProveedor": "COMERCIAL EXPRESS DENT SPA",
+              "Cantidad": 15.0,
+              "MontoUnitario": 27980.0
+            }
+          },
+          {
+            "Correlativo": 75,
+            "CodigoProducto": 42152223,
+            "CodigoCategoria": "42152200",
+            "Categoria": "Equipamiento y suministros médicos / Equipos y suministros odontológicos / Equipo y suministros dentales de laboratorio y de esterilización",
+            "NombreProducto": "Unidades de procesado de resinas odontológicas o accesorios",
+            "Descripcion": "RESINA FLUIDA PARA RESTAURACIONES COMPUESTAS DE BISGMA, TEGDMA Y PROCRYLAT JERINGAS DE 2 GRS. FOTOPOLIMERIZACIÓN COLOR A2 FLOW. IGUAL O EQUIVALENTE A 3M FLOW. Fecha de Vencimiento igual o posterior al 05/2027",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 10.0,
+            "Adjudicacion": {
+              "RutProveedor": "80.447.400-5",
+              "NombreProveedor": "MUNNICH PHARMA MEDICAL SPA",
+              "Cantidad": 10.0,
+              "MontoUnitario": 24480.0
+            }
+          },
+          {
+            "Correlativo": 76,
+            "CodigoProducto": 42152223,
+            "CodigoCategoria": "42152200",
+            "Categoria": "Equipamiento y suministros médicos / Equipos y suministros odontológicos / Equipo y suministros dentales de laboratorio y de esterilización",
+            "NombreProducto": "Unidades de procesado de resinas odontológicas o accesorios",
+            "Descripcion": "RESINA FLUIDA PARA RESTAURACIONES COMPUESTAS DE BISGMA, TEGDMA Y PROCRYLAT JERINGAS DE 2 GRS. FOTOPOLIMERIZACIÓN COLOR A3 FLOW. IGUAL O EQUIVALENTE A 3M FLOW. Fecha de Vencimiento igual o posterior al 05/2027 ",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 7.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.962.948-3",
+              "NombreProveedor": "VAMPRODEN SPA",
+              "Cantidad": 7.0,
+              "MontoUnitario": 12100.0
+            }
+          },
+          {
+            "Correlativo": 77,
+            "CodigoProducto": 42312201,
+            "CodigoCategoria": "42312200",
+            "Categoria": "Equipamiento y suministros médicos / Productos para el cuidado de heridas / Sutura y productos relacionados",
+            "NombreProducto": "Sutura",
+            "Descripcion": "SEDA NEGRA 3/0 CON AGUJA, caja de 36 sachet. Fecha de vencimiento posterior a 05/2027",
+            "UnidadMedida": "Caja",
+            "Cantidad": 3.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.962.948-3",
+              "NombreProveedor": "VAMPRODEN SPA",
+              "Cantidad": 3.0,
+              "MontoUnitario": 35280.0
+            }
+          },
+          {
+            "Correlativo": 78,
+            "CodigoProducto": 42312201,
+            "CodigoCategoria": "42312200",
+            "Categoria": "Equipamiento y suministros médicos / Productos para el cuidado de heridas / Sutura y productos relacionados",
+            "NombreProducto": "Sutura",
+            "Descripcion": "SUTURAS 3/0 CON AGUJA TIPO VYCRIL O EQUIVALENTE. CAJA DE 36 UNIDADES. FECHA DE VENCIMIENTO IGUAL O POSTERIOR AL 05/2027",
+            "UnidadMedida": "Caja",
+            "Cantidad": 3.0,
+            "Adjudicacion": {
+              "RutProveedor": "77.371.920-9",
+              "NombreProveedor": "CLAN DENT COMERCIALIZADORA LIMITADA",
+              "Cantidad": 3.0,
+              "MontoUnitario": 49160.0
+            }
+          },
+          {
+            "Correlativo": 79,
+            "CodigoProducto": 42151909,
+            "CodigoCategoria": "42151900",
+            "Categoria": "Equipamiento y suministros médicos / Equipos y suministros odontológicos / Equipo y suministros para higiene dental y cuidado preventivo",
+            "NombreProducto": "Pastas o kits de odontología preventiva",
+            "Descripcion": "SERVILLETAS DE BRACKET (DOS CAPAS DE PAPEL Y UNA DE POLIETILENO) COLOR AZUL. CAJAS DE 500 UNIDADES",
+            "UnidadMedida": "Caja",
+            "Cantidad": 20.0,
+            "Adjudicacion": null
+          },
+          {
+            "Correlativo": 80,
+            "CodigoProducto": 13111009,
+            "CodigoCategoria": "13111000",
+            "Categoria": "Resinas, cauchos, espumas y elastómeros / Resinas naturales y sintéticas / Resinas",
+            "NombreProducto": "Resina de polímero de cristal líquido",
+            "Descripcion": "SET DE 7-8 GOMAS DE PULIDO COMPOSITE IGUAL O EQUIVALENTE A ENHANCE",
+            "UnidadMedida": "Kit",
+            "Cantidad": 5.0,
+            "Adjudicacion": {
+              "RutProveedor": "78.378.160-3",
+              "NombreProveedor": "COMERCIAL EXPRESS DENT SPA",
+              "Cantidad": 5.0,
+              "MontoUnitario": 9650.0
+            }
+          },
+          {
+            "Correlativo": 81,
+            "CodigoProducto": 42151905,
+            "CodigoCategoria": "42151900",
+            "Categoria": "Equipamiento y suministros médicos / Equipos y suministros odontológicos / Equipo y suministros para higiene dental y cuidado preventivo",
+            "NombreProducto": "Geles o fluoruro de enjuagues",
+            "Descripcion": "SILICONA POR CONDENSACIÓN MEDIANA 140 ML. FECHA DE VENCIMIENTO IGUAL O POSTERIOR A 05/2027",
+            "UnidadMedida": "Tubo",
+            "Cantidad": 5.0,
+            "Adjudicacion": {
+              "RutProveedor": "78.378.160-3",
+              "NombreProveedor": "COMERCIAL EXPRESS DENT SPA",
+              "Cantidad": 5.0,
+              "MontoUnitario": 12790.0
+            }
+          },
+          {
+            "Correlativo": 82,
+            "CodigoProducto": 42201706,
+            "CodigoCategoria": "42201700",
+            "Categoria": "Equipamiento y suministros médicos / Productos para imágenes y de medicina nuclear / Artículos para imágenes de ultrasonido, doppler y eco",
+            "NombreProducto": "Sondas médicas de ultrasonido doppler o eco",
+            "Descripcion": "SISTEMA DE PULIDORES COMPLETO PARA COMPOSITE FORMATO TWIST DE 2 PASOS (PREPULIDO -PULIDO, PULIDO DE ALTO BRILLO) PARA CONTRA ÁNGULO. IGUAL O EQUIVALENTE A SET DIACOMP PLUS TWIST MINI SET S668.",
+            "UnidadMedida": "Kit",
+            "Cantidad": 9.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.962.948-3",
+              "NombreProveedor": "VAMPRODEN SPA",
+              "Cantidad": 9.0,
+              "MontoUnitario": 11400.0
+            }
+          },
+          {
+            "Correlativo": 83,
+            "CodigoProducto": 42201706,
+            "CodigoCategoria": "42201700",
+            "Categoria": "Equipamiento y suministros médicos / Productos para imágenes y de medicina nuclear / Artículos para imágenes de ultrasonido, doppler y eco",
+            "NombreProducto": "Sondas médicas de ultrasonido doppler o eco",
+            "Descripcion": "SOLUCIÓN HEMOSTATICA TOPICA LIQUIDA EN FRASCOS DE 10 ML PARA USO ODONTOLOGICO. FECHA DE VENCIMIENTO POSTERIOR A 05/2027",
+            "UnidadMedida": "Frasco",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.962.948-3",
+              "NombreProveedor": "VAMPRODEN SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 2800.0
+            }
+          },
+          {
+            "Correlativo": 84,
+            "CodigoProducto": 42151669,
+            "CodigoCategoria": "42151600",
+            "Categoria": "Equipamiento y suministros médicos / Equipos y suministros odontológicos / Instrumentos y dispositivos dentales y de sub-especialidad",
+            "NombreProducto": "Deshidratantes odontológicos",
+            "Descripcion": "SOLUCIÓN INTRACAMERAL MEDICAMENTOSA, FORMOCRESOL AL 7% DE USO TOPICO LOCAL AUTILIZADA COMO DESINFECTANTE, ANTISEPTICO Y MOMIFICANTE PULPAR. FECHA DE VENCIMIENTO POSTERIOR A 05/2027",
+            "UnidadMedida": "Frasco",
+            "Cantidad": 2.0,
+            "Adjudicacion": {
+              "RutProveedor": "78.378.160-3",
+              "NombreProveedor": "COMERCIAL EXPRESS DENT SPA",
+              "Cantidad": 2.0,
+              "MontoUnitario": 3057.0
+            }
+          },
+          {
+            "Correlativo": 85,
+            "CodigoProducto": 42151601,
+            "CodigoCategoria": "42151600",
+            "Categoria": "Equipamiento y suministros médicos / Equipos y suministros odontológicos / Instrumentos y dispositivos dentales y de sub-especialidad",
+            "NombreProducto": "Accesorios o piezas de repuesto para instrumentos dentales",
+            "Descripcion": "SPRAY REFRIGERANTE PARA LA DETECCIÓN DE LA VITALIDAD PULPAR, FRASCO DE 170 ML. FECHA DE VENCIMIENTO POSTERIOR A 05/2027",
+            "UnidadMedida": "Frasco",
+            "Cantidad": 10.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.962.948-3",
+              "NombreProveedor": "VAMPRODEN SPA",
+              "Cantidad": 10.0,
+              "MontoUnitario": 7490.0
+            }
+          },
+          {
+            "Correlativo": 86,
+            "CodigoProducto": 42152453,
+            "CodigoCategoria": "42152400",
+            "Categoria": "Equipamiento y suministros médicos / Equipos y suministros odontológicos / Materiales dentales",
+            "NombreProducto": "Compuestos de restauración dental",
+            "Descripcion": "SÚPER HILO DENTAL, IGUAL O EQUIVALENTE A SÚPER FLOSS, 50 TIRAS PRECORTADAS, CAJAS DE 36 UNIDADES.",
+            "UnidadMedida": "Caja",
+            "Cantidad": 2.0,
+            "Adjudicacion": {
+              "RutProveedor": "78.378.160-3",
+              "NombreProveedor": "COMERCIAL EXPRESS DENT SPA",
+              "Cantidad": 2.0,
+              "MontoUnitario": 2970.0
+            }
+          },
+          {
+            "Correlativo": 87,
+            "CodigoProducto": 44121618,
+            "CodigoCategoria": "44121600",
+            "Categoria": "Equipos, accesorios y suministros de oficina / Suministros de oficina / Suministros de escritorio",
+            "NombreProducto": "Tijeras",
+            "Descripcion": "TIJERA ENCIA TIPO GOLDMAN PUNTA RECTA FINA ACERO INOXIDABLE 13MM LARGO",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 4.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.962.948-3",
+              "NombreProveedor": "VAMPRODEN SPA",
+              "Cantidad": 4.0,
+              "MontoUnitario": 1050.0
+            }
+          },
+          {
+            "Correlativo": 88,
+            "CodigoProducto": 42152503,
+            "CodigoCategoria": "42152500",
+            "Categoria": "Equipamiento y suministros médicos / Equipos y suministros odontológicos / Suministros dentales generales",
+            "NombreProducto": "Suministros de dique dental",
+            "Descripcion": "TIRANERVIOS (INSTRUMENTO PARA RETIRAR LA PULPA, DE ACERO INOXIDABLE, PRE ESTERILIZADO PRE ESTERILIZADO) SET DE 10 UNIDADES",
+            "UnidadMedida": "Kit",
+            "Cantidad": 11.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.962.948-3",
+              "NombreProveedor": "VAMPRODEN SPA",
+              "Cantidad": 11.0,
+              "MontoUnitario": 2600.0
+            }
+          },
+          {
+            "Correlativo": 89,
+            "CodigoProducto": 42151632,
+            "CodigoCategoria": "42151600",
+            "Categoria": "Equipamiento y suministros médicos / Equipos y suministros odontológicos / Instrumentos y dispositivos dentales y de sub-especialidad",
+            "NombreProducto": "Escariadores dentales",
+            "Descripcion": "VIDRIO IONOMERO DE BASE FOTOPOLIMERIZABLE RADIOPACO DE APLICACIÓN DIRECTA 2,6 GRS. APROX. IGUAL O EQUIVALENTE IONOSEAL",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 6.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.962.948-3",
+              "NombreProveedor": "VAMPRODEN SPA",
+              "Cantidad": 6.0,
+              "MontoUnitario": 9400.0
+            }
+          },
+          {
+            "Correlativo": 90,
+            "CodigoProducto": 42151669,
+            "CodigoCategoria": "42151600",
+            "Categoria": "Equipamiento y suministros médicos / Equipos y suministros odontológicos / Instrumentos y dispositivos dentales y de sub-especialidad",
+            "NombreProducto": "Deshidratantes odontológicos",
+            "Descripcion": "YESO PIEDRA AMARILLO DE 1 KILO EN ENVASE HERMETICO. FECHA DE VENCIMIENTO IGUAL O POSTERIOR AL 05/2027",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 70.0,
+            "Adjudicacion": {
+              "RutProveedor": "78.378.160-3",
+              "NombreProveedor": "COMERCIAL EXPRESS DENT SPA",
+              "Cantidad": 70.0,
+              "MontoUnitario": 3200.0
+            }
+          },
+          {
+            "Correlativo": 91,
+            "CodigoProducto": 42151669,
+            "CodigoCategoria": "42151600",
+            "Categoria": "Equipamiento y suministros médicos / Equipos y suministros odontológicos / Instrumentos y dispositivos dentales y de sub-especialidad",
+            "NombreProducto": "Deshidratantes odontológicos",
+            "Descripcion": "YESO AZUL EXTRADURO TIPO IV DE 1 KILO, EN ENVASE HERMETICO. FECHA DE VENCIMIENTO POSTERIOR A 05/2027",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 20.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.962.948-3",
+              "NombreProveedor": "VAMPRODEN SPA",
+              "Cantidad": 20.0,
+              "MontoUnitario": 4500.0
+            }
+          },
+          {
+            "Correlativo": 92,
+            "CodigoProducto": 42152201,
+            "CodigoCategoria": "42152200",
+            "Categoria": "Equipamiento y suministros médicos / Equipos y suministros odontológicos / Equipo y suministros dentales de laboratorio y de esterilización",
+            "NombreProducto": "Hojas dentales",
+            "Descripcion": "POCILLO DE ACERO INOXIDABLE DE 9 X 4 CM PARA USO DENTAL",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 3.0,
+            "Adjudicacion": null
+          },
+          {
+            "Correlativo": 93,
+            "CodigoProducto": 42152105,
+            "CodigoCategoria": "42152100",
+            "Categoria": "Equipamiento y suministros médicos / Equipos y suministros odontológicos / Equipo y suministros dentales para impresión",
+            "NombreProducto": "Cubetas de impresión dental",
+            "Descripcion": "CUBETA METALICA DESDENTADO SUPERIOR L DE ACERO INOXIDABLE",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 4.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.962.948-3",
+              "NombreProveedor": "VAMPRODEN SPA",
+              "Cantidad": 4.0,
+              "MontoUnitario": 1800.0
+            }
+          },
+          {
+            "Correlativo": 94,
+            "CodigoProducto": 42152105,
+            "CodigoCategoria": "42152100",
+            "Categoria": "Equipamiento y suministros médicos / Equipos y suministros odontológicos / Equipo y suministros dentales para impresión",
+            "NombreProducto": "Cubetas de impresión dental",
+            "Descripcion": "CUBETA METALICA DESDENTADO INFERIOR L DE ACERO INOXIDABLE",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 4.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.962.948-3",
+              "NombreProveedor": "VAMPRODEN SPA",
+              "Cantidad": 4.0,
+              "MontoUnitario": 1800.0
+            }
+          },
+          {
+            "Correlativo": 95,
+            "CodigoProducto": 42152105,
+            "CodigoCategoria": "42152100",
+            "Categoria": "Equipamiento y suministros médicos / Equipos y suministros odontológicos / Equipo y suministros dentales para impresión",
+            "NombreProducto": "Cubetas de impresión dental",
+            "Descripcion": "CUBETA METALICA DESDENTADO SUPERIOR M DE ACERO INOXIDABLE",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 2.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.962.948-3",
+              "NombreProveedor": "VAMPRODEN SPA",
+              "Cantidad": 2.0,
+              "MontoUnitario": 1800.0
+            }
+          },
+          {
+            "Correlativo": 96,
+            "CodigoProducto": 42152217,
+            "CodigoCategoria": "42152200",
+            "Categoria": "Equipamiento y suministros médicos / Equipos y suministros odontológicos / Equipo y suministros dentales de laboratorio y de esterilización",
+            "NombreProducto": "Unidades de vacío de laboratorio dental o suministros",
+            "Descripcion": "MECHERO DE ALCOHOL DE VIDRIO CON TAPA METALICA",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "78.378.160-3",
+              "NombreProveedor": "COMERCIAL EXPRESS DENT SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 1630.0
+            }
+          },
+          {
+            "Correlativo": 97,
+            "CodigoProducto": 42151810,
+            "CodigoCategoria": "42151800",
+            "Categoria": "Equipamiento y suministros médicos / Equipos y suministros odontológicos / Rellenos y acabados dentales y suministros para pulir",
+            "NombreProducto": "Kits de torno o pulidor dental",
+            "Descripcion": "PIE DE METRO MANUAL 155 MM APROX",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": null
+          },
+          {
+            "Correlativo": 98,
+            "CodigoProducto": 42151665,
+            "CodigoCategoria": "42151600",
+            "Categoria": "Equipamiento y suministros médicos / Equipos y suministros odontológicos / Instrumentos y dispositivos dentales y de sub-especialidad",
+            "NombreProducto": "Dispositivos de medición dental o accesorios",
+            "Descripcion": "PASTA PARA PULIR ACRILICO ROUGE BLANCO",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.962.948-3",
+              "NombreProveedor": "VAMPRODEN SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 2990.0
+            }
+          },
+          {
+            "Correlativo": 99,
+            "CodigoProducto": 42151667,
+            "CodigoCategoria": "42151600",
+            "Categoria": "Equipamiento y suministros médicos / Equipos y suministros odontológicos / Instrumentos y dispositivos dentales y de sub-especialidad",
+            "NombreProducto": "Matrices odontológicas o sets",
+            "Descripcion": "KIT DE MATRICES PREFORMADAS 100 UNIDADES + 2 ANILLOS",
+            "UnidadMedida": "Kit",
+            "Cantidad": 5.0,
+            "Adjudicacion": {
+              "RutProveedor": "77.371.920-9",
+              "NombreProveedor": "CLAN DENT COMERCIALIZADORA LIMITADA",
+              "Cantidad": 5.0,
+              "MontoUnitario": 6303.0
+            }
+          },
+          {
+            "Correlativo": 100,
+            "CodigoProducto": 42151621,
+            "CodigoCategoria": "42151600",
+            "Categoria": "Equipamiento y suministros médicos / Equipos y suministros odontológicos / Instrumentos y dispositivos dentales y de sub-especialidad",
+            "NombreProducto": "Instrumentos dentales para empastar los contornos",
+            "Descripcion": "SEPARADOR BUCAL DE ACERO INOXIDABLE TIPO MINNESOTA",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 27.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.962.948-3",
+              "NombreProveedor": "VAMPRODEN SPA",
+              "Cantidad": 27.0,
+              "MontoUnitario": 1790.0
+            }
+          },
+          {
+            "Correlativo": 101,
+            "CodigoProducto": 53131506,
+            "CodigoCategoria": "53131500",
+            "Categoria": "Ropa, maletas y productos de aseo personal / Artículos de baño o tocador / Artículos dentales",
+            "NombreProducto": "Juegos de higiene dental",
+            "Descripcion": "AGUA DESTILADA BIDON DE 5 LITROS. FECHA DE VENCIMIENTO IGUAL O POSTERIOR AL 05/2027",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 80.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.962.948-3",
+              "NombreProveedor": "VAMPRODEN SPA",
+              "Cantidad": 80.0,
+              "MontoUnitario": 5100.0
+            }
+          },
+          {
+            "Correlativo": 102,
+            "CodigoProducto": 42151621,
+            "CodigoCategoria": "42151600",
+            "Categoria": "Equipamiento y suministros médicos / Equipos y suministros odontológicos / Instrumentos y dispositivos dentales y de sub-especialidad",
+            "NombreProducto": "Instrumentos dentales para empastar los contornos",
+            "Descripcion": "LIMPIA FRESAS",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 12.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.962.948-3",
+              "NombreProveedor": "VAMPRODEN SPA",
+              "Cantidad": 12.0,
+              "MontoUnitario": 1800.0
+            }
+          },
+          {
+            "Correlativo": 103,
+            "CodigoProducto": 42151606,
+            "CodigoCategoria": "42151600",
+            "Categoria": "Equipamiento y suministros médicos / Equipos y suministros odontológicos / Instrumentos y dispositivos dentales y de sub-especialidad",
+            "NombreProducto": "Trinchadores de amalgama dental",
+            "Descripcion": "FORCEP BAYONETA PEDIÁTRICO DE ACERO INOXIDABLE",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 3.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.962.948-3",
+              "NombreProveedor": "VAMPRODEN SPA",
+              "Cantidad": 3.0,
+              "MontoUnitario": 6900.0
+            }
+          },
+          {
+            "Correlativo": 104,
+            "CodigoProducto": 42151606,
+            "CodigoCategoria": "42151600",
+            "Categoria": "Equipamiento y suministros médicos / Equipos y suministros odontológicos / Instrumentos y dispositivos dentales y de sub-especialidad",
+            "NombreProducto": "Trinchadores de amalgama dental",
+            "Descripcion": "FORCEP ADULTO N°18 INGLÉS GRUESO ESPOLÓN IZQUIERDO, DE ACERO INOXIDABLE",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 6.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.962.948-3",
+              "NombreProveedor": "VAMPRODEN SPA",
+              "Cantidad": 6.0,
+              "MontoUnitario": 6900.0
+            }
+          },
+          {
+            "Correlativo": 105,
+            "CodigoProducto": 42151606,
+            "CodigoCategoria": "42151600",
+            "Categoria": "Equipamiento y suministros médicos / Equipos y suministros odontológicos / Instrumentos y dispositivos dentales y de sub-especialidad",
+            "NombreProducto": "Trinchadores de amalgama dental",
+            "Descripcion": "FORCEP ADULTO N°18 INGLÉS GRUESO ESPOLÓN DERECHO, DE ACERO INOXIDABLE",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 6.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.942.799-6",
+              "NombreProveedor": "COMERCIALIZADORA E IMPORTADORA BLASDENT SPA",
+              "Cantidad": 6.0,
+              "MontoUnitario": 8800.0
+            }
+          },
+          {
+            "Correlativo": 106,
+            "CodigoProducto": 42151606,
+            "CodigoCategoria": "42151600",
+            "Categoria": "Equipamiento y suministros médicos / Equipos y suministros odontológicos / Instrumentos y dispositivos dentales y de sub-especialidad",
+            "NombreProducto": "Trinchadores de amalgama dental",
+            "Descripcion": "FORCEP ADULTO RECTO SOBRE EL PLANO MEDIO, DE ACERO INOXIDABLE",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 3.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.962.948-3",
+              "NombreProveedor": "VAMPRODEN SPA",
+              "Cantidad": 3.0,
+              "MontoUnitario": 6900.0
+            }
+          },
+          {
+            "Correlativo": 107,
+            "CodigoProducto": 42151612,
+            "CodigoCategoria": "42151600",
+            "Categoria": "Equipamiento y suministros médicos / Equipos y suministros odontológicos / Instrumentos y dispositivos dentales y de sub-especialidad",
+            "NombreProducto": "Retractadores dentales",
+            "Descripcion": "MARCADOR DE INSTRUMENTAL DENTAL AUTOCLAVABLE, ANILLOS DE SILICONA COLOR VERDE. CAJA/BOLSA DE 100 UNIDADES",
+            "UnidadMedida": "Bolsa",
+            "Cantidad": 3.0,
+            "Adjudicacion": null
+          },
+          {
+            "Correlativo": 108,
+            "CodigoProducto": 42152108,
+            "CodigoCategoria": "42152100",
+            "Categoria": "Equipamiento y suministros médicos / Equipos y suministros odontológicos / Equipo y suministros dentales para impresión",
+            "NombreProducto": "Jeringas de material de impresión dental o accesorios",
+            "Descripcion": "JERINGAS CARPULE SIN HEMOSUCTOR, CON CARGA POSTERIOR, DE ACERO INOXIDABLE",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 20.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.962.948-3",
+              "NombreProveedor": "VAMPRODEN SPA",
+              "Cantidad": 20.0,
+              "MontoUnitario": 5500.0
+            }
+          },
+          {
+            "Correlativo": 109,
+            "CodigoProducto": 42151602,
+            "CodigoCategoria": "42151600",
+            "Categoria": "Equipamiento y suministros médicos / Equipos y suministros odontológicos / Instrumentos y dispositivos dentales y de sub-especialidad",
+            "NombreProducto": "Bandas para matriz dental",
+            "Descripcion": "Set 50 bandas matrices igual o equivalente a Composi-Tight 3D Firm Matrix Bands FXH150-M. Fecha de vencimiento igual o posterior al 05/2027",
+            "UnidadMedida": "Kit",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.962.948-3",
+              "NombreProveedor": "VAMPRODEN SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 22000.0
+            }
+          },
+          {
+            "Correlativo": 110,
+            "CodigoProducto": 42151656,
+            "CodigoCategoria": "42151600",
+            "Categoria": "Equipamiento y suministros médicos / Equipos y suministros odontológicos / Instrumentos y dispositivos dentales y de sub-especialidad",
+            "NombreProducto": "Separadores mandibulares",
+            "Descripcion": "SEPARADOR DE MEJILLAS PARCIAL DOBLE ADULTO",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 6.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.962.948-3",
+              "NombreProveedor": "VAMPRODEN SPA",
+              "Cantidad": 6.0,
+              "MontoUnitario": 2100.0
+            }
+          },
+          {
+            "Correlativo": 111,
+            "CodigoProducto": 42151656,
+            "CodigoCategoria": "42151600",
+            "Categoria": "Equipamiento y suministros médicos / Equipos y suministros odontológicos / Instrumentos y dispositivos dentales y de sub-especialidad",
+            "NombreProducto": "Separadores mandibulares",
+            "Descripcion": "SEPARADOR DE MEJILLAS PARCIAL DOBLE PEDIATRICO",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 6.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.962.948-3",
+              "NombreProveedor": "VAMPRODEN SPA",
+              "Cantidad": 6.0,
+              "MontoUnitario": 2300.0
+            }
+          },
+          {
+            "Correlativo": 112,
+            "CodigoProducto": 42151627,
+            "CodigoCategoria": "42151600",
+            "Categoria": "Equipamiento y suministros médicos / Equipos y suministros odontológicos / Instrumentos y dispositivos dentales y de sub-especialidad",
+            "NombreProducto": "Espejos o mangos de espejos dentales",
+            "Descripcion": "KIT DE MINIMO 5 ESPEJOS DENTALES INTRAORALES PARA FOTOGRAFIA. Fecha de vencimiento igual o posterior al 05/2027",
+            "UnidadMedida": "Kit",
+            "Cantidad": 2.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.942.799-6",
+              "NombreProveedor": "COMERCIALIZADORA E IMPORTADORA BLASDENT SPA",
+              "Cantidad": 2.0,
+              "MontoUnitario": 16278.0
+            }
+          },
+          {
+            "Correlativo": 113,
+            "CodigoProducto": 42152108,
+            "CodigoCategoria": "42152100",
+            "Categoria": "Equipamiento y suministros médicos / Equipos y suministros odontológicos / Equipo y suministros dentales para impresión",
+            "NombreProducto": "Jeringas de material de impresión dental o accesorios",
+            "Descripcion": "JERINGAS ENDODONTICAS DE 3 ML CON AGUJA INCORPORADA IGUAL O EQUIVALENTE A MONOJECT. CAJA DE 100 UNIDADES. Fecha de vencimiento igual o posterior al 05/2027",
+            "UnidadMedida": "Caja",
+            "Cantidad": 2.0,
+            "Adjudicacion": {
+              "RutProveedor": "78.378.160-3",
+              "NombreProveedor": "COMERCIAL EXPRESS DENT SPA",
+              "Cantidad": 2.0,
+              "MontoUnitario": 45000.0
+            }
+          },
+          {
+            "Correlativo": 114,
+            "CodigoProducto": 51102707,
+            "CodigoCategoria": "51102700",
+            "Categoria": "Medicamentos y productos farmacéuticos / Medicamentos anti infecciosos / Antisépticos",
+            "NombreProducto": "Gluconato de clorhexidina",
+            "Descripcion": "ACEITE LUBRICANTE PARA INSTRUMENTAL ROTATORIO DENTAL DE 500 ML. FECHA DE VENCIMIENTO IGUAL O POSTERIOR AL 05/2027",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.962.948-3",
+              "NombreProveedor": "VAMPRODEN SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 9900.0
+            }
+          },
+          {
+            "Correlativo": 115,
+            "CodigoProducto": 42152011,
+            "CodigoCategoria": "42152000",
+            "Categoria": "Equipamiento y suministros médicos / Equipos y suministros odontológicos / Equipo y suministros para imágenes dentales",
+            "NombreProducto": "Adaptadores de película de radiografías odontológicas",
+            "Descripcion": "GUTAPERCHA DENTAL BLANCA EN BARRA 24 GRS APROX. FECHA DE VENCIMIENTO IGUAL O POSTERIOR AL 05/2027",
+            "UnidadMedida": "Caja",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.962.948-3",
+              "NombreProveedor": "VAMPRODEN SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 2500.0
+            }
+          },
+          {
+            "Correlativo": 116,
+            "CodigoProducto": 42151643,
+            "CodigoCategoria": "42151600",
+            "Categoria": "Equipamiento y suministros médicos / Equipos y suministros odontológicos / Instrumentos y dispositivos dentales y de sub-especialidad",
+            "NombreProducto": "Recortadores dentales del margen",
+            "Descripcion": "ELEVADOR DENTAL RECTO FINO ",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 6.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.962.948-3",
+              "NombreProveedor": "VAMPRODEN SPA",
+              "Cantidad": 6.0,
+              "MontoUnitario": 1800.0
+            }
+          },
+          {
+            "Correlativo": 117,
+            "CodigoProducto": 42151643,
+            "CodigoCategoria": "42151600",
+            "Categoria": "Equipamiento y suministros médicos / Equipos y suministros odontológicos / Instrumentos y dispositivos dentales y de sub-especialidad",
+            "NombreProducto": "Recortadores dentales del margen",
+            "Descripcion": "ELEVADOR DENTAL RECTO MEDIANO",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 4.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.962.948-3",
+              "NombreProveedor": "VAMPRODEN SPA",
+              "Cantidad": 4.0,
+              "MontoUnitario": 1800.0
+            }
+          },
+          {
+            "Correlativo": 118,
+            "CodigoProducto": 42151643,
+            "CodigoCategoria": "42151600",
+            "Categoria": "Equipamiento y suministros médicos / Equipos y suministros odontológicos / Instrumentos y dispositivos dentales y de sub-especialidad",
+            "NombreProducto": "Recortadores dentales del margen",
+            "Descripcion": "ELEVADOR DENTAL RECTO GRUESO",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 4.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.962.948-3",
+              "NombreProveedor": "VAMPRODEN SPA",
+              "Cantidad": 4.0,
+              "MontoUnitario": 1800.0
+            }
+          },
+          {
+            "Correlativo": 119,
+            "CodigoProducto": 42291706,
+            "CodigoCategoria": "42291700",
+            "Categoria": "Equipamiento y suministros médicos / Productos quirúrgicos / Taladros quirúrgicos de mano, escariadores, instrumentos de punzonar, accesorios y productos relacionados",
+            "NombreProducto": "Fresas quirúrgicas o sus accesorios",
+            "Descripcion": "FRESA DIAMANTE BALÓN 0.23 GRANO EXTRA FINO, TIPO HORICO O EQUIVALENTE",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 10.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.393.260-5",
+              "NombreProveedor": "EXPRO SUR S.A.",
+              "Cantidad": 10.0,
+              "MontoUnitario": 800.0
+            }
+          },
+          {
+            "Correlativo": 120,
+            "CodigoProducto": 42151905,
+            "CodigoCategoria": "42151900",
+            "Categoria": "Equipamiento y suministros médicos / Equipos y suministros odontológicos / Equipo y suministros para higiene dental y cuidado preventivo",
+            "NombreProducto": "Geles o fluoruro de enjuagues",
+            "Descripcion": "SILICONA POR ADICIÓN (SILICONA A) PARA REGISTRO DE MORDIDA, KIT DE 2 CARTUCHOS DE 50 ML. FECHA DE VENCIMIENTO IGUAL O POSTERIOR AL 05/2027",
+            "UnidadMedida": "Kit",
+            "Cantidad": 2.0,
+            "Adjudicacion": {
+              "RutProveedor": "78.378.160-3",
+              "NombreProveedor": "COMERCIAL EXPRESS DENT SPA",
+              "Cantidad": 2.0,
+              "MontoUnitario": 24770.0
+            }
+          },
+          {
+            "Correlativo": 121,
+            "CodigoProducto": 42152108,
+            "CodigoCategoria": "42152100",
+            "Categoria": "Equipamiento y suministros médicos / Equipos y suministros odontológicos / Equipo y suministros dentales para impresión",
+            "NombreProducto": "Jeringas de material de impresión dental o accesorios",
+            "Descripcion": "JERINGA PARA SILICONA DENTAL 3 X 3 X 13 CM. FECHA DE VENCIMIENTO IGUAL O POSTERIOR AL 05/2027",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 4.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.962.948-3",
+              "NombreProveedor": "VAMPRODEN SPA",
+              "Cantidad": 4.0,
+              "MontoUnitario": 440.0
+            }
+          },
+          {
+            "Correlativo": 122,
+            "CodigoProducto": 42151665,
+            "CodigoCategoria": "42151600",
+            "Categoria": "Equipamiento y suministros médicos / Equipos y suministros odontológicos / Instrumentos y dispositivos dentales y de sub-especialidad",
+            "NombreProducto": "Dispositivos de medición dental o accesorios",
+            "Descripcion": "PISTOLA PARA SILICONA 1:1 USO DENTAL",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 2.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.962.948-3",
+              "NombreProveedor": "VAMPRODEN SPA",
+              "Cantidad": 2.0,
+              "MontoUnitario": 10900.0
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

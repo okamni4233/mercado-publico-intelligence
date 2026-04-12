@@ -1,0 +1,183 @@
+{
+  "Cantidad": 1,
+  "FechaCreacion": "2026-04-06T01:22:03.7815779Z",
+  "Version": "v1",
+  "Listado": [
+    {
+      "CodigoExterno": "2448-137-LE25",
+      "Nombre": "REPOSICION INSUMOS Y EQUIPAMIENTO DE BOX CLINICOS",
+      "CodigoEstado": 8,
+      "Descripcion": "REPOSICION INSUMOS Y EQUIPAMIENTO DE BOX CLINICOS",
+      "FechaCierre": null,
+      "Estado": "Adjudicada",
+      "Comprador": {
+        "CodigoOrganismo": "87901",
+        "NombreOrganismo": "I MUNICIPALIDAD DE COQUIMBO",
+        "RutUnidad": "69.040.300-5",
+        "CodigoUnidad": "3440",
+        "NombreUnidad": "Departamento de Salud",
+        "DireccionUnidad": "Bilbao  348",
+        "ComunaUnidad": "Coquimbo",
+        "RegionUnidad": "Región de Coquimbo ",
+        "RutUsuario": "",
+        "CodigoUsuario": "1318213",
+        "NombreUsuario": "David Alvarez",
+        "CargoUsuario": "Encargado de inventario y proveedores"
+      },
+      "DiasCierreLicitacion": "0",
+      "Informada": 0,
+      "CodigoTipo": 1,
+      "Tipo": "LE",
+      "TipoConvocatoria": "1",
+      "Moneda": "CLP",
+      "Etapas": 1,
+      "EstadoEtapas": "1",
+      "TomaRazon": "0",
+      "EstadoPublicidadOfertas": 1,
+      "JustificacionPublicidad": "",
+      "Contrato": "2",
+      "Obras": "0",
+      "CantidadReclamos": 4031,
+      "Fechas": {
+        "FechaCreacion": "2025-09-04T11:04:43.353",
+        "FechaCierre": "2025-09-22T17:30:00",
+        "FechaInicio": "2025-09-08T17:00:00",
+        "FechaFinal": "2025-09-11T15:00:00",
+        "FechaPubRespuestas": "2025-09-15T16:00:00",
+        "FechaActoAperturaTecnica": "2025-09-22T17:31:00",
+        "FechaActoAperturaEconomica": "2025-09-22T17:31:00",
+        "FechaPublicacion": "2025-09-08T09:49:29.197",
+        "FechaAdjudicacion": "2026-04-01T13:37:03.413",
+        "FechaEstimadaAdjudicacion": "2025-10-22T17:33:00",
+        "FechaSoporteFisico": null,
+        "FechaTiempoEvaluacion": null,
+        "FechaEstimadaFirma": null,
+        "FechasUsuario": null,
+        "FechaVisitaTerreno": null,
+        "FechaEntregaAntecedentes": null
+      },
+      "UnidadTiempoEvaluacion": 1,
+      "DireccionVisita": "",
+      "DireccionEntrega": "",
+      "Estimacion": 1,
+      "FuenteFinanciamiento": "",
+      "VisibilidadMonto": 1,
+      "MontoEstimado": 23159930.0,
+      "Tiempo": null,
+      "UnidadTiempo": "1",
+      "Modalidad": 1,
+      "TipoPago": "1",
+      "NombreResponsablePago": "MARIA ESPERANZA PALACIOS",
+      "EmailResponsablePago": "",
+      "NombreResponsableContrato": "CARLA MIRANDA",
+      "EmailResponsableContrato": "",
+      "FonoResponsableContrato": "",
+      "ProhibicionContratacion": "",
+      "SubContratacion": "1",
+      "UnidadTiempoDuracionContrato": 1,
+      "TiempoDuracionContrato": "0",
+      "TipoDuracionContrato": " ",
+      "JustificacionMontoEstimado": "",
+      "ObservacionContract": null,
+      "ExtensionPlazo": 0,
+      "EsBaseTipo": 0,
+      "UnidadTiempoContratoLicitacion": "1",
+      "ValorTiempoRenovacion": "0",
+      "PeriodoTiempoRenovacion": " ",
+      "EsRenovable": 0,
+      "CodigoBIP": null,
+      "Adjudicacion": {
+        "Tipo": 4,
+        "Fecha": "2026-03-31T00:00:00",
+        "Numero": "1809",
+        "NumeroOferentes": 14,
+        "UrlActa": "http://www.mercadopublico.cl/Procurement/Modules/RFB/StepsProcessAward/PreviewAwardAct.aspx?qs=DV1332jlo8nXUpu9HdxUCfzVA67V9B6jWzltt9WZ5L0="
+      },
+      "Items": {
+        "Cantidad": 5,
+        "Listado": [
+          {
+            "Correlativo": 1,
+            "CodigoProducto": 42182805,
+            "CodigoCategoria": "42182800",
+            "Categoria": "Equipamiento y suministros médicos / Productos para exámenes y control de pacientes / Básculas o balanzas médicas",
+            "NombreProducto": "Básculas de piso de paciente",
+            "Descripcion": "BALANZA CON TALLIMETRO METAL. SEGUN CARACTERISTICAS TECNICAS ADJUNTAS.",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 21.0,
+            "Adjudicacion": {
+              "RutProveedor": "86.397.000-8",
+              "NombreProveedor": "DIPROMED S A",
+              "Cantidad": 21.0,
+              "MontoUnitario": 313000.0
+            }
+          },
+          {
+            "Correlativo": 2,
+            "CodigoProducto": 27111801,
+            "CodigoCategoria": "27111800",
+            "Categoria": "Herramientas y maquinaria en general / Herramientas manuales / Herramientas de medición y trazado",
+            "NombreProducto": "Cintas métricas",
+            "Descripcion": "CINTA METRICA INEXTENSIBLE METAL. SEGUN CARACTERISTICAS TECNICAS ADJUNTAS.",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 220.0,
+            "Adjudicacion": {
+              "RutProveedor": "77.865.349-4",
+              "NombreProveedor": "PROVIMED CHILE S.P.A.",
+              "Cantidad": 220.0,
+              "MontoUnitario": 1765.0
+            }
+          },
+          {
+            "Correlativo": 3,
+            "CodigoProducto": 42312201,
+            "CodigoCategoria": "42312200",
+            "Categoria": "Equipamiento y suministros médicos / Productos para el cuidado de heridas / Sutura y productos relacionados",
+            "NombreProducto": "Sutura",
+            "Descripcion": "MONOFILAMENTO 10MG. CARACTERISTICAS TECNICAS ADJUNTAS.",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 500.0,
+            "Adjudicacion": {
+              "RutProveedor": "77.865.349-4",
+              "NombreProveedor": "PROVIMED CHILE S.P.A.",
+              "Cantidad": 500.0,
+              "MontoUnitario": 4218.0
+            }
+          },
+          {
+            "Correlativo": 4,
+            "CodigoProducto": 60131504,
+            "CodigoCategoria": "60131500",
+            "Categoria": "Instrumentos musicales, juegos, juguetes, artesanías y materiales educativos / Instrumentos musicales, piezas y accesorios / Piezas y accesorios de instrumentos musicales",
+            "NombreProducto": "Diapasón",
+            "Descripcion": "DIAPASON 128 HZ, ACERO INOXIDABLE. SEGUN CARACTERISTICAS TECNICAS ADJUNTAS.",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 24.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.209.015-5",
+              "NombreProveedor": "SOCIEDAD INMOBILIARIA Y PRESTADORA DE SERVICIOS MEDICOS VIVIRSALUD LIM",
+              "Cantidad": 24.0,
+              "MontoUnitario": 8400.0
+            }
+          },
+          {
+            "Correlativo": 5,
+            "CodigoProducto": 42182004,
+            "CodigoCategoria": "42182000",
+            "Categoria": "Equipamiento y suministros médicos / Productos para exámenes y control de pacientes / Espéculos y accesorios para auscultación médica",
+            "NombreProducto": "Dermatoscopios",
+            "Descripcion": "DERMATOSCOPIO ALUMINIO. SEGUN CARACTERISTICAS TECNICAS ADJUNTAS.",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 12.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.330.700-k",
+              "NombreProveedor": "IMV INGENIERIA SPA",
+              "Cantidad": 12.0,
+              "MontoUnitario": 200280.0
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

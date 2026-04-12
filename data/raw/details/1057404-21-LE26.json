@@ -1,0 +1,631 @@
+{
+  "Cantidad": 1,
+  "FechaCreacion": "2026-04-05T10:25:35.7502312Z",
+  "Version": "v1",
+  "Listado": [
+    {
+      "CodigoExterno": "1057404-21-LE26",
+      "Nombre": "INSUMOS DE LABORATORIO–PROGRAMACION DE COMPRAS I TRIMESTRE",
+      "CodigoEstado": 8,
+      "Descripcion": "El Hospital de Arauco, necesita adquirir insumos para el Servicio de Laboratorio, según se detalla en esta licitación",
+      "FechaCierre": null,
+      "Estado": "Adjudicada",
+      "Comprador": {
+        "CodigoOrganismo": "7398",
+        "NombreOrganismo": "SERVICIO DE SALUD ARAUCO HOSPITAL DE ARAUCO",
+        "RutUnidad": "61.602.209-1",
+        "CodigoUnidad": "1057404",
+        "NombreUnidad": "Bienes y Servicios",
+        "DireccionUnidad": "Bienes y Servicios",
+        "ComunaUnidad": "Arauco",
+        "RegionUnidad": "Región del Biobío ",
+        "RutUsuario": "",
+        "CodigoUsuario": "406523",
+        "NombreUsuario": "Yohana  Maldonado Medina",
+        "CargoUsuario": "Administrativo Abastecimiento"
+      },
+      "DiasCierreLicitacion": "0",
+      "Informada": 0,
+      "CodigoTipo": 1,
+      "Tipo": "LE",
+      "TipoConvocatoria": "1",
+      "Moneda": "CLP",
+      "Etapas": 1,
+      "EstadoEtapas": "1",
+      "TomaRazon": "0",
+      "EstadoPublicidadOfertas": 1,
+      "JustificacionPublicidad": "",
+      "Contrato": "1",
+      "Obras": "0",
+      "CantidadReclamos": 722,
+      "Fechas": {
+        "FechaCreacion": "2026-02-17T00:00:00",
+        "FechaCierre": "2026-03-05T15:30:00",
+        "FechaInicio": "2026-02-23T17:01:00",
+        "FechaFinal": "2026-02-25T11:00:00",
+        "FechaPubRespuestas": "2026-02-27T17:00:00",
+        "FechaActoAperturaTecnica": "2026-03-05T15:30:00",
+        "FechaActoAperturaEconomica": "2026-03-05T15:30:00",
+        "FechaPublicacion": "2026-02-23T10:09:02.517",
+        "FechaAdjudicacion": "2026-04-02T12:15:23.31",
+        "FechaEstimadaAdjudicacion": "2026-04-29T18:45:00",
+        "FechaSoporteFisico": null,
+        "FechaTiempoEvaluacion": null,
+        "FechaEstimadaFirma": null,
+        "FechasUsuario": null,
+        "FechaVisitaTerreno": null,
+        "FechaEntregaAntecedentes": null
+      },
+      "UnidadTiempoEvaluacion": 1,
+      "DireccionVisita": "",
+      "DireccionEntrega": "",
+      "Estimacion": 2,
+      "FuenteFinanciamiento": "",
+      "VisibilidadMonto": 1,
+      "MontoEstimado": 17701250.0,
+      "Tiempo": null,
+      "UnidadTiempo": "1",
+      "Modalidad": 1,
+      "TipoPago": "1",
+      "NombreResponsablePago": "Susana Marin Cruz",
+      "EmailResponsablePago": "",
+      "NombreResponsableContrato": "VICTOR GONZALES",
+      "EmailResponsableContrato": "",
+      "FonoResponsableContrato": "",
+      "ProhibicionContratacion": "",
+      "SubContratacion": "1",
+      "UnidadTiempoDuracionContrato": 1,
+      "TiempoDuracionContrato": "0",
+      "TipoDuracionContrato": " ",
+      "JustificacionMontoEstimado": "",
+      "ObservacionContract": null,
+      "ExtensionPlazo": 0,
+      "EsBaseTipo": 0,
+      "UnidadTiempoContratoLicitacion": "1",
+      "ValorTiempoRenovacion": "0",
+      "PeriodoTiempoRenovacion": " ",
+      "EsRenovable": 0,
+      "CodigoBIP": null,
+      "Adjudicacion": {
+        "Tipo": 2,
+        "Fecha": "2026-04-02T00:00:00",
+        "Numero": "306",
+        "NumeroOferentes": 25,
+        "UrlActa": "http://www.mercadopublico.cl/Procurement/Modules/RFB/StepsProcessAward/PreviewAwardAct.aspx?qs=XpFBkkTD9Ng2ZiZ+IoDk20gY76HJ70tNQoS5sPKeAUg="
+      },
+      "Items": {
+        "Cantidad": 33,
+        "Listado": [
+          {
+            "Correlativo": 1,
+            "CodigoProducto": 41122605,
+            "CodigoCategoria": "41122600",
+            "Categoria": "Equipamiento para laboratorios / Suministros para laboratorios / Portaobjetos y suministros de laboratorio",
+            "NombreProducto": "Aceite de inmersión para microscopio",
+            "Descripcion": "ACEITE DE INMERSION PARA MICROSCOPIO",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 2.0,
+            "Adjudicacion": {
+              "RutProveedor": "79.728.570-6",
+              "NombreProveedor": "FARMALATINA LTDA",
+              "Cantidad": 2.0,
+              "MontoUnitario": 23600.0
+            }
+          },
+          {
+            "Correlativo": 2,
+            "CodigoProducto": 30201902,
+            "CodigoCategoria": "30201900",
+            "Categoria": "Artículos para estructuras, obras y construcciones / Estructuras prefabricadas / Construcciones médicas prefabricadas",
+            "NombreProducto": "Unidades de laboratorio",
+            "Descripcion": "ASA CALIBRADA 1 MICROLITRO REPUESTO",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 60.0,
+            "Adjudicacion": {
+              "RutProveedor": "79.722.860-5",
+              "NombreProveedor": "WINKLER LIMITADA",
+              "Cantidad": 60.0,
+              "MontoUnitario": 1500.0
+            }
+          },
+          {
+            "Correlativo": 3,
+            "CodigoProducto": 53121501,
+            "CodigoCategoria": "53121500",
+            "Categoria": "Ropa, maletas y productos de aseo personal / Maletas, bolsos de mano, mochilas y estuches / Maletas",
+            "NombreProducto": "Bolsos",
+            "Descripcion": "BOLSO ISOTERMICO TRANSPORTE DE MUESTRAS GRANDE 29x39x44 capacidad 49.76 lts (4 bolsos interiores)",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.131.142-5",
+              "NombreProveedor": "QUORUX CHILE SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 350000.0
+            }
+          },
+          {
+            "Correlativo": 4,
+            "CodigoProducto": 41104112,
+            "CodigoCategoria": "41104100",
+            "Categoria": "Equipamiento para laboratorios / Equipos e insumos para laboratorio / Contenedores para especímenes de laboratorio",
+            "NombreProducto": "Contenedores de recogida de orina",
+            "Descripcion": "CONTENEDOR PARA HECES DE 60 ML CON PALETA",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 2000.0,
+            "Adjudicacion": {
+              "RutProveedor": "77.304.460-0",
+              "NombreProveedor": "ANDES IMPORTADORA Y EXPORTADORA LTDA",
+              "Cantidad": 2000.0,
+              "MontoUnitario": 130.0
+            }
+          },
+          {
+            "Correlativo": 5,
+            "CodigoProducto": 30201902,
+            "CodigoCategoria": "30201900",
+            "Categoria": "Artículos para estructuras, obras y construcciones / Estructuras prefabricadas / Construcciones médicas prefabricadas",
+            "NombreProducto": "Unidades de laboratorio",
+            "Descripcion": "CONTROLES RPR (3 NIVELES)",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 3.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.131.142-5",
+              "NombreProveedor": "QUORUX CHILE SPA",
+              "Cantidad": 3.0,
+              "MontoUnitario": 75000.0
+            }
+          },
+          {
+            "Correlativo": 6,
+            "CodigoProducto": 30201902,
+            "CodigoCategoria": "30201900",
+            "Categoria": "Artículos para estructuras, obras y construcciones / Estructuras prefabricadas / Construcciones médicas prefabricadas",
+            "NombreProducto": "Unidades de laboratorio",
+            "Descripcion": "ESTANDAR DE TURBIDEZ MCFARLAND 0.5",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "79.728.570-6",
+              "NombreProveedor": "FARMALATINA LTDA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 33000.0
+            }
+          },
+          {
+            "Correlativo": 7,
+            "CodigoProducto": 41104112,
+            "CodigoCategoria": "41104100",
+            "Categoria": "Equipamiento para laboratorios / Equipos e insumos para laboratorio / Contenedores para especímenes de laboratorio",
+            "NombreProducto": "Contenedores de recogida de orina",
+            "Descripcion": "FRASCO DE ORINA 120 ML\r\n",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 3000.0,
+            "Adjudicacion": {
+              "RutProveedor": "77.561.431-5",
+              "NombreProveedor": "JFV SPA",
+              "Cantidad": 3000.0,
+              "MontoUnitario": 127.0
+            }
+          },
+          {
+            "Correlativo": 8,
+            "CodigoProducto": 30201902,
+            "CodigoCategoria": "30201900",
+            "Categoria": "Artículos para estructuras, obras y construcciones / Estructuras prefabricadas / Construcciones médicas prefabricadas",
+            "NombreProducto": "Unidades de laboratorio",
+            "Descripcion": "GRADILLA PLASTICA TUBO 13 mm (90 tubos)\r\n",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 40.0,
+            "Adjudicacion": {
+              "RutProveedor": "89.752.800-2",
+              "NombreProveedor": "DISTRIBUIDORA DE ARTICULOS MEDICOS PEREZ SPA",
+              "Cantidad": 40.0,
+              "MontoUnitario": 2100.0
+            }
+          },
+          {
+            "Correlativo": 9,
+            "CodigoProducto": 30201902,
+            "CodigoCategoria": "30201900",
+            "Categoria": "Artículos para estructuras, obras y construcciones / Estructuras prefabricadas / Construcciones médicas prefabricadas",
+            "NombreProducto": "Unidades de laboratorio",
+            "Descripcion": "KIT RPR 500 DETERMINACIONES+CONTROLES CON 3 NIVELES\r\n",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 6.0,
+            "Adjudicacion": {
+              "RutProveedor": "77.814.080-2",
+              "NombreProveedor": "COMERCIALIZADORA DE PRODUCTOS PARA LABORATORIOS E INDUSTRIA LIMITADA",
+              "Cantidad": 6.0,
+              "MontoUnitario": 61500.0
+            }
+          },
+          {
+            "Correlativo": 10,
+            "CodigoProducto": 41104108,
+            "CodigoCategoria": "41104100",
+            "Categoria": "Equipamiento para laboratorios / Equipos e insumos para laboratorio / Contenedores para especímenes de laboratorio",
+            "NombreProducto": "Tubos o contenedores de almacenamiento de sangre sin vacío",
+            "Descripcion": "KIT TOMA MUESTRA CON MEDIO TRANSPORTE VIRAL 3-5 ML (TUBO 3-5 ML MTV + HISOPO PREPICADO Y BOLSA)\r\n",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 600.0,
+            "Adjudicacion": {
+              "RutProveedor": "92.999.000-5",
+              "NombreProveedor": "IMPORTADORA Y DISTRIBUIDORA ARQUIMED LTDA",
+              "Cantidad": 600.0,
+              "MontoUnitario": 796.0
+            }
+          },
+          {
+            "Correlativo": 11,
+            "CodigoProducto": 41121509,
+            "CodigoCategoria": "41121500",
+            "Categoria": "Equipamiento para laboratorios / Suministros para laboratorios / Equipo y suministros para pipetas y manipulación de líquidos",
+            "NombreProducto": "Pipetas Pasteur o de transferencia",
+            "Descripcion": "PIPETA PASTEUR PLASTICA 3 ML DESECHABLE\r\n",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 9000.0,
+            "Adjudicacion": {
+              "RutProveedor": "77.561.431-5",
+              "NombreProveedor": "JFV SPA",
+              "Cantidad": 9000.0,
+              "MontoUnitario": 16.0
+            }
+          },
+          {
+            "Correlativo": 12,
+            "CodigoProducto": 30201902,
+            "CodigoCategoria": "30201900",
+            "Categoria": "Artículos para estructuras, obras y construcciones / Estructuras prefabricadas / Construcciones médicas prefabricadas",
+            "NombreProducto": "Unidades de laboratorio",
+            "Descripcion": "PISETAS PLASTICAS 250 CC.\r\n",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 2.0,
+            "Adjudicacion": {
+              "RutProveedor": "79.722.860-5",
+              "NombreProveedor": "WINKLER LIMITADA",
+              "Cantidad": 2.0,
+              "MontoUnitario": 2000.0
+            }
+          },
+          {
+            "Correlativo": 13,
+            "CodigoProducto": 41122601,
+            "CodigoCategoria": "41122600",
+            "Categoria": "Equipamiento para laboratorios / Suministros para laboratorios / Portaobjetos y suministros de laboratorio",
+            "NombreProducto": "Portaobjetos",
+            "Descripcion": "PORTA OBJETO DE VIDRIO C/FRANJA ESMERILADA 26X76 MM\r\n",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1500.0,
+            "Adjudicacion": {
+              "RutProveedor": "77.561.431-5",
+              "NombreProveedor": "JFV SPA",
+              "Cantidad": 1500.0,
+              "MontoUnitario": 17.0
+            }
+          },
+          {
+            "Correlativo": 14,
+            "CodigoProducto": 30201902,
+            "CodigoCategoria": "30201900",
+            "Categoria": "Artículos para estructuras, obras y construcciones / Estructuras prefabricadas / Construcciones médicas prefabricadas",
+            "NombreProducto": "Unidades de laboratorio",
+            "Descripcion": "PUNTA DESECHABLE MACRO 5 ML MICROPIPETA 100-5000 UL\r\n",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 2000.0,
+            "Adjudicacion": {
+              "RutProveedor": "77.304.460-0",
+              "NombreProveedor": "ANDES IMPORTADORA Y EXPORTADORA LTDA",
+              "Cantidad": 2000.0,
+              "MontoUnitario": 72.0
+            }
+          },
+          {
+            "Correlativo": 15,
+            "CodigoProducto": 30201902,
+            "CodigoCategoria": "30201900",
+            "Categoria": "Artículos para estructuras, obras y construcciones / Estructuras prefabricadas / Construcciones médicas prefabricadas",
+            "NombreProducto": "Unidades de laboratorio",
+            "Descripcion": "REACTIVO DE KOVACS (PRUEBA DE INDOL)\r\n",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "79.722.860-5",
+              "NombreProveedor": "WINKLER LIMITADA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 27500.0
+            }
+          },
+          {
+            "Correlativo": 16,
+            "CodigoProducto": 30201902,
+            "CodigoCategoria": "30201900",
+            "Categoria": "Artículos para estructuras, obras y construcciones / Estructuras prefabricadas / Construcciones médicas prefabricadas",
+            "NombreProducto": "Unidades de laboratorio",
+            "Descripcion": "TEST INMUNOCROMATOGRAFICO PARA DETECCION DE SANGRE OCULTA EN DEPOSICIONES, SIN DIETA\r\n",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 450.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.036.479-7",
+              "NombreProveedor": "ALATHEIA SPA",
+              "Cantidad": 450.0,
+              "MontoUnitario": 520.0
+            }
+          },
+          {
+            "Correlativo": 17,
+            "CodigoProducto": 30201902,
+            "CodigoCategoria": "30201900",
+            "Categoria": "Artículos para estructuras, obras y construcciones / Estructuras prefabricadas / Construcciones médicas prefabricadas",
+            "NombreProducto": "Unidades de laboratorio",
+            "Descripcion": "TEST RAPIDO INMUNOCROMATOGRAFICO PARA ANTIGENO HELICOBACTER PILORY EN DEPOSICIONES\r\n",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 300.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.036.479-7",
+              "NombreProveedor": "ALATHEIA SPA",
+              "Cantidad": 300.0,
+              "MontoUnitario": 960.0
+            }
+          },
+          {
+            "Correlativo": 18,
+            "CodigoProducto": 85121803,
+            "CodigoCategoria": "85121800",
+            "Categoria": "Salud, servicios sanitarios y alimentación / Medicina y servicios de salud / Laboratorios clínicos",
+            "NombreProducto": "Laboratorios biológicos",
+            "Descripcion": "TINCION HEMATOLOGICA GIEMSA 1000 ml desde 2% al 5% de concentracion\r\n",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "79.722.860-5",
+              "NombreProveedor": "WINKLER LIMITADA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 38000.0
+            }
+          },
+          {
+            "Correlativo": 19,
+            "CodigoProducto": 14111703,
+            "CodigoCategoria": "14111700",
+            "Categoria": "Productos de papel / Productos de papel / Productos de papel de uso personal",
+            "NombreProducto": "Toallas de papel",
+            "Descripcion": "TOALLA DE PAPEL DOBLADA\r\n",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 90.0,
+            "Adjudicacion": {
+              "RutProveedor": "77.054.028-3",
+              "NombreProveedor": "GREENWICH MEDICAL SPA",
+              "Cantidad": 90.0,
+              "MontoUnitario": 1161.0
+            }
+          },
+          {
+            "Correlativo": 20,
+            "CodigoProducto": 41104108,
+            "CodigoCategoria": "41104100",
+            "Categoria": "Equipamiento para laboratorios / Equipos e insumos para laboratorio / Contenedores para especímenes de laboratorio",
+            "NombreProducto": "Tubos o contenedores de almacenamiento de sangre sin vacío",
+            "Descripcion": "TUBO ESTERIL TAPA BLANCA AL VACIO SIN ADITIVO 4 ML\r\n",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 500.0,
+            "Adjudicacion": {
+              "RutProveedor": "77.561.431-5",
+              "NombreProveedor": "JFV SPA",
+              "Cantidad": 500.0,
+              "MontoUnitario": 65.0
+            }
+          },
+          {
+            "Correlativo": 21,
+            "CodigoProducto": 41104108,
+            "CodigoCategoria": "41104100",
+            "Categoria": "Equipamiento para laboratorios / Equipos e insumos para laboratorio / Contenedores para especímenes de laboratorio",
+            "NombreProducto": "Tubos o contenedores de almacenamiento de sangre sin vacío",
+            "Descripcion": "TUBO EXTRAC/SANGRE VACIO C/FLUOR TRIPOTASICO 5 ML (TAPA GRIS)\r\n",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1000.0,
+            "Adjudicacion": {
+              "RutProveedor": "77.561.431-5",
+              "NombreProveedor": "JFV SPA",
+              "Cantidad": 1000.0,
+              "MontoUnitario": 72.0
+            }
+          },
+          {
+            "Correlativo": 22,
+            "CodigoProducto": 41104108,
+            "CodigoCategoria": "41104100",
+            "Categoria": "Equipamiento para laboratorios / Equipos e insumos para laboratorio / Contenedores para especímenes de laboratorio",
+            "NombreProducto": "Tubos o contenedores de almacenamiento de sangre sin vacío",
+            "Descripcion": "TUBO PEDIATRICO MINICOLLET TAPA AMARILLO (0,5-1 ML)\r\n",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 500.0,
+            "Adjudicacion": {
+              "RutProveedor": "77.561.431-5",
+              "NombreProveedor": "JFV SPA",
+              "Cantidad": 500.0,
+              "MontoUnitario": 115.0
+            }
+          },
+          {
+            "Correlativo": 23,
+            "CodigoProducto": 41104108,
+            "CodigoCategoria": "41104100",
+            "Categoria": "Equipamiento para laboratorios / Equipos e insumos para laboratorio / Contenedores para especímenes de laboratorio",
+            "NombreProducto": "Tubos o contenedores de almacenamiento de sangre sin vacío",
+            "Descripcion": "TUBO PEDIATRICO MINICOLLET TAPA CELESTE (0,5 - 1 ML)\r\n",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 500.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.628.610-0",
+              "NombreProveedor": "IMPORTADORA Y COMERCIALIZADORA RE-MED SPA",
+              "Cantidad": 500.0,
+              "MontoUnitario": 78.0
+            }
+          },
+          {
+            "Correlativo": 24,
+            "CodigoProducto": 41104108,
+            "CodigoCategoria": "41104100",
+            "Categoria": "Equipamiento para laboratorios / Equipos e insumos para laboratorio / Contenedores para especímenes de laboratorio",
+            "NombreProducto": "Tubos o contenedores de almacenamiento de sangre sin vacío",
+            "Descripcion": "TUBO PEDIATRICO MINICOLLET TAPA LILA (0,5-1 ML)\r\n",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 500.0,
+            "Adjudicacion": {
+              "RutProveedor": "77.561.431-5",
+              "NombreProveedor": "JFV SPA",
+              "Cantidad": 500.0,
+              "MontoUnitario": 115.0
+            }
+          },
+          {
+            "Correlativo": 25,
+            "CodigoProducto": 41104108,
+            "CodigoCategoria": "41104100",
+            "Categoria": "Equipamiento para laboratorios / Equipos e insumos para laboratorio / Contenedores para especímenes de laboratorio",
+            "NombreProducto": "Tubos o contenedores de almacenamiento de sangre sin vacío",
+            "Descripcion": "TUBO PEDIATRICO TAPA ROJA FONDO PLANO 1 ML\r\n",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 500.0,
+            "Adjudicacion": {
+              "RutProveedor": "77.561.431-5",
+              "NombreProveedor": "JFV SPA",
+              "Cantidad": 500.0,
+              "MontoUnitario": 115.0
+            }
+          },
+          {
+            "Correlativo": 26,
+            "CodigoProducto": 41121701,
+            "CodigoCategoria": "41121700",
+            "Categoria": "Equipamiento para laboratorios / Suministros para laboratorios / Tubos de ensayo",
+            "NombreProducto": "Tubos de ensayo multipropósito o generales",
+            "Descripcion": "TUBO POLIPROPILENO KHAN 12 X 75 MM\r\n",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 3000.0,
+            "Adjudicacion": {
+              "RutProveedor": "77.561.431-5",
+              "NombreProveedor": "JFV SPA",
+              "Cantidad": 3000.0,
+              "MontoUnitario": 17.0
+            }
+          },
+          {
+            "Correlativo": 27,
+            "CodigoProducto": 41104108,
+            "CodigoCategoria": "41104100",
+            "Categoria": "Equipamiento para laboratorios / Equipos e insumos para laboratorio / Contenedores para especímenes de laboratorio",
+            "NombreProducto": "Tubos o contenedores de almacenamiento de sangre sin vacío",
+            "Descripcion": "TUBO SIN ANTICOAGULANTE CON GEL SEPARADOR TAPA AMARILLA 13X75 MM 3-4 ML\r\n",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 24000.0,
+            "Adjudicacion": {
+              "RutProveedor": "77.561.431-5",
+              "NombreProveedor": "JFV SPA",
+              "Cantidad": 24000.0,
+              "MontoUnitario": 86.0
+            }
+          },
+          {
+            "Correlativo": 28,
+            "CodigoProducto": 41104108,
+            "CodigoCategoria": "41104100",
+            "Categoria": "Equipamiento para laboratorios / Equipos e insumos para laboratorio / Contenedores para especímenes de laboratorio",
+            "NombreProducto": "Tubos o contenedores de almacenamiento de sangre sin vacío",
+            "Descripcion": "TUBO TAPA CELESTE CON CITRATO DE SODIO 3.2% 13X75 MM 2,7 ML\r\n",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 6000.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.866.699-7",
+              "NombreProveedor": "COMERCIAL VR LIMITADA",
+              "Cantidad": 6000.0,
+              "MontoUnitario": 72.0
+            }
+          },
+          {
+            "Correlativo": 29,
+            "CodigoProducto": 41104108,
+            "CodigoCategoria": "41104100",
+            "Categoria": "Equipamiento para laboratorios / Equipos e insumos para laboratorio / Contenedores para especímenes de laboratorio",
+            "NombreProducto": "Tubos o contenedores de almacenamiento de sangre sin vacío",
+            "Descripcion": "TUBO TAPA VERDE CON HEPARINA DE LITIO 13X75 MM 4 ML\r\n",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 3000.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.628.610-0",
+              "NombreProveedor": "IMPORTADORA Y COMERCIALIZADORA RE-MED SPA",
+              "Cantidad": 3000.0,
+              "MontoUnitario": 75.0
+            }
+          },
+          {
+            "Correlativo": 30,
+            "CodigoProducto": 41104108,
+            "CodigoCategoria": "41104100",
+            "Categoria": "Equipamiento para laboratorios / Equipos e insumos para laboratorio / Contenedores para especímenes de laboratorio",
+            "NombreProducto": "Tubos o contenedores de almacenamiento de sangre sin vacío",
+            "Descripcion": "TUBOS CONICOS PARA CENTRIFUGA X 10 ML SIN TAPA\r\n",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 6000.0,
+            "Adjudicacion": {
+              "RutProveedor": "77.561.431-5",
+              "NombreProveedor": "JFV SPA",
+              "Cantidad": 6000.0,
+              "MontoUnitario": 34.0
+            }
+          },
+          {
+            "Correlativo": 31,
+            "CodigoProducto": 42141502,
+            "CodigoCategoria": "42141500",
+            "Categoria": "Equipamiento y suministros médicos / Suministros y productos clínicos / Torundas de algodón y aplicadoras de algodón",
+            "NombreProducto": "Palitos con casquillo de fibra",
+            "Descripcion": "TORULA ALGODON CON VASTAGO MADERA ESTERIL (EMPAQUE INDIVIDUAL)\r\n",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 8000.0,
+            "Adjudicacion": {
+              "RutProveedor": "77.561.431-5",
+              "NombreProveedor": "JFV SPA",
+              "Cantidad": 8000.0,
+              "MontoUnitario": 27.0
+            }
+          },
+          {
+            "Correlativo": 32,
+            "CodigoProducto": 30201902,
+            "CodigoCategoria": "30201900",
+            "Categoria": "Artículos para estructuras, obras y construcciones / Estructuras prefabricadas / Construcciones médicas prefabricadas",
+            "NombreProducto": "Unidades de laboratorio",
+            "Descripcion": "MEDIO DE TRASPORTE STUART\r\n",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 300.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.628.610-0",
+              "NombreProveedor": "IMPORTADORA Y COMERCIALIZADORA RE-MED SPA",
+              "Cantidad": 300.0,
+              "MontoUnitario": 190.0
+            }
+          },
+          {
+            "Correlativo": 33,
+            "CodigoProducto": 30201902,
+            "CodigoCategoria": "30201900",
+            "Categoria": "Artículos para estructuras, obras y construcciones / Estructuras prefabricadas / Construcciones médicas prefabricadas",
+            "NombreProducto": "Unidades de laboratorio",
+            "Descripcion": "TORULA CARY BLAIR\r\n",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 300.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.628.610-0",
+              "NombreProveedor": "IMPORTADORA Y COMERCIALIZADORA RE-MED SPA",
+              "Cantidad": 300.0,
+              "MontoUnitario": 190.0
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,183 @@
+{
+  "Cantidad": 1,
+  "FechaCreacion": "2026-04-05T09:46:34.7192705Z",
+  "Version": "v1",
+  "Listado": [
+    {
+      "CodigoExterno": "1075963-90-LE26",
+      "Nombre": "CONVENIO DE BOLSAS PLASTICAS Y OTROS PARA HJNC ARICA",
+      "CodigoEstado": 8,
+      "Descripcion": "CONVENIO DE BOLSAS PLASTICAS Y OTROS PARA HJNC, ARICA",
+      "FechaCierre": null,
+      "Estado": "Adjudicada",
+      "Comprador": {
+        "CodigoOrganismo": "1667479",
+        "NombreOrganismo": "SERVICIO DE SALUD ARICA HOSP DR JUAN NOE CREVANI",
+        "RutUnidad": "61.606.001-5",
+        "CodigoUnidad": "1075963",
+        "NombreUnidad": "Hospital Juan Noé",
+        "DireccionUnidad": "",
+        "ComunaUnidad": "",
+        "RegionUnidad": "Región de Arica y Parinacota",
+        "RutUsuario": "",
+        "CodigoUsuario": "2329498",
+        "NombreUsuario": "Enzo Ponce Pérez",
+        "CargoUsuario": "Ejecutivo de Compras"
+      },
+      "DiasCierreLicitacion": "0",
+      "Informada": 0,
+      "CodigoTipo": 1,
+      "Tipo": "LE",
+      "TipoConvocatoria": "1",
+      "Moneda": "CLP",
+      "Etapas": 1,
+      "EstadoEtapas": "1",
+      "TomaRazon": "0",
+      "EstadoPublicidadOfertas": 1,
+      "JustificacionPublicidad": "",
+      "Contrato": "2",
+      "Obras": "0",
+      "CantidadReclamos": 145,
+      "Fechas": {
+        "FechaCreacion": "2026-02-05T00:00:00",
+        "FechaCierre": "2026-02-27T17:30:00",
+        "FechaInicio": "2026-02-16T17:35:00",
+        "FechaFinal": "2026-02-20T19:00:00",
+        "FechaPubRespuestas": "2026-02-23T19:00:00",
+        "FechaActoAperturaTecnica": "2026-02-27T18:00:00",
+        "FechaActoAperturaEconomica": "2026-02-27T18:00:00",
+        "FechaPublicacion": "2026-02-16T09:25:29.973",
+        "FechaAdjudicacion": "2026-04-02T08:32:33.883",
+        "FechaEstimadaAdjudicacion": "2026-03-19T17:30:00",
+        "FechaSoporteFisico": null,
+        "FechaTiempoEvaluacion": null,
+        "FechaEstimadaFirma": null,
+        "FechasUsuario": null,
+        "FechaVisitaTerreno": null,
+        "FechaEntregaAntecedentes": null
+      },
+      "UnidadTiempoEvaluacion": 1,
+      "DireccionVisita": "",
+      "DireccionEntrega": "",
+      "Estimacion": 1,
+      "FuenteFinanciamiento": "",
+      "VisibilidadMonto": 0,
+      "MontoEstimado": null,
+      "Tiempo": "24",
+      "UnidadTiempo": "1",
+      "Modalidad": 1,
+      "TipoPago": "1",
+      "NombreResponsablePago": "Renata Baltolu Zenteno",
+      "EmailResponsablePago": "",
+      "NombreResponsableContrato": "Rodrigo Soriano",
+      "EmailResponsableContrato": "",
+      "FonoResponsableContrato": "",
+      "ProhibicionContratacion": "",
+      "SubContratacion": "0",
+      "UnidadTiempoDuracionContrato": 4,
+      "TiempoDuracionContrato": "24",
+      "TipoDuracionContrato": " ",
+      "JustificacionMontoEstimado": "",
+      "ObservacionContract": null,
+      "ExtensionPlazo": 0,
+      "EsBaseTipo": 0,
+      "UnidadTiempoContratoLicitacion": "2",
+      "ValorTiempoRenovacion": "0",
+      "PeriodoTiempoRenovacion": " ",
+      "EsRenovable": 0,
+      "CodigoBIP": null,
+      "Adjudicacion": {
+        "Tipo": 2,
+        "Fecha": "2026-04-01T00:00:00",
+        "Numero": "180",
+        "NumeroOferentes": 4,
+        "UrlActa": "http://www.mercadopublico.cl/Procurement/Modules/RFB/StepsProcessAward/PreviewAwardAct.aspx?qs=/9WZrgnr6KBj4qUAUG3WPdqDvkGQjc1iK1UCIq6f+SI="
+      },
+      "Items": {
+        "Cantidad": 5,
+        "Listado": [
+          {
+            "Correlativo": 1,
+            "CodigoProducto": 24111503,
+            "CodigoCategoria": "24111500",
+            "Categoria": "Equipamiento para manejo y estiba de materiales / Recipientes para almacenamiento / Bolsas",
+            "NombreProducto": "Bolsas de plástico",
+            "Descripcion": "BOLSAS PLASTICAS DE 5 KL., TRANSPARENTES,  SIN ORIFICIOS, CON PREPICADO, MEDIDA 30 X 40 CM, 8 MICRONES GROSOR APP,ROLLOS GRANDES (NO INDUSTRIAL) (6700025)",
+            "UnidadMedida": "Rollo",
+            "Cantidad": 792.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.478.731-5",
+              "NombreProveedor": "SERVICIOS,  DISTRIBUCION Y LOGÍSTICA BRICH LIMITADA",
+              "Cantidad": 792.0,
+              "MontoUnitario": 7980.0
+            }
+          },
+          {
+            "Correlativo": 2,
+            "CodigoProducto": 24111503,
+            "CodigoCategoria": "24111500",
+            "Categoria": "Equipamiento para manejo y estiba de materiales / Recipientes para almacenamiento / Bolsas",
+            "NombreProducto": "Bolsas de plástico",
+            "Descripcion": "BOLSAS PLASTICAS DE 3 KL., TRANSPARENTES,  SIN ORIFICIOS, CON PREPICADO, MEDIDA 25 X 33 CM, 8 MICRONES GROSOR APP,ROLLOS GRANDES (NO INDUSTRIAL) (6700027)",
+            "UnidadMedida": "Rollo",
+            "Cantidad": 77.0,
+            "Adjudicacion": {
+              "RutProveedor": "9.454.737-7",
+              "NombreProveedor": "ANDRO DAVID LAFUENTE FERNANDEZ",
+              "Cantidad": 77.0,
+              "MontoUnitario": 7800.0
+            }
+          },
+          {
+            "Correlativo": 3,
+            "CodigoProducto": 24111503,
+            "CodigoCategoria": "24111500",
+            "Categoria": "Equipamiento para manejo y estiba de materiales / Recipientes para almacenamiento / Bolsas",
+            "NombreProducto": "Bolsas de plástico",
+            "Descripcion": "BOLSAS PLASTICAS DE 1 KILO - TRANSPARENTES,  SIN ORIFICIOS, CON PREPICADO, MEDIDA 16 X 31 CM, 8 MICRONES GROSOR APP,ROLLOS GRANDES (NO INDUSTRIAL)  (6700081)",
+            "UnidadMedida": "Rollo",
+            "Cantidad": 1188.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.478.731-5",
+              "NombreProveedor": "SERVICIOS,  DISTRIBUCION Y LOGÍSTICA BRICH LIMITADA",
+              "Cantidad": 1188.0,
+              "MontoUnitario": 5387.0
+            }
+          },
+          {
+            "Correlativo": 4,
+            "CodigoProducto": 14111703,
+            "CodigoCategoria": "14111700",
+            "Categoria": "Productos de papel / Productos de papel / Productos de papel de uso personal",
+            "NombreProducto": "Toallas de papel",
+            "Descripcion": "TOALLAS DE PAPEL, EQUIVALENTE O SUPERIOR (NOVA, FAVORITA, ETC.) (6700231)",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 4200.0,
+            "Adjudicacion": {
+              "RutProveedor": "9.454.737-7",
+              "NombreProveedor": "ANDRO DAVID LAFUENTE FERNANDEZ",
+              "Cantidad": 4200.0,
+              "MontoUnitario": 400.0
+            }
+          },
+          {
+            "Correlativo": 5,
+            "CodigoProducto": 24111503,
+            "CodigoCategoria": "24111500",
+            "Categoria": "Equipamiento para manejo y estiba de materiales / Recipientes para almacenamiento / Bolsas",
+            "NombreProducto": "Bolsas de plástico",
+            "Descripcion": "BOLSAS PLASTICAS DE 9 KILOS TRANSPARENTES, SIN ORIFICIOS, CON PREPICADO, MEDIDA 50 X 70 CM, 10 MICRONES GROSOR APP,ROLLOS GRANDES (NO INDUSTRIAL) (6702295)",
+            "UnidadMedida": "Rollo",
+            "Cantidad": 132.0,
+            "Adjudicacion": {
+              "RutProveedor": "9.454.737-7",
+              "NombreProveedor": "ANDRO DAVID LAFUENTE FERNANDEZ",
+              "Cantidad": 132.0,
+              "MontoUnitario": 15000.0
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

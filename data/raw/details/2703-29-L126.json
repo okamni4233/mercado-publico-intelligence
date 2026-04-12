@@ -1,0 +1,199 @@
+{
+  "Cantidad": 1,
+  "FechaCreacion": "2026-04-05T10:24:26.203311Z",
+  "Version": "v1",
+  "Listado": [
+    {
+      "CodigoExterno": "2703-29-L126",
+      "Nombre": "SC 12200 Insumos odontológicos. DESP. PARCIALIZADO",
+      "CodigoEstado": 8,
+      "Descripcion": "SC 12200 Insumos odontológicos. Despacho Parcializado.\r\n\r\nContacto y coordinación QF. Sr Cristian Valenzuela, fono 227317506, correo crvalenzuela@talasalud.cl\r\nEnviar datos para pago por transferencia a los Sres. Víctor Aguilar, Claudio Contreras, correo vaguilar@munitalagante.cl, ccontreras@talasalud.cl.\r\n",
+      "FechaCierre": null,
+      "Estado": "Adjudicada",
+      "Comprador": {
+        "CodigoOrganismo": "99765",
+        "NombreOrganismo": "I MUNICIPALIDAD DE TALAGANTE",
+        "RutUnidad": "69.071.800-6",
+        "CodigoUnidad": "3692",
+        "NombreUnidad": "Dirección de Salud",
+        "DireccionUnidad": "Pasaje Quemchi N°1075, Villa Mónaco, Talagante",
+        "ComunaUnidad": "",
+        "RegionUnidad": "Región Metropolitana de Santiago",
+        "RutUsuario": "",
+        "CodigoUsuario": "1070465",
+        "NombreUsuario": "ROSSANA GÓMEZ PAVEZ",
+        "CargoUsuario": "PROFESIONAL"
+      },
+      "DiasCierreLicitacion": "0",
+      "Informada": 0,
+      "CodigoTipo": 1,
+      "Tipo": "L1",
+      "TipoConvocatoria": "1",
+      "Moneda": "CLP",
+      "Etapas": 1,
+      "EstadoEtapas": "1",
+      "TomaRazon": "0",
+      "EstadoPublicidadOfertas": 1,
+      "JustificacionPublicidad": "",
+      "Contrato": "0",
+      "Obras": "0",
+      "CantidadReclamos": 1312,
+      "Fechas": {
+        "FechaCreacion": "2026-02-10T00:00:00",
+        "FechaCierre": "2026-02-19T12:00:00",
+        "FechaInicio": "2026-02-10T18:00:00",
+        "FechaFinal": "2026-02-12T18:00:00",
+        "FechaPubRespuestas": "2026-02-17T18:00:00",
+        "FechaActoAperturaTecnica": "2026-02-19T12:00:00",
+        "FechaActoAperturaEconomica": "2026-02-19T12:00:00",
+        "FechaPublicacion": "2026-02-10T17:02:00",
+        "FechaAdjudicacion": "2026-04-02T16:10:52.223",
+        "FechaEstimadaAdjudicacion": "2026-04-30T18:05:00",
+        "FechaSoporteFisico": null,
+        "FechaTiempoEvaluacion": null,
+        "FechaEstimadaFirma": null,
+        "FechasUsuario": null,
+        "FechaVisitaTerreno": null,
+        "FechaEntregaAntecedentes": null
+      },
+      "UnidadTiempoEvaluacion": 1,
+      "DireccionVisita": "",
+      "DireccionEntrega": "",
+      "Estimacion": 1,
+      "FuenteFinanciamiento": "",
+      "VisibilidadMonto": 1,
+      "MontoEstimado": 6900000.0,
+      "Tiempo": null,
+      "UnidadTiempo": "1",
+      "Modalidad": 1,
+      "TipoPago": "1",
+      "NombreResponsablePago": "Víctor Aguilar",
+      "EmailResponsablePago": "",
+      "NombreResponsableContrato": "Cristian Valenzuela",
+      "EmailResponsableContrato": "",
+      "FonoResponsableContrato": "",
+      "ProhibicionContratacion": "",
+      "SubContratacion": "1",
+      "UnidadTiempoDuracionContrato": 1,
+      "TiempoDuracionContrato": "0",
+      "TipoDuracionContrato": " ",
+      "JustificacionMontoEstimado": "Monto máximo disponible con impuestos y costos asociados incluidos.",
+      "ObservacionContract": null,
+      "ExtensionPlazo": 0,
+      "EsBaseTipo": 0,
+      "UnidadTiempoContratoLicitacion": "1",
+      "ValorTiempoRenovacion": "0",
+      "PeriodoTiempoRenovacion": " ",
+      "EsRenovable": 0,
+      "CodigoBIP": null,
+      "Adjudicacion": {
+        "Tipo": 5,
+        "Fecha": "2026-03-04T00:00:00",
+        "Numero": "SC 12200 Insumos odontológicos. DESP. PARCIALIZADO",
+        "NumeroOferentes": 8,
+        "UrlActa": "http://www.mercadopublico.cl/Procurement/Modules/RFB/StepsProcessAward/PreviewAwardAct.aspx?qs=Pzxpb8k0l/u9YTClYuglcaVubIZYlctot5mNRDRCqcI="
+      },
+      "Items": {
+        "Cantidad": 6,
+        "Listado": [
+          {
+            "Correlativo": 1,
+            "CodigoProducto": 42281604,
+            "CodigoCategoria": "42281600",
+            "Categoria": "Equipamiento y suministros médicos / Productos para la esterilización médica / Soluciones de desinfectantes y esterilización en frío",
+            "NombreProducto": "Desinfectantes de la superficie médica",
+            "Descripcion": "Desinfectante alcalino de compuestos amónicos cuaternarios, para la desinfección y limpieza de sistemas de aspiración en unidades dentales de amplio espectro antimicrobiano, con acción bactericida, levurocida y virucida, efectivo contra virus encapsulados",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 10.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.863.035-6",
+              "NombreProveedor": "KALIDENT LIMITADA",
+              "Cantidad": 10.0,
+              "MontoUnitario": 11900.0
+            }
+          },
+          {
+            "Correlativo": 2,
+            "CodigoProducto": 42291706,
+            "CodigoCategoria": "42291700",
+            "Categoria": "Equipamiento y suministros médicos / Productos quirúrgicos / Taladros quirúrgicos de mano, escariadores, instrumentos de punzonar, accesorios y productos relacionados",
+            "NombreProducto": "Fresas quirúrgicas o sus accesorios",
+            "Descripcion": "Fresa diamantada B/V redonda 0,16\r\n",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 300.0,
+            "Adjudicacion": {
+              "RutProveedor": "78.087.954-8",
+              "NombreProveedor": "AMSODENT MEDICAL SPA",
+              "Cantidad": 300.0,
+              "MontoUnitario": 1438.0
+            }
+          },
+          {
+            "Correlativo": 3,
+            "CodigoProducto": 42291706,
+            "CodigoCategoria": "42291700",
+            "Categoria": "Equipamiento y suministros médicos / Productos quirúrgicos / Taladros quirúrgicos de mano, escariadores, instrumentos de punzonar, accesorios y productos relacionados",
+            "NombreProducto": "Fresas quirúrgicas o sus accesorios",
+            "Descripcion": "Kit de fresa fino composite de pulido fino, que contenga 7 piezas para distinto tipo de pulido para uso odontológico tipos reducción oclusal/lingusal, chamber, filo cuchillo, eliminación punto de contacto y llama cuello largo.\r\n",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 30.0,
+            "Adjudicacion": {
+              "RutProveedor": "77.371.920-9",
+              "NombreProveedor": "CLAN DENT COMERCIALIZADORA LIMITADA",
+              "Cantidad": 30.0,
+              "MontoUnitario": 13950.0
+            }
+          },
+          {
+            "Correlativo": 4,
+            "CodigoProducto": 51142904,
+            "CodigoCategoria": "51142900",
+            "Categoria": "Medicamentos y productos farmacéuticos / Medicamentos para el sistema nervioso central / Fármacos anestésicos, complementos relacionados y analépticos",
+            "NombreProducto": "Lidocaína",
+            "Descripcion": "Anestesia tópica en base a lidocaína al 15%, presentación de 36 gr, frasco con atomizador y boquilla aplicadora, de acción rápida de 2 a 5 minutos, duración de 10 a 20 minutos, composición lidocaína base/cetrimida, vencimiento superior a 12 meses.\r\n",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 30.0,
+            "Adjudicacion": {
+              "RutProveedor": "78.378.160-3",
+              "NombreProveedor": "COMERCIAL EXPRESS DENT SPA",
+              "Cantidad": 30.0,
+              "MontoUnitario": 57220.0
+            }
+          },
+          {
+            "Correlativo": 5,
+            "CodigoProducto": 51142917,
+            "CodigoCategoria": "51142900",
+            "Categoria": "Medicamentos y productos farmacéuticos / Medicamentos para el sistema nervioso central / Fármacos anestésicos, complementos relacionados y analépticos",
+            "NombreProducto": "Mepivacaína",
+            "Descripcion": "Mepivacaina al 2% con epinefrina 1/100.000 solución inyectable, en envase de vidrio siliconado y con film de protección externa, libre de metilparabenos, extremo de cartucho con sello fijo, con tapa metálica y el otro con embolo móvil, bicapa de goma en e",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1000.0,
+            "Adjudicacion": {
+              "RutProveedor": "78.378.160-3",
+              "NombreProveedor": "COMERCIAL EXPRESS DENT SPA",
+              "Cantidad": 1000.0,
+              "MontoUnitario": 424.0
+            }
+          },
+          {
+            "Correlativo": 6,
+            "CodigoProducto": 42152502,
+            "CodigoCategoria": "42152500",
+            "Categoria": "Equipamiento y suministros médicos / Equipos y suministros odontológicos / Suministros dentales generales",
+            "NombreProducto": "Baberos dentales",
+            "Descripcion": "Babero dental desechable, que contenga tres capas, una de plástico y dos de papel para su impermeabilidad, bolsas por 100 unidades.\r\n",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 10000.0,
+            "Adjudicacion": {
+              "RutProveedor": "78.378.160-3",
+              "NombreProveedor": "COMERCIAL EXPRESS DENT SPA",
+              "Cantidad": 10000.0,
+              "MontoUnitario": 24.0
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

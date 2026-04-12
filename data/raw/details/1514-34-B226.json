@@ -1,0 +1,958 @@
+{
+  "Cantidad": 1,
+  "FechaCreacion": "2026-04-06T00:57:10.6563147Z",
+  "Version": "v1",
+  "Listado": [
+    {
+      "CodigoExterno": "1514-34-B226",
+      "Nombre": "Convenio de compra de exámenes de Laboratorio Clínico y UMT del Hospital de Castro",
+      "CodigoEstado": 8,
+      "Descripcion": "Se requiere tener convenio de compra de exámenes de Laboratorio Clínico y UMT del Hospital de Castro",
+      "FechaCierre": null,
+      "Estado": "Adjudicada",
+      "Comprador": {
+        "CodigoOrganismo": "16223",
+        "NombreOrganismo": "SERVICIO DE SALUD CHILOE",
+        "RutUnidad": "61.602.275-k",
+        "CodigoUnidad": "2510",
+        "NombreUnidad": "Hospital de Castro",
+        "DireccionUnidad": "Ramón Freire 852",
+        "ComunaUnidad": "Castro",
+        "RegionUnidad": "Región de los Lagos ",
+        "RutUsuario": "",
+        "CodigoUsuario": "1126971",
+        "NombreUsuario": "Lorena García Alava",
+        "CargoUsuario": "Profesional de Abastecimiento"
+      },
+      "DiasCierreLicitacion": "0",
+      "Informada": 0,
+      "CodigoTipo": 3,
+      "Tipo": "B2",
+      "TipoConvocatoria": "0",
+      "Moneda": "CLP",
+      "Etapas": 1,
+      "EstadoEtapas": "1",
+      "TomaRazon": "0",
+      "EstadoPublicidadOfertas": 1,
+      "JustificacionPublicidad": "",
+      "Contrato": "0",
+      "Obras": "0",
+      "CantidadReclamos": 2070,
+      "Fechas": {
+        "FechaCreacion": "2026-03-06T00:00:00",
+        "FechaCierre": "2026-03-23T15:35:00",
+        "FechaInicio": "2026-03-11T19:00:00",
+        "FechaFinal": "2026-03-17T12:00:00",
+        "FechaPubRespuestas": "2026-03-20T10:00:00",
+        "FechaActoAperturaTecnica": "2026-03-23T15:40:00",
+        "FechaActoAperturaEconomica": "2026-03-23T15:40:00",
+        "FechaPublicacion": "2026-03-11T16:42:34.54",
+        "FechaAdjudicacion": "2026-04-01T12:36:59.853",
+        "FechaEstimadaAdjudicacion": "2026-04-23T15:30:00",
+        "FechaSoporteFisico": null,
+        "FechaTiempoEvaluacion": null,
+        "FechaEstimadaFirma": null,
+        "FechasUsuario": null,
+        "FechaVisitaTerreno": null,
+        "FechaEntregaAntecedentes": null
+      },
+      "UnidadTiempoEvaluacion": 1,
+      "DireccionVisita": "",
+      "DireccionEntrega": "",
+      "Estimacion": 2,
+      "FuenteFinanciamiento": "HOSPITAL DE CASTRO",
+      "VisibilidadMonto": 0,
+      "MontoEstimado": null,
+      "Tiempo": "18",
+      "UnidadTiempo": "1",
+      "Modalidad": 1,
+      "TipoPago": "4",
+      "NombreResponsablePago": "YANY VARGAS MIRANDA",
+      "EmailResponsablePago": "",
+      "NombreResponsableContrato": "DR. DIEGO GAMBOA M.",
+      "EmailResponsableContrato": "",
+      "FonoResponsableContrato": "",
+      "ProhibicionContratacion": "",
+      "SubContratacion": "0",
+      "UnidadTiempoDuracionContrato": 4,
+      "TiempoDuracionContrato": "18",
+      "TipoDuracionContrato": " ",
+      "JustificacionMontoEstimado": "",
+      "ObservacionContract": null,
+      "ExtensionPlazo": 0,
+      "EsBaseTipo": 0,
+      "UnidadTiempoContratoLicitacion": "2",
+      "ValorTiempoRenovacion": "0",
+      "PeriodoTiempoRenovacion": " ",
+      "EsRenovable": 0,
+      "CodigoBIP": null,
+      "Adjudicacion": {
+        "Tipo": 2,
+        "Fecha": "2026-03-31T00:00:00",
+        "Numero": "4635",
+        "NumeroOferentes": 1,
+        "UrlActa": "http://www.mercadopublico.cl/Procurement/Modules/RFB/StepsProcessAward/PreviewAwardAct.aspx?qs=dvZdBHKGG7xLg/803+7eHM3WUDmBP/w5BcLT2qvxJ8s="
+      },
+      "Items": {
+        "Cantidad": 55,
+        "Listado": [
+          {
+            "Correlativo": 1,
+            "CodigoProducto": 85121803,
+            "CodigoCategoria": "85121800",
+            "Categoria": "Salud, servicios sanitarios y alimentación / Medicina y servicios de salud / Laboratorios clínicos",
+            "NombreProducto": "Laboratorios biológicos",
+            "Descripcion": "ITEM 1  SET DE EXAMENES DE AUTOINMUNIDAD. VALOR DEBE SER COINCIDENTE CON ANEXO ECONOMONICO N°1.",
+            "UnidadMedida": "Mes",
+            "Cantidad": 18.0,
+            "Adjudicacion": {
+              "RutProveedor": "88.987.500-3",
+              "NombreProveedor": "LABORATORIO LIVIO BARNAFI S.A.",
+              "Cantidad": 18.0,
+              "MontoUnitario": 3431066.0
+            }
+          },
+          {
+            "Correlativo": 2,
+            "CodigoProducto": 85121803,
+            "CodigoCategoria": "85121800",
+            "Categoria": "Salud, servicios sanitarios y alimentación / Medicina y servicios de salud / Laboratorios clínicos",
+            "NombreProducto": "Laboratorios biológicos",
+            "Descripcion": "ITEM 2 SET DE EXAMENES DE TIROIDES.\r\nVALOR DEBE SER COINCIDENTE CON ANEXO ECONOMONICO N°1.",
+            "UnidadMedida": "Mes",
+            "Cantidad": 18.0,
+            "Adjudicacion": {
+              "RutProveedor": "88.987.500-3",
+              "NombreProveedor": "LABORATORIO LIVIO BARNAFI S.A.",
+              "Cantidad": 18.0,
+              "MontoUnitario": 755950.0
+            }
+          },
+          {
+            "Correlativo": 3,
+            "CodigoProducto": 85121803,
+            "CodigoCategoria": "85121800",
+            "Categoria": "Salud, servicios sanitarios y alimentación / Medicina y servicios de salud / Laboratorios clínicos",
+            "NombreProducto": "Laboratorios biológicos",
+            "Descripcion": "ITEM 3 SET DE EXAMENES DE MARCADORES TUMORALES. VALOR DEBE SER COINCIDENTE CON ANEXO ECONOMONICO N°1.",
+            "UnidadMedida": "Mes",
+            "Cantidad": 18.0,
+            "Adjudicacion": {
+              "RutProveedor": "88.987.500-3",
+              "NombreProveedor": "LABORATORIO LIVIO BARNAFI S.A.",
+              "Cantidad": 18.0,
+              "MontoUnitario": 594259.0
+            }
+          },
+          {
+            "Correlativo": 4,
+            "CodigoProducto": 85121803,
+            "CodigoCategoria": "85121800",
+            "Categoria": "Salud, servicios sanitarios y alimentación / Medicina y servicios de salud / Laboratorios clínicos",
+            "NombreProducto": "Laboratorios biológicos",
+            "Descripcion": "ITEM 4 SET DE EXAMENES DE TROMBOFILIA. VALOR DEBE SER COINCIDENTE CON ANEXO ECONOMONICO N°1.",
+            "UnidadMedida": "Mes",
+            "Cantidad": 18.0,
+            "Adjudicacion": {
+              "RutProveedor": "88.987.500-3",
+              "NombreProveedor": "LABORATORIO LIVIO BARNAFI S.A.",
+              "Cantidad": 18.0,
+              "MontoUnitario": 2068425.0
+            }
+          },
+          {
+            "Correlativo": 5,
+            "CodigoProducto": 85121803,
+            "CodigoCategoria": "85121800",
+            "Categoria": "Salud, servicios sanitarios y alimentación / Medicina y servicios de salud / Laboratorios clínicos",
+            "NombreProducto": "Laboratorios biológicos",
+            "Descripcion": "ITEM 5 SET DE EXAMENES DESORDEN DEL CRECIMIENTO. VALOR DEBE SER COINCIDENTE CON ANEXO ECONOMONICO N°1.",
+            "UnidadMedida": "Mes",
+            "Cantidad": 18.0,
+            "Adjudicacion": {
+              "RutProveedor": "88.987.500-3",
+              "NombreProveedor": "LABORATORIO LIVIO BARNAFI S.A.",
+              "Cantidad": 18.0,
+              "MontoUnitario": 245235.0
+            }
+          },
+          {
+            "Correlativo": 6,
+            "CodigoProducto": 85121803,
+            "CodigoCategoria": "85121800",
+            "Categoria": "Salud, servicios sanitarios y alimentación / Medicina y servicios de salud / Laboratorios clínicos",
+            "NombreProducto": "Laboratorios biológicos",
+            "Descripcion": "ITEM 6 SET DE EXAMENES ANDROGENOS.\r\nVALOR DEBE SER COINCIDENTE CON ANEXO ECONOMONICO N°1.",
+            "UnidadMedida": "Mes",
+            "Cantidad": 18.0,
+            "Adjudicacion": {
+              "RutProveedor": "88.987.500-3",
+              "NombreProveedor": "LABORATORIO LIVIO BARNAFI S.A.",
+              "Cantidad": 18.0,
+              "MontoUnitario": 110000.0
+            }
+          },
+          {
+            "Correlativo": 7,
+            "CodigoProducto": 85121803,
+            "CodigoCategoria": "85121800",
+            "Categoria": "Salud, servicios sanitarios y alimentación / Medicina y servicios de salud / Laboratorios clínicos",
+            "NombreProducto": "Laboratorios biológicos",
+            "Descripcion": "ITEM 7 NIVELES PLASMATICOS DE FARMACOS INMUNOSUPRESORES. VALOR DEBE SER COINCIDENTE CON ANEXO ECONOMONICO N°1.",
+            "UnidadMedida": "Mes",
+            "Cantidad": 18.0,
+            "Adjudicacion": {
+              "RutProveedor": "88.987.500-3",
+              "NombreProveedor": "LABORATORIO LIVIO BARNAFI S.A.",
+              "Cantidad": 18.0,
+              "MontoUnitario": 343477.0
+            }
+          },
+          {
+            "Correlativo": 8,
+            "CodigoProducto": 85121803,
+            "CodigoCategoria": "85121800",
+            "Categoria": "Salud, servicios sanitarios y alimentación / Medicina y servicios de salud / Laboratorios clínicos",
+            "NombreProducto": "Laboratorios biológicos",
+            "Descripcion": "ITEM 8 SET DE EXAMENES DE HORMONAS. VALOR DEBE SER COINCIDENTE CON ANEXO ECONOMONICO N°1.",
+            "UnidadMedida": "Mes",
+            "Cantidad": 18.0,
+            "Adjudicacion": {
+              "RutProveedor": "88.987.500-3",
+              "NombreProveedor": "LABORATORIO LIVIO BARNAFI S.A.",
+              "Cantidad": 18.0,
+              "MontoUnitario": 690033.0
+            }
+          },
+          {
+            "Correlativo": 9,
+            "CodigoProducto": 85121803,
+            "CodigoCategoria": "85121800",
+            "Categoria": "Salud, servicios sanitarios y alimentación / Medicina y servicios de salud / Laboratorios clínicos",
+            "NombreProducto": "Laboratorios biológicos",
+            "Descripcion": "ITEM 9 SET DE EXAMENES LINFOCITOS T. VALOR DEBE SER COINCIDENTE CON ANEXO ECONOMONICO N°1.",
+            "UnidadMedida": "Mes",
+            "Cantidad": 18.0,
+            "Adjudicacion": {
+              "RutProveedor": "88.987.500-3",
+              "NombreProveedor": "LABORATORIO LIVIO BARNAFI S.A.",
+              "Cantidad": 18.0,
+              "MontoUnitario": 117376.0
+            }
+          },
+          {
+            "Correlativo": 10,
+            "CodigoProducto": 85121803,
+            "CodigoCategoria": "85121800",
+            "Categoria": "Salud, servicios sanitarios y alimentación / Medicina y servicios de salud / Laboratorios clínicos",
+            "NombreProducto": "Laboratorios biológicos",
+            "Descripcion": "ITEM 10 NIVELES DE ANTICUERPOS CONTRA MICROORGANISMOS.VALOR DEBE SER COINCIDENTE CON ANEXO ECONOMONICO N°1.",
+            "UnidadMedida": "Mes",
+            "Cantidad": 18.0,
+            "Adjudicacion": {
+              "RutProveedor": "88.987.500-3",
+              "NombreProveedor": "LABORATORIO LIVIO BARNAFI S.A.",
+              "Cantidad": 18.0,
+              "MontoUnitario": 728634.0
+            }
+          },
+          {
+            "Correlativo": 11,
+            "CodigoProducto": 85121803,
+            "CodigoCategoria": "85121800",
+            "Categoria": "Salud, servicios sanitarios y alimentación / Medicina y servicios de salud / Laboratorios clínicos",
+            "NombreProducto": "Laboratorios biológicos",
+            "Descripcion": "ITEM 11 NIVELES DE ANTICUERPOS DE VIRUS HEPATITIS. VALOR DEBE SER COINCIDENTE CON ANEXO ECONOMONICO N°1.",
+            "UnidadMedida": "Mes",
+            "Cantidad": 18.0,
+            "Adjudicacion": {
+              "RutProveedor": "88.987.500-3",
+              "NombreProveedor": "LABORATORIO LIVIO BARNAFI S.A.",
+              "Cantidad": 18.0,
+              "MontoUnitario": 289411.0
+            }
+          },
+          {
+            "Correlativo": 12,
+            "CodigoProducto": 85121803,
+            "CodigoCategoria": "85121800",
+            "Categoria": "Salud, servicios sanitarios y alimentación / Medicina y servicios de salud / Laboratorios clínicos",
+            "NombreProducto": "Laboratorios biológicos",
+            "Descripcion": "ITEM 12 NIVELES PLASMATICOS DE FARMACOS.\r\nVALOR DEBE SER COINCIDENTE CON ANEXO ECONOMONICO N°1.",
+            "UnidadMedida": "Mes",
+            "Cantidad": 18.0,
+            "Adjudicacion": {
+              "RutProveedor": "88.987.500-3",
+              "NombreProveedor": "LABORATORIO LIVIO BARNAFI S.A.",
+              "Cantidad": 18.0,
+              "MontoUnitario": 219676.0
+            }
+          },
+          {
+            "Correlativo": 13,
+            "CodigoProducto": 85121803,
+            "CodigoCategoria": "85121800",
+            "Categoria": "Salud, servicios sanitarios y alimentación / Medicina y servicios de salud / Laboratorios clínicos",
+            "NombreProducto": "Laboratorios biológicos",
+            "Descripcion": "ITEM 13\tINMUNOGLOBULINA E TOTAL. \r\nVALOR DEBE SER COINCIDENTE CON ANEXO ECONOMONICO N°1.",
+            "UnidadMedida": "Mes",
+            "Cantidad": 18.0,
+            "Adjudicacion": {
+              "RutProveedor": "88.987.500-3",
+              "NombreProveedor": "LABORATORIO LIVIO BARNAFI S.A.",
+              "Cantidad": 18.0,
+              "MontoUnitario": 73543.0
+            }
+          },
+          {
+            "Correlativo": 14,
+            "CodigoProducto": 85121803,
+            "CodigoCategoria": "85121800",
+            "Categoria": "Salud, servicios sanitarios y alimentación / Medicina y servicios de salud / Laboratorios clínicos",
+            "NombreProducto": "Laboratorios biológicos",
+            "Descripcion": "ITEM 14\tPANEL IG E ALERGENO ESPECÍFICA (MÍNIMO 30 ALERGENOS).\r\nVALOR DEBE SER COINCIDENTE CON ANEXO ECONOMONICO N°1.",
+            "UnidadMedida": "Mes",
+            "Cantidad": 18.0,
+            "Adjudicacion": {
+              "RutProveedor": "88.987.500-3",
+              "NombreProveedor": "LABORATORIO LIVIO BARNAFI S.A.",
+              "Cantidad": 18.0,
+              "MontoUnitario": 1629424.0
+            }
+          },
+          {
+            "Correlativo": 15,
+            "CodigoProducto": 85121803,
+            "CodigoCategoria": "85121800",
+            "Categoria": "Salud, servicios sanitarios y alimentación / Medicina y servicios de salud / Laboratorios clínicos",
+            "NombreProducto": "Laboratorios biológicos",
+            "Descripcion": "ITEM 15\tINMUNOFIJACION DE INMUNOGLOBULINA EN SANGRE.\r\nVALOR DEBE SER COINCIDENTE CON ANEXO ECONOMONICO N°1.\r\n",
+            "UnidadMedida": "Mes",
+            "Cantidad": 18.0,
+            "Adjudicacion": {
+              "RutProveedor": "88.987.500-3",
+              "NombreProveedor": "LABORATORIO LIVIO BARNAFI S.A.",
+              "Cantidad": 18.0,
+              "MontoUnitario": 450575.0
+            }
+          },
+          {
+            "Correlativo": 16,
+            "CodigoProducto": 85121803,
+            "CodigoCategoria": "85121800",
+            "Categoria": "Salud, servicios sanitarios y alimentación / Medicina y servicios de salud / Laboratorios clínicos",
+            "NombreProducto": "Laboratorios biológicos",
+            "Descripcion": "ITEM 16\tINMUNOFIJACION DE INMUNOGLOBULINAS EN ORINA.\r\nVALOR DEBE SER COINCIDENTE CON ANEXO ECONOMONICO N°1.",
+            "UnidadMedida": "Mes",
+            "Cantidad": 18.0,
+            "Adjudicacion": {
+              "RutProveedor": "88.987.500-3",
+              "NombreProveedor": "LABORATORIO LIVIO BARNAFI S.A.",
+              "Cantidad": 179.9897,
+              "MontoUnitario": 26285.0
+            }
+          },
+          {
+            "Correlativo": 17,
+            "CodigoProducto": 85121803,
+            "CodigoCategoria": "85121800",
+            "Categoria": "Salud, servicios sanitarios y alimentación / Medicina y servicios de salud / Laboratorios clínicos",
+            "NombreProducto": "Laboratorios biológicos",
+            "Descripcion": "ITEM 17\tELECTROFORESIS DE PROTEINAS EN SUERO. \r\nVALOR DEBE SER COINCIDENTE CON ANEXO ECONOMONICO N°1.",
+            "UnidadMedida": "Mes",
+            "Cantidad": 18.0,
+            "Adjudicacion": {
+              "RutProveedor": "88.987.500-3",
+              "NombreProveedor": "LABORATORIO LIVIO BARNAFI S.A.",
+              "Cantidad": 18.0,
+              "MontoUnitario": 76168.0
+            }
+          },
+          {
+            "Correlativo": 18,
+            "CodigoProducto": 85121803,
+            "CodigoCategoria": "85121800",
+            "Categoria": "Salud, servicios sanitarios y alimentación / Medicina y servicios de salud / Laboratorios clínicos",
+            "NombreProducto": "Laboratorios biológicos",
+            "Descripcion": "ITEM 18\tELECTROFORESIS DE PROTEINAS EN ORINA.\r\nVALOR DEBE SER COINCIDENTE CON ANEXO ECONOMONICO N°1.",
+            "UnidadMedida": "Mes",
+            "Cantidad": 18.0,
+            "Adjudicacion": {
+              "RutProveedor": "88.987.500-3",
+              "NombreProveedor": "LABORATORIO LIVIO BARNAFI S.A.",
+              "Cantidad": 18.0,
+              "MontoUnitario": 26141.0
+            }
+          },
+          {
+            "Correlativo": 19,
+            "CodigoProducto": 85121803,
+            "CodigoCategoria": "85121800",
+            "Categoria": "Salud, servicios sanitarios y alimentación / Medicina y servicios de salud / Laboratorios clínicos",
+            "NombreProducto": "Laboratorios biológicos",
+            "Descripcion": "ITEM 19\tMETANEFRINAS URINARIAS. VALOR DEBE SER COINCIDENTE CON ANEXO ECONOMONICO N°1.",
+            "UnidadMedida": "Mes",
+            "Cantidad": 18.0,
+            "Adjudicacion": {
+              "RutProveedor": "88.987.500-3",
+              "NombreProveedor": "LABORATORIO LIVIO BARNAFI S.A.",
+              "Cantidad": 18.0,
+              "MontoUnitario": 282164.0
+            }
+          },
+          {
+            "Correlativo": 20,
+            "CodigoProducto": 85121803,
+            "CodigoCategoria": "85121800",
+            "Categoria": "Salud, servicios sanitarios y alimentación / Medicina y servicios de salud / Laboratorios clínicos",
+            "NombreProducto": "Laboratorios biológicos",
+            "Descripcion": "ITEM 20\tCATECOLAMINAS EN ORINA. VALOR DEBE SER COINCIDENTE CON ANEXO ECONOMONICO N°1.",
+            "UnidadMedida": "Mes",
+            "Cantidad": 18.0,
+            "Adjudicacion": {
+              "RutProveedor": "88.987.500-3",
+              "NombreProveedor": "LABORATORIO LIVIO BARNAFI S.A.",
+              "Cantidad": 18.0,
+              "MontoUnitario": 98871.0
+            }
+          },
+          {
+            "Correlativo": 21,
+            "CodigoProducto": 85121803,
+            "CodigoCategoria": "85121800",
+            "Categoria": "Salud, servicios sanitarios y alimentación / Medicina y servicios de salud / Laboratorios clínicos",
+            "NombreProducto": "Laboratorios biológicos",
+            "Descripcion": "ITEM 21\tCALPROTECTINA CUANTITATIVA. VALOR DEBE SER COINCIDENTE CON ANEXO ECONOMONICO N°1.",
+            "UnidadMedida": "Mes",
+            "Cantidad": 18.0,
+            "Adjudicacion": {
+              "RutProveedor": "88.987.500-3",
+              "NombreProveedor": "LABORATORIO LIVIO BARNAFI S.A.",
+              "Cantidad": 18.0,
+              "MontoUnitario": 368879.0
+            }
+          },
+          {
+            "Correlativo": 22,
+            "CodigoProducto": 85121803,
+            "CodigoCategoria": "85121800",
+            "Categoria": "Salud, servicios sanitarios y alimentación / Medicina y servicios de salud / Laboratorios clínicos",
+            "NombreProducto": "Laboratorios biológicos",
+            "Descripcion": "ITEM 22\tTEST DE SUDAN III (GRASAS NEUTRAS). VALOR DEBE SER COINCIDENTE CON ANEXO ECONOMONICO N°1.",
+            "UnidadMedida": "Mes",
+            "Cantidad": 18.0,
+            "Adjudicacion": {
+              "RutProveedor": "88.987.500-3",
+              "NombreProveedor": "LABORATORIO LIVIO BARNAFI S.A.",
+              "Cantidad": 18.0,
+              "MontoUnitario": 24607.0
+            }
+          },
+          {
+            "Correlativo": 23,
+            "CodigoProducto": 85121803,
+            "CodigoCategoria": "85121800",
+            "Categoria": "Salud, servicios sanitarios y alimentación / Medicina y servicios de salud / Laboratorios clínicos",
+            "NombreProducto": "Laboratorios biológicos",
+            "Descripcion": "ITEM 23\tANTI-B2-GLICOPROTEINA-I IGG. VALOR DEBE SER COINCIDENTE CON ANEXO ECONOMONICO N°1.",
+            "UnidadMedida": "Mes",
+            "Cantidad": 18.0,
+            "Adjudicacion": {
+              "RutProveedor": "88.987.500-3",
+              "NombreProveedor": "LABORATORIO LIVIO BARNAFI S.A.",
+              "Cantidad": 18.0,
+              "MontoUnitario": 123459.0
+            }
+          },
+          {
+            "Correlativo": 24,
+            "CodigoProducto": 85121803,
+            "CodigoCategoria": "85121800",
+            "Categoria": "Salud, servicios sanitarios y alimentación / Medicina y servicios de salud / Laboratorios clínicos",
+            "NombreProducto": "Laboratorios biológicos",
+            "Descripcion": "ITEM 24\tANTI-B2-GLICOPROTEINA-I IgM. VALOR DEBE SER COINCIDENTE CON ANEXO ECONOMONICO N°1.",
+            "UnidadMedida": "Mes",
+            "Cantidad": 18.0,
+            "Adjudicacion": {
+              "RutProveedor": "88.987.500-3",
+              "NombreProveedor": "LABORATORIO LIVIO BARNAFI S.A.",
+              "Cantidad": 18.0,
+              "MontoUnitario": 123459.0
+            }
+          },
+          {
+            "Correlativo": 25,
+            "CodigoProducto": 85121803,
+            "CodigoCategoria": "85121800",
+            "Categoria": "Salud, servicios sanitarios y alimentación / Medicina y servicios de salud / Laboratorios clínicos",
+            "NombreProducto": "Laboratorios biológicos",
+            "Descripcion": "ITEM 25\tAC. ANTIPEPTIDO DEAMINADO DE GLIADINA IGA. VALOR DEBE SER COINCIDENTE CON ANEXO ECONOMONICO N°1.",
+            "UnidadMedida": "Mes",
+            "Cantidad": 18.0,
+            "Adjudicacion": {
+              "RutProveedor": "88.987.500-3",
+              "NombreProveedor": "LABORATORIO LIVIO BARNAFI S.A.",
+              "Cantidad": 18.0,
+              "MontoUnitario": 16546.0
+            }
+          },
+          {
+            "Correlativo": 26,
+            "CodigoProducto": 85121803,
+            "CodigoCategoria": "85121800",
+            "Categoria": "Salud, servicios sanitarios y alimentación / Medicina y servicios de salud / Laboratorios clínicos",
+            "NombreProducto": "Laboratorios biológicos",
+            "Descripcion": "ITEM 26\tAC. ANTIPEPTIDO DEAMINADO DE GLIADINA IGG. VALOR DEBE SER COINCIDENTE CON ANEXO ECONOMONICO N°1.",
+            "UnidadMedida": "Mes",
+            "Cantidad": 18.0,
+            "Adjudicacion": {
+              "RutProveedor": "88.987.500-3",
+              "NombreProveedor": "LABORATORIO LIVIO BARNAFI S.A.",
+              "Cantidad": 18.0,
+              "MontoUnitario": 16546.0
+            }
+          },
+          {
+            "Correlativo": 27,
+            "CodigoProducto": 85121803,
+            "CodigoCategoria": "85121800",
+            "Categoria": "Salud, servicios sanitarios y alimentación / Medicina y servicios de salud / Laboratorios clínicos",
+            "NombreProducto": "Laboratorios biológicos",
+            "Descripcion": "ITEM 27\tPERFIL DE AMINOACIDOS Y ACILCARNITINAS. VALOR DEBE SER COINCIDENTE CON ANEXO ECONOMONICO N°1.",
+            "UnidadMedida": "Mes",
+            "Cantidad": 18.0,
+            "Adjudicacion": {
+              "RutProveedor": "88.987.500-3",
+              "NombreProveedor": "LABORATORIO LIVIO BARNAFI S.A.",
+              "Cantidad": 18.0,
+              "MontoUnitario": 88758.0
+            }
+          },
+          {
+            "Correlativo": 28,
+            "CodigoProducto": 85121803,
+            "CodigoCategoria": "85121800",
+            "Categoria": "Salud, servicios sanitarios y alimentación / Medicina y servicios de salud / Laboratorios clínicos",
+            "NombreProducto": "Laboratorios biológicos",
+            "Descripcion": "ITEM 28\tPEPTIDO C. VALOR DEBE SER COINCIDENTE CON ANEXO ECONOMONICO N°1.",
+            "UnidadMedida": "Mes",
+            "Cantidad": 18.0,
+            "Adjudicacion": {
+              "RutProveedor": "88.987.500-3",
+              "NombreProveedor": "LABORATORIO LIVIO BARNAFI S.A.",
+              "Cantidad": 18.0,
+              "MontoUnitario": 24588.0
+            }
+          },
+          {
+            "Correlativo": 29,
+            "CodigoProducto": 85121803,
+            "CodigoCategoria": "85121800",
+            "Categoria": "Salud, servicios sanitarios y alimentación / Medicina y servicios de salud / Laboratorios clínicos",
+            "NombreProducto": "Laboratorios biológicos",
+            "Descripcion": "ITEM 29\tβ2-MICROGLOBULINA. VALOR DEBE SER COINCIDENTE CON ANEXO ECONOMONICO N°1.",
+            "UnidadMedida": "Mes",
+            "Cantidad": 18.0,
+            "Adjudicacion": {
+              "RutProveedor": "88.987.500-3",
+              "NombreProveedor": "LABORATORIO LIVIO BARNAFI S.A.",
+              "Cantidad": 18.0,
+              "MontoUnitario": 34987.0
+            }
+          },
+          {
+            "Correlativo": 30,
+            "CodigoProducto": 85121803,
+            "CodigoCategoria": "85121800",
+            "Categoria": "Salud, servicios sanitarios y alimentación / Medicina y servicios de salud / Laboratorios clínicos",
+            "NombreProducto": "Laboratorios biológicos",
+            "Descripcion": "ITEM 30\tACIDO FOLICO (FOLATO). VALOR DEBE SER COINCIDENTE CON ANEXO ECONOMONICO N°1.",
+            "UnidadMedida": "Mes",
+            "Cantidad": 18.0,
+            "Adjudicacion": {
+              "RutProveedor": "88.987.500-3",
+              "NombreProveedor": "LABORATORIO LIVIO BARNAFI S.A.",
+              "Cantidad": 18.0,
+              "MontoUnitario": 52772.0
+            }
+          },
+          {
+            "Correlativo": 31,
+            "CodigoProducto": 85121803,
+            "CodigoCategoria": "85121800",
+            "Categoria": "Salud, servicios sanitarios y alimentación / Medicina y servicios de salud / Laboratorios clínicos",
+            "NombreProducto": "Laboratorios biológicos",
+            "Descripcion": "ITEM 31\tACTIVIDAD RENINA PLASMATICA. VALOR DEBE SER COINCIDENTE CON ANEXO ECONOMONICO N°1.",
+            "UnidadMedida": "Mes",
+            "Cantidad": 18.0,
+            "Adjudicacion": {
+              "RutProveedor": "88.987.500-3",
+              "NombreProveedor": "LABORATORIO LIVIO BARNAFI S.A.",
+              "Cantidad": 18.0,
+              "MontoUnitario": 158067.0
+            }
+          },
+          {
+            "Correlativo": 32,
+            "CodigoProducto": 85121803,
+            "CodigoCategoria": "85121800",
+            "Categoria": "Salud, servicios sanitarios y alimentación / Medicina y servicios de salud / Laboratorios clínicos",
+            "NombreProducto": "Laboratorios biológicos",
+            "Descripcion": "ITEM 32\tINMUNOGLOBULINA DE SUB CLASE IgG4. VALOR DEBE SER COINCIDENTE CON ANEXO ECONOMONICO N°1.",
+            "UnidadMedida": "Mes",
+            "Cantidad": 18.0,
+            "Adjudicacion": {
+              "RutProveedor": "88.987.500-3",
+              "NombreProveedor": "LABORATORIO LIVIO BARNAFI S.A.",
+              "Cantidad": 18.0,
+              "MontoUnitario": 81418.0
+            }
+          },
+          {
+            "Correlativo": 33,
+            "CodigoProducto": 85121803,
+            "CodigoCategoria": "85121800",
+            "Categoria": "Salud, servicios sanitarios y alimentación / Medicina y servicios de salud / Laboratorios clínicos",
+            "NombreProducto": "Laboratorios biológicos",
+            "Descripcion": "ITEM 33\tANTICUERPOS IGA ANTIGLIADINAS. VALOR DEBE SER COINCIDENTE CON ANEXO ECONOMONICO N°1.",
+            "UnidadMedida": "Mes",
+            "Cantidad": 18.0,
+            "Adjudicacion": {
+              "RutProveedor": "88.987.500-3",
+              "NombreProveedor": "LABORATORIO LIVIO BARNAFI S.A.",
+              "Cantidad": 18.0,
+              "MontoUnitario": 28471.0
+            }
+          },
+          {
+            "Correlativo": 34,
+            "CodigoProducto": 85121803,
+            "CodigoCategoria": "85121800",
+            "Categoria": "Salud, servicios sanitarios y alimentación / Medicina y servicios de salud / Laboratorios clínicos",
+            "NombreProducto": "Laboratorios biológicos",
+            "Descripcion": "ITEM 34\tANTICUERPOS IGG ANTIGLIADINAS. VALOR DEBE SER COINCIDENTE CON ANEXO ECONOMONICO N°1.",
+            "UnidadMedida": "Mes",
+            "Cantidad": 18.0,
+            "Adjudicacion": {
+              "RutProveedor": "88.987.500-3",
+              "NombreProveedor": "LABORATORIO LIVIO BARNAFI S.A.",
+              "Cantidad": 18.0,
+              "MontoUnitario": 28471.0
+            }
+          },
+          {
+            "Correlativo": 35,
+            "CodigoProducto": 85121803,
+            "CodigoCategoria": "85121800",
+            "Categoria": "Salud, servicios sanitarios y alimentación / Medicina y servicios de salud / Laboratorios clínicos",
+            "NombreProducto": "Laboratorios biológicos",
+            "Descripcion": "ITEM 35\tRENINA PLASMATICA. VALOR DEBE SER COINCIDENTE CON ANEXO ECONOMONICO N°1.",
+            "UnidadMedida": "Mes",
+            "Cantidad": 18.0,
+            "Adjudicacion": {
+              "RutProveedor": "88.987.500-3",
+              "NombreProveedor": "LABORATORIO LIVIO BARNAFI S.A.",
+              "Cantidad": 18.0,
+              "MontoUnitario": 29950.0
+            }
+          },
+          {
+            "Correlativo": 36,
+            "CodigoProducto": 85121803,
+            "CodigoCategoria": "85121800",
+            "Categoria": "Salud, servicios sanitarios y alimentación / Medicina y servicios de salud / Laboratorios clínicos",
+            "NombreProducto": "Laboratorios biológicos",
+            "Descripcion": "ITEM 36\tCERULOPLASMINA. VALOR DEBE SER COINCIDENTE CON ANEXO ECONOMONICO N°1.",
+            "UnidadMedida": "Mes",
+            "Cantidad": 18.0,
+            "Adjudicacion": {
+              "RutProveedor": "88.987.500-3",
+              "NombreProveedor": "LABORATORIO LIVIO BARNAFI S.A.",
+              "Cantidad": 18.0,
+              "MontoUnitario": 5066.0
+            }
+          },
+          {
+            "Correlativo": 37,
+            "CodigoProducto": 85121803,
+            "CodigoCategoria": "85121800",
+            "Categoria": "Salud, servicios sanitarios y alimentación / Medicina y servicios de salud / Laboratorios clínicos",
+            "NombreProducto": "Laboratorios biológicos",
+            "Descripcion": "ITEM 37\tCADENAS LIVIANAS LIBRES (RAZÓN KAPPA/LAMBDA). VALOR DEBE SER COINCIDENTE CON ANEXO ECONOMONICO N°1.",
+            "UnidadMedida": "Mes",
+            "Cantidad": 18.0,
+            "Adjudicacion": {
+              "RutProveedor": "88.987.500-3",
+              "NombreProveedor": "LABORATORIO LIVIO BARNAFI S.A.",
+              "Cantidad": 18.0,
+              "MontoUnitario": 250024.0
+            }
+          },
+          {
+            "Correlativo": 38,
+            "CodigoProducto": 85121803,
+            "CodigoCategoria": "85121800",
+            "Categoria": "Salud, servicios sanitarios y alimentación / Medicina y servicios de salud / Laboratorios clínicos",
+            "NombreProducto": "Laboratorios biológicos",
+            "Descripcion": "ITEM 38\tANTICUERPOS PROTEINASA 3 (PR-3). VALOR DEBE SER COINCIDENTE CON ANEXO ECONOMONICO N°1.\r\n",
+            "UnidadMedida": "Mes",
+            "Cantidad": 18.0,
+            "Adjudicacion": {
+              "RutProveedor": "88.987.500-3",
+              "NombreProveedor": "LABORATORIO LIVIO BARNAFI S.A.",
+              "Cantidad": 18.0,
+              "MontoUnitario": 34571.0
+            }
+          },
+          {
+            "Correlativo": 39,
+            "CodigoProducto": 85121803,
+            "CodigoCategoria": "85121800",
+            "Categoria": "Salud, servicios sanitarios y alimentación / Medicina y servicios de salud / Laboratorios clínicos",
+            "NombreProducto": "Laboratorios biológicos",
+            "Descripcion": "ITEM 39\tHOMOCISTEINA. VALOR DEBE SER COINCIDENTE CON ANEXO ECONOMONICO N°1.\r\n",
+            "UnidadMedida": "Mes",
+            "Cantidad": 18.0,
+            "Adjudicacion": {
+              "RutProveedor": "88.987.500-3",
+              "NombreProveedor": "LABORATORIO LIVIO BARNAFI S.A.",
+              "Cantidad": 18.0,
+              "MontoUnitario": 54353.0
+            }
+          },
+          {
+            "Correlativo": 40,
+            "CodigoProducto": 85121803,
+            "CodigoCategoria": "85121800",
+            "Categoria": "Salud, servicios sanitarios y alimentación / Medicina y servicios de salud / Laboratorios clínicos",
+            "NombreProducto": "Laboratorios biológicos",
+            "Descripcion": "ITEM 40\tPANEL MARCADORES INMUNOLOGICOS DE DIABETES (MÍNIMO 5 MARCADORES). VALOR DEBE SER COINCIDENTE CON ANEXO ECONOMONICO N°1.\r\n",
+            "UnidadMedida": "Mes",
+            "Cantidad": 18.0,
+            "Adjudicacion": {
+              "RutProveedor": "88.987.500-3",
+              "NombreProveedor": "LABORATORIO LIVIO BARNAFI S.A.",
+              "Cantidad": 18.0,
+              "MontoUnitario": 327550.0
+            }
+          },
+          {
+            "Correlativo": 41,
+            "CodigoProducto": 85121803,
+            "CodigoCategoria": "85121800",
+            "Categoria": "Salud, servicios sanitarios y alimentación / Medicina y servicios de salud / Laboratorios clínicos",
+            "NombreProducto": "Laboratorios biológicos",
+            "Descripcion": "ITEM 41\tANTICUERPOS ANTI INSULINA (IAA). VALOR DEBE SER COINCIDENTE CON ANEXO ECONOMONICO N°1.",
+            "UnidadMedida": "Mes",
+            "Cantidad": 18.0,
+            "Adjudicacion": null
+          },
+          {
+            "Correlativo": 42,
+            "CodigoProducto": 85121803,
+            "CodigoCategoria": "85121800",
+            "Categoria": "Salud, servicios sanitarios y alimentación / Medicina y servicios de salud / Laboratorios clínicos",
+            "NombreProducto": "Laboratorios biológicos",
+            "Descripcion": "ITEM 42\tANTICUERPOS ANTI CELULAS BETA (ICA). VALOR DEBE SER COINCIDENTE CON ANEXO ECONOMONICO N°1.\r\n",
+            "UnidadMedida": "Mes",
+            "Cantidad": 18.0,
+            "Adjudicacion": null
+          },
+          {
+            "Correlativo": 43,
+            "CodigoProducto": 85121803,
+            "CodigoCategoria": "85121800",
+            "Categoria": "Salud, servicios sanitarios y alimentación / Medicina y servicios de salud / Laboratorios clínicos",
+            "NombreProducto": "Laboratorios biológicos",
+            "Descripcion": "ITEM 43\tANTICUERPOS ANTI TIROSIN FOSFATASA (IA-2). VALOR DEBE SER COINCIDENTE CON ANEXO ECONOMONICO N°1.",
+            "UnidadMedida": "Mes",
+            "Cantidad": 18.0,
+            "Adjudicacion": null
+          },
+          {
+            "Correlativo": 44,
+            "CodigoProducto": 85121803,
+            "CodigoCategoria": "85121800",
+            "Categoria": "Salud, servicios sanitarios y alimentación / Medicina y servicios de salud / Laboratorios clínicos",
+            "NombreProducto": "Laboratorios biológicos",
+            "Descripcion": "ITEM 44\tAUTO AC. ANTI TRANSPORTADOR 8 DEL ZINC (ZnT8). VALOR DEBE SER COINCIDENTE CON ANEXO ECONOMONICO N°1.",
+            "UnidadMedida": "Mes",
+            "Cantidad": 18.0,
+            "Adjudicacion": null
+          },
+          {
+            "Correlativo": 45,
+            "CodigoProducto": 85121803,
+            "CodigoCategoria": "85121800",
+            "Categoria": "Salud, servicios sanitarios y alimentación / Medicina y servicios de salud / Laboratorios clínicos",
+            "NombreProducto": "Laboratorios biológicos",
+            "Descripcion": "ITEM 45\tAC. ANTIDESCARBOXILASA DEL ACIDO GLUTAMICO (GAD). VALOR DEBE SER COINCIDENTE CON ANEXO ECONOMONICO N°1.",
+            "UnidadMedida": "Mes",
+            "Cantidad": 18.0,
+            "Adjudicacion": null
+          },
+          {
+            "Correlativo": 46,
+            "CodigoProducto": 85121803,
+            "CodigoCategoria": "85121800",
+            "Categoria": "Salud, servicios sanitarios y alimentación / Medicina y servicios de salud / Laboratorios clínicos",
+            "NombreProducto": "Laboratorios biológicos",
+            "Descripcion": "ITEM 46\tPREALBUMINA. VALOR DEBE SER COINCIDENTE CON ANEXO ECONOMONICO N°1.",
+            "UnidadMedida": "Mes",
+            "Cantidad": 18.0,
+            "Adjudicacion": {
+              "RutProveedor": "88.987.500-3",
+              "NombreProveedor": "LABORATORIO LIVIO BARNAFI S.A.",
+              "Cantidad": 18.0,
+              "MontoUnitario": 364387.0
+            }
+          },
+          {
+            "Correlativo": 47,
+            "CodigoProducto": 85121803,
+            "CodigoCategoria": "85121800",
+            "Categoria": "Salud, servicios sanitarios y alimentación / Medicina y servicios de salud / Laboratorios clínicos",
+            "NombreProducto": "Laboratorios biológicos",
+            "Descripcion": "ITEM 47\tHELICOBACTER PYLORI POR PCR. VALOR DEBE SER COINCIDENTE CON ANEXO ECONOMONICO N°1.",
+            "UnidadMedida": "Mes",
+            "Cantidad": 18.0,
+            "Adjudicacion": {
+              "RutProveedor": "88.987.500-3",
+              "NombreProveedor": "LABORATORIO LIVIO BARNAFI S.A.",
+              "Cantidad": 18.0,
+              "MontoUnitario": 291925.0
+            }
+          },
+          {
+            "Correlativo": 48,
+            "CodigoProducto": 85121803,
+            "CodigoCategoria": "85121800",
+            "Categoria": "Salud, servicios sanitarios y alimentación / Medicina y servicios de salud / Laboratorios clínicos",
+            "NombreProducto": "Laboratorios biológicos",
+            "Descripcion": "ITEM 48\tERITROPOYETINA PLASMATICA. VALOR DEBE SER COINCIDENTE CON ANEXO ECONOMONICO N°1.",
+            "UnidadMedida": "Mes",
+            "Cantidad": 18.0,
+            "Adjudicacion": {
+              "RutProveedor": "88.987.500-3",
+              "NombreProveedor": "LABORATORIO LIVIO BARNAFI S.A.",
+              "Cantidad": 18.0,
+              "MontoUnitario": 137361.0
+            }
+          },
+          {
+            "Correlativo": 49,
+            "CodigoProducto": 85121803,
+            "CodigoCategoria": "85121800",
+            "Categoria": "Salud, servicios sanitarios y alimentación / Medicina y servicios de salud / Laboratorios clínicos",
+            "NombreProducto": "Laboratorios biológicos",
+            "Descripcion": "ITEM 49\tFOSFOLIPIDOS. VALOR DEBE SER COINCIDENTE CON ANEXO ECONOMONICO N°1.",
+            "UnidadMedida": "Mes",
+            "Cantidad": 18.0,
+            "Adjudicacion": {
+              "RutProveedor": "88.987.500-3",
+              "NombreProveedor": "LABORATORIO LIVIO BARNAFI S.A.",
+              "Cantidad": 18.0,
+              "MontoUnitario": 1904.0
+            }
+          },
+          {
+            "Correlativo": 50,
+            "CodigoProducto": 85121803,
+            "CodigoCategoria": "85121800",
+            "Categoria": "Salud, servicios sanitarios y alimentación / Medicina y servicios de salud / Laboratorios clínicos",
+            "NombreProducto": "Laboratorios biológicos",
+            "Descripcion": "ITEM 50\tTRANSGLUTAMINASA TISULAR, ANTICUERPOS IgG. VALOR DEBE SER COINCIDENTE CON ANEXO ECONOMONICO N°1.",
+            "UnidadMedida": "Mes",
+            "Cantidad": 18.0,
+            "Adjudicacion": {
+              "RutProveedor": "88.987.500-3",
+              "NombreProveedor": "LABORATORIO LIVIO BARNAFI S.A.",
+              "Cantidad": 18.0,
+              "MontoUnitario": 16750.0
+            }
+          },
+          {
+            "Correlativo": 51,
+            "CodigoProducto": 85121803,
+            "CodigoCategoria": "85121800",
+            "Categoria": "Salud, servicios sanitarios y alimentación / Medicina y servicios de salud / Laboratorios clínicos",
+            "NombreProducto": "Laboratorios biológicos",
+            "Descripcion": "ITEM 51\tANTICUERPO ANTI MLK1. VALOR DEBE SER COINCIDENTE CON ANEXO ECONOMONICO N°1.",
+            "UnidadMedida": "Mes",
+            "Cantidad": 18.0,
+            "Adjudicacion": {
+              "RutProveedor": "88.987.500-3",
+              "NombreProveedor": "LABORATORIO LIVIO BARNAFI S.A.",
+              "Cantidad": 18.0,
+              "MontoUnitario": 247066.0
+            }
+          },
+          {
+            "Correlativo": 52,
+            "CodigoProducto": 85121803,
+            "CodigoCategoria": "85121800",
+            "Categoria": "Salud, servicios sanitarios y alimentación / Medicina y servicios de salud / Laboratorios clínicos",
+            "NombreProducto": "Laboratorios biológicos",
+            "Descripcion": "ITEM 52\tTIPIFICACION HLA-B27. VALOR DEBE SER COINCIDENTE CON ANEXO ECONOMONICO N°1.",
+            "UnidadMedida": "Mes",
+            "Cantidad": 18.0,
+            "Adjudicacion": {
+              "RutProveedor": "88.987.500-3",
+              "NombreProveedor": "LABORATORIO LIVIO BARNAFI S.A.",
+              "Cantidad": 18.0,
+              "MontoUnitario": 183118.0
+            }
+          },
+          {
+            "Correlativo": 53,
+            "CodigoProducto": 85121803,
+            "CodigoCategoria": "85121800",
+            "Categoria": "Salud, servicios sanitarios y alimentación / Medicina y servicios de salud / Laboratorios clínicos",
+            "NombreProducto": "Laboratorios biológicos",
+            "Descripcion": "ITEM 53\tGASTRINA, pg/mL. VALOR DEBE SER COINCIDENTE CON ANEXO ECONOMONICO N°1.\r\n",
+            "UnidadMedida": "Mes",
+            "Cantidad": 18.0,
+            "Adjudicacion": {
+              "RutProveedor": "88.987.500-3",
+              "NombreProveedor": "LABORATORIO LIVIO BARNAFI S.A.",
+              "Cantidad": 18.0,
+              "MontoUnitario": 5075.0
+            }
+          },
+          {
+            "Correlativo": 54,
+            "CodigoProducto": 85121803,
+            "CodigoCategoria": "85121800",
+            "Categoria": "Salud, servicios sanitarios y alimentación / Medicina y servicios de salud / Laboratorios clínicos",
+            "NombreProducto": "Laboratorios biológicos",
+            "Descripcion": "ITEM 54\tHORMONA ANTIMULLERIANA (AMH). VALOR DEBE SER COINCIDENTE CON ANEXO ECONOMONICO N°1.",
+            "UnidadMedida": "Mes",
+            "Cantidad": 18.0,
+            "Adjudicacion": {
+              "RutProveedor": "88.987.500-3",
+              "NombreProveedor": "LABORATORIO LIVIO BARNAFI S.A.",
+              "Cantidad": 18.0,
+              "MontoUnitario": 31456.0
+            }
+          },
+          {
+            "Correlativo": 55,
+            "CodigoProducto": 85121803,
+            "CodigoCategoria": "85121800",
+            "Categoria": "Salud, servicios sanitarios y alimentación / Medicina y servicios de salud / Laboratorios clínicos",
+            "NombreProducto": "Laboratorios biológicos",
+            "Descripcion": "ITEM 55\tOSMOLALIDAD EN ORINA AISLADA.  VALOR DEBE SER COINCIDENTE CON ANEXO ECONOMONICO N°1.",
+            "UnidadMedida": "Mes",
+            "Cantidad": 18.0,
+            "Adjudicacion": {
+              "RutProveedor": "88.987.500-3",
+              "NombreProveedor": "LABORATORIO LIVIO BARNAFI S.A.",
+              "Cantidad": 18.0,
+              "MontoUnitario": 23303.0
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

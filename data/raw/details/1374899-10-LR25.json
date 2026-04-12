@@ -1,0 +1,477 @@
+{
+  "Cantidad": 1,
+  "FechaCreacion": "2026-04-05T09:53:01.5319744Z",
+  "Version": "v1",
+  "Listado": [
+    {
+      "CodigoExterno": "1374899-10-LR25",
+      "Nombre": "CONVENIO SUMINISTRO PRENDAS ROPERIA TEXTIL PABELLÓN Y PACIENTES HOSPITAL PROVINCIAL MARGA MARGA",
+      "CodigoEstado": 8,
+      "Descripcion": "1.\tQue, el Hospital de Quilpué- futuro Hospital Provincial Marga Marga, requiere realizar un llamado a licitación pública para la suscripción de un “CONVENIO DE SUMINISTRO PRENDAS ROPERÍA TEXTIL PABELLÓN Y PACIENTES PARA EL HOSPITAL PROVINCIAL MARGA MARGA”, con el objetivo de cumplir y satisfacer debidamente la demanda asistencial que legalmente le ha sido encomendada, esto según requerimiento contenido Solicitud de Compra Nº9 de fecha 13 de octubre de 2025, de centro de costos Lavandería.",
+      "FechaCierre": null,
+      "Estado": "Adjudicada",
+      "Comprador": {
+        "CodigoOrganismo": "7485",
+        "NombreOrganismo": "HOSPITAL DE QUILPUE",
+        "RutUnidad": "61.606.604-8",
+        "CodigoUnidad": "1374899",
+        "NombreUnidad": "Hospital Marga Marga",
+        "DireccionUnidad": "SAN MARTÍN 1270 - QUILPUÉ",
+        "ComunaUnidad": "Quilpué",
+        "RegionUnidad": "Región de Valparaíso ",
+        "RutUsuario": "",
+        "CodigoUsuario": "1976086",
+        "NombreUsuario": "ALEJANDRO EDUARDO CAVIERES GUTIERREZ",
+        "CargoUsuario": "OPERADOR DE LICITACIONES"
+      },
+      "DiasCierreLicitacion": "0",
+      "Informada": 0,
+      "CodigoTipo": 1,
+      "Tipo": "LR",
+      "TipoConvocatoria": "1",
+      "Moneda": "CLP",
+      "Etapas": 1,
+      "EstadoEtapas": "1",
+      "TomaRazon": "0",
+      "EstadoPublicidadOfertas": 1,
+      "JustificacionPublicidad": "",
+      "Contrato": "0",
+      "Obras": "0",
+      "CantidadReclamos": 1004,
+      "Fechas": {
+        "FechaCreacion": "2025-05-13T00:00:00",
+        "FechaCierre": "2026-01-05T15:01:00",
+        "FechaInicio": "2025-12-04T14:25:00",
+        "FechaFinal": "2025-12-14T14:25:00",
+        "FechaPubRespuestas": "2025-12-17T18:00:00",
+        "FechaActoAperturaTecnica": "2026-01-05T15:02:00",
+        "FechaActoAperturaEconomica": "2026-01-05T15:02:00",
+        "FechaPublicacion": "2025-12-04T14:24:12.067",
+        "FechaAdjudicacion": "2026-04-02T13:25:21.17",
+        "FechaEstimadaAdjudicacion": "2026-03-23T18:00:00",
+        "FechaSoporteFisico": null,
+        "FechaTiempoEvaluacion": null,
+        "FechaEstimadaFirma": null,
+        "FechasUsuario": null,
+        "FechaVisitaTerreno": null,
+        "FechaEntregaAntecedentes": null
+      },
+      "UnidadTiempoEvaluacion": null,
+      "DireccionVisita": "",
+      "DireccionEntrega": "",
+      "Estimacion": 2,
+      "FuenteFinanciamiento": "",
+      "VisibilidadMonto": 0,
+      "MontoEstimado": null,
+      "Tiempo": "24",
+      "UnidadTiempo": "-1",
+      "Modalidad": 1,
+      "TipoPago": "1",
+      "NombreResponsablePago": "HECTOR BASTIAS VENEGAS",
+      "EmailResponsablePago": "",
+      "NombreResponsableContrato": "HANNS OVIEDO SOTO",
+      "EmailResponsableContrato": "",
+      "FonoResponsableContrato": "",
+      "ProhibicionContratacion": "De acuerdo a lo indicado en el punto 16 de las bases administrativas llamado Subcontratación, la presente licitación no admite concertar la subcontratación con terceros de las prestaciones que se deriven del contrato.",
+      "SubContratacion": "0",
+      "UnidadTiempoDuracionContrato": 4,
+      "TiempoDuracionContrato": "24",
+      "TipoDuracionContrato": " ",
+      "JustificacionMontoEstimado": "",
+      "ObservacionContract": null,
+      "ExtensionPlazo": 0,
+      "EsBaseTipo": 0,
+      "UnidadTiempoContratoLicitacion": "2",
+      "ValorTiempoRenovacion": "0",
+      "PeriodoTiempoRenovacion": " ",
+      "EsRenovable": 0,
+      "CodigoBIP": null,
+      "Adjudicacion": {
+        "Tipo": 6,
+        "Fecha": "2026-04-02T00:00:00",
+        "Numero": "806",
+        "NumeroOferentes": 3,
+        "UrlActa": "http://www.mercadopublico.cl/Procurement/Modules/RFB/StepsProcessAward/PreviewAwardAct.aspx?qs=fPkOtiMw2DqpDDKUsXYdZjDoC3bjo3ppNRCS7TK14y4="
+      },
+      "Items": {
+        "Cantidad": 29,
+        "Listado": [
+          {
+            "Correlativo": 1,
+            "CodigoProducto": 42131603,
+            "CodigoCategoria": "42131600",
+            "Categoria": "Equipamiento y suministros médicos / Vestuario clínico / Vestuario para el personal médico y artículos relacionados",
+            "NombreProducto": "Blusas o blusones para el personal sanitario",
+            "Descripcion": "CAMISA PACIENTE ADULTO",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 4000.0,
+            "Adjudicacion": {
+              "RutProveedor": "78.238.490-2",
+              "NombreProveedor": "TEXTIL SUPER LIMITADA",
+              "Cantidad": 4000.0,
+              "MontoUnitario": 4350.0
+            }
+          },
+          {
+            "Correlativo": 2,
+            "CodigoProducto": 42131603,
+            "CodigoCategoria": "42131600",
+            "Categoria": "Equipamiento y suministros médicos / Vestuario clínico / Vestuario para el personal médico y artículos relacionados",
+            "NombreProducto": "Blusas o blusones para el personal sanitario",
+            "Descripcion": "CAMISA PACIENTE PEDIÁTRICA",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 4000.0,
+            "Adjudicacion": null
+          },
+          {
+            "Correlativo": 3,
+            "CodigoProducto": 42131505,
+            "CodigoCategoria": "42131500",
+            "Categoria": "Equipamiento y suministros médicos / Vestuario clínico / Vestuario para pacientes",
+            "NombreProducto": "Blusas o chalecos para pacientes de pediatría",
+            "Descripcion": "CHAQUETA LACTANTE (DISEÑOS INFANTILES)",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 4000.0,
+            "Adjudicacion": null
+          },
+          {
+            "Correlativo": 4,
+            "CodigoProducto": 42131505,
+            "CodigoCategoria": "42131500",
+            "Categoria": "Equipamiento y suministros médicos / Vestuario clínico / Vestuario para pacientes",
+            "NombreProducto": "Blusas o chalecos para pacientes de pediatría",
+            "Descripcion": "CHAQUETA PREESCOLAR (DISEÑOS INFANTILES)",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 4000.0,
+            "Adjudicacion": null
+          },
+          {
+            "Correlativo": 5,
+            "CodigoProducto": 42131505,
+            "CodigoCategoria": "42131500",
+            "Categoria": "Equipamiento y suministros médicos / Vestuario clínico / Vestuario para pacientes",
+            "NombreProducto": "Blusas o chalecos para pacientes de pediatría",
+            "Descripcion": "CHAQUETA ESCOLAR (DISEÑOS INFANTILES)\r\n\r\n",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 4000.0,
+            "Adjudicacion": null
+          },
+          {
+            "Correlativo": 6,
+            "CodigoProducto": 42131501,
+            "CodigoCategoria": "42131500",
+            "Categoria": "Equipamiento y suministros médicos / Vestuario clínico / Vestuario para pacientes",
+            "NombreProducto": "Pecheras para pacientes",
+            "Descripcion": "DELANTAL CIRCULACIÓN COLOR \r\n(NEO Y PEDIATRIA)\r\n",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 4000.0,
+            "Adjudicacion": {
+              "RutProveedor": "78.238.490-2",
+              "NombreProveedor": "TEXTIL SUPER LIMITADA",
+              "Cantidad": 4000.0,
+              "MontoUnitario": 4100.0
+            }
+          },
+          {
+            "Correlativo": 7,
+            "CodigoProducto": 42131510,
+            "CodigoCategoria": "42131500",
+            "Categoria": "Equipamiento y suministros médicos / Vestuario clínico / Vestuario para pacientes",
+            "NombreProducto": "Pantalones para pacientes",
+            "Descripcion": "PANTALÓN LACTANTE (DISEÑOS INFANTILES)",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 4000.0,
+            "Adjudicacion": null
+          },
+          {
+            "Correlativo": 8,
+            "CodigoProducto": 42131510,
+            "CodigoCategoria": "42131500",
+            "Categoria": "Equipamiento y suministros médicos / Vestuario clínico / Vestuario para pacientes",
+            "NombreProducto": "Pantalones para pacientes",
+            "Descripcion": "PANTALÓN PREESCOLAR (DISEÑOS INFANTILES)",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 4000.0,
+            "Adjudicacion": null
+          },
+          {
+            "Correlativo": 9,
+            "CodigoProducto": 42131510,
+            "CodigoCategoria": "42131500",
+            "Categoria": "Equipamiento y suministros médicos / Vestuario clínico / Vestuario para pacientes",
+            "NombreProducto": "Pantalones para pacientes",
+            "Descripcion": "PANTALÓN ESCOLAR (DISEÑOS INFANTILES)",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 4000.0,
+            "Adjudicacion": null
+          },
+          {
+            "Correlativo": 10,
+            "CodigoProducto": 42132107,
+            "CodigoCategoria": "42132100",
+            "Categoria": "Equipamiento y suministros médicos / Vestuario clínico / Ropa de hospital",
+            "NombreProducto": "Mantas de hospital",
+            "Descripcion": "PAÑAL DE TELA (NEO Y PEDIATRÍA)",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 4000.0,
+            "Adjudicacion": null
+          },
+          {
+            "Correlativo": 11,
+            "CodigoProducto": 42132106,
+            "CodigoCategoria": "42132100",
+            "Categoria": "Equipamiento y suministros médicos / Vestuario clínico / Ropa de hospital",
+            "NombreProducto": "Colchas de hospital",
+            "Descripcion": "JUEGO DE CAMA MÉDICO",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 4000.0,
+            "Adjudicacion": {
+              "RutProveedor": "78.238.490-2",
+              "NombreProveedor": "TEXTIL SUPER LIMITADA",
+              "Cantidad": 4000.0,
+              "MontoUnitario": 13350.0
+            }
+          },
+          {
+            "Correlativo": 12,
+            "CodigoProducto": 42131506,
+            "CodigoCategoria": "42131500",
+            "Categoria": "Equipamiento y suministros médicos / Vestuario clínico / Vestuario para pacientes",
+            "NombreProducto": "Guardapolvos para pacientes",
+            "Descripcion": "CUBRE BANDEJA",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 8000.0,
+            "Adjudicacion": null
+          },
+          {
+            "Correlativo": 13,
+            "CodigoProducto": 42131506,
+            "CodigoCategoria": "42131500",
+            "Categoria": "Equipamiento y suministros médicos / Vestuario clínico / Vestuario para pacientes",
+            "NombreProducto": "Guardapolvos para pacientes",
+            "Descripcion": "CUBRE MAMADERA",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 4000.0,
+            "Adjudicacion": null
+          },
+          {
+            "Correlativo": 14,
+            "CodigoProducto": 42131607,
+            "CodigoCategoria": "42131600",
+            "Categoria": "Equipamiento y suministros médicos / Vestuario clínico / Vestuario para el personal médico y artículos relacionados",
+            "NombreProducto": "Guardapolvos o chaquetas para el personal sanitario",
+            "Descripcion": "PAÑO ASEO CHICO",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 4000.0,
+            "Adjudicacion": {
+              "RutProveedor": "78.238.490-2",
+              "NombreProveedor": "TEXTIL SUPER LIMITADA",
+              "Cantidad": 4000.0,
+              "MontoUnitario": 1790.0
+            }
+          },
+          {
+            "Correlativo": 15,
+            "CodigoProducto": 42131603,
+            "CodigoCategoria": "42131600",
+            "Categoria": "Equipamiento y suministros médicos / Vestuario clínico / Vestuario para el personal médico y artículos relacionados",
+            "NombreProducto": "Blusas o blusones para el personal sanitario",
+            "Descripcion": "BLUSA MÉDICO TALLA M",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 4000.0,
+            "Adjudicacion": null
+          },
+          {
+            "Correlativo": 16,
+            "CodigoProducto": 42131608,
+            "CodigoCategoria": "42131600",
+            "Categoria": "Equipamiento y suministros médicos / Vestuario clínico / Vestuario para el personal médico y artículos relacionados",
+            "NombreProducto": "Uniformes para el personal sanitario",
+            "Descripcion": "PANTALÓN MÉDICO TALLA M",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 4000.0,
+            "Adjudicacion": null
+          },
+          {
+            "Correlativo": 17,
+            "CodigoProducto": 42131603,
+            "CodigoCategoria": "42131600",
+            "Categoria": "Equipamiento y suministros médicos / Vestuario clínico / Vestuario para el personal médico y artículos relacionados",
+            "NombreProducto": "Blusas o blusones para el personal sanitario",
+            "Descripcion": "BLUSA MÉDICO TALLA L",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 4000.0,
+            "Adjudicacion": null
+          },
+          {
+            "Correlativo": 18,
+            "CodigoProducto": 42131608,
+            "CodigoCategoria": "42131600",
+            "Categoria": "Equipamiento y suministros médicos / Vestuario clínico / Vestuario para el personal médico y artículos relacionados",
+            "NombreProducto": "Uniformes para el personal sanitario",
+            "Descripcion": "PANTALÓN MÉDICO TALLA L",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 4000.0,
+            "Adjudicacion": null
+          },
+          {
+            "Correlativo": 19,
+            "CodigoProducto": 42131603,
+            "CodigoCategoria": "42131600",
+            "Categoria": "Equipamiento y suministros médicos / Vestuario clínico / Vestuario para el personal médico y artículos relacionados",
+            "NombreProducto": "Blusas o blusones para el personal sanitario",
+            "Descripcion": "BLUSA MÉDICO TALLA XL",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 4000.0,
+            "Adjudicacion": null
+          },
+          {
+            "Correlativo": 20,
+            "CodigoProducto": 42131608,
+            "CodigoCategoria": "42131600",
+            "Categoria": "Equipamiento y suministros médicos / Vestuario clínico / Vestuario para el personal médico y artículos relacionados",
+            "NombreProducto": "Uniformes para el personal sanitario",
+            "Descripcion": "PANTALÓN MÉDICO TALLA XL",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 4000.0,
+            "Adjudicacion": null
+          },
+          {
+            "Correlativo": 21,
+            "CodigoProducto": 42131603,
+            "CodigoCategoria": "42131600",
+            "Categoria": "Equipamiento y suministros médicos / Vestuario clínico / Vestuario para el personal médico y artículos relacionados",
+            "NombreProducto": "Blusas o blusones para el personal sanitario",
+            "Descripcion": "BLUSA MÉDICO TALLA XXL",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 4000.0,
+            "Adjudicacion": null
+          },
+          {
+            "Correlativo": 22,
+            "CodigoProducto": 42131608,
+            "CodigoCategoria": "42131600",
+            "Categoria": "Equipamiento y suministros médicos / Vestuario clínico / Vestuario para el personal médico y artículos relacionados",
+            "NombreProducto": "Uniformes para el personal sanitario",
+            "Descripcion": "PANTALÓN MÉDICO TALLA XXL",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 4000.0,
+            "Adjudicacion": null
+          },
+          {
+            "Correlativo": 23,
+            "CodigoProducto": 42131702,
+            "CodigoCategoria": "42131700",
+            "Categoria": "Equipamiento y suministros médicos / Vestuario clínico / Prendas textiles quirúrgicas",
+            "NombreProducto": "Batas quirúrgicas",
+            "Descripcion": "DELANTAL QUIRÚRGICO",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 4000.0,
+            "Adjudicacion": {
+              "RutProveedor": "78.238.490-2",
+              "NombreProveedor": "TEXTIL SUPER LIMITADA",
+              "Cantidad": 4000.0,
+              "MontoUnitario": 6950.0
+            }
+          },
+          {
+            "Correlativo": 24,
+            "CodigoProducto": 42132107,
+            "CodigoCategoria": "42132100",
+            "Categoria": "Equipamiento y suministros médicos / Vestuario clínico / Ropa de hospital",
+            "NombreProducto": "Mantas de hospital",
+            "Descripcion": "ENVOLTORIO LAVATORIO",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 8000.0,
+            "Adjudicacion": {
+              "RutProveedor": "78.238.490-2",
+              "NombreProveedor": "TEXTIL SUPER LIMITADA",
+              "Cantidad": 8000.0,
+              "MontoUnitario": 3350.0
+            }
+          },
+          {
+            "Correlativo": 25,
+            "CodigoProducto": 42132107,
+            "CodigoCategoria": "42132100",
+            "Categoria": "Equipamiento y suministros médicos / Vestuario clínico / Ropa de hospital",
+            "NombreProducto": "Mantas de hospital",
+            "Descripcion": "PAÑO PERFORADO",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 4000.0,
+            "Adjudicacion": {
+              "RutProveedor": "78.238.490-2",
+              "NombreProveedor": "TEXTIL SUPER LIMITADA",
+              "Cantidad": 4000.0,
+              "MontoUnitario": 2100.0
+            }
+          },
+          {
+            "Correlativo": 26,
+            "CodigoProducto": 42132105,
+            "CodigoCategoria": "42132100",
+            "Categoria": "Equipamiento y suministros médicos / Vestuario clínico / Ropa de hospital",
+            "NombreProducto": "Sábanas de hospital",
+            "Descripcion": "SÁBANA PERFORADA",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 4000.0,
+            "Adjudicacion": {
+              "RutProveedor": "78.238.490-2",
+              "NombreProveedor": "TEXTIL SUPER LIMITADA",
+              "Cantidad": 4000.0,
+              "MontoUnitario": 7100.0
+            }
+          },
+          {
+            "Correlativo": 27,
+            "CodigoProducto": 42132105,
+            "CodigoCategoria": "42132100",
+            "Categoria": "Equipamiento y suministros médicos / Vestuario clínico / Ropa de hospital",
+            "NombreProducto": "Sábanas de hospital",
+            "Descripcion": "SÁBANA QUIRÚRGICA",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 4000.0,
+            "Adjudicacion": {
+              "RutProveedor": "78.238.490-2",
+              "NombreProveedor": "TEXTIL SUPER LIMITADA",
+              "Cantidad": 4000.0,
+              "MontoUnitario": 6250.0
+            }
+          },
+          {
+            "Correlativo": 28,
+            "CodigoProducto": 42131701,
+            "CodigoCategoria": "42131700",
+            "Categoria": "Equipamiento y suministros médicos / Vestuario clínico / Prendas textiles quirúrgicas",
+            "NombreProducto": "Cobertores para cirugía",
+            "Descripcion": "BOLSA LAPAROSCÓPICA",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 4000.0,
+            "Adjudicacion": {
+              "RutProveedor": "78.238.490-2",
+              "NombreProveedor": "TEXTIL SUPER LIMITADA",
+              "Cantidad": 4000.0,
+              "MontoUnitario": 2150.0
+            }
+          },
+          {
+            "Correlativo": 29,
+            "CodigoProducto": 42131607,
+            "CodigoCategoria": "42131600",
+            "Categoria": "Equipamiento y suministros médicos / Vestuario clínico / Vestuario para el personal médico y artículos relacionados",
+            "NombreProducto": "Guardapolvos o chaquetas para el personal sanitario",
+            "Descripcion": "PAÑO DE MANO",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 4000.0,
+            "Adjudicacion": {
+              "RutProveedor": "78.238.490-2",
+              "NombreProveedor": "TEXTIL SUPER LIMITADA",
+              "Cantidad": 4000.0,
+              "MontoUnitario": 1550.0
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

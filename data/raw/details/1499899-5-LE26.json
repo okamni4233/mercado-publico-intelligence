@@ -1,0 +1,679 @@
+{
+  "Cantidad": 1,
+  "FechaCreacion": "2026-04-06T00:54:59.6562936Z",
+  "Version": "v1",
+  "Listado": [
+    {
+      "CodigoExterno": "1499899-5-LE26",
+      "Nombre": "Vestuario para jóvenes centros IRC-LAE-IP Limache",
+      "CodigoEstado": 8,
+      "Descripcion": "Vestuario y accesorios, para el desarrollo de las funciones del IP-IRC y LAE-IP Limache, la adquisición de vestuario y accesorios para jóvenes y adolescentes atendidos en dichos centros.",
+      "FechaCierre": null,
+      "Estado": "Adjudicada",
+      "Comprador": {
+        "CodigoOrganismo": "1887034",
+        "NombreOrganismo": "SERVICIO NACIONAL DE REINSERCION SOCIAL JUVENIL",
+        "RutUnidad": "62.000.970-9",
+        "CodigoUnidad": "1499899",
+        "NombreUnidad": "DIRECCIÓN REGIONAL DE VALPARAÍSO",
+        "DireccionUnidad": "Aldunate N° 1693",
+        "ComunaUnidad": "Valparaíso",
+        "RegionUnidad": "Región de Valparaíso ",
+        "RutUsuario": "",
+        "CodigoUsuario": "2338345",
+        "NombreUsuario": "Cesar Torres",
+        "CargoUsuario": "Administrativo de línea"
+      },
+      "DiasCierreLicitacion": "0",
+      "Informada": 0,
+      "CodigoTipo": 1,
+      "Tipo": "LE",
+      "TipoConvocatoria": "1",
+      "Moneda": "CLP",
+      "Etapas": 1,
+      "EstadoEtapas": "1",
+      "TomaRazon": "0",
+      "EstadoPublicidadOfertas": 1,
+      "JustificacionPublicidad": "",
+      "Contrato": "1",
+      "Obras": "0",
+      "CantidadReclamos": 1047,
+      "Fechas": {
+        "FechaCreacion": "2026-03-02T15:52:14.147",
+        "FechaCierre": "2026-03-10T16:00:00",
+        "FechaInicio": "2026-03-03T15:00:00",
+        "FechaFinal": "2026-03-05T16:00:00",
+        "FechaPubRespuestas": "2026-03-06T16:00:00",
+        "FechaActoAperturaTecnica": "2026-03-11T16:30:00",
+        "FechaActoAperturaEconomica": "2026-03-11T16:30:00",
+        "FechaPublicacion": "2026-03-03T12:43:42.27",
+        "FechaAdjudicacion": "2026-04-01T12:45:12.113",
+        "FechaEstimadaAdjudicacion": "2026-03-31T12:00:00",
+        "FechaSoporteFisico": null,
+        "FechaTiempoEvaluacion": null,
+        "FechaEstimadaFirma": null,
+        "FechasUsuario": null,
+        "FechaVisitaTerreno": null,
+        "FechaEntregaAntecedentes": null
+      },
+      "UnidadTiempoEvaluacion": 1,
+      "DireccionVisita": "",
+      "DireccionEntrega": "",
+      "Estimacion": 1,
+      "FuenteFinanciamiento": "PROPIA",
+      "VisibilidadMonto": 1,
+      "MontoEstimado": 20000000.0,
+      "Tiempo": "4",
+      "UnidadTiempo": "1",
+      "Modalidad": 1,
+      "TipoPago": "1",
+      "NombreResponsablePago": "ANGELO RIVERA",
+      "EmailResponsablePago": "",
+      "NombreResponsableContrato": "PAULINA VEGA  Y CAMILA QUINTANILLA",
+      "EmailResponsableContrato": "",
+      "FonoResponsableContrato": "",
+      "ProhibicionContratacion": "El adjudicatario no podrá subcontratar la ejecución del contrato con terceros.",
+      "SubContratacion": "1",
+      "UnidadTiempoDuracionContrato": 3,
+      "TiempoDuracionContrato": "4",
+      "TipoDuracionContrato": " ",
+      "JustificacionMontoEstimado": "20.000.000",
+      "ObservacionContract": null,
+      "ExtensionPlazo": 0,
+      "EsBaseTipo": 0,
+      "UnidadTiempoContratoLicitacion": "2",
+      "ValorTiempoRenovacion": "0",
+      "PeriodoTiempoRenovacion": " ",
+      "EsRenovable": 0,
+      "CodigoBIP": null,
+      "Adjudicacion": {
+        "Tipo": 2,
+        "Fecha": "2026-03-30T00:00:00",
+        "Numero": "479",
+        "NumeroOferentes": 5,
+        "UrlActa": "http://www.mercadopublico.cl/Procurement/Modules/RFB/StepsProcessAward/PreviewAwardAct.aspx?qs=OAyolWURnc6cTYcdkM95Hbr4LiR2M1KOUeJq4bz08ds="
+      },
+      "Items": {
+        "Cantidad": 36,
+        "Listado": [
+          {
+            "Correlativo": 1,
+            "CodigoProducto": 53102902,
+            "CodigoCategoria": "53102900",
+            "Categoria": "Ropa, maletas y productos de aseo personal / Ropa / Prendas de deporte",
+            "NombreProducto": "Prendas de deporte y buzos de hombre",
+            "Descripcion": "Buzo completo 100% algodón, sin capucha y sin cierre, color gris en mangas y puños, Talla S.",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 120.0,
+            "Adjudicacion": {
+              "RutProveedor": "17.123.541-3",
+              "NombreProveedor": "CAROLINA VANESSA FUENTES CANDIA",
+              "Cantidad": 120.0,
+              "MontoUnitario": 14500.0
+            }
+          },
+          {
+            "Correlativo": 2,
+            "CodigoProducto": 53102902,
+            "CodigoCategoria": "53102900",
+            "Categoria": "Ropa, maletas y productos de aseo personal / Ropa / Prendas de deporte",
+            "NombreProducto": "Prendas de deporte y buzos de hombre",
+            "Descripcion": "Buzo completo 100% algodón, sin capucha y sin cierre, color gris en mangas y puños, Talla M",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 250.0,
+            "Adjudicacion": {
+              "RutProveedor": "17.123.541-3",
+              "NombreProveedor": "CAROLINA VANESSA FUENTES CANDIA",
+              "Cantidad": 250.0,
+              "MontoUnitario": 14500.0
+            }
+          },
+          {
+            "Correlativo": 3,
+            "CodigoProducto": 53102902,
+            "CodigoCategoria": "53102900",
+            "Categoria": "Ropa, maletas y productos de aseo personal / Ropa / Prendas de deporte",
+            "NombreProducto": "Prendas de deporte y buzos de hombre",
+            "Descripcion": "Buzo completo 100% algodón, sin capucha y sin cierre, color gris en mangas y puños, Talla L",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 50.0,
+            "Adjudicacion": {
+              "RutProveedor": "17.123.541-3",
+              "NombreProveedor": "CAROLINA VANESSA FUENTES CANDIA",
+              "Cantidad": 50.0,
+              "MontoUnitario": 14500.0
+            }
+          },
+          {
+            "Correlativo": 4,
+            "CodigoProducto": 53102902,
+            "CodigoCategoria": "53102900",
+            "Categoria": "Ropa, maletas y productos de aseo personal / Ropa / Prendas de deporte",
+            "NombreProducto": "Prendas de deporte y buzos de hombre",
+            "Descripcion": "Buzo completo 100% algodón, sin capucha y sin cierre, color gris en mangas y puños, Talla XL",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 30.0,
+            "Adjudicacion": {
+              "RutProveedor": "17.123.541-3",
+              "NombreProveedor": "CAROLINA VANESSA FUENTES CANDIA",
+              "Cantidad": 30.0,
+              "MontoUnitario": 14500.0
+            }
+          },
+          {
+            "Correlativo": 5,
+            "CodigoProducto": 53102303,
+            "CodigoCategoria": "53102300",
+            "Categoria": "Ropa, maletas y productos de aseo personal / Ropa / Ropa interior",
+            "NombreProducto": "Calzoncillos bóxer o calzones tipo pantaletas",
+            "Descripcion": "Bóxer 100% algodón , confección nacional. (no china) Talla S",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 120.0,
+            "Adjudicacion": {
+              "RutProveedor": "17.123.541-3",
+              "NombreProveedor": "CAROLINA VANESSA FUENTES CANDIA",
+              "Cantidad": 120.0,
+              "MontoUnitario": 1200.0
+            }
+          },
+          {
+            "Correlativo": 6,
+            "CodigoProducto": 53102303,
+            "CodigoCategoria": "53102300",
+            "Categoria": "Ropa, maletas y productos de aseo personal / Ropa / Ropa interior",
+            "NombreProducto": "Calzoncillos bóxer o calzones tipo pantaletas",
+            "Descripcion": "Bóxer 100% algodón , confección nacional. (no china) Talla M",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 250.0,
+            "Adjudicacion": {
+              "RutProveedor": "17.123.541-3",
+              "NombreProveedor": "CAROLINA VANESSA FUENTES CANDIA",
+              "Cantidad": 250.0,
+              "MontoUnitario": 1200.0
+            }
+          },
+          {
+            "Correlativo": 7,
+            "CodigoProducto": 53102303,
+            "CodigoCategoria": "53102300",
+            "Categoria": "Ropa, maletas y productos de aseo personal / Ropa / Ropa interior",
+            "NombreProducto": "Calzoncillos bóxer o calzones tipo pantaletas",
+            "Descripcion": "Bóxer 100% algodón , confección nacional. (no china) Talla L",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 50.0,
+            "Adjudicacion": {
+              "RutProveedor": "17.123.541-3",
+              "NombreProveedor": "CAROLINA VANESSA FUENTES CANDIA",
+              "Cantidad": 50.0,
+              "MontoUnitario": 1200.0
+            }
+          },
+          {
+            "Correlativo": 8,
+            "CodigoProducto": 53102303,
+            "CodigoCategoria": "53102300",
+            "Categoria": "Ropa, maletas y productos de aseo personal / Ropa / Ropa interior",
+            "NombreProducto": "Calzoncillos bóxer o calzones tipo pantaletas",
+            "Descripcion": "Bóxer 100% algodón , confección nacional. (no china) Talla XL",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 30.0,
+            "Adjudicacion": {
+              "RutProveedor": "17.123.541-3",
+              "NombreProveedor": "CAROLINA VANESSA FUENTES CANDIA",
+              "Cantidad": 30.0,
+              "MontoUnitario": 1200.0
+            }
+          },
+          {
+            "Correlativo": 9,
+            "CodigoProducto": 53103001,
+            "CodigoCategoria": "53103000",
+            "Categoria": "Ropa, maletas y productos de aseo personal / Ropa / Camisetas",
+            "NombreProducto": "Camisetas de caballero",
+            "Descripcion": "Polera 100% algodón cuello en V manga corta Talla S",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 120.0,
+            "Adjudicacion": {
+              "RutProveedor": "17.123.541-3",
+              "NombreProveedor": "CAROLINA VANESSA FUENTES CANDIA",
+              "Cantidad": 120.0,
+              "MontoUnitario": 3800.0
+            }
+          },
+          {
+            "Correlativo": 10,
+            "CodigoProducto": 53103001,
+            "CodigoCategoria": "53103000",
+            "Categoria": "Ropa, maletas y productos de aseo personal / Ropa / Camisetas",
+            "NombreProducto": "Camisetas de caballero",
+            "Descripcion": "Polera 100% algodón cuello en V manga corta Talla M",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 250.0,
+            "Adjudicacion": {
+              "RutProveedor": "17.123.541-3",
+              "NombreProveedor": "CAROLINA VANESSA FUENTES CANDIA",
+              "Cantidad": 250.0,
+              "MontoUnitario": 3800.0
+            }
+          },
+          {
+            "Correlativo": 11,
+            "CodigoProducto": 53103001,
+            "CodigoCategoria": "53103000",
+            "Categoria": "Ropa, maletas y productos de aseo personal / Ropa / Camisetas",
+            "NombreProducto": "Camisetas de caballero",
+            "Descripcion": "Polera 100% algodón cuello en V manga corta Talla L",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 50.0,
+            "Adjudicacion": {
+              "RutProveedor": "17.123.541-3",
+              "NombreProveedor": "CAROLINA VANESSA FUENTES CANDIA",
+              "Cantidad": 50.0,
+              "MontoUnitario": 3800.0
+            }
+          },
+          {
+            "Correlativo": 12,
+            "CodigoProducto": 53103001,
+            "CodigoCategoria": "53103000",
+            "Categoria": "Ropa, maletas y productos de aseo personal / Ropa / Camisetas",
+            "NombreProducto": "Camisetas de caballero",
+            "Descripcion": "Polera 100% algodón cuello en V manga corta Talla XL",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 30.0,
+            "Adjudicacion": {
+              "RutProveedor": "17.123.541-3",
+              "NombreProveedor": "CAROLINA VANESSA FUENTES CANDIA",
+              "Cantidad": 30.0,
+              "MontoUnitario": 3800.0
+            }
+          },
+          {
+            "Correlativo": 13,
+            "CodigoProducto": 53102402,
+            "CodigoCategoria": "53102400",
+            "Categoria": "Ropa, maletas y productos de aseo personal / Ropa / Medias, calcetines, pantys y mallas",
+            "NombreProducto": "Calcetines",
+            "Descripcion": "Calceta deportiva media caña 100% algodón color negro o azul marino",
+            "UnidadMedida": "Par",
+            "Cantidad": 450.0,
+            "Adjudicacion": {
+              "RutProveedor": "17.123.541-3",
+              "NombreProveedor": "CAROLINA VANESSA FUENTES CANDIA",
+              "Cantidad": 450.0,
+              "MontoUnitario": 590.0
+            }
+          },
+          {
+            "Correlativo": 14,
+            "CodigoProducto": 53102602,
+            "CodigoCategoria": "53102600",
+            "Categoria": "Ropa, maletas y productos de aseo personal / Ropa / Ropa de dormir",
+            "NombreProducto": "Pijamas, camisones y batas para hombre",
+            "Descripcion": "Pijama 100 % algodón 2 piezas polera manga larga y pantalón largo Talla S",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 100.0,
+            "Adjudicacion": {
+              "RutProveedor": "17.123.541-3",
+              "NombreProveedor": "CAROLINA VANESSA FUENTES CANDIA",
+              "Cantidad": 100.0,
+              "MontoUnitario": 7600.0
+            }
+          },
+          {
+            "Correlativo": 15,
+            "CodigoProducto": 53102602,
+            "CodigoCategoria": "53102600",
+            "Categoria": "Ropa, maletas y productos de aseo personal / Ropa / Ropa de dormir",
+            "NombreProducto": "Pijamas, camisones y batas para hombre",
+            "Descripcion": "Pijama 100 % algodón 2 piezas polera manga larga y pantalón largo Talla M",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 100.0,
+            "Adjudicacion": {
+              "RutProveedor": "17.123.541-3",
+              "NombreProveedor": "CAROLINA VANESSA FUENTES CANDIA",
+              "Cantidad": 100.0,
+              "MontoUnitario": 7600.0
+            }
+          },
+          {
+            "Correlativo": 16,
+            "CodigoProducto": 52121701,
+            "CodigoCategoria": "52121700",
+            "Categoria": "Muebles, accesorios, electrodomésticos y productos electrónicos / Ropa de cama, mantelerías, paños de cocina y toallas / Toallas",
+            "NombreProducto": "Toallas de baño",
+            "Descripcion": "Toalla baño 1,40x70 cms x 550 grs. 100 % algodón, Variedad de colores",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 530.0,
+            "Adjudicacion": {
+              "RutProveedor": "17.123.541-3",
+              "NombreProveedor": "CAROLINA VANESSA FUENTES CANDIA",
+              "Cantidad": 530.0,
+              "MontoUnitario": 4200.0
+            }
+          },
+          {
+            "Correlativo": 17,
+            "CodigoProducto": 53102303,
+            "CodigoCategoria": "53102300",
+            "Categoria": "Ropa, maletas y productos de aseo personal / Ropa / Ropa interior",
+            "NombreProducto": "Calzoncillos bóxer o calzones tipo pantaletas",
+            "Descripcion": "Calzón dama, tipo bikini 100 % algodón, Talla S, variedad de colores.",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 50.0,
+            "Adjudicacion": {
+              "RutProveedor": "17.123.541-3",
+              "NombreProveedor": "CAROLINA VANESSA FUENTES CANDIA",
+              "Cantidad": 50.0,
+              "MontoUnitario": 990.0
+            }
+          },
+          {
+            "Correlativo": 18,
+            "CodigoProducto": 53102303,
+            "CodigoCategoria": "53102300",
+            "Categoria": "Ropa, maletas y productos de aseo personal / Ropa / Ropa interior",
+            "NombreProducto": "Calzoncillos bóxer o calzones tipo pantaletas",
+            "Descripcion": "Calzón dama, tipo bikini 100 % algodón, Talla M, variedad de colores.",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 50.0,
+            "Adjudicacion": {
+              "RutProveedor": "17.123.541-3",
+              "NombreProveedor": "CAROLINA VANESSA FUENTES CANDIA",
+              "Cantidad": 50.0,
+              "MontoUnitario": 990.0
+            }
+          },
+          {
+            "Correlativo": 19,
+            "CodigoProducto": 53102303,
+            "CodigoCategoria": "53102300",
+            "Categoria": "Ropa, maletas y productos de aseo personal / Ropa / Ropa interior",
+            "NombreProducto": "Calzoncillos bóxer o calzones tipo pantaletas",
+            "Descripcion": "Calzón dama, tipo bikini 100 % algodón, Talla L, variedad de colores.",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 30.0,
+            "Adjudicacion": {
+              "RutProveedor": "17.123.541-3",
+              "NombreProveedor": "CAROLINA VANESSA FUENTES CANDIA",
+              "Cantidad": 30.0,
+              "MontoUnitario": 990.0
+            }
+          },
+          {
+            "Correlativo": 20,
+            "CodigoProducto": 53102303,
+            "CodigoCategoria": "53102300",
+            "Categoria": "Ropa, maletas y productos de aseo personal / Ropa / Ropa interior",
+            "NombreProducto": "Calzoncillos bóxer o calzones tipo pantaletas",
+            "Descripcion": "Calzón dama, tipo bikini 100 % algodón, Talla XL, variedad de colores.",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 30.0,
+            "Adjudicacion": {
+              "RutProveedor": "17.123.541-3",
+              "NombreProveedor": "CAROLINA VANESSA FUENTES CANDIA",
+              "Cantidad": 30.0,
+              "MontoUnitario": 990.0
+            }
+          },
+          {
+            "Correlativo": 21,
+            "CodigoProducto": 53111801,
+            "CodigoCategoria": "53111800",
+            "Categoria": "Ropa, maletas y productos de aseo personal / Calzado / Sandalias",
+            "NombreProducto": "Sandalias de hombre",
+            "Descripcion": "Sandalia suave, para ducha 100 % Eva con suela antideslizante, N°40",
+            "UnidadMedida": "Par",
+            "Cantidad": 50.0,
+            "Adjudicacion": {
+              "RutProveedor": "17.123.541-3",
+              "NombreProveedor": "CAROLINA VANESSA FUENTES CANDIA",
+              "Cantidad": 50.0,
+              "MontoUnitario": 2300.0
+            }
+          },
+          {
+            "Correlativo": 22,
+            "CodigoProducto": 53111801,
+            "CodigoCategoria": "53111800",
+            "Categoria": "Ropa, maletas y productos de aseo personal / Calzado / Sandalias",
+            "NombreProducto": "Sandalias de hombre",
+            "Descripcion": "Sandalia suave, para ducha 100 % Eva con suela antideslizante, N°41",
+            "UnidadMedida": "Par",
+            "Cantidad": 50.0,
+            "Adjudicacion": {
+              "RutProveedor": "17.123.541-3",
+              "NombreProveedor": "CAROLINA VANESSA FUENTES CANDIA",
+              "Cantidad": 50.0,
+              "MontoUnitario": 2300.0
+            }
+          },
+          {
+            "Correlativo": 23,
+            "CodigoProducto": 53111801,
+            "CodigoCategoria": "53111800",
+            "Categoria": "Ropa, maletas y productos de aseo personal / Calzado / Sandalias",
+            "NombreProducto": "Sandalias de hombre",
+            "Descripcion": "Sandalia suave, para ducha 100 % Eva con suela antideslizante, N°42",
+            "UnidadMedida": "Par",
+            "Cantidad": 50.0,
+            "Adjudicacion": {
+              "RutProveedor": "17.123.541-3",
+              "NombreProveedor": "CAROLINA VANESSA FUENTES CANDIA",
+              "Cantidad": 50.0,
+              "MontoUnitario": 2300.0
+            }
+          },
+          {
+            "Correlativo": 24,
+            "CodigoProducto": 53111801,
+            "CodigoCategoria": "53111800",
+            "Categoria": "Ropa, maletas y productos de aseo personal / Calzado / Sandalias",
+            "NombreProducto": "Sandalias de hombre",
+            "Descripcion": "Sandalia suave, para ducha 100 % Eva con suela antideslizante, N°43",
+            "UnidadMedida": "Par",
+            "Cantidad": 30.0,
+            "Adjudicacion": {
+              "RutProveedor": "17.123.541-3",
+              "NombreProveedor": "CAROLINA VANESSA FUENTES CANDIA",
+              "Cantidad": 30.0,
+              "MontoUnitario": 2300.0
+            }
+          },
+          {
+            "Correlativo": 25,
+            "CodigoProducto": 53102402,
+            "CodigoCategoria": "53102400",
+            "Categoria": "Ropa, maletas y productos de aseo personal / Ropa / Medias, calcetines, pantys y mallas",
+            "NombreProducto": "Calcetines",
+            "Descripcion": "Calcetas largas hombre N°39/44, variedad de colores.",
+            "UnidadMedida": "Par",
+            "Cantidad": 60.0,
+            "Adjudicacion": {
+              "RutProveedor": "17.123.541-3",
+              "NombreProveedor": "CAROLINA VANESSA FUENTES CANDIA",
+              "Cantidad": 60.0,
+              "MontoUnitario": 550.0
+            }
+          },
+          {
+            "Correlativo": 26,
+            "CodigoProducto": 53102402,
+            "CodigoCategoria": "53102400",
+            "Categoria": "Ropa, maletas y productos de aseo personal / Ropa / Medias, calcetines, pantys y mallas",
+            "NombreProducto": "Calcetines",
+            "Descripcion": "Calcetas largas dama N° 35/39, variedad de colores.",
+            "UnidadMedida": "Par",
+            "Cantidad": 60.0,
+            "Adjudicacion": {
+              "RutProveedor": "17.123.541-3",
+              "NombreProveedor": "CAROLINA VANESSA FUENTES CANDIA",
+              "Cantidad": 60.0,
+              "MontoUnitario": 550.0
+            }
+          },
+          {
+            "Correlativo": 27,
+            "CodigoProducto": 53101802,
+            "CodigoCategoria": "53101800",
+            "Categoria": "Ropa, maletas y productos de aseo personal / Ropa / Abrigos y chaquetas",
+            "NombreProducto": "Abrigos y chaquetas para hombre",
+            "Descripcion": "Chaqueta impermeable temporada invierno Talla S, variedad de color.",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 2.0,
+            "Adjudicacion": {
+              "RutProveedor": "17.123.541-3",
+              "NombreProveedor": "CAROLINA VANESSA FUENTES CANDIA",
+              "Cantidad": 2.0,
+              "MontoUnitario": 22900.0
+            }
+          },
+          {
+            "Correlativo": 28,
+            "CodigoProducto": 53101802,
+            "CodigoCategoria": "53101800",
+            "Categoria": "Ropa, maletas y productos de aseo personal / Ropa / Abrigos y chaquetas",
+            "NombreProducto": "Abrigos y chaquetas para hombre",
+            "Descripcion": "Chaqueta impermeable temporada invierno Talla M, variedad de color.",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 4.0,
+            "Adjudicacion": {
+              "RutProveedor": "17.123.541-3",
+              "NombreProveedor": "CAROLINA VANESSA FUENTES CANDIA",
+              "Cantidad": 4.0,
+              "MontoUnitario": 22900.0
+            }
+          },
+          {
+            "Correlativo": 29,
+            "CodigoProducto": 53101802,
+            "CodigoCategoria": "53101800",
+            "Categoria": "Ropa, maletas y productos de aseo personal / Ropa / Abrigos y chaquetas",
+            "NombreProducto": "Abrigos y chaquetas para hombre",
+            "Descripcion": "Chaqueta impermeable temporada invierno Talla L, variedad de color.",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 4.0,
+            "Adjudicacion": {
+              "RutProveedor": "17.123.541-3",
+              "NombreProveedor": "CAROLINA VANESSA FUENTES CANDIA",
+              "Cantidad": 4.0,
+              "MontoUnitario": 22900.0
+            }
+          },
+          {
+            "Correlativo": 30,
+            "CodigoProducto": 53111802,
+            "CodigoCategoria": "53111800",
+            "Categoria": "Ropa, maletas y productos de aseo personal / Calzado / Sandalias",
+            "NombreProducto": "Sandalias de mujer",
+            "Descripcion": "Sandalias para baño N°36.",
+            "UnidadMedida": "Par",
+            "Cantidad": 20.0,
+            "Adjudicacion": {
+              "RutProveedor": "17.123.541-3",
+              "NombreProveedor": "CAROLINA VANESSA FUENTES CANDIA",
+              "Cantidad": 20.0,
+              "MontoUnitario": 2300.0
+            }
+          },
+          {
+            "Correlativo": 31,
+            "CodigoProducto": 53111802,
+            "CodigoCategoria": "53111800",
+            "Categoria": "Ropa, maletas y productos de aseo personal / Calzado / Sandalias",
+            "NombreProducto": "Sandalias de mujer",
+            "Descripcion": "Sandalias para baño N°37.",
+            "UnidadMedida": "Par",
+            "Cantidad": 15.0,
+            "Adjudicacion": {
+              "RutProveedor": "17.123.541-3",
+              "NombreProveedor": "CAROLINA VANESSA FUENTES CANDIA",
+              "Cantidad": 15.0,
+              "MontoUnitario": 2300.0
+            }
+          },
+          {
+            "Correlativo": 32,
+            "CodigoProducto": 53111802,
+            "CodigoCategoria": "53111800",
+            "Categoria": "Ropa, maletas y productos de aseo personal / Calzado / Sandalias",
+            "NombreProducto": "Sandalias de mujer",
+            "Descripcion": "Sandalias para baño N°38.",
+            "UnidadMedida": "Par",
+            "Cantidad": 15.0,
+            "Adjudicacion": {
+              "RutProveedor": "17.123.541-3",
+              "NombreProveedor": "CAROLINA VANESSA FUENTES CANDIA",
+              "Cantidad": 15.0,
+              "MontoUnitario": 2300.0
+            }
+          },
+          {
+            "Correlativo": 33,
+            "CodigoProducto": 53111802,
+            "CodigoCategoria": "53111800",
+            "Categoria": "Ropa, maletas y productos de aseo personal / Calzado / Sandalias",
+            "NombreProducto": "Sandalias de mujer",
+            "Descripcion": "Sandalias para baño N°39.",
+            "UnidadMedida": "Par",
+            "Cantidad": 10.0,
+            "Adjudicacion": {
+              "RutProveedor": "17.123.541-3",
+              "NombreProveedor": "CAROLINA VANESSA FUENTES CANDIA",
+              "Cantidad": 10.0,
+              "MontoUnitario": 2300.0
+            }
+          },
+          {
+            "Correlativo": 34,
+            "CodigoProducto": 53102901,
+            "CodigoCategoria": "53102900",
+            "Categoria": "Ropa, maletas y productos de aseo personal / Ropa / Prendas de deporte",
+            "NombreProducto": "Prendas de deporte y buzos de mujer",
+            "Descripcion": "Polera mujer Talla S, 100% algodón, cuello redondo colores negro y gris.",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 30.0,
+            "Adjudicacion": {
+              "RutProveedor": "17.123.541-3",
+              "NombreProveedor": "CAROLINA VANESSA FUENTES CANDIA",
+              "Cantidad": 30.0,
+              "MontoUnitario": 3800.0
+            }
+          },
+          {
+            "Correlativo": 35,
+            "CodigoProducto": 53102901,
+            "CodigoCategoria": "53102900",
+            "Categoria": "Ropa, maletas y productos de aseo personal / Ropa / Prendas de deporte",
+            "NombreProducto": "Prendas de deporte y buzos de mujer",
+            "Descripcion": "Polera mujer Talla M, 100% algodón, cuello redondo colores negro y gris.",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 30.0,
+            "Adjudicacion": {
+              "RutProveedor": "17.123.541-3",
+              "NombreProveedor": "CAROLINA VANESSA FUENTES CANDIA",
+              "Cantidad": 30.0,
+              "MontoUnitario": 3800.0
+            }
+          },
+          {
+            "Correlativo": 36,
+            "CodigoProducto": 53102303,
+            "CodigoCategoria": "53102300",
+            "Categoria": "Ropa, maletas y productos de aseo personal / Ropa / Ropa interior",
+            "NombreProducto": "Calzoncillos bóxer o calzones tipo pantaletas",
+            "Descripcion": "Bóxer algodón Tallas S-M-L-XL, variedad de colores",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 40.0,
+            "Adjudicacion": {
+              "RutProveedor": "17.123.541-3",
+              "NombreProveedor": "CAROLINA VANESSA FUENTES CANDIA",
+              "Cantidad": 40.0,
+              "MontoUnitario": 1200.0
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

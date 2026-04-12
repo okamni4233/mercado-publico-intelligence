@@ -1,0 +1,162 @@
+{
+  "Cantidad": 1,
+  "FechaCreacion": "2026-04-05T10:20:25.422116Z",
+  "Version": "v1",
+  "Listado": [
+    {
+      "CodigoExterno": "2101-38-L126",
+      "Nombre": "INSUMOS CLINICOS UNIDAD HOSPITALARIA DE EMERGENCIA",
+      "CodigoEstado": 8,
+      "Descripcion": "El hospital Intercultural Kallvu Llanka requiere adquirir insumos clínicos, abasteciendo de stock de unidad Hospitalaria de Emergencia ",
+      "FechaCierre": null,
+      "Estado": "Adjudicada",
+      "Comprador": {
+        "CodigoOrganismo": "7401",
+        "NombreOrganismo": "HOSPITAL INTERCULTURAL KALLVU LLANKA.-",
+        "RutUnidad": "61.602.213-k",
+        "CodigoUnidad": "3096",
+        "NombreUnidad": "Hospital Cañete",
+        "DireccionUnidad": "MARIQUEO 1463",
+        "ComunaUnidad": "Cañete",
+        "RegionUnidad": "Región del Biobío ",
+        "RutUsuario": "",
+        "CodigoUsuario": "272680",
+        "NombreUsuario": "Pamela Bastías Burgos",
+        "CargoUsuario": "PROFESIONAL DE APOYO"
+      },
+      "DiasCierreLicitacion": "0",
+      "Informada": 0,
+      "CodigoTipo": 1,
+      "Tipo": "L1",
+      "TipoConvocatoria": "1",
+      "Moneda": "CLP",
+      "Etapas": 1,
+      "EstadoEtapas": "1",
+      "TomaRazon": "0",
+      "EstadoPublicidadOfertas": 1,
+      "JustificacionPublicidad": "Todas las ofertas técnicas serán visibles al público en general, través del portal www.mercadopublico.cl, desde el momento de la apertura electrónica.",
+      "Contrato": "0",
+      "Obras": "0",
+      "CantidadReclamos": 1339,
+      "Fechas": {
+        "FechaCreacion": "2026-03-06T10:49:15.93",
+        "FechaCierre": "2026-03-13T15:00:00",
+        "FechaInicio": "2026-03-06T12:03:30.25",
+        "FechaFinal": "2026-03-09T14:59:00",
+        "FechaPubRespuestas": "2026-03-11T14:59:00",
+        "FechaActoAperturaTecnica": "2026-03-14T14:59:00",
+        "FechaActoAperturaEconomica": "2026-03-14T14:59:00",
+        "FechaPublicacion": "2026-03-06T12:03:30.25",
+        "FechaAdjudicacion": "2026-04-02T15:18:27.82",
+        "FechaEstimadaAdjudicacion": "2026-04-13T14:59:00",
+        "FechaSoporteFisico": null,
+        "FechaTiempoEvaluacion": null,
+        "FechaEstimadaFirma": null,
+        "FechasUsuario": null,
+        "FechaVisitaTerreno": null,
+        "FechaEntregaAntecedentes": null
+      },
+      "UnidadTiempoEvaluacion": 2,
+      "DireccionVisita": "",
+      "DireccionEntrega": "",
+      "Estimacion": 2,
+      "FuenteFinanciamiento": "",
+      "VisibilidadMonto": 1,
+      "MontoEstimado": 3125000.0,
+      "Tiempo": null,
+      "UnidadTiempo": "2",
+      "Modalidad": 0,
+      "TipoPago": "-1",
+      "NombreResponsablePago": "",
+      "EmailResponsablePago": "",
+      "NombreResponsableContrato": "",
+      "EmailResponsableContrato": "",
+      "FonoResponsableContrato": "",
+      "ProhibicionContratacion": "",
+      "SubContratacion": "1",
+      "UnidadTiempoDuracionContrato": 0,
+      "TiempoDuracionContrato": "0",
+      "TipoDuracionContrato": " ",
+      "JustificacionMontoEstimado": "1",
+      "ObservacionContract": null,
+      "ExtensionPlazo": 0,
+      "EsBaseTipo": 0,
+      "UnidadTiempoContratoLicitacion": "0",
+      "ValorTiempoRenovacion": "0",
+      "PeriodoTiempoRenovacion": " ",
+      "EsRenovable": 0,
+      "CodigoBIP": null,
+      "Adjudicacion": {
+        "Tipo": 2,
+        "Fecha": "2026-04-01T00:00:00",
+        "Numero": "3078",
+        "NumeroOferentes": 7,
+        "UrlActa": "http://www.mercadopublico.cl/Procurement/Modules/RFB/StepsProcessAward/PreviewAwardAct.aspx?qs=0/S2zaUV7O7rPSVRxfbBB5zqAxULVzeRTzdLLNUhztI="
+      },
+      "Items": {
+        "Cantidad": 4,
+        "Listado": [
+          {
+            "Correlativo": 1,
+            "CodigoProducto": 42272301,
+            "CodigoCategoria": "42272300",
+            "Categoria": "Equipamiento y suministros médicos / Productos de resucitación, anestesia y respiratorios / Suministros de resucitadores",
+            "NombreProducto": "Resucitadores manuales",
+            "Descripcion": "RESUCITADOR MANUAL ADULTO (AMBU)",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 5.0,
+            "Adjudicacion": null
+          },
+          {
+            "Correlativo": 2,
+            "CodigoProducto": 42293603,
+            "CodigoCategoria": "42293600",
+            "Categoria": "Equipamiento y suministros médicos / Productos quirúrgicos / Bougies quirúrgicos, sondas, obturadores y productos relacionados",
+            "NombreProducto": "Sondas quirúrgicas",
+            "Descripcion": "SONDA SENGSTAKEN 3 VIAS 21 FR",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 10.0,
+            "Adjudicacion": {
+              "RutProveedor": "96.625.950-7",
+              "NombreProveedor": "TECNIKA S A",
+              "Cantidad": 10.0,
+              "MontoUnitario": 20350.0
+            }
+          },
+          {
+            "Correlativo": 3,
+            "CodigoProducto": 42293603,
+            "CodigoCategoria": "42293600",
+            "Categoria": "Equipamiento y suministros médicos / Productos quirúrgicos / Bougies quirúrgicos, sondas, obturadores y productos relacionados",
+            "NombreProducto": "Sondas quirúrgicas",
+            "Descripcion": "SONDA SENGSTAKEN 3 VIAS 16 FR",
+            "UnidadMedida": "Unidad no definida",
+            "Cantidad": 10.0,
+            "Adjudicacion": {
+              "RutProveedor": "96.625.950-7",
+              "NombreProveedor": "TECNIKA S A",
+              "Cantidad": 10.0,
+              "MontoUnitario": 20350.0
+            }
+          },
+          {
+            "Correlativo": 4,
+            "CodigoProducto": 42293603,
+            "CodigoCategoria": "42293600",
+            "Categoria": "Equipamiento y suministros médicos / Productos quirúrgicos / Bougies quirúrgicos, sondas, obturadores y productos relacionados",
+            "NombreProducto": "Sondas quirúrgicas",
+            "Descripcion": "SONDA SENGSTAKEN 3 VIAS 18 FR",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 10.0,
+            "Adjudicacion": {
+              "RutProveedor": "96.625.950-7",
+              "NombreProveedor": "TECNIKA S A",
+              "Cantidad": 10.0,
+              "MontoUnitario": 20350.0
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

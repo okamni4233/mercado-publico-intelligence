@@ -1,0 +1,839 @@
+{
+  "Cantidad": 1,
+  "FechaCreacion": "2026-04-06T00:57:45.8352119Z",
+  "Version": "v1",
+  "Listado": [
+    {
+      "CodigoExterno": "1554-5-LP26",
+      "Nombre": "Servicio de Informes Radiológicos de TAC ",
+      "CodigoEstado": 8,
+      "Descripcion": "El objetivo de esta licitación es satisfacer de manera oportuna las necesidades del Hospital Regional de Copiapó y de la población beneficiaria, que recibe asistencia sanitaria a través de este establecimiento, con observancia de la Ley N°19.886 y su reglamento que prevén los procedimientos de contratación pública, los cuales se rigen por principios de libre acceso a las licitaciones, competencia, publicidad, transparencia, igualdad de trato, no discriminación, probidad y valor por el dinero.\r\nPara cumplir con este objetivo se efectúa el llamado a licitación pública, estableciendo en sus bases, administrativas y técnicas, el conjunto, claro y objetivo, de requisitos, condiciones y especificaciones que describen los bienes yo servicios a contratar y que permitan alcanzar la combinación más ventajosa entre todos los beneficios del bien o servicio por adquirir y todos sus costos asociados, presente y futuros. Este proceso regulará tanto la adquisición como el contrato definitivo, asegurando así que se mantenga la calidad y eficiencia en la atención sanitaria proporcionada por el Hospital Regional de Copiapó.",
+      "FechaCierre": null,
+      "Estado": "Adjudicada",
+      "Comprador": {
+        "CodigoOrganismo": "7411",
+        "NombreOrganismo": "SERVICIO DE SALUD ATACAMA HOSPITAL COPIA",
+        "RutUnidad": "61.606.307-3",
+        "CodigoUnidad": "2550",
+        "NombreUnidad": "Abastecimiento Hospital de Copiapó",
+        "DireccionUnidad": "Los Carreras 1320",
+        "ComunaUnidad": "Copiapó",
+        "RegionUnidad": "Región de Atacama ",
+        "RutUsuario": "",
+        "CodigoUsuario": "2281067",
+        "NombreUsuario": "Fernando Nahuel Perez Velasquez",
+        "CargoUsuario": "Profesional"
+      },
+      "DiasCierreLicitacion": "0",
+      "Informada": 0,
+      "CodigoTipo": 1,
+      "Tipo": "LP",
+      "TipoConvocatoria": "1",
+      "Moneda": "CLP",
+      "Etapas": 1,
+      "EstadoEtapas": "1",
+      "TomaRazon": "0",
+      "EstadoPublicidadOfertas": 1,
+      "JustificacionPublicidad": "",
+      "Contrato": "0",
+      "Obras": "0",
+      "CantidadReclamos": 996,
+      "Fechas": {
+        "FechaCreacion": "2026-01-28T10:08:39.537",
+        "FechaCierre": "2026-02-17T17:00:00",
+        "FechaInicio": "2026-01-28T17:00:00",
+        "FechaFinal": "2026-02-04T20:00:00",
+        "FechaPubRespuestas": "2026-02-11T17:00:00",
+        "FechaActoAperturaTecnica": "2026-02-18T08:00:00",
+        "FechaActoAperturaEconomica": "2026-02-18T08:00:00",
+        "FechaPublicacion": "2026-01-28T16:55:28.917",
+        "FechaAdjudicacion": "2026-04-01T16:54:16.5",
+        "FechaEstimadaAdjudicacion": "2026-04-01T17:00:00",
+        "FechaSoporteFisico": null,
+        "FechaTiempoEvaluacion": null,
+        "FechaEstimadaFirma": null,
+        "FechasUsuario": null,
+        "FechaVisitaTerreno": null,
+        "FechaEntregaAntecedentes": null
+      },
+      "UnidadTiempoEvaluacion": 1,
+      "DireccionVisita": "",
+      "DireccionEntrega": "",
+      "Estimacion": 2,
+      "FuenteFinanciamiento": "Hospital Regional de Copiapo",
+      "VisibilidadMonto": 0,
+      "MontoEstimado": null,
+      "Tiempo": "24",
+      "UnidadTiempo": "1",
+      "Modalidad": 1,
+      "TipoPago": "1",
+      "NombreResponsablePago": "DANARY VERA MORETA",
+      "EmailResponsablePago": "",
+      "NombreResponsableContrato": "GUSTAVO NUÑEZ MENDOZA",
+      "EmailResponsableContrato": "",
+      "FonoResponsableContrato": "",
+      "ProhibicionContratacion": "",
+      "SubContratacion": "0",
+      "UnidadTiempoDuracionContrato": 4,
+      "TiempoDuracionContrato": "24",
+      "TipoDuracionContrato": " ",
+      "JustificacionMontoEstimado": "",
+      "ObservacionContract": null,
+      "ExtensionPlazo": 0,
+      "EsBaseTipo": 0,
+      "UnidadTiempoContratoLicitacion": "2",
+      "ValorTiempoRenovacion": "0",
+      "PeriodoTiempoRenovacion": " ",
+      "EsRenovable": 0,
+      "CodigoBIP": null,
+      "Adjudicacion": {
+        "Tipo": 1,
+        "Fecha": "2026-04-01T00:00:00",
+        "Numero": "3671",
+        "NumeroOferentes": 2,
+        "UrlActa": "http://www.mercadopublico.cl/Procurement/Modules/RFB/StepsProcessAward/PreviewAwardAct.aspx?qs=osKxqAXwj221NR5PDAeEM7cG0uDwQRiEzP5mINH8ons="
+      },
+      "Items": {
+        "Cantidad": 46,
+        "Listado": [
+          {
+            "Correlativo": 1,
+            "CodigoProducto": 85122201,
+            "CodigoCategoria": "85122200",
+            "Categoria": "Salud, servicios sanitarios y alimentación / Medicina y servicios de salud / Evaluaciones de salud individuales",
+            "NombreProducto": "Exámenes médicos",
+            "Descripcion": "0403001\tHorario Hábil Cráneo Encefálica. ",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "96.995.590-3",
+              "NombreProveedor": "SERVICIOS MÉDICOS AMBULATORIOS ATRYS HEALTH CHILE SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 12000.0
+            }
+          },
+          {
+            "Correlativo": 2,
+            "CodigoProducto": 85122201,
+            "CodigoCategoria": "85122200",
+            "Categoria": "Salud, servicios sanitarios y alimentación / Medicina y servicios de salud / Evaluaciones de salud individuales",
+            "NombreProducto": "Exámenes médicos",
+            "Descripcion": "0403002\tHorario Hábil Hipotálamo- Hipófisis.",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "96.995.590-3",
+              "NombreProveedor": "SERVICIOS MÉDICOS AMBULATORIOS ATRYS HEALTH CHILE SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 10.0
+            }
+          },
+          {
+            "Correlativo": 3,
+            "CodigoProducto": 85122201,
+            "CodigoCategoria": "85122200",
+            "Categoria": "Salud, servicios sanitarios y alimentación / Medicina y servicios de salud / Evaluaciones de salud individuales",
+            "NombreProducto": "Exámenes médicos",
+            "Descripcion": "0403003\tHorario Hábil Fosa Posterior. ",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "96.995.590-3",
+              "NombreProveedor": "SERVICIOS MÉDICOS AMBULATORIOS ATRYS HEALTH CHILE SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 10.0
+            }
+          },
+          {
+            "Correlativo": 4,
+            "CodigoProducto": 85122201,
+            "CodigoCategoria": "85122200",
+            "Categoria": "Salud, servicios sanitarios y alimentación / Medicina y servicios de salud / Evaluaciones de salud individuales",
+            "NombreProducto": "Exámenes médicos",
+            "Descripcion": "0403006\tHorario Hábil\tTemporal-Oído. ",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "96.995.590-3",
+              "NombreProveedor": "SERVICIOS MÉDICOS AMBULATORIOS ATRYS HEALTH CHILE SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 10.0
+            }
+          },
+          {
+            "Correlativo": 5,
+            "CodigoProducto": 85122201,
+            "CodigoCategoria": "85122200",
+            "Categoria": "Salud, servicios sanitarios y alimentación / Medicina y servicios de salud / Evaluaciones de salud individuales",
+            "NombreProducto": "Exámenes médicos",
+            "Descripcion": "0403007\tHorario Hábil\tÓrbitas Maxilofaciales (bilateral).",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "96.995.590-3",
+              "NombreProveedor": "SERVICIOS MÉDICOS AMBULATORIOS ATRYS HEALTH CHILE SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 12000.0
+            }
+          },
+          {
+            "Correlativo": 6,
+            "CodigoProducto": 85122201,
+            "CodigoCategoria": "85122200",
+            "Categoria": "Salud, servicios sanitarios y alimentación / Medicina y servicios de salud / Evaluaciones de salud individuales",
+            "NombreProducto": "Exámenes médicos",
+            "Descripcion": "0403008\tHorario Hábil\tColumna Cervical.",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "96.995.590-3",
+              "NombreProveedor": "SERVICIOS MÉDICOS AMBULATORIOS ATRYS HEALTH CHILE SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 12000.0
+            }
+          },
+          {
+            "Correlativo": 7,
+            "CodigoProducto": 85122201,
+            "CodigoCategoria": "85122200",
+            "Categoria": "Salud, servicios sanitarios y alimentación / Medicina y servicios de salud / Evaluaciones de salud individuales",
+            "NombreProducto": "Exámenes médicos",
+            "Descripcion": "0403018\tHorario Hábil\tColumna Dorsal, Incluye Mínimo 6 Espacios.",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "96.995.590-3",
+              "NombreProveedor": "SERVICIOS MÉDICOS AMBULATORIOS ATRYS HEALTH CHILE SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 12000.0
+            }
+          },
+          {
+            "Correlativo": 8,
+            "CodigoProducto": 85122201,
+            "CodigoCategoria": "85122200",
+            "Categoria": "Salud, servicios sanitarios y alimentación / Medicina y servicios de salud / Evaluaciones de salud individuales",
+            "NombreProducto": "Exámenes médicos",
+            "Descripcion": "0403019\tHorario Hábil\tColumna Lumbar.",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "96.995.590-3",
+              "NombreProveedor": "SERVICIOS MÉDICOS AMBULATORIOS ATRYS HEALTH CHILE SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 12000.0
+            }
+          },
+          {
+            "Correlativo": 9,
+            "CodigoProducto": 85122201,
+            "CodigoCategoria": "85122200",
+            "Categoria": "Salud, servicios sanitarios y alimentación / Medicina y servicios de salud / Evaluaciones de salud individuales",
+            "NombreProducto": "Exámenes médicos",
+            "Descripcion": "0403012\tHorario Hábil\tCuello, Partes Blandas.",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "96.995.590-3",
+              "NombreProveedor": "SERVICIOS MÉDICOS AMBULATORIOS ATRYS HEALTH CHILE SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 12000.0
+            }
+          },
+          {
+            "Correlativo": 10,
+            "CodigoProducto": 85122201,
+            "CodigoCategoria": "85122200",
+            "Categoria": "Salud, servicios sanitarios y alimentación / Medicina y servicios de salud / Evaluaciones de salud individuales",
+            "NombreProducto": "Exámenes médicos",
+            "Descripcion": "0403013\tHorario Hábil\tTórax. Incluye, Además: Estemón, Clavículas, Articulación Acromioclavicular, Escápula, Costillas, Articulación Esternoclavicular. Incluye Todo El Tórax O Cada Segmento O Articulación. Incluye Bilateralidad.",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "96.995.590-3",
+              "NombreProveedor": "SERVICIOS MÉDICOS AMBULATORIOS ATRYS HEALTH CHILE SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 12000.0
+            }
+          },
+          {
+            "Correlativo": 11,
+            "CodigoProducto": 85122201,
+            "CodigoCategoria": "85122200",
+            "Categoria": "Salud, servicios sanitarios y alimentación / Medicina y servicios de salud / Evaluaciones de salud individuales",
+            "NombreProducto": "Exámenes médicos",
+            "Descripcion": "0403014\tHorario Hábil\tAbdomen (Hígado, Vías Y Vesícula Biliar, Páncreas, Brazo, Suprarrenales Y Riñones).",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "96.995.590-3",
+              "NombreProveedor": "SERVICIOS MÉDICOS AMBULATORIOS ATRYS HEALTH CHILE SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 12000.0
+            }
+          },
+          {
+            "Correlativo": 12,
+            "CodigoProducto": 85122201,
+            "CodigoCategoria": "85122200",
+            "Categoria": "Salud, servicios sanitarios y alimentación / Medicina y servicios de salud / Evaluaciones de salud individuales",
+            "NombreProducto": "Exámenes médicos",
+            "Descripcion": "0403016\tHorario Hábil\tPelvis (Además Incluye Sacro, Coxis, Caderas, Huesos Pélvicos, Articulaciones Sacro Ilíacas). Bilateral.",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "96.995.590-3",
+              "NombreProveedor": "SERVICIOS MÉDICOS AMBULATORIOS ATRYS HEALTH CHILE SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 12000.0
+            }
+          },
+          {
+            "Correlativo": 13,
+            "CodigoProducto": 85122201,
+            "CodigoCategoria": "85122200",
+            "Categoria": "Salud, servicios sanitarios y alimentación / Medicina y servicios de salud / Evaluaciones de salud individuales",
+            "NombreProducto": "Exámenes médicos",
+            "Descripcion": "0403020\tHorario Hábil\tAbdomen Y Pelvis.",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "96.995.590-3",
+              "NombreProveedor": "SERVICIOS MÉDICOS AMBULATORIOS ATRYS HEALTH CHILE SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 16000.0
+            }
+          },
+          {
+            "Correlativo": 14,
+            "CodigoProducto": 85122201,
+            "CodigoCategoria": "85122200",
+            "Categoria": "Salud, servicios sanitarios y alimentación / Medicina y servicios de salud / Evaluaciones de salud individuales",
+            "NombreProducto": "Exámenes médicos",
+            "Descripcion": "0403021\tHorario Hábil\tPielografía.",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "96.995.590-3",
+              "NombreProveedor": "SERVICIOS MÉDICOS AMBULATORIOS ATRYS HEALTH CHILE SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 12000.0
+            }
+          },
+          {
+            "Correlativo": 15,
+            "CodigoProducto": 85122201,
+            "CodigoCategoria": "85122200",
+            "Categoria": "Salud, servicios sanitarios y alimentación / Medicina y servicios de salud / Evaluaciones de salud individuales",
+            "NombreProducto": "Exámenes médicos",
+            "Descripcion": "0403022\tHorario Hábil\tUrografía.",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "96.995.590-3",
+              "NombreProveedor": "SERVICIOS MÉDICOS AMBULATORIOS ATRYS HEALTH CHILE SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 10.0
+            }
+          },
+          {
+            "Correlativo": 16,
+            "CodigoProducto": 85122201,
+            "CodigoCategoria": "85122200",
+            "Categoria": "Salud, servicios sanitarios y alimentación / Medicina y servicios de salud / Evaluaciones de salud individuales",
+            "NombreProducto": "Exámenes médicos",
+            "Descripcion": "0403104\tHorario Hábil\tAngio De Cuello.",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "96.995.590-3",
+              "NombreProveedor": "SERVICIOS MÉDICOS AMBULATORIOS ATRYS HEALTH CHILE SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 10.0
+            }
+          },
+          {
+            "Correlativo": 17,
+            "CodigoProducto": 85122201,
+            "CodigoCategoria": "85122200",
+            "Categoria": "Salud, servicios sanitarios y alimentación / Medicina y servicios de salud / Evaluaciones de salud individuales",
+            "NombreProducto": "Exámenes médicos",
+            "Descripcion": "0403105\tHorario Hábil\tAngio De Pelvis.",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "96.995.590-3",
+              "NombreProveedor": "SERVICIOS MÉDICOS AMBULATORIOS ATRYS HEALTH CHILE SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 12000.0
+            }
+          },
+          {
+            "Correlativo": 18,
+            "CodigoProducto": 85122201,
+            "CodigoCategoria": "85122200",
+            "Categoria": "Salud, servicios sanitarios y alimentación / Medicina y servicios de salud / Evaluaciones de salud individuales",
+            "NombreProducto": "Exámenes médicos",
+            "Descripcion": "0403017\tHorario Hábil\tMusculoesquelética Por Zona Anatómica. Por Cada Segmento O Articulación: Músculo, Pierna, Rodillas, Antebrazo, Codo, Muñeca, Mano, Hombro, Pie, Tobillo, U Otros. Bilateral Sólo Para Rodillas.",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "96.995.590-3",
+              "NombreProveedor": "SERVICIOS MÉDICOS AMBULATORIOS ATRYS HEALTH CHILE SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 12000.0
+            }
+          },
+          {
+            "Correlativo": 19,
+            "CodigoProducto": 85122201,
+            "CodigoCategoria": "85122200",
+            "Categoria": "Salud, servicios sanitarios y alimentación / Medicina y servicios de salud / Evaluaciones de salud individuales",
+            "NombreProducto": "Exámenes médicos",
+            "Descripcion": "0403101 Horario\tHábil\tAngio De Encéfalo.",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "96.995.590-3",
+              "NombreProveedor": "SERVICIOS MÉDICOS AMBULATORIOS ATRYS HEALTH CHILE SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 10.0
+            }
+          },
+          {
+            "Correlativo": 20,
+            "CodigoProducto": 85122201,
+            "CodigoCategoria": "85122200",
+            "Categoria": "Salud, servicios sanitarios y alimentación / Medicina y servicios de salud / Evaluaciones de salud individuales",
+            "NombreProducto": "Exámenes médicos",
+            "Descripcion": "0403102\tHorario Hábil\tAngio De Tórax.",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "96.995.590-3",
+              "NombreProveedor": "SERVICIOS MÉDICOS AMBULATORIOS ATRYS HEALTH CHILE SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 12000.0
+            }
+          },
+          {
+            "Correlativo": 21,
+            "CodigoProducto": 85122201,
+            "CodigoCategoria": "85122200",
+            "Categoria": "Salud, servicios sanitarios y alimentación / Medicina y servicios de salud / Evaluaciones de salud individuales",
+            "NombreProducto": "Exámenes médicos",
+            "Descripcion": "0403103\tHorario Hábil\tAngio De Abdomen.",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "96.995.590-3",
+              "NombreProveedor": "SERVICIOS MÉDICOS AMBULATORIOS ATRYS HEALTH CHILE SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 12000.0
+            }
+          },
+          {
+            "Correlativo": 22,
+            "CodigoProducto": 85122201,
+            "CodigoCategoria": "85122200",
+            "Categoria": "Salud, servicios sanitarios y alimentación / Medicina y servicios de salud / Evaluaciones de salud individuales",
+            "NombreProducto": "Exámenes médicos",
+            "Descripcion": "0403107\tHorario Hábil\tAngio De Extremidades Inferiores (Bilateral).",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "96.995.590-3",
+              "NombreProveedor": "SERVICIOS MÉDICOS AMBULATORIOS ATRYS HEALTH CHILE SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 12000.0
+            }
+          },
+          {
+            "Correlativo": 23,
+            "CodigoProducto": 85122201,
+            "CodigoCategoria": "85122200",
+            "Categoria": "Salud, servicios sanitarios y alimentación / Medicina y servicios de salud / Evaluaciones de salud individuales",
+            "NombreProducto": "Exámenes médicos",
+            "Descripcion": "0403108 Horario\tHábil\tAngio De Extremidad Superior (Unilateral).",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "96.995.590-3",
+              "NombreProveedor": "SERVICIOS MÉDICOS AMBULATORIOS ATRYS HEALTH CHILE SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 12000.0
+            }
+          },
+          {
+            "Correlativo": 24,
+            "CodigoProducto": 85122201,
+            "CodigoCategoria": "85122200",
+            "Categoria": "Salud, servicios sanitarios y alimentación / Medicina y servicios de salud / Evaluaciones de salud individuales",
+            "NombreProducto": "Exámenes médicos",
+            "Descripcion": "0403001\tHorario Inhábil\tCráneo Encefálica.",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "96.995.590-3",
+              "NombreProveedor": "SERVICIOS MÉDICOS AMBULATORIOS ATRYS HEALTH CHILE SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 12000.0
+            }
+          },
+          {
+            "Correlativo": 25,
+            "CodigoProducto": 85122201,
+            "CodigoCategoria": "85122200",
+            "Categoria": "Salud, servicios sanitarios y alimentación / Medicina y servicios de salud / Evaluaciones de salud individuales",
+            "NombreProducto": "Exámenes médicos",
+            "Descripcion": "0403002\tHorario Inhábil\tHipotálamo- Hipófisis.",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "96.995.590-3",
+              "NombreProveedor": "SERVICIOS MÉDICOS AMBULATORIOS ATRYS HEALTH CHILE SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 10.0
+            }
+          },
+          {
+            "Correlativo": 26,
+            "CodigoProducto": 85122201,
+            "CodigoCategoria": "85122200",
+            "Categoria": "Salud, servicios sanitarios y alimentación / Medicina y servicios de salud / Evaluaciones de salud individuales",
+            "NombreProducto": "Exámenes médicos",
+            "Descripcion": "0403003\tHorario Inhábil\tFosa Posterior.",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "96.995.590-3",
+              "NombreProveedor": "SERVICIOS MÉDICOS AMBULATORIOS ATRYS HEALTH CHILE SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 10.0
+            }
+          },
+          {
+            "Correlativo": 27,
+            "CodigoProducto": 85122201,
+            "CodigoCategoria": "85122200",
+            "Categoria": "Salud, servicios sanitarios y alimentación / Medicina y servicios de salud / Evaluaciones de salud individuales",
+            "NombreProducto": "Exámenes médicos",
+            "Descripcion": "0403006\tHorario Inhábil\tTemporal-Oído.",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "96.995.590-3",
+              "NombreProveedor": "SERVICIOS MÉDICOS AMBULATORIOS ATRYS HEALTH CHILE SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 10.0
+            }
+          },
+          {
+            "Correlativo": 28,
+            "CodigoProducto": 85122201,
+            "CodigoCategoria": "85122200",
+            "Categoria": "Salud, servicios sanitarios y alimentación / Medicina y servicios de salud / Evaluaciones de salud individuales",
+            "NombreProducto": "Exámenes médicos",
+            "Descripcion": "0403007\tHorario Inhábil\tÓrbitas Maxilofaciales (bilateral).",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "96.995.590-3",
+              "NombreProveedor": "SERVICIOS MÉDICOS AMBULATORIOS ATRYS HEALTH CHILE SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 12000.0
+            }
+          },
+          {
+            "Correlativo": 29,
+            "CodigoProducto": 85122201,
+            "CodigoCategoria": "85122200",
+            "Categoria": "Salud, servicios sanitarios y alimentación / Medicina y servicios de salud / Evaluaciones de salud individuales",
+            "NombreProducto": "Exámenes médicos",
+            "Descripcion": "0403008\tHorario Inhábil\tColumna Cervical.",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "96.995.590-3",
+              "NombreProveedor": "SERVICIOS MÉDICOS AMBULATORIOS ATRYS HEALTH CHILE SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 12000.0
+            }
+          },
+          {
+            "Correlativo": 30,
+            "CodigoProducto": 85122201,
+            "CodigoCategoria": "85122200",
+            "Categoria": "Salud, servicios sanitarios y alimentación / Medicina y servicios de salud / Evaluaciones de salud individuales",
+            "NombreProducto": "Exámenes médicos",
+            "Descripcion": "0403018\tHorario Inhábil\tColumna Dorsal, Incluye Mínimo 6 Espacios.",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "96.995.590-3",
+              "NombreProveedor": "SERVICIOS MÉDICOS AMBULATORIOS ATRYS HEALTH CHILE SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 12000.0
+            }
+          },
+          {
+            "Correlativo": 31,
+            "CodigoProducto": 85122201,
+            "CodigoCategoria": "85122200",
+            "Categoria": "Salud, servicios sanitarios y alimentación / Medicina y servicios de salud / Evaluaciones de salud individuales",
+            "NombreProducto": "Exámenes médicos",
+            "Descripcion": "0403019\tHorario Inhábil\tColumna Lumbar.",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "96.995.590-3",
+              "NombreProveedor": "SERVICIOS MÉDICOS AMBULATORIOS ATRYS HEALTH CHILE SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 12000.0
+            }
+          },
+          {
+            "Correlativo": 32,
+            "CodigoProducto": 85122201,
+            "CodigoCategoria": "85122200",
+            "Categoria": "Salud, servicios sanitarios y alimentación / Medicina y servicios de salud / Evaluaciones de salud individuales",
+            "NombreProducto": "Exámenes médicos",
+            "Descripcion": "0403012\tHorario Inhábil\tCuello, Partes Blandas.",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "96.995.590-3",
+              "NombreProveedor": "SERVICIOS MÉDICOS AMBULATORIOS ATRYS HEALTH CHILE SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 12000.0
+            }
+          },
+          {
+            "Correlativo": 33,
+            "CodigoProducto": 85122201,
+            "CodigoCategoria": "85122200",
+            "Categoria": "Salud, servicios sanitarios y alimentación / Medicina y servicios de salud / Evaluaciones de salud individuales",
+            "NombreProducto": "Exámenes médicos",
+            "Descripcion": "0403013\tHorario Inhábil\tTórax. Incluye, Además: Estemón, Clavículas, Articulación Acromioclavicular, Escápula, Costillas, Articulación Esternoclavicular. Incluye Todo El Tórax O Cada Segmento O Articulación. Incluye Bilateralidad.",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "96.995.590-3",
+              "NombreProveedor": "SERVICIOS MÉDICOS AMBULATORIOS ATRYS HEALTH CHILE SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 12000.0
+            }
+          },
+          {
+            "Correlativo": 34,
+            "CodigoProducto": 85122201,
+            "CodigoCategoria": "85122200",
+            "Categoria": "Salud, servicios sanitarios y alimentación / Medicina y servicios de salud / Evaluaciones de salud individuales",
+            "NombreProducto": "Exámenes médicos",
+            "Descripcion": "0403014\tHorario Inhábil\tAbdomen (Hígado, Vías Y Vesícula Biliar, Páncreas, Brazo, Suprarrenales Y Riñones).",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "96.995.590-3",
+              "NombreProveedor": "SERVICIOS MÉDICOS AMBULATORIOS ATRYS HEALTH CHILE SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 12000.0
+            }
+          },
+          {
+            "Correlativo": 35,
+            "CodigoProducto": 85122201,
+            "CodigoCategoria": "85122200",
+            "Categoria": "Salud, servicios sanitarios y alimentación / Medicina y servicios de salud / Evaluaciones de salud individuales",
+            "NombreProducto": "Exámenes médicos",
+            "Descripcion": "0403016\tHorario Inhábil\tPelvis (Además Incluye Sacro, Coxis, Caderas, Huesos Pélvicos, Articulaciones Sacro Ilíacas). Bilateral.",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "96.995.590-3",
+              "NombreProveedor": "SERVICIOS MÉDICOS AMBULATORIOS ATRYS HEALTH CHILE SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 12000.0
+            }
+          },
+          {
+            "Correlativo": 36,
+            "CodigoProducto": 85122201,
+            "CodigoCategoria": "85122200",
+            "Categoria": "Salud, servicios sanitarios y alimentación / Medicina y servicios de salud / Evaluaciones de salud individuales",
+            "NombreProducto": "Exámenes médicos",
+            "Descripcion": "0403020\tHorario Inhábil\tAbdomen Y Pelvis.",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "96.995.590-3",
+              "NombreProveedor": "SERVICIOS MÉDICOS AMBULATORIOS ATRYS HEALTH CHILE SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 16000.0
+            }
+          },
+          {
+            "Correlativo": 37,
+            "CodigoProducto": 85122201,
+            "CodigoCategoria": "85122200",
+            "Categoria": "Salud, servicios sanitarios y alimentación / Medicina y servicios de salud / Evaluaciones de salud individuales",
+            "NombreProducto": "Exámenes médicos",
+            "Descripcion": "0403021\tHorario Inhábil\tPielografía.",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "96.995.590-3",
+              "NombreProveedor": "SERVICIOS MÉDICOS AMBULATORIOS ATRYS HEALTH CHILE SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 12000.0
+            }
+          },
+          {
+            "Correlativo": 38,
+            "CodigoProducto": 85122201,
+            "CodigoCategoria": "85122200",
+            "Categoria": "Salud, servicios sanitarios y alimentación / Medicina y servicios de salud / Evaluaciones de salud individuales",
+            "NombreProducto": "Exámenes médicos",
+            "Descripcion": "0403022\tHorario Inhábil\tUrografía.",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "96.995.590-3",
+              "NombreProveedor": "SERVICIOS MÉDICOS AMBULATORIOS ATRYS HEALTH CHILE SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 10.0
+            }
+          },
+          {
+            "Correlativo": 39,
+            "CodigoProducto": 85122201,
+            "CodigoCategoria": "85122200",
+            "Categoria": "Salud, servicios sanitarios y alimentación / Medicina y servicios de salud / Evaluaciones de salud individuales",
+            "NombreProducto": "Exámenes médicos",
+            "Descripcion": "0403104\tHorario Inhábil\tAngio De Cuello.",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "96.995.590-3",
+              "NombreProveedor": "SERVICIOS MÉDICOS AMBULATORIOS ATRYS HEALTH CHILE SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 10.0
+            }
+          },
+          {
+            "Correlativo": 40,
+            "CodigoProducto": 85122201,
+            "CodigoCategoria": "85122200",
+            "Categoria": "Salud, servicios sanitarios y alimentación / Medicina y servicios de salud / Evaluaciones de salud individuales",
+            "NombreProducto": "Exámenes médicos",
+            "Descripcion": "0403105\tHorario Inhábil\tAngio De Pelvis.",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "96.995.590-3",
+              "NombreProveedor": "SERVICIOS MÉDICOS AMBULATORIOS ATRYS HEALTH CHILE SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 12000.0
+            }
+          },
+          {
+            "Correlativo": 41,
+            "CodigoProducto": 85122201,
+            "CodigoCategoria": "85122200",
+            "Categoria": "Salud, servicios sanitarios y alimentación / Medicina y servicios de salud / Evaluaciones de salud individuales",
+            "NombreProducto": "Exámenes médicos",
+            "Descripcion": "0403017\tHorario Inhábil\tMusculoesquelética Por Zona Anatómica. Por Cada Segmento O Articulación: Músculo, Pierna, Rodillas, Antebrazo, Codo, Muñeca, Mano, Hombro, Pie, Tobillo, U Otros. Bilateral Sólo Para Rodillas.",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "96.995.590-3",
+              "NombreProveedor": "SERVICIOS MÉDICOS AMBULATORIOS ATRYS HEALTH CHILE SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 12000.0
+            }
+          },
+          {
+            "Correlativo": 42,
+            "CodigoProducto": 85122201,
+            "CodigoCategoria": "85122200",
+            "Categoria": "Salud, servicios sanitarios y alimentación / Medicina y servicios de salud / Evaluaciones de salud individuales",
+            "NombreProducto": "Exámenes médicos",
+            "Descripcion": "0403101\tHorario Inhábil\tAngio De Encéfalo.",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "96.995.590-3",
+              "NombreProveedor": "SERVICIOS MÉDICOS AMBULATORIOS ATRYS HEALTH CHILE SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 10.0
+            }
+          },
+          {
+            "Correlativo": 43,
+            "CodigoProducto": 85122201,
+            "CodigoCategoria": "85122200",
+            "Categoria": "Salud, servicios sanitarios y alimentación / Medicina y servicios de salud / Evaluaciones de salud individuales",
+            "NombreProducto": "Exámenes médicos",
+            "Descripcion": "0403102\tHorario Inhábil\tAngio De Tórax.",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "96.995.590-3",
+              "NombreProveedor": "SERVICIOS MÉDICOS AMBULATORIOS ATRYS HEALTH CHILE SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 12000.0
+            }
+          },
+          {
+            "Correlativo": 44,
+            "CodigoProducto": 85122201,
+            "CodigoCategoria": "85122200",
+            "Categoria": "Salud, servicios sanitarios y alimentación / Medicina y servicios de salud / Evaluaciones de salud individuales",
+            "NombreProducto": "Exámenes médicos",
+            "Descripcion": "0403103\tHorario Inhábil\tAngio De Abdomen.",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "96.995.590-3",
+              "NombreProveedor": "SERVICIOS MÉDICOS AMBULATORIOS ATRYS HEALTH CHILE SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 12000.0
+            }
+          },
+          {
+            "Correlativo": 45,
+            "CodigoProducto": 85122201,
+            "CodigoCategoria": "85122200",
+            "Categoria": "Salud, servicios sanitarios y alimentación / Medicina y servicios de salud / Evaluaciones de salud individuales",
+            "NombreProducto": "Exámenes médicos",
+            "Descripcion": "0403107\tHorario Inhábil\tAngio De Extremidades Inferiores (Bilateral).",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "96.995.590-3",
+              "NombreProveedor": "SERVICIOS MÉDICOS AMBULATORIOS ATRYS HEALTH CHILE SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 12000.0
+            }
+          },
+          {
+            "Correlativo": 46,
+            "CodigoProducto": 85122201,
+            "CodigoCategoria": "85122200",
+            "Categoria": "Salud, servicios sanitarios y alimentación / Medicina y servicios de salud / Evaluaciones de salud individuales",
+            "NombreProducto": "Exámenes médicos",
+            "Descripcion": "0403108 Horario\tInhábil\tAngio De Extremidad Superior (Unilateral).",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "96.995.590-3",
+              "NombreProveedor": "SERVICIOS MÉDICOS AMBULATORIOS ATRYS HEALTH CHILE SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 12000.0
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

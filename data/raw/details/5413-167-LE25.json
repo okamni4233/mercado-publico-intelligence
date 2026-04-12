@@ -1,0 +1,1636 @@
+{
+  "Cantidad": 1,
+  "FechaCreacion": "2026-04-05T09:40:34.8599262Z",
+  "Version": "v1",
+  "Listado": [
+    {
+      "CodigoExterno": "5413-167-LE25",
+      "Nombre": "BIBLIOGRAFÍA DE LA CARRERA DE TERAPIA OCUPACIONAL PUERTO MONTT Y CHILOÉ DE LA UNIVERSIDAD DE LOS LAGOS.",
+      "CodigoEstado": 8,
+      "Descripcion": "BIBLIOGRAFÍA DE LA CARRERA DE TERAPIA OCUPACIONAL PUERTO MONTT Y CHILOÉ DE LA UNIVERSIDAD DE LOS LAGOS.",
+      "FechaCierre": null,
+      "Estado": "Adjudicada",
+      "Comprador": {
+        "CodigoOrganismo": "266724",
+        "NombreOrganismo": "UNIVERSIDAD DE LOS LAGOS",
+        "RutUnidad": "70.772.100-6",
+        "CodigoUnidad": "6326",
+        "NombreUnidad": "CAMPUS OSORNO",
+        "DireccionUnidad": "Avda. Fuchslocher 1305",
+        "ComunaUnidad": "Osorno",
+        "RegionUnidad": "Región de los Lagos ",
+        "RutUsuario": "",
+        "CodigoUsuario": "1539504",
+        "NombreUsuario": "Nicole Panguinamun Huisca",
+        "CargoUsuario": ""
+      },
+      "DiasCierreLicitacion": "0",
+      "Informada": 0,
+      "CodigoTipo": 1,
+      "Tipo": "LE",
+      "TipoConvocatoria": "1",
+      "Moneda": "CLP",
+      "Etapas": 1,
+      "EstadoEtapas": "1",
+      "TomaRazon": "0",
+      "EstadoPublicidadOfertas": 1,
+      "JustificacionPublicidad": "",
+      "Contrato": "2",
+      "Obras": "0",
+      "CantidadReclamos": 277,
+      "Fechas": {
+        "FechaCreacion": "2025-12-23T00:00:00",
+        "FechaCierre": "2026-01-14T15:30:00",
+        "FechaInicio": "2025-12-24T08:30:00",
+        "FechaFinal": "2026-01-06T08:00:00",
+        "FechaPubRespuestas": "2026-01-09T17:30:00",
+        "FechaActoAperturaTecnica": "2026-01-14T15:35:00",
+        "FechaActoAperturaEconomica": "2026-01-14T15:35:00",
+        "FechaPublicacion": "2025-12-23T16:37:56.72",
+        "FechaAdjudicacion": "2026-04-01T09:36:46.737",
+        "FechaEstimadaAdjudicacion": "2026-03-30T17:00:00",
+        "FechaSoporteFisico": null,
+        "FechaTiempoEvaluacion": null,
+        "FechaEstimadaFirma": null,
+        "FechasUsuario": null,
+        "FechaVisitaTerreno": null,
+        "FechaEntregaAntecedentes": null
+      },
+      "UnidadTiempoEvaluacion": 1,
+      "DireccionVisita": "",
+      "DireccionEntrega": "",
+      "Estimacion": 2,
+      "FuenteFinanciamiento": "",
+      "VisibilidadMonto": 0,
+      "MontoEstimado": null,
+      "Tiempo": null,
+      "UnidadTiempo": "1",
+      "Modalidad": 1,
+      "TipoPago": "1",
+      "NombreResponsablePago": "DORIS CALFUI",
+      "EmailResponsablePago": "",
+      "NombreResponsableContrato": "Sergio Arce Molina",
+      "EmailResponsableContrato": "",
+      "FonoResponsableContrato": "",
+      "ProhibicionContratacion": ".",
+      "SubContratacion": "0",
+      "UnidadTiempoDuracionContrato": 4,
+      "TiempoDuracionContrato": "0",
+      "TipoDuracionContrato": " ",
+      "JustificacionMontoEstimado": "",
+      "ObservacionContract": null,
+      "ExtensionPlazo": 0,
+      "EsBaseTipo": 0,
+      "UnidadTiempoContratoLicitacion": "1",
+      "ValorTiempoRenovacion": "0",
+      "PeriodoTiempoRenovacion": " ",
+      "EsRenovable": 0,
+      "CodigoBIP": null,
+      "Adjudicacion": {
+        "Tipo": 2,
+        "Fecha": "2026-04-01T00:00:00",
+        "Numero": "138",
+        "NumeroOferentes": 7,
+        "UrlActa": "http://www.mercadopublico.cl/Procurement/Modules/RFB/StepsProcessAward/PreviewAwardAct.aspx?qs=q8dH07w8H2PgO9jMvhZDYMAxEc5CgJeJJiXPL91uNgQ="
+      },
+      "Items": {
+        "Cantidad": 103,
+        "Listado": [
+          {
+            "Correlativo": 1,
+            "CodigoProducto": 55101509,
+            "CodigoCategoria": "55101500",
+            "Categoria": "Productos impresos y publicaciones / Medios impresos / Publicaciones impresas",
+            "NombreProducto": "Libros de texto educativos o vocacionales",
+            "Descripcion": "Anatomía de la cabeza con enfoque odontoestomatológico,Velayos, José Luis",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": null
+          },
+          {
+            "Correlativo": 2,
+            "CodigoProducto": 55101509,
+            "CodigoCategoria": "55101500",
+            "Categoria": "Productos impresos y publicaciones / Medios impresos / Publicaciones impresas",
+            "NombreProducto": "Libros de texto educativos o vocacionales",
+            "Descripcion": "Prueba Beery-Buktenica del desarrollo de la integración visomotriz : y pruebas suplementarias de percepción visual y coordinación motríz - Beery, Keith E.",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 6.0,
+            "Adjudicacion": {
+              "RutProveedor": "96.724.350-7",
+              "NombreProveedor": "MIGUEL CONCHA Y COMPANIA LIMITADA",
+              "Cantidad": 6.0,
+              "MontoUnitario": 307112.0
+            }
+          },
+          {
+            "Correlativo": 3,
+            "CodigoProducto": 55101509,
+            "CodigoCategoria": "55101500",
+            "Categoria": "Productos impresos y publicaciones / Medios impresos / Publicaciones impresas",
+            "NombreProducto": "Libros de texto educativos o vocacionales",
+            "Descripcion": "Comunicación efectiva en el aula :técnicas de expresión oral para docentes-Sanz Pinyol, Glória",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 4.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.660.524-9",
+              "NombreProveedor": "DIAGONAL LIBROS LIMITADA",
+              "Cantidad": 4.0,
+              "MontoUnitario": 26348.0
+            }
+          },
+          {
+            "Correlativo": 4,
+            "CodigoProducto": 55101509,
+            "CodigoCategoria": "55101500",
+            "Categoria": "Productos impresos y publicaciones / Medios impresos / Publicaciones impresas",
+            "NombreProducto": "Libros de texto educativos o vocacionales",
+            "Descripcion": "Compendio de anatomía descriptiva - Leo Testut, André Latarjet",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 3.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.660.524-9",
+              "NombreProveedor": "DIAGONAL LIBROS LIMITADA",
+              "Cantidad": 3.0,
+              "MontoUnitario": 56551.0
+            }
+          },
+          {
+            "Correlativo": 5,
+            "CodigoProducto": 55101509,
+            "CodigoCategoria": "55101500",
+            "Categoria": "Productos impresos y publicaciones / Medios impresos / Publicaciones impresas",
+            "NombreProducto": "Libros de texto educativos o vocacionales",
+            "Descripcion": "Prometheus Texto y Atlas Anatomía. Tomo 3 : cabeza, cuello y neuroanatomía - Schunke, Michael, Erik Schulte y Udo Schumacher",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 3.0,
+            "Adjudicacion": {
+              "RutProveedor": "11.682.311-k",
+              "NombreProveedor": "MIRIAM ANGELICA MEDINA SANZANA",
+              "Cantidad": 3.0,
+              "MontoUnitario": 133000.0
+            }
+          },
+          {
+            "Correlativo": 6,
+            "CodigoProducto": 55101509,
+            "CodigoCategoria": "55101500",
+            "Categoria": "Productos impresos y publicaciones / Medios impresos / Publicaciones impresas",
+            "NombreProducto": "Libros de texto educativos o vocacionales",
+            "Descripcion": "WILLARD & SPACKMAN :TERAPIA OCUPACIONAL - Barbara A. Boyt Schell,Glen Gillen,Marjorie E. Scaffa",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 3.0,
+            "Adjudicacion": {
+              "RutProveedor": "83.171.800-5",
+              "NombreProveedor": "LIBRERIA EDUARDO ALBERS LTDA",
+              "Cantidad": 3.0,
+              "MontoUnitario": 118000.0
+            }
+          },
+          {
+            "Correlativo": 7,
+            "CodigoProducto": 55101509,
+            "CodigoCategoria": "55101500",
+            "Categoria": "Productos impresos y publicaciones / Medios impresos / Publicaciones impresas",
+            "NombreProducto": "Libros de texto educativos o vocacionales",
+            "Descripcion": "Actividades de La Vida Diaria - Moruno, Pedro, y Dulce Romero, Jose Garrido",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 3.0,
+            "Adjudicacion": null
+          },
+          {
+            "Correlativo": 8,
+            "CodigoProducto": 55101509,
+            "CodigoCategoria": "55101500",
+            "Categoria": "Productos impresos y publicaciones / Medios impresos / Publicaciones impresas",
+            "NombreProducto": "Libros de texto educativos o vocacionales",
+            "Descripcion": "Anatomía Clínica- Eduardo Pro",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 3.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.660.524-9",
+              "NombreProveedor": "DIAGONAL LIBROS LIMITADA",
+              "Cantidad": 3.0,
+              "MontoUnitario": 44850.0
+            }
+          },
+          {
+            "Correlativo": 9,
+            "CodigoProducto": 55101509,
+            "CodigoCategoria": "55101500",
+            "Categoria": "Productos impresos y publicaciones / Medios impresos / Publicaciones impresas",
+            "NombreProducto": "Libros de texto educativos o vocacionales",
+            "Descripcion": "Anatomía Humana - García Porrero, Juan",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 3.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.660.524-9",
+              "NombreProveedor": "DIAGONAL LIBROS LIMITADA",
+              "Cantidad": 3.0,
+              "MontoUnitario": 97784.0
+            }
+          },
+          {
+            "Correlativo": 10,
+            "CodigoProducto": 55101509,
+            "CodigoCategoria": "55101500",
+            "Categoria": "Productos impresos y publicaciones / Medios impresos / Publicaciones impresas",
+            "NombreProducto": "Libros de texto educativos o vocacionales",
+            "Descripcion": "Biomecánica bases del movimiento humano- Hamill. Joseph",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 3.0,
+            "Adjudicacion": {
+              "RutProveedor": "96.724.350-7",
+              "NombreProveedor": "MIGUEL CONCHA Y COMPANIA LIMITADA",
+              "Cantidad": 3.0,
+              "MontoUnitario": 73000.0
+            }
+          },
+          {
+            "Correlativo": 11,
+            "CodigoProducto": 55101509,
+            "CodigoCategoria": "55101500",
+            "Categoria": "Productos impresos y publicaciones / Medios impresos / Publicaciones impresas",
+            "NombreProducto": "Libros de texto educativos o vocacionales",
+            "Descripcion": "Cinesiología del sistema musculoesqueletico - Neumann, Donald",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 3.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.660.524-9",
+              "NombreProveedor": "DIAGONAL LIBROS LIMITADA",
+              "Cantidad": 3.0,
+              "MontoUnitario": 100450.0
+            }
+          },
+          {
+            "Correlativo": 12,
+            "CodigoProducto": 55101509,
+            "CodigoCategoria": "55101500",
+            "Categoria": "Productos impresos y publicaciones / Medios impresos / Publicaciones impresas",
+            "NombreProducto": "Libros de texto educativos o vocacionales",
+            "Descripcion": "Cook and Hussey´s Assistive Technologies- Cook, Albert",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 3.0,
+            "Adjudicacion": null
+          },
+          {
+            "Correlativo": 13,
+            "CodigoProducto": 55101509,
+            "CodigoCategoria": "55101500",
+            "Categoria": "Productos impresos y publicaciones / Medios impresos / Publicaciones impresas",
+            "NombreProducto": "Libros de texto educativos o vocacionales",
+            "Descripcion": "Educacion para la salud :(reto de nuestro tiempo) - Perea, Rogelia",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 3.0,
+            "Adjudicacion": {
+              "RutProveedor": "11.682.311-k",
+              "NombreProveedor": "MIRIAM ANGELICA MEDINA SANZANA",
+              "Cantidad": 3.0,
+              "MontoUnitario": 72000.0
+            }
+          },
+          {
+            "Correlativo": 14,
+            "CodigoProducto": 55101509,
+            "CodigoCategoria": "55101500",
+            "Categoria": "Productos impresos y publicaciones / Medios impresos / Publicaciones impresas",
+            "NombreProducto": "Libros de texto educativos o vocacionales",
+            "Descripcion": "Epidemiología Básica- Robert, Beaglehole",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 3.0,
+            "Adjudicacion": {
+              "RutProveedor": "77.424.937-0",
+              "NombreProveedor": "SILVERBOOKS SPA",
+              "Cantidad": 3.0,
+              "MontoUnitario": 60000.0
+            }
+          },
+          {
+            "Correlativo": 15,
+            "CodigoProducto": 55101509,
+            "CodigoCategoria": "55101500",
+            "Categoria": "Productos impresos y publicaciones / Medios impresos / Publicaciones impresas",
+            "NombreProducto": "Libros de texto educativos o vocacionales",
+            "Descripcion": "Ergonomía y Psicosociología Aplicada -Llaneza, Javier",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 3.0,
+            "Adjudicacion": null
+          },
+          {
+            "Correlativo": 16,
+            "CodigoProducto": 55101509,
+            "CodigoCategoria": "55101500",
+            "Categoria": "Productos impresos y publicaciones / Medios impresos / Publicaciones impresas",
+            "NombreProducto": "Libros de texto educativos o vocacionales",
+            "Descripcion": "Ergonomics for Therapists- Jacobs, Karen",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 3.0,
+            "Adjudicacion": {
+              "RutProveedor": "11.682.311-k",
+              "NombreProveedor": "MIRIAM ANGELICA MEDINA SANZANA",
+              "Cantidad": 3.0,
+              "MontoUnitario": 125000.0
+            }
+          },
+          {
+            "Correlativo": 17,
+            "CodigoProducto": 55101509,
+            "CodigoCategoria": "55101500",
+            "Categoria": "Productos impresos y publicaciones / Medios impresos / Publicaciones impresas",
+            "NombreProducto": "Libros de texto educativos o vocacionales",
+            "Descripcion": "EXAMEN PSICOMOTOR DE PICQ Y VAYER (1RA.Y 2DA.INFANCIA) (MANUAL+Batería) - Picq y Vayer",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 3.0,
+            "Adjudicacion": {
+              "RutProveedor": "83.171.800-5",
+              "NombreProveedor": "LIBRERIA EDUARDO ALBERS LTDA",
+              "Cantidad": 3.0,
+              "MontoUnitario": 110000.0
+            }
+          },
+          {
+            "Correlativo": 18,
+            "CodigoProducto": 55101509,
+            "CodigoCategoria": "55101500",
+            "Categoria": "Productos impresos y publicaciones / Medios impresos / Publicaciones impresas",
+            "NombreProducto": "Libros de texto educativos o vocacionales",
+            "Descripcion": "Fisiopatología de la enfermedad - Hammer, G.D.",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 3.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.660.524-9",
+              "NombreProveedor": "DIAGONAL LIBROS LIMITADA",
+              "Cantidad": 3.0,
+              "MontoUnitario": 92754.0
+            }
+          },
+          {
+            "Correlativo": 19,
+            "CodigoProducto": 55101509,
+            "CodigoCategoria": "55101500",
+            "Categoria": "Productos impresos y publicaciones / Medios impresos / Publicaciones impresas",
+            "NombreProducto": "Libros de texto educativos o vocacionales",
+            "Descripcion": "Fundamentos Conceptuales de Terapia Ocupacional - Kielhofner, Gary.",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 3.0,
+            "Adjudicacion": null
+          },
+          {
+            "Correlativo": 20,
+            "CodigoProducto": 55101509,
+            "CodigoCategoria": "55101500",
+            "Categoria": "Productos impresos y publicaciones / Medios impresos / Publicaciones impresas",
+            "NombreProducto": "Libros de texto educativos o vocacionales",
+            "Descripcion": "Fundamentos para la práctica en terapia ocupacional - Duncan, Edward",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 3.0,
+            "Adjudicacion": {
+              "RutProveedor": "83.171.800-5",
+              "NombreProveedor": "LIBRERIA EDUARDO ALBERS LTDA",
+              "Cantidad": 3.0,
+              "MontoUnitario": 38100.0
+            }
+          },
+          {
+            "Correlativo": 21,
+            "CodigoProducto": 55101509,
+            "CodigoCategoria": "55101500",
+            "Categoria": "Productos impresos y publicaciones / Medios impresos / Publicaciones impresas",
+            "NombreProducto": "Libros de texto educativos o vocacionales",
+            "Descripcion": "Gerencia y administración estrategica de la atención médica- Fajardo, Guillermo",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 3.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.660.524-9",
+              "NombreProveedor": "DIAGONAL LIBROS LIMITADA",
+              "Cantidad": 3.0,
+              "MontoUnitario": 128064.0
+            }
+          },
+          {
+            "Correlativo": 22,
+            "CodigoProducto": 55101509,
+            "CodigoCategoria": "55101500",
+            "Categoria": "Productos impresos y publicaciones / Medios impresos / Publicaciones impresas",
+            "NombreProducto": "Libros de texto educativos o vocacionales",
+            "Descripcion": "Hand Splinting Orthotic Intervention- Wilton, Judith",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 3.0,
+            "Adjudicacion": {
+              "RutProveedor": "11.682.311-k",
+              "NombreProveedor": "MIRIAM ANGELICA MEDINA SANZANA",
+              "Cantidad": 3.0,
+              "MontoUnitario": 125000.0
+            }
+          },
+          {
+            "Correlativo": 23,
+            "CodigoProducto": 55101509,
+            "CodigoCategoria": "55101500",
+            "Categoria": "Productos impresos y publicaciones / Medios impresos / Publicaciones impresas",
+            "NombreProducto": "Libros de texto educativos o vocacionales",
+            "Descripcion": "Historia de la discapacidad: Discapacidad, historia y género en la época contemporánea - Muñiz, Emmanuel",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 3.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.660.524-9",
+              "NombreProveedor": "DIAGONAL LIBROS LIMITADA",
+              "Cantidad": 3.0,
+              "MontoUnitario": 21983.0
+            }
+          },
+          {
+            "Correlativo": 24,
+            "CodigoProducto": 55101509,
+            "CodigoCategoria": "55101500",
+            "Categoria": "Productos impresos y publicaciones / Medios impresos / Publicaciones impresas",
+            "NombreProducto": "Libros de texto educativos o vocacionales",
+            "Descripcion": "Historicas: movimientos feministas y de mujeres en chile 1850-2020- Ana Gálvez",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 3.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.660.524-9",
+              "NombreProveedor": "DIAGONAL LIBROS LIMITADA",
+              "Cantidad": 3.0,
+              "MontoUnitario": 8327.0
+            }
+          },
+          {
+            "Correlativo": 25,
+            "CodigoProducto": 55101509,
+            "CodigoCategoria": "55101500",
+            "Categoria": "Productos impresos y publicaciones / Medios impresos / Publicaciones impresas",
+            "NombreProducto": "Libros de texto educativos o vocacionales",
+            "Descripcion": "Introducción a la Psicología- Davidoff, Linda",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 3.0,
+            "Adjudicacion": null
+          },
+          {
+            "Correlativo": 26,
+            "CodigoProducto": 55101509,
+            "CodigoCategoria": "55101500",
+            "Categoria": "Productos impresos y publicaciones / Medios impresos / Publicaciones impresas",
+            "NombreProducto": "Libros de texto educativos o vocacionales",
+            "Descripcion": "Introducción a la Psicología - Morris, Charles",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 3.0,
+            "Adjudicacion": null
+          },
+          {
+            "Correlativo": 27,
+            "CodigoProducto": 55101509,
+            "CodigoCategoria": "55101500",
+            "Categoria": "Productos impresos y publicaciones / Medios impresos / Publicaciones impresas",
+            "NombreProducto": "Libros de texto educativos o vocacionales",
+            "Descripcion": "Introducción a la Psicología Comunitaria- Montero, Maritza",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 3.0,
+            "Adjudicacion": null
+          },
+          {
+            "Correlativo": 28,
+            "CodigoProducto": 55101509,
+            "CodigoCategoria": "55101500",
+            "Categoria": "Productos impresos y publicaciones / Medios impresos / Publicaciones impresas",
+            "NombreProducto": "Libros de texto educativos o vocacionales",
+            "Descripcion": "Introduction to orthotics: A clinical reasoning & problem approach- Coppard, Brenda",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 3.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.660.524-9",
+              "NombreProveedor": "DIAGONAL LIBROS LIMITADA",
+              "Cantidad": 3.0,
+              "MontoUnitario": 134564.0
+            }
+          },
+          {
+            "Correlativo": 29,
+            "CodigoProducto": 55101509,
+            "CodigoCategoria": "55101500",
+            "Categoria": "Productos impresos y publicaciones / Medios impresos / Publicaciones impresas",
+            "NombreProducto": "Libros de texto educativos o vocacionales",
+            "Descripcion": "Investigación científica en Ciencias de la Salud- Polit, Denise",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 3.0,
+            "Adjudicacion": null
+          },
+          {
+            "Correlativo": 30,
+            "CodigoProducto": 55101509,
+            "CodigoCategoria": "55101500",
+            "Categoria": "Productos impresos y publicaciones / Medios impresos / Publicaciones impresas",
+            "NombreProducto": "Libros de texto educativos o vocacionales",
+            "Descripcion": "Investigación en enfermería- Burns, N",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 3.0,
+            "Adjudicacion": null
+          },
+          {
+            "Correlativo": 31,
+            "CodigoProducto": 55101509,
+            "CodigoCategoria": "55101500",
+            "Categoria": "Productos impresos y publicaciones / Medios impresos / Publicaciones impresas",
+            "NombreProducto": "Libros de texto educativos o vocacionales",
+            "Descripcion": "La Educación para la salud del siglo XXI: comunicación y salud- Serrano M",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 3.0,
+            "Adjudicacion": null
+          },
+          {
+            "Correlativo": 32,
+            "CodigoProducto": 55101509,
+            "CodigoCategoria": "55101500",
+            "Categoria": "Productos impresos y publicaciones / Medios impresos / Publicaciones impresas",
+            "NombreProducto": "Libros de texto educativos o vocacionales",
+            "Descripcion": "La investigación cuantitativa y la práctica basada en la evidencia en Terapia Ocupacional - Romero, Dulce",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 3.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.660.524-9",
+              "NombreProveedor": "DIAGONAL LIBROS LIMITADA",
+              "Cantidad": 3.0,
+              "MontoUnitario": 30931.0
+            }
+          },
+          {
+            "Correlativo": 33,
+            "CodigoProducto": 55101509,
+            "CodigoCategoria": "55101500",
+            "Categoria": "Productos impresos y publicaciones / Medios impresos / Publicaciones impresas",
+            "NombreProducto": "Libros de texto educativos o vocacionales",
+            "Descripcion": "Manual de gestión hospitalaria -Temes J",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 3.0,
+            "Adjudicacion": {
+              "RutProveedor": "11.682.311-k",
+              "NombreProveedor": "MIRIAM ANGELICA MEDINA SANZANA",
+              "Cantidad": 3.0,
+              "MontoUnitario": 250000.0
+            }
+          },
+          {
+            "Correlativo": 34,
+            "CodigoProducto": 55101509,
+            "CodigoCategoria": "55101500",
+            "Categoria": "Productos impresos y publicaciones / Medios impresos / Publicaciones impresas",
+            "NombreProducto": "Libros de texto educativos o vocacionales",
+            "Descripcion": "Manual de psiquiatría de la infancia y la adolescencia- Lázaro, Luisa",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 3.0,
+            "Adjudicacion": {
+              "RutProveedor": "83.171.800-5",
+              "NombreProveedor": "LIBRERIA EDUARDO ALBERS LTDA",
+              "Cantidad": 3.0,
+              "MontoUnitario": 59500.0
+            }
+          },
+          {
+            "Correlativo": 35,
+            "CodigoProducto": 55101509,
+            "CodigoCategoria": "55101500",
+            "Categoria": "Productos impresos y publicaciones / Medios impresos / Publicaciones impresas",
+            "NombreProducto": "Libros de texto educativos o vocacionales",
+            "Descripcion": "Modelo de Ocupación Humana. Teoría y aplicación- Kielhofner, Gary.",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 3.0,
+            "Adjudicacion": {
+              "RutProveedor": "83.171.800-5",
+              "NombreProveedor": "LIBRERIA EDUARDO ALBERS LTDA",
+              "Cantidad": 3.0,
+              "MontoUnitario": 83000.0
+            }
+          },
+          {
+            "Correlativo": 36,
+            "CodigoProducto": 55101509,
+            "CodigoCategoria": "55101500",
+            "Categoria": "Productos impresos y publicaciones / Medios impresos / Publicaciones impresas",
+            "NombreProducto": "Libros de texto educativos o vocacionales",
+            "Descripcion": "Neuropsicologia infantil- Arnedo, Marisa",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 3.0,
+            "Adjudicacion": {
+              "RutProveedor": "11.682.311-k",
+              "NombreProveedor": "MIRIAM ANGELICA MEDINA SANZANA",
+              "Cantidad": 3.0,
+              "MontoUnitario": 118000.0
+            }
+          },
+          {
+            "Correlativo": 37,
+            "CodigoProducto": 55101509,
+            "CodigoCategoria": "55101500",
+            "Categoria": "Productos impresos y publicaciones / Medios impresos / Publicaciones impresas",
+            "NombreProducto": "Libros de texto educativos o vocacionales",
+            "Descripcion": "Normalidad, Psicopatología y Tratamientos en niños, adolescentes y familia- Torres de Bea, Eulalia",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 3.0,
+            "Adjudicacion": {
+              "RutProveedor": "11.682.311-k",
+              "NombreProveedor": "MIRIAM ANGELICA MEDINA SANZANA",
+              "Cantidad": 3.0,
+              "MontoUnitario": 55000.0
+            }
+          },
+          {
+            "Correlativo": 38,
+            "CodigoProducto": 55101509,
+            "CodigoCategoria": "55101500",
+            "Categoria": "Productos impresos y publicaciones / Medios impresos / Publicaciones impresas",
+            "NombreProducto": "Libros de texto educativos o vocacionales",
+            "Descripcion": "Nuevas tecnologías en neurorrehabilitación- Cano de la cuerda, Roberto",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 3.0,
+            "Adjudicacion": {
+              "RutProveedor": "11.682.311-k",
+              "NombreProveedor": "MIRIAM ANGELICA MEDINA SANZANA",
+              "Cantidad": 3.0,
+              "MontoUnitario": 79000.0
+            }
+          },
+          {
+            "Correlativo": 39,
+            "CodigoProducto": 55101509,
+            "CodigoCategoria": "55101500",
+            "Categoria": "Productos impresos y publicaciones / Medios impresos / Publicaciones impresas",
+            "NombreProducto": "Libros de texto educativos o vocacionales",
+            "Descripcion": "Occupational Therapy and physical dysfunction- Curtin Michael",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 3.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.660.524-9",
+              "NombreProveedor": "DIAGONAL LIBROS LIMITADA",
+              "Cantidad": 3.0,
+              "MontoUnitario": 79819.0
+            }
+          },
+          {
+            "Correlativo": 40,
+            "CodigoProducto": 55101509,
+            "CodigoCategoria": "55101500",
+            "Categoria": "Productos impresos y publicaciones / Medios impresos / Publicaciones impresas",
+            "NombreProducto": "Libros de texto educativos o vocacionales",
+            "Descripcion": "Occupational Therapy for Children   -Case Smith Jane",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 3.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.660.524-9",
+              "NombreProveedor": "DIAGONAL LIBROS LIMITADA",
+              "Cantidad": 3.0,
+              "MontoUnitario": 128864.0
+            }
+          },
+          {
+            "Correlativo": 41,
+            "CodigoProducto": 55101509,
+            "CodigoCategoria": "55101500",
+            "Categoria": "Productos impresos y publicaciones / Medios impresos / Publicaciones impresas",
+            "NombreProducto": "Libros de texto educativos o vocacionales",
+            "Descripcion": "Occupational therapy for fysical dysfunction- Radomski",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 3.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.660.524-9",
+              "NombreProveedor": "DIAGONAL LIBROS LIMITADA",
+              "Cantidad": 3.0,
+              "MontoUnitario": 127418.0
+            }
+          },
+          {
+            "Correlativo": 42,
+            "CodigoProducto": 55101509,
+            "CodigoCategoria": "55101500",
+            "Categoria": "Productos impresos y publicaciones / Medios impresos / Publicaciones impresas",
+            "NombreProducto": "Libros de texto educativos o vocacionales",
+            "Descripcion": "Occupational Therapy for Physical Dysfunction Philadelphia- Trombly",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 3.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.660.524-9",
+              "NombreProveedor": "DIAGONAL LIBROS LIMITADA",
+              "Cantidad": 3.0,
+              "MontoUnitario": 127418.0
+            }
+          },
+          {
+            "Correlativo": 43,
+            "CodigoProducto": 55101509,
+            "CodigoCategoria": "55101500",
+            "Categoria": "Productos impresos y publicaciones / Medios impresos / Publicaciones impresas",
+            "NombreProducto": "Libros de texto educativos o vocacionales",
+            "Descripcion": "Occupational therapy practice guidelines for adults with neurodegenerative disease-Preissner, katherine",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 3.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.660.524-9",
+              "NombreProveedor": "DIAGONAL LIBROS LIMITADA",
+              "Cantidad": 3.0,
+              "MontoUnitario": 156160.0
+            }
+          },
+          {
+            "Correlativo": 44,
+            "CodigoProducto": 55101509,
+            "CodigoCategoria": "55101500",
+            "Categoria": "Productos impresos y publicaciones / Medios impresos / Publicaciones impresas",
+            "NombreProducto": "Libros de texto educativos o vocacionales",
+            "Descripcion": "Pedrettis occupational therapy-Pendleton, Heidi",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 3.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.660.524-9",
+              "NombreProveedor": "DIAGONAL LIBROS LIMITADA",
+              "Cantidad": 3.0,
+              "MontoUnitario": 125169.0
+            }
+          },
+          {
+            "Correlativo": 45,
+            "CodigoProducto": 55101509,
+            "CodigoCategoria": "55101500",
+            "Categoria": "Productos impresos y publicaciones / Medios impresos / Publicaciones impresas",
+            "NombreProducto": "Libros de texto educativos o vocacionales",
+            "Descripcion": "Psicología organizacional en latinoamérica- Littlewood, Frank",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 3.0,
+            "Adjudicacion": {
+              "RutProveedor": "11.682.311-k",
+              "NombreProveedor": "MIRIAM ANGELICA MEDINA SANZANA",
+              "Cantidad": 3.0,
+              "MontoUnitario": 43900.0
+            }
+          },
+          {
+            "Correlativo": 46,
+            "CodigoProducto": 55101509,
+            "CodigoCategoria": "55101500",
+            "Categoria": "Productos impresos y publicaciones / Medios impresos / Publicaciones impresas",
+            "NombreProducto": "Libros de texto educativos o vocacionales",
+            "Descripcion": "Psicología Social- Moya, Miguel",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 3.0,
+            "Adjudicacion": {
+              "RutProveedor": "96.724.350-7",
+              "NombreProveedor": "MIGUEL CONCHA Y COMPANIA LIMITADA",
+              "Cantidad": 3.0,
+              "MontoUnitario": 48400.0
+            }
+          },
+          {
+            "Correlativo": 47,
+            "CodigoProducto": 55101509,
+            "CodigoCategoria": "55101500",
+            "Categoria": "Productos impresos y publicaciones / Medios impresos / Publicaciones impresas",
+            "NombreProducto": "Libros de texto educativos o vocacionales",
+            "Descripcion": "Psicología social- Myers, David",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 3.0,
+            "Adjudicacion": {
+              "RutProveedor": "83.171.800-5",
+              "NombreProveedor": "LIBRERIA EDUARDO ALBERS LTDA",
+              "Cantidad": 3.0,
+              "MontoUnitario": 53200.0
+            }
+          },
+          {
+            "Correlativo": 48,
+            "CodigoProducto": 55101509,
+            "CodigoCategoria": "55101500",
+            "Categoria": "Productos impresos y publicaciones / Medios impresos / Publicaciones impresas",
+            "NombreProducto": "Libros de texto educativos o vocacionales",
+            "Descripcion": "Psicopatología infantil y de la adolescencia-Almonte, Carlos",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 3.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.660.524-9",
+              "NombreProveedor": "DIAGONAL LIBROS LIMITADA",
+              "Cantidad": 3.0,
+              "MontoUnitario": 41619.0
+            }
+          },
+          {
+            "Correlativo": 49,
+            "CodigoProducto": 55101509,
+            "CodigoCategoria": "55101500",
+            "Categoria": "Productos impresos y publicaciones / Medios impresos / Publicaciones impresas",
+            "NombreProducto": "Libros de texto educativos o vocacionales",
+            "Descripcion": "Razonamiento Clínico y diagnóstico en Terapia Ocupacional - Talavera, Miguel",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 3.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.660.524-9",
+              "NombreProveedor": "DIAGONAL LIBROS LIMITADA",
+              "Cantidad": 3.0,
+              "MontoUnitario": 33883.0
+            }
+          },
+          {
+            "Correlativo": 50,
+            "CodigoProducto": 55101509,
+            "CodigoCategoria": "55101500",
+            "Categoria": "Productos impresos y publicaciones / Medios impresos / Publicaciones impresas",
+            "NombreProducto": "Libros de texto educativos o vocacionales",
+            "Descripcion": "Salud Pública - Martínez F, Antó JM, Castellanos PL, et al",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 3.0,
+            "Adjudicacion": null
+          },
+          {
+            "Correlativo": 51,
+            "CodigoProducto": 55101509,
+            "CodigoCategoria": "55101500",
+            "Categoria": "Productos impresos y publicaciones / Medios impresos / Publicaciones impresas",
+            "NombreProducto": "Libros de texto educativos o vocacionales",
+            "Descripcion": "Salud Pública: Perspectivas-Malagón, G",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 3.0,
+            "Adjudicacion": null
+          },
+          {
+            "Correlativo": 52,
+            "CodigoProducto": 55101509,
+            "CodigoCategoria": "55101500",
+            "Categoria": "Productos impresos y publicaciones / Medios impresos / Publicaciones impresas",
+            "NombreProducto": "Libros de texto educativos o vocacionales",
+            "Descripcion": "Teoria y practica de la psicologia comunitaria -Montero, Maritza",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 3.0,
+            "Adjudicacion": null
+          },
+          {
+            "Correlativo": 53,
+            "CodigoProducto": 55101509,
+            "CodigoCategoria": "55101500",
+            "Categoria": "Productos impresos y publicaciones / Medios impresos / Publicaciones impresas",
+            "NombreProducto": "Libros de texto educativos o vocacionales",
+            "Descripcion": "Terapia ocupacional en discapacitados fisicos- Polonio, Begoña",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 3.0,
+            "Adjudicacion": null
+          },
+          {
+            "Correlativo": 54,
+            "CodigoProducto": 55101509,
+            "CodigoCategoria": "55101500",
+            "Categoria": "Productos impresos y publicaciones / Medios impresos / Publicaciones impresas",
+            "NombreProducto": "Libros de texto educativos o vocacionales",
+            "Descripcion": "Terapia Ocupacional en Disfunciones Físicas - Polonio, Begoña",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 3.0,
+            "Adjudicacion": {
+              "RutProveedor": "11.682.311-k",
+              "NombreProveedor": "MIRIAM ANGELICA MEDINA SANZANA",
+              "Cantidad": 3.0,
+              "MontoUnitario": 91900.0
+            }
+          },
+          {
+            "Correlativo": 55,
+            "CodigoProducto": 55101509,
+            "CodigoCategoria": "55101500",
+            "Categoria": "Productos impresos y publicaciones / Medios impresos / Publicaciones impresas",
+            "NombreProducto": "Libros de texto educativos o vocacionales",
+            "Descripcion": "Terapia Ocupacional en la infancia- Polonio, Begoña",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 3.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.660.524-9",
+              "NombreProveedor": "DIAGONAL LIBROS LIMITADA",
+              "Cantidad": 3.0,
+              "MontoUnitario": 102320.0
+            }
+          },
+          {
+            "Correlativo": 56,
+            "CodigoProducto": 55101509,
+            "CodigoCategoria": "55101500",
+            "Categoria": "Productos impresos y publicaciones / Medios impresos / Publicaciones impresas",
+            "NombreProducto": "Libros de texto educativos o vocacionales",
+            "Descripcion": "Terapia Ocupacional en pediatría- Domingo, María ",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 3.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.660.524-9",
+              "NombreProveedor": "DIAGONAL LIBROS LIMITADA",
+              "Cantidad": 3.0,
+              "MontoUnitario": 36007.0
+            }
+          },
+          {
+            "Correlativo": 57,
+            "CodigoProducto": 55101509,
+            "CodigoCategoria": "55101500",
+            "Categoria": "Productos impresos y publicaciones / Medios impresos / Publicaciones impresas",
+            "NombreProducto": "Libros de texto educativos o vocacionales",
+            "Descripcion": "Terapia Ocupacional en pediatría: proceso de evaluación-Mulligan, Shelley",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 3.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.660.524-9",
+              "NombreProveedor": "DIAGONAL LIBROS LIMITADA",
+              "Cantidad": 3.0,
+              "MontoUnitario": 133394.0
+            }
+          },
+          {
+            "Correlativo": 58,
+            "CodigoProducto": 55101509,
+            "CodigoCategoria": "55101500",
+            "Categoria": "Productos impresos y publicaciones / Medios impresos / Publicaciones impresas",
+            "NombreProducto": "Libros de texto educativos o vocacionales",
+            "Descripcion": "Terapia Ocupacional en Salud Mental. Principios y prácticas - Durante, Pilar",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 3.0,
+            "Adjudicacion": null
+          },
+          {
+            "Correlativo": 59,
+            "CodigoProducto": 55101509,
+            "CodigoCategoria": "55101500",
+            "Categoria": "Productos impresos y publicaciones / Medios impresos / Publicaciones impresas",
+            "NombreProducto": "Libros de texto educativos o vocacionales",
+            "Descripcion": "Terapia Ocupacional en Salud Mental. Teoría y técnicas para la autonomía personal - Sanches, Oscar",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 3.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.660.524-9",
+              "NombreProveedor": "DIAGONAL LIBROS LIMITADA",
+              "Cantidad": 3.0,
+              "MontoUnitario": 75425.0
+            }
+          },
+          {
+            "Correlativo": 60,
+            "CodigoProducto": 55101509,
+            "CodigoCategoria": "55101500",
+            "Categoria": "Productos impresos y publicaciones / Medios impresos / Publicaciones impresas",
+            "NombreProducto": "Libros de texto educativos o vocacionales",
+            "Descripcion": "Terapia ocupacional para la rehabilitacion del control motor- Sanches, angel",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 3.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.660.524-9",
+              "NombreProveedor": "DIAGONAL LIBROS LIMITADA",
+              "Cantidad": 3.0,
+              "MontoUnitario": 100297.0
+            }
+          },
+          {
+            "Correlativo": 61,
+            "CodigoProducto": 55101509,
+            "CodigoCategoria": "55101500",
+            "Categoria": "Productos impresos y publicaciones / Medios impresos / Publicaciones impresas",
+            "NombreProducto": "Libros de texto educativos o vocacionales",
+            "Descripcion": "Terapia Ocupacional psicosocial: escenarios clínicos y comunitarios- Paganizzi, Liliana",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 3.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.660.524-9",
+              "NombreProveedor": "DIAGONAL LIBROS LIMITADA",
+              "Cantidad": 3.0,
+              "MontoUnitario": 39092.0
+            }
+          },
+          {
+            "Correlativo": 62,
+            "CodigoProducto": 55101509,
+            "CodigoCategoria": "55101500",
+            "Categoria": "Productos impresos y publicaciones / Medios impresos / Publicaciones impresas",
+            "NombreProducto": "Libros de texto educativos o vocacionales",
+            "Descripcion": "Terapia Ocupacional sin fronteras: aprendiendo del espíritu de supervivientes- Kronenberg, Frank",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 3.0,
+            "Adjudicacion": null
+          },
+          {
+            "Correlativo": 63,
+            "CodigoProducto": 55101509,
+            "CodigoCategoria": "55101500",
+            "Categoria": "Productos impresos y publicaciones / Medios impresos / Publicaciones impresas",
+            "NombreProducto": "Libros de texto educativos o vocacionales",
+            "Descripcion": "Terapia ocupacional y disfuncion fisica- Turner, Anie",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 3.0,
+            "Adjudicacion": null
+          },
+          {
+            "Correlativo": 64,
+            "CodigoProducto": 55101509,
+            "CodigoCategoria": "55101500",
+            "Categoria": "Productos impresos y publicaciones / Medios impresos / Publicaciones impresas",
+            "NombreProducto": "Libros de texto educativos o vocacionales",
+            "Descripcion": "Test de Aprendizaje y Desarrollo infantil (TADI)- Marta Edwards G ; Marcela Pardo",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 3.0,
+            "Adjudicacion": {
+              "RutProveedor": "83.171.800-5",
+              "NombreProveedor": "LIBRERIA EDUARDO ALBERS LTDA",
+              "Cantidad": 3.0,
+              "MontoUnitario": 399900.0
+            }
+          },
+          {
+            "Correlativo": 65,
+            "CodigoProducto": 55101509,
+            "CodigoCategoria": "55101500",
+            "Categoria": "Productos impresos y publicaciones / Medios impresos / Publicaciones impresas",
+            "NombreProducto": "Libros de texto educativos o vocacionales",
+            "Descripcion": "Visiones y Revisiones de la discapacidad- Brogna, Patricia",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 3.0,
+            "Adjudicacion": {
+              "RutProveedor": "83.171.800-5",
+              "NombreProveedor": "LIBRERIA EDUARDO ALBERS LTDA",
+              "Cantidad": 3.0,
+              "MontoUnitario": 11700.0
+            }
+          },
+          {
+            "Correlativo": 66,
+            "CodigoProducto": 55101509,
+            "CodigoCategoria": "55101500",
+            "Categoria": "Productos impresos y publicaciones / Medios impresos / Publicaciones impresas",
+            "NombreProducto": "Libros de texto educativos o vocacionales",
+            "Descripcion": "Anatomía de la cabeza- Velayos, José Luis",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.660.524-9",
+              "NombreProveedor": "DIAGONAL LIBROS LIMITADA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 99539.0
+            }
+          },
+          {
+            "Correlativo": 67,
+            "CodigoProducto": 55101509,
+            "CodigoCategoria": "55101500",
+            "Categoria": "Productos impresos y publicaciones / Medios impresos / Publicaciones impresas",
+            "NombreProducto": "Libros de texto educativos o vocacionales",
+            "Descripcion": "Epidemiología clínica - Fletcher, Grant S.",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 2.0,
+            "Adjudicacion": {
+              "RutProveedor": "96.724.350-7",
+              "NombreProveedor": "MIGUEL CONCHA Y COMPANIA LIMITADA",
+              "Cantidad": 2.0,
+              "MontoUnitario": 42700.0
+            }
+          },
+          {
+            "Correlativo": 68,
+            "CodigoProducto": 55101509,
+            "CodigoCategoria": "55101500",
+            "Categoria": "Productos impresos y publicaciones / Medios impresos / Publicaciones impresas",
+            "NombreProducto": "Libros de texto educativos o vocacionales",
+            "Descripcion": "Bioestadística. Base para el análisis de las ciencias de la salud - Wayne W. Daniel",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 2.0,
+            "Adjudicacion": null
+          },
+          {
+            "Correlativo": 69,
+            "CodigoProducto": 55101509,
+            "CodigoCategoria": "55101500",
+            "Categoria": "Productos impresos y publicaciones / Medios impresos / Publicaciones impresas",
+            "NombreProducto": "Libros de texto educativos o vocacionales",
+            "Descripcion": "Medicina Preventiva y Salud Pública- Gil, Piédrola",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.660.524-9",
+              "NombreProveedor": "DIAGONAL LIBROS LIMITADA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 131379.0
+            }
+          },
+          {
+            "Correlativo": 70,
+            "CodigoProducto": 55101509,
+            "CodigoCategoria": "55101500",
+            "Categoria": "Productos impresos y publicaciones / Medios impresos / Publicaciones impresas",
+            "NombreProducto": "Libros de texto educativos o vocacionales",
+            "Descripcion": "( Manual ) VMI Prueba Beery - Buktenica del Desarrollo de la Integración Visomotriz- Beery, Keith E.",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 3.0,
+            "Adjudicacion": {
+              "RutProveedor": "7.432.556-4",
+              "NombreProveedor": "FRANCISCO JOSE DE JESUS OLEJNIK ALBA",
+              "Cantidad": 3.0,
+              "MontoUnitario": 200000.0
+            }
+          },
+          {
+            "Correlativo": 71,
+            "CodigoProducto": 55101509,
+            "CodigoCategoria": "55101500",
+            "Categoria": "Productos impresos y publicaciones / Medios impresos / Publicaciones impresas",
+            "NombreProducto": "Libros de texto educativos o vocacionales",
+            "Descripcion": "Atlas de Anatomía Humana - Netter, Frank H.",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 2.0,
+            "Adjudicacion": {
+              "RutProveedor": "83.171.800-5",
+              "NombreProveedor": "LIBRERIA EDUARDO ALBERS LTDA",
+              "Cantidad": 2.0,
+              "MontoUnitario": 86800.0
+            }
+          },
+          {
+            "Correlativo": 72,
+            "CodigoProducto": 55101509,
+            "CodigoCategoria": "55101500",
+            "Categoria": "Productos impresos y publicaciones / Medios impresos / Publicaciones impresas",
+            "NombreProducto": "Libros de texto educativos o vocacionales",
+            "Descripcion": "Anatomía con Orientación Clínica- Moore, Keith L.",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "77.424.937-0",
+              "NombreProveedor": "SILVERBOOKS SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 86500.0
+            }
+          },
+          {
+            "Correlativo": 73,
+            "CodigoProducto": 55101509,
+            "CodigoCategoria": "55101500",
+            "Categoria": "Productos impresos y publicaciones / Medios impresos / Publicaciones impresas",
+            "NombreProducto": "Libros de texto educativos o vocacionales",
+            "Descripcion": "Embriología Humana y Biología del Desarrollo- Carlson, Bruce M.",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 2.0,
+            "Adjudicacion": {
+              "RutProveedor": "83.171.800-5",
+              "NombreProveedor": "LIBRERIA EDUARDO ALBERS LTDA",
+              "Cantidad": 2.0,
+              "MontoUnitario": 88000.0
+            }
+          },
+          {
+            "Correlativo": 74,
+            "CodigoProducto": 55101509,
+            "CodigoCategoria": "55101500",
+            "Categoria": "Productos impresos y publicaciones / Medios impresos / Publicaciones impresas",
+            "NombreProducto": "Libros de texto educativos o vocacionales",
+            "Descripcion": "Langman: Embriología Médica- Sadler, T.W.",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 2.0,
+            "Adjudicacion": {
+              "RutProveedor": "77.424.937-0",
+              "NombreProveedor": "SILVERBOOKS SPA",
+              "Cantidad": 2.0,
+              "MontoUnitario": 53500.0
+            }
+          },
+          {
+            "Correlativo": 75,
+            "CodigoProducto": 55101509,
+            "CodigoCategoria": "55101500",
+            "Categoria": "Productos impresos y publicaciones / Medios impresos / Publicaciones impresas",
+            "NombreProducto": "Libros de texto educativos o vocacionales",
+            "Descripcion": "Embriología Clínica- Moore, Keith L.",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 2.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.660.524-9",
+              "NombreProveedor": "DIAGONAL LIBROS LIMITADA",
+              "Cantidad": 2.0,
+              "MontoUnitario": 55743.0
+            }
+          },
+          {
+            "Correlativo": 76,
+            "CodigoProducto": 55101509,
+            "CodigoCategoria": "55101500",
+            "Categoria": "Productos impresos y publicaciones / Medios impresos / Publicaciones impresas",
+            "NombreProducto": "Libros de texto educativos o vocacionales",
+            "Descripcion": "Histología, Atlas en color y Texto- Gartner, Leslie P.",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 2.0,
+            "Adjudicacion": {
+              "RutProveedor": "77.424.937-0",
+              "NombreProveedor": "SILVERBOOKS SPA",
+              "Cantidad": 2.0,
+              "MontoUnitario": 61000.0
+            }
+          },
+          {
+            "Correlativo": 77,
+            "CodigoProducto": 55101509,
+            "CodigoCategoria": "55101500",
+            "Categoria": "Productos impresos y publicaciones / Medios impresos / Publicaciones impresas",
+            "NombreProducto": "Libros de texto educativos o vocacionales",
+            "Descripcion": "ROSS, Histología, Texto y Atlas: Correlación con Biología Molecular y Celular- Pawlina, Wojciech",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 2.0,
+            "Adjudicacion": {
+              "RutProveedor": "96.724.350-7",
+              "NombreProveedor": "MIGUEL CONCHA Y COMPANIA LIMITADA",
+              "Cantidad": 2.0,
+              "MontoUnitario": 91400.0
+            }
+          },
+          {
+            "Correlativo": 78,
+            "CodigoProducto": 55101509,
+            "CodigoCategoria": "55101500",
+            "Categoria": "Productos impresos y publicaciones / Medios impresos / Publicaciones impresas",
+            "NombreProducto": "Libros de texto educativos o vocacionales",
+            "Descripcion": "Tratado de Fisiología Médica- Hall, John E. y Hall, Michael E.",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 2.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.660.524-9",
+              "NombreProveedor": "DIAGONAL LIBROS LIMITADA",
+              "Cantidad": 2.0,
+              "MontoUnitario": 92889.0
+            }
+          },
+          {
+            "Correlativo": 79,
+            "CodigoProducto": 55101509,
+            "CodigoCategoria": "55101500",
+            "Categoria": "Productos impresos y publicaciones / Medios impresos / Publicaciones impresas",
+            "NombreProducto": "Libros de texto educativos o vocacionales",
+            "Descripcion": "Ganong Fisiología Médica- Barret, Kim E.",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.660.524-9",
+              "NombreProveedor": "DIAGONAL LIBROS LIMITADA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 100825.0
+            }
+          },
+          {
+            "Correlativo": 80,
+            "CodigoProducto": 55101509,
+            "CodigoCategoria": "55101500",
+            "Categoria": "Productos impresos y publicaciones / Medios impresos / Publicaciones impresas",
+            "NombreProducto": "Libros de texto educativos o vocacionales",
+            "Descripcion": "Fisiología Humana. La Base de la Medicina- Pocock, Gillian y Richards, Cristopher D.",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": null
+          },
+          {
+            "Correlativo": 81,
+            "CodigoProducto": 55101509,
+            "CodigoCategoria": "55101500",
+            "Categoria": "Productos impresos y publicaciones / Medios impresos / Publicaciones impresas",
+            "NombreProducto": "Libros de texto educativos o vocacionales",
+            "Descripcion": "Psicología Evolutiva- Palladino, Enrique",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.660.524-9",
+              "NombreProveedor": "DIAGONAL LIBROS LIMITADA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 85348.0
+            }
+          },
+          {
+            "Correlativo": 82,
+            "CodigoProducto": 55101509,
+            "CodigoCategoria": "55101500",
+            "Categoria": "Productos impresos y publicaciones / Medios impresos / Publicaciones impresas",
+            "NombreProducto": "Libros de texto educativos o vocacionales",
+            "Descripcion": "Psicomotricidad: Prácticas y Conceptos-Bottini, Pablo (Compilador)",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 2.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.660.524-9",
+              "NombreProveedor": "DIAGONAL LIBROS LIMITADA",
+              "Cantidad": 2.0,
+              "MontoUnitario": 19361.0
+            }
+          },
+          {
+            "Correlativo": 83,
+            "CodigoProducto": 55101509,
+            "CodigoCategoria": "55101500",
+            "Categoria": "Productos impresos y publicaciones / Medios impresos / Publicaciones impresas",
+            "NombreProducto": "Libros de texto educativos o vocacionales",
+            "Descripcion": "Play in Occupational Therapy for Children- Parham, L. Diane y Fazio, Linda S.",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 2.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.660.524-9",
+              "NombreProveedor": "DIAGONAL LIBROS LIMITADA",
+              "Cantidad": 2.0,
+              "MontoUnitario": 105376.0
+            }
+          },
+          {
+            "Correlativo": 84,
+            "CodigoProducto": 55101509,
+            "CodigoCategoria": "55101500",
+            "Categoria": "Productos impresos y publicaciones / Medios impresos / Publicaciones impresas",
+            "NombreProducto": "Libros de texto educativos o vocacionales",
+            "Descripcion": "Prometheus: Anatomía Manual para el Estudiante- Gilroy, Anne M.",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 2.0,
+            "Adjudicacion": {
+              "RutProveedor": "96.724.350-7",
+              "NombreProveedor": "MIGUEL CONCHA Y COMPANIA LIMITADA",
+              "Cantidad": 2.0,
+              "MontoUnitario": 59900.0
+            }
+          },
+          {
+            "Correlativo": 85,
+            "CodigoProducto": 55101509,
+            "CodigoCategoria": "55101500",
+            "Categoria": "Productos impresos y publicaciones / Medios impresos / Publicaciones impresas",
+            "NombreProducto": "Libros de texto educativos o vocacionales",
+            "Descripcion": "Principios Conceptuales de la Terapia Ocupacional- Moruno Miralles, Pedro",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 3.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.660.524-9",
+              "NombreProveedor": "DIAGONAL LIBROS LIMITADA",
+              "Cantidad": 3.0,
+              "MontoUnitario": 33883.0
+            }
+          },
+          {
+            "Correlativo": 86,
+            "CodigoProducto": 55101509,
+            "CodigoCategoria": "55101500",
+            "Categoria": "Productos impresos y publicaciones / Medios impresos / Publicaciones impresas",
+            "NombreProducto": "Libros de texto educativos o vocacionales",
+            "Descripcion": "Conceptos Fundamentales de Terapia Ocupacional-Polonio López, Begoña",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 3.0,
+            "Adjudicacion": {
+              "RutProveedor": "83.171.800-5",
+              "NombreProveedor": "LIBRERIA EDUARDO ALBERS LTDA",
+              "Cantidad": 3.0,
+              "MontoUnitario": 49900.0
+            }
+          },
+          {
+            "Correlativo": 87,
+            "CodigoProducto": 55101509,
+            "CodigoCategoria": "55101500",
+            "Categoria": "Productos impresos y publicaciones / Medios impresos / Publicaciones impresas",
+            "NombreProducto": "Libros de texto educativos o vocacionales",
+            "Descripcion": "Modelo de Ocupación Humana- De Las Heras de Pablo, Carmen Gloria",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 3.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.660.524-9",
+              "NombreProveedor": "DIAGONAL LIBROS LIMITADA",
+              "Cantidad": 3.0,
+              "MontoUnitario": 35545.0
+            }
+          },
+          {
+            "Correlativo": 88,
+            "CodigoProducto": 55101509,
+            "CodigoCategoria": "55101500",
+            "Categoria": "Productos impresos y publicaciones / Medios impresos / Publicaciones impresas",
+            "NombreProducto": "Libros de texto educativos o vocacionales",
+            "Descripcion": "Bioestadística- Torres Huertas, José",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 2.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.660.524-9",
+              "NombreProveedor": "DIAGONAL LIBROS LIMITADA",
+              "Cantidad": 2.0,
+              "MontoUnitario": 29703.0
+            }
+          },
+          {
+            "Correlativo": 89,
+            "CodigoProducto": 55101509,
+            "CodigoCategoria": "55101500",
+            "Categoria": "Productos impresos y publicaciones / Medios impresos / Publicaciones impresas",
+            "NombreProducto": "Libros de texto educativos o vocacionales",
+            "Descripcion": "Comunicación Efectiva en el Aula- Sanz Pinyol, Glória",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.660.524-9",
+              "NombreProveedor": "DIAGONAL LIBROS LIMITADA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 26348.0
+            }
+          },
+          {
+            "Correlativo": 90,
+            "CodigoProducto": 55101509,
+            "CodigoCategoria": "55101500",
+            "Categoria": "Productos impresos y publicaciones / Medios impresos / Publicaciones impresas",
+            "NombreProducto": "Libros de texto educativos o vocacionales",
+            "Descripcion": "Desarrollo Humano- Papalia, Diane E. y Martorell, Gabriela",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 2.0,
+            "Adjudicacion": {
+              "RutProveedor": "83.171.800-5",
+              "NombreProveedor": "LIBRERIA EDUARDO ALBERS LTDA",
+              "Cantidad": 2.0,
+              "MontoUnitario": 53200.0
+            }
+          },
+          {
+            "Correlativo": 91,
+            "CodigoProducto": 55101509,
+            "CodigoCategoria": "55101500",
+            "Categoria": "Productos impresos y publicaciones / Medios impresos / Publicaciones impresas",
+            "NombreProducto": "Libros de texto educativos o vocacionales",
+            "Descripcion": "Prometheus: Texto y Atlas de Anatomía- Schünke, Michael, Schulte, Erik y Schumacher, Udo",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.660.524-9",
+              "NombreProveedor": "DIAGONAL LIBROS LIMITADA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 137836.0
+            }
+          },
+          {
+            "Correlativo": 92,
+            "CodigoProducto": 55101509,
+            "CodigoCategoria": "55101500",
+            "Categoria": "Productos impresos y publicaciones / Medios impresos / Publicaciones impresas",
+            "NombreProducto": "Libros de texto educativos o vocacionales",
+            "Descripcion": "Biomecánica Clínica de los Tejidos y Las Articulaciones del Aparato Locomotor- Miralles Marrero, Rodrigo C. Miralles Rull, Iris y Puig Cunillera, Misericórdia",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 2.0,
+            "Adjudicacion": null
+          },
+          {
+            "Correlativo": 93,
+            "CodigoProducto": 55101509,
+            "CodigoCategoria": "55101500",
+            "Categoria": "Productos impresos y publicaciones / Medios impresos / Publicaciones impresas",
+            "NombreProducto": "Libros de texto educativos o vocacionales",
+            "Descripcion": "Histología Básica: Texto y Atlas- Junqueira, Luis",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 2.0,
+            "Adjudicacion": {
+              "RutProveedor": "83.171.800-5",
+              "NombreProveedor": "LIBRERIA EDUARDO ALBERS LTDA",
+              "Cantidad": 2.0,
+              "MontoUnitario": 79000.0
+            }
+          },
+          {
+            "Correlativo": 94,
+            "CodigoProducto": 55101509,
+            "CodigoCategoria": "55101500",
+            "Categoria": "Productos impresos y publicaciones / Medios impresos / Publicaciones impresas",
+            "NombreProducto": "Libros de texto educativos o vocacionales",
+            "Descripcion": "Interpretación Fácil de la Bioestadística: La Conexión entre la Evidencia y las Decisiones Médicas - Dawson, Gail F.",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 2.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.660.524-9",
+              "NombreProveedor": "DIAGONAL LIBROS LIMITADA",
+              "Cantidad": 2.0,
+              "MontoUnitario": 48653.0
+            }
+          },
+          {
+            "Correlativo": 95,
+            "CodigoProducto": 55101509,
+            "CodigoCategoria": "55101500",
+            "Categoria": "Productos impresos y publicaciones / Medios impresos / Publicaciones impresas",
+            "NombreProducto": "Libros de texto educativos o vocacionales",
+            "Descripcion": "Medicina Preventiva y Salud Pública- Piedrola, Gil",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "83.171.800-5",
+              "NombreProveedor": "LIBRERIA EDUARDO ALBERS LTDA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 60000.0
+            }
+          },
+          {
+            "Correlativo": 96,
+            "CodigoProducto": 55101509,
+            "CodigoCategoria": "55101500",
+            "Categoria": "Productos impresos y publicaciones / Medios impresos / Publicaciones impresas",
+            "NombreProducto": "Libros de texto educativos o vocacionales",
+            "Descripcion": "De Robertis: Biología Celular y Molecular- De Robertis, Edward M.",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 2.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.660.524-9",
+              "NombreProveedor": "DIAGONAL LIBROS LIMITADA",
+              "Cantidad": 2.0,
+              "MontoUnitario": 76215.0
+            }
+          },
+          {
+            "Correlativo": 97,
+            "CodigoProducto": 55101509,
+            "CodigoCategoria": "55101500",
+            "Categoria": "Productos impresos y publicaciones / Medios impresos / Publicaciones impresas",
+            "NombreProducto": "Libros de texto educativos o vocacionales",
+            "Descripcion": "Introducción a la Biología Celular- Alberts, Bruce",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 2.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.660.524-9",
+              "NombreProveedor": "DIAGONAL LIBROS LIMITADA",
+              "Cantidad": 2.0,
+              "MontoUnitario": 105534.0
+            }
+          },
+          {
+            "Correlativo": 98,
+            "CodigoProducto": 55101509,
+            "CodigoCategoria": "55101500",
+            "Categoria": "Productos impresos y publicaciones / Medios impresos / Publicaciones impresas",
+            "NombreProducto": "Libros de texto educativos o vocacionales",
+            "Descripcion": "Terapias Ocupacionales desde el Sur: Derechos Humanos, Ciudadanía y Participación- Simó Algado, Salvador",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 3.0,
+            "Adjudicacion": {
+              "RutProveedor": "83.171.800-5",
+              "NombreProveedor": "LIBRERIA EDUARDO ALBERS LTDA",
+              "Cantidad": 3.0,
+              "MontoUnitario": 6780.0
+            }
+          },
+          {
+            "Correlativo": 99,
+            "CodigoProducto": 55101509,
+            "CodigoCategoria": "55101500",
+            "Categoria": "Productos impresos y publicaciones / Medios impresos / Publicaciones impresas",
+            "NombreProducto": "Libros de texto educativos o vocacionales",
+            "Descripcion": "Desarrollo Afectivo y Social- López Sánchez, Félix",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 2.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.660.524-9",
+              "NombreProveedor": "DIAGONAL LIBROS LIMITADA",
+              "Cantidad": 2.0,
+              "MontoUnitario": 57327.0
+            }
+          },
+          {
+            "Correlativo": 100,
+            "CodigoProducto": 55101509,
+            "CodigoCategoria": "55101500",
+            "Categoria": "Productos impresos y publicaciones / Medios impresos / Publicaciones impresas",
+            "NombreProducto": "Libros de texto educativos o vocacionales",
+            "Descripcion": "Introducción a la estadística en ciencias de la salud- Macchi Ricardo",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 2.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.660.524-9",
+              "NombreProveedor": "DIAGONAL LIBROS LIMITADA",
+              "Cantidad": 2.0,
+              "MontoUnitario": 31036.0
+            }
+          },
+          {
+            "Correlativo": 101,
+            "CodigoProducto": 55101509,
+            "CodigoCategoria": "55101500",
+            "Categoria": "Productos impresos y publicaciones / Medios impresos / Publicaciones impresas",
+            "NombreProducto": "Libros de texto educativos o vocacionales",
+            "Descripcion": "Psicología de la salud- Barra Almagia, Enrique",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": null
+          },
+          {
+            "Correlativo": 102,
+            "CodigoProducto": 55101509,
+            "CodigoCategoria": "55101500",
+            "Categoria": "Productos impresos y publicaciones / Medios impresos / Publicaciones impresas",
+            "NombreProducto": "Libros de texto educativos o vocacionales",
+            "Descripcion": "Desarrollo psicomotor. Primeros años-Delgado, Contreras",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 3.0,
+            "Adjudicacion": null
+          },
+          {
+            "Correlativo": 103,
+            "CodigoProducto": 55101509,
+            "CodigoCategoria": "55101500",
+            "Categoria": "Productos impresos y publicaciones / Medios impresos / Publicaciones impresas",
+            "NombreProducto": "Libros de texto educativos o vocacionales",
+            "Descripcion": "Terapia ocupacional psicosocial: escenarios clínicos y comunitarios- Paganizzi, Liliana",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.660.524-9",
+              "NombreProveedor": "DIAGONAL LIBROS LIMITADA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 39092.0
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

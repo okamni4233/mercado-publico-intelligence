@@ -1,0 +1,211 @@
+{
+  "Cantidad": 1,
+  "FechaCreacion": "2026-04-05T09:12:39.0473913Z",
+  "Version": "v1",
+  "Listado": [
+    {
+      "CodigoExterno": "635-4-LP26",
+      "Nombre": "MANTENCIÓN PREVENTIVA Y CORRECTIVA DE VEHÍCULOS",
+      "CodigoEstado": 8,
+      "Descripcion": "El Servicio de Salud Arica y Parinacota, llama a Licitación Pública a través del Portal Mercado Público, para contratar el servicio de “CONVENIO MANTENCIÓN PREVENTIVA Y CORRECTIVA DE VEHÍCULOS MERCEDES BENZ, MAXUS, HYUNDAI Y TOYOTA, SERVICIO DE SALUD ARICA Y PARINACOTA, AÑO 2026 – 2027”, de los vehículos que componen la dotación de vehículos motorizados el Servicio de Salud Arica, de acuerdo a lo especificado en las Bases Administrativas y Técnicas de la licitación. Se pretende obtener un servicio de calidad y eficiencia, a un precio conveniente de acuerdo al mercado.",
+      "FechaCierre": null,
+      "Estado": "Adjudicada",
+      "Comprador": {
+        "CodigoOrganismo": "6926",
+        "NombreOrganismo": "SERVICIO DE SALUD DE ARICA Y PARINACOTA",
+        "RutUnidad": "61.606.000-7",
+        "CodigoUnidad": "1631",
+        "NombreUnidad": "SERVICIO DE SALUD DE ARICA",
+        "DireccionUnidad": "DEPENDENCIAS DEL SSA",
+        "ComunaUnidad": "Arica",
+        "RegionUnidad": "Región de Arica y Parinacota",
+        "RutUsuario": "",
+        "CodigoUsuario": "1950877",
+        "NombreUsuario": "ALEJANDRO ALFARO NINAJA",
+        "CargoUsuario": "PROFESIONAL"
+      },
+      "DiasCierreLicitacion": "0",
+      "Informada": 0,
+      "CodigoTipo": 1,
+      "Tipo": "LP",
+      "TipoConvocatoria": "1",
+      "Moneda": "CLP",
+      "Etapas": 1,
+      "EstadoEtapas": "1",
+      "TomaRazon": "0",
+      "EstadoPublicidadOfertas": 1,
+      "JustificacionPublicidad": "",
+      "Contrato": "0",
+      "Obras": "0",
+      "CantidadReclamos": 1124,
+      "Fechas": {
+        "FechaCreacion": "2026-01-09T11:29:28.74",
+        "FechaCierre": "2026-02-02T15:30:00",
+        "FechaInicio": "2026-01-13T09:00:00",
+        "FechaFinal": "2026-01-19T18:00:00",
+        "FechaPubRespuestas": "2026-01-22T18:00:00",
+        "FechaActoAperturaTecnica": "2026-02-03T09:00:00",
+        "FechaActoAperturaEconomica": "2026-02-03T09:00:00",
+        "FechaPublicacion": "2026-01-12T13:33:55.087",
+        "FechaAdjudicacion": "2026-04-01T15:08:04.797",
+        "FechaEstimadaAdjudicacion": "2026-03-02T18:00:00",
+        "FechaSoporteFisico": null,
+        "FechaTiempoEvaluacion": null,
+        "FechaEstimadaFirma": null,
+        "FechasUsuario": null,
+        "FechaVisitaTerreno": null,
+        "FechaEntregaAntecedentes": null
+      },
+      "UnidadTiempoEvaluacion": 1,
+      "DireccionVisita": "",
+      "DireccionEntrega": "",
+      "Estimacion": 1,
+      "FuenteFinanciamiento": "",
+      "VisibilidadMonto": 1,
+      "MontoEstimado": 320000000.0,
+      "Tiempo": "24",
+      "UnidadTiempo": "1",
+      "Modalidad": 1,
+      "TipoPago": "1",
+      "NombreResponsablePago": "Bernardo Espinza Flores",
+      "EmailResponsablePago": "",
+      "NombreResponsableContrato": "Alejandro Alfaro Ninaja",
+      "EmailResponsableContrato": "",
+      "FonoResponsableContrato": "",
+      "ProhibicionContratacion": "",
+      "SubContratacion": "1",
+      "UnidadTiempoDuracionContrato": 4,
+      "TiempoDuracionContrato": "24",
+      "TipoDuracionContrato": " ",
+      "JustificacionMontoEstimado": "",
+      "ObservacionContract": null,
+      "ExtensionPlazo": 0,
+      "EsBaseTipo": 0,
+      "UnidadTiempoContratoLicitacion": "2",
+      "ValorTiempoRenovacion": "0",
+      "PeriodoTiempoRenovacion": " ",
+      "EsRenovable": 0,
+      "CodigoBIP": null,
+      "Adjudicacion": {
+        "Tipo": 2,
+        "Fecha": "2026-03-31T00:00:00",
+        "Numero": "903",
+        "NumeroOferentes": 3,
+        "UrlActa": "http://www.mercadopublico.cl/Procurement/Modules/RFB/StepsProcessAward/PreviewAwardAct.aspx?qs=Hh2XRjJWraI3YMOVPqm8Ncg62R6MxxJEStHlgwYpYZU="
+      },
+      "Items": {
+        "Cantidad": 8,
+        "Listado": [
+          {
+            "Correlativo": 1,
+            "CodigoProducto": 78180101,
+            "CodigoCategoria": "78180100",
+            "Categoria": "Servicios de transporte, almacenaje y correo / Servicios de mantención o reparaciones de transportes / Mantención o reparación de vehículos",
+            "NombreProducto": "Reparación y pintura carrocerías",
+            "Descripcion": "MANTENIMIENTO PREVENTIVO (MARCA MERCEDES BENZ) FRECUENTE Y NO FRECUENTE.",
+            "UnidadMedida": "Unidad no definida",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "92.475.000-6",
+              "NombreProveedor": "KAUFMANN SA VEHICULOS MOTORIZADOS",
+              "Cantidad": 1.0,
+              "MontoUnitario": 1.0
+            }
+          },
+          {
+            "Correlativo": 2,
+            "CodigoProducto": 78180101,
+            "CodigoCategoria": "78180100",
+            "Categoria": "Servicios de transporte, almacenaje y correo / Servicios de mantención o reparaciones de transportes / Mantención o reparación de vehículos",
+            "NombreProducto": "Reparación y pintura carrocerías",
+            "Descripcion": "MANTENIMIENTO PREVENTIVO (MARCA MAXUS) FRECUENTE Y NO FRECUENTE.",
+            "UnidadMedida": "Unidad no definida",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "92.475.000-6",
+              "NombreProveedor": "KAUFMANN SA VEHICULOS MOTORIZADOS",
+              "Cantidad": 1.0,
+              "MontoUnitario": 1.0
+            }
+          },
+          {
+            "Correlativo": 3,
+            "CodigoProducto": 78180101,
+            "CodigoCategoria": "78180100",
+            "Categoria": "Servicios de transporte, almacenaje y correo / Servicios de mantención o reparaciones de transportes / Mantención o reparación de vehículos",
+            "NombreProducto": "Reparación y pintura carrocerías",
+            "Descripcion": "MANTENIMIENTO PREVENTIVO (MARCA HYUNDAI) FRECUENTE Y NO FRECUENTE.",
+            "UnidadMedida": "Unidad no definida",
+            "Cantidad": 1.0,
+            "Adjudicacion": null
+          },
+          {
+            "Correlativo": 4,
+            "CodigoProducto": 78180101,
+            "CodigoCategoria": "78180100",
+            "Categoria": "Servicios de transporte, almacenaje y correo / Servicios de mantención o reparaciones de transportes / Mantención o reparación de vehículos",
+            "NombreProducto": "Reparación y pintura carrocerías",
+            "Descripcion": "MANTENIMIENTO PREVENTIVO (MARCA TOYOTA) FRECUENTE Y NO FRECUENTE.",
+            "UnidadMedida": "Unidad no definida",
+            "Cantidad": 1.0,
+            "Adjudicacion": null
+          },
+          {
+            "Correlativo": 5,
+            "CodigoProducto": 78180101,
+            "CodigoCategoria": "78180100",
+            "Categoria": "Servicios de transporte, almacenaje y correo / Servicios de mantención o reparaciones de transportes / Mantención o reparación de vehículos",
+            "NombreProducto": "Reparación y pintura carrocerías",
+            "Descripcion": "MANTENIMIENTO CORRECTIVO (MARCA MERCEDES BENZ) FRECUENTE Y NO FRECUENTE.",
+            "UnidadMedida": "Unidad no definida",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "92.475.000-6",
+              "NombreProveedor": "KAUFMANN SA VEHICULOS MOTORIZADOS",
+              "Cantidad": 1.0,
+              "MontoUnitario": 1.0
+            }
+          },
+          {
+            "Correlativo": 6,
+            "CodigoProducto": 78180101,
+            "CodigoCategoria": "78180100",
+            "Categoria": "Servicios de transporte, almacenaje y correo / Servicios de mantención o reparaciones de transportes / Mantención o reparación de vehículos",
+            "NombreProducto": "Reparación y pintura carrocerías",
+            "Descripcion": "MANTENIMIENTO CORRECTIVO (MARCA MAXUS) FRECUENTE Y NO FRECUENTE.",
+            "UnidadMedida": "Unidad no definida",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "92.475.000-6",
+              "NombreProveedor": "KAUFMANN SA VEHICULOS MOTORIZADOS",
+              "Cantidad": 1.0,
+              "MontoUnitario": 1.0
+            }
+          },
+          {
+            "Correlativo": 7,
+            "CodigoProducto": 78180101,
+            "CodigoCategoria": "78180100",
+            "Categoria": "Servicios de transporte, almacenaje y correo / Servicios de mantención o reparaciones de transportes / Mantención o reparación de vehículos",
+            "NombreProducto": "Reparación y pintura carrocerías",
+            "Descripcion": "MANTENIMIENTO CORRECTIVO (MARCA HYUNDAI) FRECUENTE Y NO FRECUENTE.",
+            "UnidadMedida": "Unidad no definida",
+            "Cantidad": 1.0,
+            "Adjudicacion": null
+          },
+          {
+            "Correlativo": 8,
+            "CodigoProducto": 78180101,
+            "CodigoCategoria": "78180100",
+            "Categoria": "Servicios de transporte, almacenaje y correo / Servicios de mantención o reparaciones de transportes / Mantención o reparación de vehículos",
+            "NombreProducto": "Reparación y pintura carrocerías",
+            "Descripcion": "MANTENIMIENTO CORRECTIVO (MARCA TOYOTA) FRECUENTE Y NO FRECUENTE.",
+            "UnidadMedida": "Unidad no definida",
+            "Cantidad": 1.0,
+            "Adjudicacion": null
+          }
+        ]
+      }
+    }
+  ]
+}

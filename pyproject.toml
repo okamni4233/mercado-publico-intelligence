@@ -1,0 +1,38 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "mercado-publico-intelligence"
+version = "0.1.0"
+description = "Plataforma de analisis y monitoreo de oportunidades de compras publicas en Chile."
+readme = "README.md"
+requires-python = ">=3.11"
+authors = [
+  { name = "Marti" }
+]
+dependencies = [
+  "requests>=2.32.0,<3.0.0",
+  "pandas>=2.2.0,<3.0.0",
+  "pydantic>=2.7.0,<3.0.0",
+  "SQLAlchemy>=2.0.0,<3.0.0",
+  "python-dotenv>=1.0.0,<2.0.0",
+  "streamlit>=1.44.0,<2.0.0",
+  "typer>=0.12.0,<1.0.0",
+  "plotly>=5.20.0,<6.0.0"
+]
+
+[project.optional-dependencies]
+dev = [
+  "pytest>=8.0.0,<9.0.0"
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]
+
+[tool.setuptools]
+include-package-data = true
+
+[tool.setuptools.packages.find]
+include = ["app*"]

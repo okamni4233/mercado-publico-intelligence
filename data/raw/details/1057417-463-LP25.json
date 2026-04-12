@@ -1,0 +1,199 @@
+{
+  "Cantidad": 1,
+  "FechaCreacion": "2026-04-05T10:05:32.6408018Z",
+  "Version": "v1",
+  "Listado": [
+    {
+      "CodigoExterno": "1057417-463-LP25",
+      "Nombre": "EXÁMENES GENÉTICOS",
+      "CodigoEstado": 8,
+      "Descripcion": "Que, el Complejo Asistencial “Dr. Víctor Ríos Ruiz”, Los Ángeles, requiere licitar públicamente \"EXÁMENES GENÉTICOS\" por un plazo de 24 meses, para satisfacer los servicios requeridos en forma oportuna y efectiva de los pacientes.",
+      "FechaCierre": null,
+      "Estado": "Adjudicada",
+      "Comprador": {
+        "CodigoOrganismo": "7375",
+        "NombreOrganismo": "COMPLEJO ASISTENCIAL DR.VICTOR RIOS RUIZ",
+        "RutUnidad": "61.607.301-K",
+        "CodigoUnidad": "1057417",
+        "NombreUnidad": "Bienes y Servicios",
+        "DireccionUnidad": "AVDA.RICARDO VICUÑA 147 Los Angeles",
+        "ComunaUnidad": "Los Angeles",
+        "RegionUnidad": "Región del Biobío ",
+        "RutUsuario": "",
+        "CodigoUsuario": "2046024",
+        "NombreUsuario": "Agustina Alejandra Figueroa Yañez",
+        "CargoUsuario": "Profesional"
+      },
+      "DiasCierreLicitacion": "0",
+      "Informada": 0,
+      "CodigoTipo": 1,
+      "Tipo": "LP",
+      "TipoConvocatoria": "1",
+      "Moneda": "CLP",
+      "Etapas": 1,
+      "EstadoEtapas": "1",
+      "TomaRazon": "0",
+      "EstadoPublicidadOfertas": 1,
+      "JustificacionPublicidad": "",
+      "Contrato": "0",
+      "Obras": "0",
+      "CantidadReclamos": 875,
+      "Fechas": {
+        "FechaCreacion": "2025-11-27T00:00:00",
+        "FechaCierre": "2026-03-02T15:30:00",
+        "FechaInicio": "2026-02-16T18:00:00",
+        "FechaFinal": "2026-02-19T18:00:00",
+        "FechaPubRespuestas": "2026-02-23T18:00:00",
+        "FechaActoAperturaTecnica": "2026-03-02T15:31:00",
+        "FechaActoAperturaEconomica": "2026-03-02T15:31:00",
+        "FechaPublicacion": "2026-02-16T10:54:11.2",
+        "FechaAdjudicacion": "2026-04-02T16:32:14.977",
+        "FechaEstimadaAdjudicacion": "2026-04-08T16:00:00",
+        "FechaSoporteFisico": null,
+        "FechaTiempoEvaluacion": null,
+        "FechaEstimadaFirma": null,
+        "FechasUsuario": null,
+        "FechaVisitaTerreno": null,
+        "FechaEntregaAntecedentes": null
+      },
+      "UnidadTiempoEvaluacion": 1,
+      "DireccionVisita": "",
+      "DireccionEntrega": "",
+      "Estimacion": 1,
+      "FuenteFinanciamiento": "Complejo Asistencial Víctor Ríos Ruiz",
+      "VisibilidadMonto": 0,
+      "MontoEstimado": null,
+      "Tiempo": "24",
+      "UnidadTiempo": "1",
+      "Modalidad": 1,
+      "TipoPago": "1",
+      "NombreResponsablePago": "RODOLFO GONZALEZ ARANEDA",
+      "EmailResponsablePago": "",
+      "NombreResponsableContrato": "Fernando Cano San Martin",
+      "EmailResponsableContrato": "",
+      "FonoResponsableContrato": "",
+      "ProhibicionContratacion": "",
+      "SubContratacion": "0",
+      "UnidadTiempoDuracionContrato": 4,
+      "TiempoDuracionContrato": "24",
+      "TipoDuracionContrato": " ",
+      "JustificacionMontoEstimado": "",
+      "ObservacionContract": null,
+      "ExtensionPlazo": 0,
+      "EsBaseTipo": 0,
+      "UnidadTiempoContratoLicitacion": "2",
+      "ValorTiempoRenovacion": "0",
+      "PeriodoTiempoRenovacion": " ",
+      "EsRenovable": 0,
+      "CodigoBIP": null,
+      "Adjudicacion": {
+        "Tipo": 2,
+        "Fecha": "2026-04-02T00:00:00",
+        "Numero": "4222",
+        "NumeroOferentes": 3,
+        "UrlActa": "http://www.mercadopublico.cl/Procurement/Modules/RFB/StepsProcessAward/PreviewAwardAct.aspx?qs=YPZ5Qk1MwnKYWL3aLUz2um+V0RSYJZ95Bt53UlZqgpc="
+      },
+      "Items": {
+        "Cantidad": 6,
+        "Listado": [
+          {
+            "Correlativo": 1,
+            "CodigoProducto": 85122201,
+            "CodigoCategoria": "85122200",
+            "Categoria": "Salud, servicios sanitarios y alimentación / Medicina y servicios de salud / Evaluaciones de salud individuales",
+            "NombreProducto": "Exámenes médicos",
+            "Descripcion": "EXOMA SOLO",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 90.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.214.197-3",
+              "NombreProveedor": "GENOMETRICS SPA",
+              "Cantidad": 90.0,
+              "MontoUnitario": 550000.0
+            }
+          },
+          {
+            "Correlativo": 2,
+            "CodigoProducto": 85122201,
+            "CodigoCategoria": "85122200",
+            "Categoria": "Salud, servicios sanitarios y alimentación / Medicina y servicios de salud / Evaluaciones de salud individuales",
+            "NombreProducto": "Exámenes médicos",
+            "Descripcion": "EXOMA DUO",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 10.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.214.197-3",
+              "NombreProveedor": "GENOMETRICS SPA",
+              "Cantidad": 10.0,
+              "MontoUnitario": 960000.0
+            }
+          },
+          {
+            "Correlativo": 3,
+            "CodigoProducto": 85122201,
+            "CodigoCategoria": "85122200",
+            "Categoria": "Salud, servicios sanitarios y alimentación / Medicina y servicios de salud / Evaluaciones de salud individuales",
+            "NombreProducto": "Exámenes médicos",
+            "Descripcion": "EXOMA TRÍO",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 10.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.214.197-3",
+              "NombreProveedor": "GENOMETRICS SPA",
+              "Cantidad": 10.0,
+              "MontoUnitario": 1170000.0
+            }
+          },
+          {
+            "Correlativo": 4,
+            "CodigoProducto": 85122201,
+            "CodigoCategoria": "85122200",
+            "Categoria": "Salud, servicios sanitarios y alimentación / Medicina y servicios de salud / Evaluaciones de salud individuales",
+            "NombreProducto": "Exámenes médicos",
+            "Descripcion": "ESTUDIO DE VARIANTE FAMILIAR PARA EXOMA",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 20.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.214.197-3",
+              "NombreProveedor": "GENOMETRICS SPA",
+              "Cantidad": 20.0,
+              "MontoUnitario": 280000.0
+            }
+          },
+          {
+            "Correlativo": 5,
+            "CodigoProducto": 85122201,
+            "CodigoCategoria": "85122200",
+            "Categoria": "Salud, servicios sanitarios y alimentación / Medicina y servicios de salud / Evaluaciones de salud individuales",
+            "NombreProducto": "Exámenes médicos",
+            "Descripcion": "PANELES GENÉTICOS CON ESTUDIO DE VARIANTE FAMILIAR",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 70.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.214.197-3",
+              "NombreProveedor": "GENOMETRICS SPA",
+              "Cantidad": 70.0,
+              "MontoUnitario": 520000.0
+            }
+          },
+          {
+            "Correlativo": 6,
+            "CodigoProducto": 85122201,
+            "CodigoCategoria": "85122200",
+            "Categoria": "Salud, servicios sanitarios y alimentación / Medicina y servicios de salud / Evaluaciones de salud individuales",
+            "NombreProducto": "Exámenes médicos",
+            "Descripcion": "TRASLADO DE VARIANTE FAMILIAR",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 20.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.214.197-3",
+              "NombreProveedor": "GENOMETRICS SPA",
+              "Cantidad": 20.0,
+              "MontoUnitario": 70000.0
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

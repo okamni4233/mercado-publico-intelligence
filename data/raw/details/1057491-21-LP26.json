@@ -1,0 +1,317 @@
+{
+  "Cantidad": 1,
+  "FechaCreacion": "2026-04-06T00:25:05.1253573Z",
+  "Version": "v1",
+  "Listado": [
+    {
+      "CodigoExterno": "1057491-21-LP26",
+      "Nombre": "SUMINISTRO DE INSUMOS DE HEMODINAMIA",
+      "CodigoEstado": 8,
+      "Descripcion": "ADQUISICIÓN, POR SISTEMA DE SUMINISTRO DE INSUMOS DE HEMODINAMIA, PARA EL HOSPITAL DOCTOR LUIS CALVO MACKENNA.",
+      "FechaCierre": null,
+      "Estado": "Adjudicada",
+      "Comprador": {
+        "CodigoOrganismo": "6918",
+        "NombreOrganismo": "SERVICIO DE SALUD ORIENTE HOSPITAL LUIS CALVO MACKENNA",
+        "RutUnidad": "61.608.408-9",
+        "CodigoUnidad": "1057491",
+        "NombreUnidad": "Bienes y Servicios",
+        "DireccionUnidad": "ANTONIO VARAS 360 (CENTRO DE DISTRIBUCIÓN)",
+        "ComunaUnidad": "Providencia",
+        "RegionUnidad": "Región Metropolitana de Santiago",
+        "RutUsuario": "",
+        "CodigoUsuario": "1845146",
+        "NombreUsuario": "MAXIMILIANO LEON",
+        "CargoUsuario": "Analista de Licitaciones"
+      },
+      "DiasCierreLicitacion": "0",
+      "Informada": 0,
+      "CodigoTipo": 1,
+      "Tipo": "LP",
+      "TipoConvocatoria": "1",
+      "Moneda": "CLP",
+      "Etapas": 1,
+      "EstadoEtapas": "1",
+      "TomaRazon": "0",
+      "EstadoPublicidadOfertas": 1,
+      "JustificacionPublicidad": "",
+      "Contrato": "0",
+      "Obras": "0",
+      "CantidadReclamos": 1044,
+      "Fechas": {
+        "FechaCreacion": "2026-01-26T10:54:56.977",
+        "FechaCierre": "2026-02-16T15:00:00",
+        "FechaInicio": "2026-01-26T15:01:00",
+        "FechaFinal": "2026-02-02T15:00:00",
+        "FechaPubRespuestas": "2026-02-06T20:00:00",
+        "FechaActoAperturaTecnica": "2026-02-16T15:01:00",
+        "FechaActoAperturaEconomica": "2026-02-16T15:01:00",
+        "FechaPublicacion": "2026-01-26T11:25:42.79",
+        "FechaAdjudicacion": "2026-04-01T16:50:17.83",
+        "FechaEstimadaAdjudicacion": "2026-03-06T15:00:00",
+        "FechaSoporteFisico": null,
+        "FechaTiempoEvaluacion": null,
+        "FechaEstimadaFirma": null,
+        "FechasUsuario": null,
+        "FechaVisitaTerreno": null,
+        "FechaEntregaAntecedentes": null
+      },
+      "UnidadTiempoEvaluacion": 1,
+      "DireccionVisita": "",
+      "DireccionEntrega": "",
+      "Estimacion": 1,
+      "FuenteFinanciamiento": "HOSPITAL LUIS CALVO MACKENNA",
+      "VisibilidadMonto": 0,
+      "MontoEstimado": null,
+      "Tiempo": "24",
+      "UnidadTiempo": "1",
+      "Modalidad": 1,
+      "TipoPago": "1",
+      "NombreResponsablePago": "BARBARA SALINAS",
+      "EmailResponsablePago": "",
+      "NombreResponsableContrato": "MAXIMILIANO LEON",
+      "EmailResponsableContrato": "",
+      "FonoResponsableContrato": "",
+      "ProhibicionContratacion": "",
+      "SubContratacion": "0",
+      "UnidadTiempoDuracionContrato": 4,
+      "TiempoDuracionContrato": "24",
+      "TipoDuracionContrato": " ",
+      "JustificacionMontoEstimado": "",
+      "ObservacionContract": null,
+      "ExtensionPlazo": 0,
+      "EsBaseTipo": 0,
+      "UnidadTiempoContratoLicitacion": "2",
+      "ValorTiempoRenovacion": "0",
+      "PeriodoTiempoRenovacion": " ",
+      "EsRenovable": 0,
+      "CodigoBIP": null,
+      "Adjudicacion": {
+        "Tipo": 2,
+        "Fecha": "2026-04-01T00:00:00",
+        "Numero": "951",
+        "NumeroOferentes": 17,
+        "UrlActa": "http://www.mercadopublico.cl/Procurement/Modules/RFB/StepsProcessAward/PreviewAwardAct.aspx?qs=bJiQwbF4babTmA3cEtn4TXNzOgZTp0oPiCAGhOdTALw="
+      },
+      "Items": {
+        "Cantidad": 14,
+        "Listado": [
+          {
+            "Correlativo": 1,
+            "CodigoProducto": 42142604,
+            "CodigoCategoria": "42142600",
+            "Categoria": "Equipamiento y suministros médicos / Suministros y productos clínicos / Jeringas y accesorios",
+            "NombreProducto": "Jeringas médicas con casquillo de catéter",
+            "Descripcion": "212-0083 - INTRODUCTOR CATETER GUIA 6 a 8 FR CON INTRODUCTOR Y VALVULAINTRODUCTOR CATÉTER GUÍA 6-8 FR CON INTRODUCTOR DE PUNTA RECTA CON VÁLVULA DESMONTABLE DE CORTE CRUZADO, CON VÁLVULA HEMOSTÁTICA DESMONTABLE O EQUIVALENTE, QUE PERMITA LIBERACIÓN",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 150.0,
+            "Adjudicacion": null
+          },
+          {
+            "Correlativo": 2,
+            "CodigoProducto": 42142604,
+            "CodigoCategoria": "42142600",
+            "Categoria": "Equipamiento y suministros médicos / Suministros y productos clínicos / Jeringas y accesorios",
+            "NombreProducto": "Jeringas médicas con casquillo de catéter",
+            "Descripcion": "212-0001 – INTRODUCTOR VASCULAR 4 A 5 FR. CON GUIA METALICA 0,021\"\tINTRODUCTOR VASCULAR 4 A 5 FR, INCLUYE MINI GUÍA METÁLICA 0,021''",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 800.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.142.730-k",
+              "NombreProveedor": "GEMCO GENERAL MACHINERY S.A.",
+              "Cantidad": 800.0,
+              "MontoUnitario": 15000.0
+            }
+          },
+          {
+            "Correlativo": 3,
+            "CodigoProducto": 42142604,
+            "CodigoCategoria": "42142600",
+            "Categoria": "Equipamiento y suministros médicos / Suministros y productos clínicos / Jeringas y accesorios",
+            "NombreProducto": "Jeringas médicas con casquillo de catéter",
+            "Descripcion": "212-0065 - INTRODUCTOR VASCULAR 5 A 7 FR. INCLUYE GUIA\tINTRODUCTOR VASCULAR 5-7 FR, BAJO PERFIL, CON DIÁMETRO REDUCIDO RESPECTO DEL ESTÁNDAR DEL MERCADO (APROX. 1 FR), CON RECUBRIMIENTO HIDROFÍLICO O EQUIVALENTE, INFLUYE GUÍA METÁLICA.",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 40.0,
+            "Adjudicacion": {
+              "RutProveedor": "87.590.600-3",
+              "NombreProveedor": "COMERCIALIZADORA TERUMO CHILE LIMITADA",
+              "Cantidad": 40.0,
+              "MontoUnitario": 65000.0
+            }
+          },
+          {
+            "Correlativo": 4,
+            "CodigoProducto": 42142604,
+            "CodigoCategoria": "42142600",
+            "Categoria": "Equipamiento y suministros médicos / Suministros y productos clínicos / Jeringas y accesorios",
+            "NombreProducto": "Jeringas médicas con casquillo de catéter",
+            "Descripcion": "212-0293 - LLAVE DE PASO DE 3 VÍAS O MANIFOLD DE 1-2 PUERTOS\tLLAVE DE PASO DE 3 VÍAS O MANIFOLD 1-2 PUERTOS PARA INYECCIÓN DE ALTA PRESIÓN.",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 400.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.015.781-3",
+              "NombreProveedor": "SYLEX BIOMEDICA SPA",
+              "Cantidad": 400.0,
+              "MontoUnitario": 3800.0
+            }
+          },
+          {
+            "Correlativo": 5,
+            "CodigoProducto": 42142604,
+            "CodigoCategoria": "42142600",
+            "Categoria": "Equipamiento y suministros médicos / Suministros y productos clínicos / Jeringas y accesorios",
+            "NombreProducto": "Jeringas médicas con casquillo de catéter",
+            "Descripcion": "212-0112 - GUÍA HIDROFILICA 0,014''. LONGITUD 180 A 300 CM\tGUÍA 0,014'' CON CUERPO DE ACERO, CARGA DE PUNTA (TIP LOAD) ENTRE 0,5 Y 3,5 G O EQUIVALENTE, CON CUBIERTA HIDROFÍLICA Y PUNTA ATRAUMÁTICA HIDROFÍLICA O SILICONADA DE APROXIMADAMENTE 3 CM (2,5–3,5 ",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 100.0,
+            "Adjudicacion": {
+              "RutProveedor": "87.590.600-3",
+              "NombreProveedor": "COMERCIALIZADORA TERUMO CHILE LIMITADA",
+              "Cantidad": 100.0,
+              "MontoUnitario": 65000.0
+            }
+          },
+          {
+            "Correlativo": 6,
+            "CodigoProducto": 42142604,
+            "CodigoCategoria": "42142600",
+            "Categoria": "Equipamiento y suministros médicos / Suministros y productos clínicos / Jeringas y accesorios",
+            "NombreProducto": "Jeringas médicas con casquillo de catéter",
+            "Descripcion": "212-0009 - GUIA DE 0,035\" CON ALTO SOPORTE DE 260 CMS\tGUÍA 0,035'' DE ALTO SOPORTE, NÚCLEO DE ACERO INOXIDABLE Y COBERTURA DE PTFE, 260 CM. PUNTA RECTA CON PUNTA FLOPPY ENTRE 1–2 CM Y ENTRE 6–8 CM (SEGÚN CONFIGURACIÓN DEL FABRICANTE)",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 50.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.453.086-1",
+              "NombreProveedor": "CICLO MED CHILE SPA",
+              "Cantidad": 50.0,
+              "MontoUnitario": 60000.0
+            }
+          },
+          {
+            "Correlativo": 7,
+            "CodigoProducto": 42142604,
+            "CodigoCategoria": "42142600",
+            "Categoria": "Equipamiento y suministros médicos / Suministros y productos clínicos / Jeringas y accesorios",
+            "NombreProducto": "Jeringas médicas con casquillo de catéter",
+            "Descripcion": "212-0008 - GUIA DE NUCLEO FIJO 0,018-0,035'', LONGITUDES 150 A 260 CM\tGUÍAS DE NÚCLEO FIJO, RECUBRIMIENTO DE PTFE, DIÁMETROS VARIABLES 0,018-0,035'', LONGITUDES 150 A 260 CM, PUNTA RECTAS Y EN J",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 100.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.142.730-k",
+              "NombreProveedor": "GEMCO GENERAL MACHINERY S.A.",
+              "Cantidad": 100.0,
+              "MontoUnitario": 18500.0
+            }
+          },
+          {
+            "Correlativo": 8,
+            "CodigoProducto": 42142604,
+            "CodigoCategoria": "42142600",
+            "Categoria": "Equipamiento y suministros médicos / Suministros y productos clínicos / Jeringas y accesorios",
+            "NombreProducto": "Jeringas médicas con casquillo de catéter",
+            "Descripcion": "212-0029 - CATETER PIG TAIL Y MULTIPROPOSITO 4 A 5 FR 100 CM\tCATÉTER ANGIOGRÁFICO TIPO PIGTAIL Y MULTIPROPÓSITO, REFORZADO CON MALLA SIMPLE O DOBLE QUE ASEGURE RESISTENCIA A LA TORSIÓN, EXTREMO DISTAL BLANDO Y CURVA DEL CATÉTER READIOOPACO. TAMAÑO 4-5 FR,",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 800.0,
+            "Adjudicacion": null
+          },
+          {
+            "Correlativo": 9,
+            "CodigoProducto": 42142604,
+            "CodigoCategoria": "42142600",
+            "Categoria": "Equipamiento y suministros médicos / Suministros y productos clínicos / Jeringas y accesorios",
+            "NombreProducto": "Jeringas médicas con casquillo de catéter",
+            "Descripcion": "212-0032 - CATETER DIFERENTES CURVAS TIPO JR 1,5-4,0, JL 1,5-4,0 Y MAMARIA\tCATÉTER DE NYLON 4-5 FR, RESISTENTE A LA TORCEDURA, DISEÑO DE NYLON CON RECUPERACIÓN ELÁSTICA DE FORMA O EQUIVALENTE, COMPATIBLE CON GUÍAS HASTA 0,038'', DIFERENTES CURVAS TIPO JR ",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 200.0,
+            "Adjudicacion": {
+              "RutProveedor": "77.067.168-K",
+              "NombreProveedor": "FRIMED SPA",
+              "Cantidad": 200.0,
+              "MontoUnitario": 20500.0
+            }
+          },
+          {
+            "Correlativo": 10,
+            "CodigoProducto": 42142604,
+            "CodigoCategoria": "42142600",
+            "Categoria": "Equipamiento y suministros médicos / Suministros y productos clínicos / Jeringas y accesorios",
+            "NombreProducto": "Jeringas médicas con casquillo de catéter",
+            "Descripcion": "212-0164 - CATÉTER ANGIOGRÁFICO TIPO PIGTAIL 4 Y 5 FR\tCATÉTER ANGIOGRÁFICO TIPO PIGTAIL 4 Y 5 FR CON MARCAS PARA CALIBRACIÓN",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 50.0,
+            "Adjudicacion": {
+              "RutProveedor": "77.067.168-K",
+              "NombreProveedor": "FRIMED SPA",
+              "Cantidad": 50.0,
+              "MontoUnitario": 20500.0
+            }
+          },
+          {
+            "Correlativo": 11,
+            "CodigoProducto": 42142604,
+            "CodigoCategoria": "42142600",
+            "Categoria": "Equipamiento y suministros médicos / Suministros y productos clínicos / Jeringas y accesorios",
+            "NombreProducto": "Jeringas médicas con casquillo de catéter",
+            "Descripcion": "212-0015 - BALÓN DE PRESIÓN INTERMEDIA, SISTEMA 0,035''. BAJO PERFIL\tBALÓN DE PRESIÓN INTERMEDIA, SISTEMA 0,035'', BAJO PERFIL, PRESIÓN DE RUPTURA APROXIMADA 12–14 ATM, ACEPTÁNDOSE EQUIVALENTES ≥ 10 ATM SI CUMPLEN MISMA FINALIDAD TERAPÉUTICA; DIÁMETROS 5-",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 60.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.044.959-8",
+              "NombreProveedor": "ARTICULOS, EQUIPOS Y PRODUCTOS PARA LA MEDICINA, LABORATORIOS Y LA IND",
+              "Cantidad": 60.0,
+              "MontoUnitario": 179000.0
+            }
+          },
+          {
+            "Correlativo": 12,
+            "CodigoProducto": 42142604,
+            "CodigoCategoria": "42142600",
+            "Categoria": "Equipamiento y suministros médicos / Suministros y productos clínicos / Jeringas y accesorios",
+            "NombreProducto": "Jeringas médicas con casquillo de catéter",
+            "Descripcion": "212-0107 - BALÓN DE PERFIL BAJO. SISTEMA 0,014''. DIÁMETROS 4 A 7 MM\tBALÓN DE PERFIL BAJO, SISTEMA 0,014''; DIÁMETROS 4-7 MM; PRESIÓN DE RUPTURA 12-14 ATM, ACEPTÁNDOSE EQUIVALENTES ≥ 10 ATM SI CUMPLEN MISMA FINALIDAD TERAPÉUTICA, COMPATIBLE CON INTRODUCTO",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 40.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.142.730-k",
+              "NombreProveedor": "GEMCO GENERAL MACHINERY S.A.",
+              "Cantidad": 40.0,
+              "MontoUnitario": 200000.0
+            }
+          },
+          {
+            "Correlativo": 13,
+            "CodigoProducto": 42142604,
+            "CodigoCategoria": "42142600",
+            "Categoria": "Equipamiento y suministros médicos / Suministros y productos clínicos / Jeringas y accesorios",
+            "NombreProducto": "Jeringas médicas con casquillo de catéter",
+            "Descripcion": "212-0024 - BALON EN BALON PARA ANGIOPLASTIA\tBALÓN EN BALÓN PARA ANGIOPLASTÍA",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 50.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.462.810-1",
+              "NombreProveedor": "COMERCIAL CMS MEDICAL CHILE LIMITADA",
+              "Cantidad": 50.0,
+              "MontoUnitario": 800000.0
+            }
+          },
+          {
+            "Correlativo": 14,
+            "CodigoProducto": 42142604,
+            "CodigoCategoria": "42142600",
+            "Categoria": "Equipamiento y suministros médicos / Suministros y productos clínicos / Jeringas y accesorios",
+            "NombreProducto": "Jeringas médicas con casquillo de catéter",
+            "Descripcion": "212-0109 – STENT EXPANSIBLE CON BALÓN CON SISTEMA OVER THE WIRE\tSTENT EXPANSIBLE CON BALÓN CON SISTEMA OVER THE WIRE 0,035 DE ACERO INOXIDABLE, ALTA FUERZA RADIAL, CON ACORTAMIENTO MÍNIMO, LONGITUDES DEL SISTEMA DE 80 Y 135, DIÁMETRO A PARTIR DE 5 MM, POS",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 50.0,
+            "Adjudicacion": {
+              "RutProveedor": "96.515.660-7",
+              "NombreProveedor": "CENTRAL DE COMPRAS DEL EXTRASISTEMA S.A.",
+              "Cantidad": 50.0,
+              "MontoUnitario": 1230000.0
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

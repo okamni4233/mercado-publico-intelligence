@@ -1,0 +1,151 @@
+{
+  "Cantidad": 1,
+  "FechaCreacion": "2026-04-06T01:09:34.2967722Z",
+  "Version": "v1",
+  "Listado": [
+    {
+      "CodigoExterno": "2136-10-LE26",
+      "Nombre": "Convenio suministro para insumos y reactivos” Analizador automatizado Hemocultivo",
+      "CodigoEstado": 8,
+      "Descripcion": "1.\tLa necesidad del Hospital de Frutillar de dar aprobación a Bases Administrativas y Formularios de Licitación Pública para la adquisición de “Convenio suministro para insumos y reactivos” que incluye en comodato un equipo Analizador automatizado de Hemocultivo por un período de 24 meses con posibilidad de renovarse por un periodo de 12 meses según lo establecido en bases.",
+      "FechaCierre": null,
+      "Estado": "Adjudicada",
+      "Comprador": {
+        "CodigoOrganismo": "7104",
+        "NombreOrganismo": "SERVICIO SALUD DEL RELONCAVI",
+        "RutUnidad": "61.602.270-9",
+        "CodigoUnidad": "3131",
+        "NombreUnidad": "HOSPITAL DE FRUTILLAR",
+        "DireccionUnidad": "LAS PIEDRAS S/N",
+        "ComunaUnidad": "Frutillar",
+        "RegionUnidad": "Región de los Lagos ",
+        "RutUsuario": "",
+        "CodigoUsuario": "2100349",
+        "NombreUsuario": "MAURICIO RODRIGUEZ",
+        "CargoUsuario": ""
+      },
+      "DiasCierreLicitacion": "0",
+      "Informada": 0,
+      "CodigoTipo": 1,
+      "Tipo": "LE",
+      "TipoConvocatoria": "1",
+      "Moneda": "CLP",
+      "Etapas": 1,
+      "EstadoEtapas": "1",
+      "TomaRazon": "0",
+      "EstadoPublicidadOfertas": 1,
+      "JustificacionPublicidad": "",
+      "Contrato": "1",
+      "Obras": "0",
+      "CantidadReclamos": 505,
+      "Fechas": {
+        "FechaCreacion": "2026-03-09T00:00:00",
+        "FechaCierre": "2026-03-26T16:00:00",
+        "FechaInicio": "2026-03-16T14:01:00",
+        "FechaFinal": "2026-03-20T14:00:00",
+        "FechaPubRespuestas": "2026-03-23T14:00:00",
+        "FechaActoAperturaTecnica": "2026-03-26T17:01:00",
+        "FechaActoAperturaEconomica": "2026-03-26T17:01:00",
+        "FechaPublicacion": "2026-03-16T13:07:00",
+        "FechaAdjudicacion": "2026-04-01T15:50:00.65",
+        "FechaEstimadaAdjudicacion": "2026-04-03T14:00:00",
+        "FechaSoporteFisico": "2026-03-23T00:00:00",
+        "FechaTiempoEvaluacion": "1900-01-10T00:00:00",
+        "FechaEstimadaFirma": "2026-04-06T00:00:00",
+        "FechasUsuario": null,
+        "FechaVisitaTerreno": null,
+        "FechaEntregaAntecedentes": null
+      },
+      "UnidadTiempoEvaluacion": 2,
+      "DireccionVisita": "",
+      "DireccionEntrega": "",
+      "Estimacion": 1,
+      "FuenteFinanciamiento": "Ley presupuesto sector público 21.796",
+      "VisibilidadMonto": 0,
+      "MontoEstimado": null,
+      "Tiempo": "24",
+      "UnidadTiempo": "2",
+      "Modalidad": 1,
+      "TipoPago": "1",
+      "NombreResponsablePago": "Hernán Soto Perucho",
+      "EmailResponsablePago": "",
+      "NombreResponsableContrato": "Gerardo Salinas Rossel",
+      "EmailResponsableContrato": "",
+      "FonoResponsableContrato": "",
+      "ProhibicionContratacion": "",
+      "SubContratacion": "0",
+      "UnidadTiempoDuracionContrato": 4,
+      "TiempoDuracionContrato": "24",
+      "TipoDuracionContrato": " ",
+      "JustificacionMontoEstimado": "Monto obtenido de la cotización de insumos relacionados a la licitación.",
+      "ObservacionContract": null,
+      "ExtensionPlazo": 0,
+      "EsBaseTipo": 0,
+      "UnidadTiempoContratoLicitacion": "2",
+      "ValorTiempoRenovacion": "0",
+      "PeriodoTiempoRenovacion": " ",
+      "EsRenovable": 0,
+      "CodigoBIP": null,
+      "Adjudicacion": {
+        "Tipo": 1,
+        "Fecha": "2026-04-01T00:00:00",
+        "Numero": "135",
+        "NumeroOferentes": 2,
+        "UrlActa": "http://www.mercadopublico.cl/Procurement/Modules/RFB/StepsProcessAward/PreviewAwardAct.aspx?qs=8c1448ozMtmY3OQIiTKXfGMSAKU7LDaWW6GcRFVFtLk="
+      },
+      "Items": {
+        "Cantidad": 3,
+        "Listado": [
+          {
+            "Correlativo": 1,
+            "CodigoProducto": 41115807,
+            "CodigoCategoria": "41115800",
+            "Categoria": "Equipamiento para laboratorios / Instrumentos de medida y experimentación / Analizadores, accesorios y suministros clínicos y de diagnósticos",
+            "NombreProducto": "Analizadores químicos",
+            "Descripcion": "-\tSe requiere adquirir reactivos e insumos propios del equipamiento y en modalidad comodato de 1 analizador automático de Hemocultivo nuevo. \r\n-Se requiere que el analizador cumpla con los requerimientos indicados en las bases de licitación.",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "96.659.920-0",
+              "NombreProveedor": "BIOMERIEUX CHILE SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 1.0
+            }
+          },
+          {
+            "Correlativo": 2,
+            "CodigoProducto": 41116104,
+            "CodigoCategoria": "41116100",
+            "Categoria": "Equipamiento para laboratorios / Instrumentos de medida y experimentación / Kits para ensayos manuales, controles de calidad, calibradores y normativas",
+            "NombreProducto": "Kits de ensayo químicos o suministros",
+            "Descripcion": "Viales hemocultivo aerobios",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 250.0,
+            "Adjudicacion": {
+              "RutProveedor": "96.659.920-0",
+              "NombreProveedor": "BIOMERIEUX CHILE SPA",
+              "Cantidad": 250.0,
+              "MontoUnitario": 9000.0
+            }
+          },
+          {
+            "Correlativo": 3,
+            "CodigoProducto": 41116104,
+            "CodigoCategoria": "41116100",
+            "Categoria": "Equipamiento para laboratorios / Instrumentos de medida y experimentación / Kits para ensayos manuales, controles de calidad, calibradores y normativas",
+            "NombreProducto": "Kits de ensayo químicos o suministros",
+            "Descripcion": "Viales hemocultivo anaerobios",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 250.0,
+            "Adjudicacion": {
+              "RutProveedor": "96.659.920-0",
+              "NombreProveedor": "BIOMERIEUX CHILE SPA",
+              "Cantidad": 250.0,
+              "MontoUnitario": 9000.0
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "Cantidad": 1,
+  "FechaCreacion": "2026-04-05T10:27:19.3440589Z",
+  "Version": "v1",
+  "Listado": [
+    {
+      "CodigoExterno": "1180703-3-L126",
+      "Nombre": "ADQUISICIÓN DE INTRUMENTAL MÉDICO PARA EL NUEVO CSA, CÓDIGO BIP 30400725-0.",
+      "CodigoEstado": 8,
+      "Descripcion": "Se requiere la adquisición de intrumental médico para el nuevo Centro de Salud Ambiental de Arica y Parinacota.",
+      "FechaCierre": null,
+      "Estado": "Adjudicada",
+      "Comprador": {
+        "CodigoOrganismo": "6926",
+        "NombreOrganismo": "SERVICIO DE SALUD DE ARICA Y PARINACOTA",
+        "RutUnidad": "61.606.000-7",
+        "CodigoUnidad": "1180703",
+        "NombreUnidad": "Compras Convenio GORE Arica y Parinacota",
+        "DireccionUnidad": "AV. BARROS ARANA N°2699 – BODEGA GENERAL",
+        "ComunaUnidad": "Arica",
+        "RegionUnidad": "Región de Arica y Parinacota",
+        "RutUsuario": "",
+        "CodigoUsuario": "1950877",
+        "NombreUsuario": "ALEJANDRO ALFARO NINAJA",
+        "CargoUsuario": "PROFESIONAL"
+      },
+      "DiasCierreLicitacion": "0",
+      "Informada": 0,
+      "CodigoTipo": 1,
+      "Tipo": "L1",
+      "TipoConvocatoria": "1",
+      "Moneda": "CLP",
+      "Etapas": 1,
+      "EstadoEtapas": "1",
+      "TomaRazon": "0",
+      "EstadoPublicidadOfertas": 1,
+      "JustificacionPublicidad": "Todas las ofertas técnicas serán visibles al público en general, través del portal www.mercadopublico.cl, desde el momento de la apertura electrónica.",
+      "Contrato": "0",
+      "Obras": "0",
+      "CantidadReclamos": 1124,
+      "Fechas": {
+        "FechaCreacion": "2026-02-11T11:00:07.177",
+        "FechaCierre": "2026-02-19T15:00:00",
+        "FechaInicio": "2026-02-12T09:06:47.7",
+        "FechaFinal": "2026-02-14T15:00:00",
+        "FechaPubRespuestas": "2026-02-17T18:00:00",
+        "FechaActoAperturaTecnica": "2026-02-19T15:01:00",
+        "FechaActoAperturaEconomica": "2026-02-19T15:01:00",
+        "FechaPublicacion": "2026-02-12T09:06:47.7",
+        "FechaAdjudicacion": "2026-04-02T11:31:28.21",
+        "FechaEstimadaAdjudicacion": "2026-03-06T18:00:00",
+        "FechaSoporteFisico": null,
+        "FechaTiempoEvaluacion": null,
+        "FechaEstimadaFirma": null,
+        "FechasUsuario": null,
+        "FechaVisitaTerreno": null,
+        "FechaEntregaAntecedentes": null
+      },
+      "UnidadTiempoEvaluacion": 2,
+      "DireccionVisita": "",
+      "DireccionEntrega": "",
+      "Estimacion": 1,
+      "FuenteFinanciamiento": "",
+      "VisibilidadMonto": 1,
+      "MontoEstimado": 5185100.0,
+      "Tiempo": null,
+      "UnidadTiempo": "2",
+      "Modalidad": 0,
+      "TipoPago": "-1",
+      "NombreResponsablePago": "",
+      "EmailResponsablePago": "",
+      "NombreResponsableContrato": "",
+      "EmailResponsableContrato": "",
+      "FonoResponsableContrato": "",
+      "ProhibicionContratacion": "",
+      "SubContratacion": "1",
+      "UnidadTiempoDuracionContrato": 0,
+      "TiempoDuracionContrato": "0",
+      "TipoDuracionContrato": " ",
+      "JustificacionMontoEstimado": "0",
+      "ObservacionContract": null,
+      "ExtensionPlazo": 0,
+      "EsBaseTipo": 0,
+      "UnidadTiempoContratoLicitacion": "0",
+      "ValorTiempoRenovacion": "0",
+      "PeriodoTiempoRenovacion": " ",
+      "EsRenovable": 0,
+      "CodigoBIP": null,
+      "Adjudicacion": {
+        "Tipo": 2,
+        "Fecha": "2026-03-25T00:00:00",
+        "Numero": "837",
+        "NumeroOferentes": 4,
+        "UrlActa": "http://www.mercadopublico.cl/Procurement/Modules/RFB/StepsProcessAward/PreviewAwardAct.aspx?qs=gtUUwxB5SL8K3K1BOgK0AY5NEu0+8nNpTPBCoBnoNcw="
+      },
+      "Items": {
+        "Cantidad": 3,
+        "Listado": [
+          {
+            "Correlativo": 1,
+            "CodigoProducto": 42152508,
+            "CodigoCategoria": "42152500",
+            "Categoria": "Equipamiento y suministros médicos / Equipos y suministros odontológicos / Suministros dentales generales",
+            "NombreProducto": "Jeringas dentales, agujas o jeringas con agujas",
+            "Descripcion": "Jeringa carpule con carga posterior articulada/tornillo.",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 60.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.311.356-6",
+              "NombreProveedor": "MAINZ MEDICAL SPA",
+              "Cantidad": 60.0,
+              "MontoUnitario": 5130.0
+            }
+          },
+          {
+            "Correlativo": 2,
+            "CodigoProducto": 42181515,
+            "CodigoCategoria": "42181500",
+            "Categoria": "Equipamiento y suministros médicos / Productos para exámenes y control de pacientes / Evaluación de diagnóstico y productos para examen de uso general",
+            "NombreProducto": "Bandejas de examen",
+            "Descripcion": "Riñón de acero inoxidable de 500 cc. aprox",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 10.0,
+            "Adjudicacion": {
+              "RutProveedor": "77.124.092-5",
+              "NombreProveedor": "JHONBOSS THINK LIMITADA",
+              "Cantidad": 10.0,
+              "MontoUnitario": 5714.0
+            }
+          },
+          {
+            "Correlativo": 3,
+            "CodigoProducto": 42151675,
+            "CodigoCategoria": "42151600",
+            "Categoria": "Equipamiento y suministros médicos / Equipos y suministros odontológicos / Instrumentos y dispositivos dentales y de sub-especialidad",
+            "NombreProducto": "Kits de restauración dental",
+            "Descripcion": "Set complejo operatorio (obturaciones).",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 4.0,
+            "Adjudicacion": {
+              "RutProveedor": "77.124.092-5",
+              "NombreProveedor": "JHONBOSS THINK LIMITADA",
+              "Cantidad": 4.0,
+              "MontoUnitario": 750000.0
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

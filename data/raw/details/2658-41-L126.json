@@ -1,0 +1,167 @@
+{
+  "Cantidad": 1,
+  "FechaCreacion": "2026-04-06T01:25:42.7995583Z",
+  "Version": "v1",
+  "Listado": [
+    {
+      "CodigoExterno": "2658-41-L126",
+      "Nombre": "MOTOSIERRAS, DESBROZADORA Y OTROS",
+      "CodigoEstado": 8,
+      "Descripcion": "PARA LA DIRECCION DE OBRAS MUNICIPALES PARA LA ADQUISICION DE MOTOSIERRA, DESBROZADORA Y OTROS PARA SER UTILIZADO EN LOS DISTINTOSTRABAJOS SOLICITADOS AL PERSONAL DE TERRENO TANTO POR LA COMUNIDAD COMOPORLAS DIRECCIONES DEL MUNICIPIO",
+      "FechaCierre": null,
+      "Estado": "Adjudicada",
+      "Comprador": {
+        "CodigoOrganismo": "98452",
+        "NombreOrganismo": "I MUNICIPALIDAD DE ANCUD",
+        "RutUnidad": "69.230.100-5",
+        "CodigoUnidad": "3647",
+        "NombreUnidad": "Municipalidad de Ancud",
+        "DireccionUnidad": "Por correo electrónico",
+        "ComunaUnidad": "Las Condes",
+        "RegionUnidad": "Región Metropolitana de Santiago",
+        "RutUsuario": "",
+        "CodigoUsuario": "190054",
+        "NombreUsuario": "Viviana   Dimter Ojeda",
+        "CargoUsuario": "Encargada Adquisiciones"
+      },
+      "DiasCierreLicitacion": "0",
+      "Informada": 0,
+      "CodigoTipo": 1,
+      "Tipo": "L1",
+      "TipoConvocatoria": "1",
+      "Moneda": "CLP",
+      "Etapas": 1,
+      "EstadoEtapas": "1",
+      "TomaRazon": "0",
+      "EstadoPublicidadOfertas": 1,
+      "JustificacionPublicidad": "Todas las ofertas técnicas serán visibles al público en general, través del portal www.mercadopublico.cl, desde el momento de la apertura electrónica.",
+      "Contrato": "0",
+      "Obras": "0",
+      "CantidadReclamos": 72,
+      "Fechas": {
+        "FechaCreacion": "2026-03-10T11:54:30.29",
+        "FechaCierre": "2026-03-16T16:15:00",
+        "FechaInicio": "2026-03-10T12:23:43.36",
+        "FechaFinal": "2026-03-11T16:15:00",
+        "FechaPubRespuestas": "2026-03-12T16:15:00",
+        "FechaActoAperturaTecnica": "2026-03-17T16:15:00",
+        "FechaActoAperturaEconomica": "2026-03-17T16:15:00",
+        "FechaPublicacion": "2026-03-10T12:23:43.36",
+        "FechaAdjudicacion": "2026-04-01T11:23:04.847",
+        "FechaEstimadaAdjudicacion": "2026-03-18T16:15:00",
+        "FechaSoporteFisico": null,
+        "FechaTiempoEvaluacion": null,
+        "FechaEstimadaFirma": null,
+        "FechasUsuario": null,
+        "FechaVisitaTerreno": null,
+        "FechaEntregaAntecedentes": null
+      },
+      "UnidadTiempoEvaluacion": 2,
+      "DireccionVisita": "",
+      "DireccionEntrega": "",
+      "Estimacion": 2,
+      "FuenteFinanciamiento": "",
+      "VisibilidadMonto": 1,
+      "MontoEstimado": 2500000.0,
+      "Tiempo": null,
+      "UnidadTiempo": "2",
+      "Modalidad": 0,
+      "TipoPago": "-1",
+      "NombreResponsablePago": "",
+      "EmailResponsablePago": "",
+      "NombreResponsableContrato": "",
+      "EmailResponsableContrato": "",
+      "FonoResponsableContrato": "",
+      "ProhibicionContratacion": "",
+      "SubContratacion": "1",
+      "UnidadTiempoDuracionContrato": 0,
+      "TiempoDuracionContrato": "0",
+      "TipoDuracionContrato": " ",
+      "JustificacionMontoEstimado": "1",
+      "ObservacionContract": null,
+      "ExtensionPlazo": 0,
+      "EsBaseTipo": 0,
+      "UnidadTiempoContratoLicitacion": "0",
+      "ValorTiempoRenovacion": "0",
+      "PeriodoTiempoRenovacion": " ",
+      "EsRenovable": 0,
+      "CodigoBIP": null,
+      "Adjudicacion": {
+        "Tipo": 1,
+        "Fecha": "2026-03-23T00:00:00",
+        "Numero": "954",
+        "NumeroOferentes": 11,
+        "UrlActa": "http://www.mercadopublico.cl/Procurement/Modules/RFB/StepsProcessAward/PreviewAwardAct.aspx?qs=98tJJsi1KHOqF8fUyoK4h3pNn469aNoAUZ9ATPSXM+Q="
+      },
+      "Items": {
+        "Cantidad": 4,
+        "Listado": [
+          {
+            "Correlativo": 1,
+            "CodigoProducto": 23181604,
+            "CodigoCategoria": "23181600",
+            "Categoria": "Maquinaria para fabricación y transformación industrial / Equipos para alimentos y bebidas / Maquinaria para corte de alimentos",
+            "NombreProducto": "Maquinaria para cortar",
+            "Descripcion": "MOTOSIERRA AGRICOLA 45,4 CC MS 240 ESPADA 18 NARANJA EQUIVALENTE A STHILL O SUPERIOR",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.554.876-4",
+              "NombreProveedor": "Comercial Jaime Francisco Asmussen Chales EIRL",
+              "Cantidad": 1.0,
+              "MontoUnitario": 352000.0
+            }
+          },
+          {
+            "Correlativo": 2,
+            "CodigoProducto": 70111503,
+            "CodigoCategoria": "70111500",
+            "Categoria": "Servicios agrícolas, pesqueros, forestales y relacionados con la fauna / Horticultura / Plantas y árboles ornamentales",
+            "NombreProducto": "Servicios de poda de árboles",
+            "Descripcion": "PODADORA MULTIFUNCIONAL DE 43 CC 1,6 HP 5 EN 1 MOTOR 2T EQUIVALENTE A STHILL, HYUNDAI O SUPERIOR",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.554.876-4",
+              "NombreProveedor": "Comercial Jaime Francisco Asmussen Chales EIRL",
+              "Cantidad": 1.0,
+              "MontoUnitario": 255000.0
+            }
+          },
+          {
+            "Correlativo": 3,
+            "CodigoProducto": 23181604,
+            "CodigoCategoria": "23181600",
+            "Categoria": "Maquinaria para fabricación y transformación industrial / Equipos para alimentos y bebidas / Maquinaria para corte de alimentos",
+            "NombreProducto": "Maquinaria para cortar",
+            "Descripcion": "DESBROZADORA FS 250 EQUIVALENTE A STHILL O SUPERIOR",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.554.876-4",
+              "NombreProveedor": "Comercial Jaime Francisco Asmussen Chales EIRL",
+              "Cantidad": 1.0,
+              "MontoUnitario": 524000.0
+            }
+          },
+          {
+            "Correlativo": 4,
+            "CodigoProducto": 27111508,
+            "CodigoCategoria": "27111500",
+            "Categoria": "Herramientas y maquinaria en general / Herramientas manuales / Herramientas de corte, estaje y punzones",
+            "NombreProducto": "Sierras",
+            "Descripcion": "KIT SIERRA CIRCULAR 7 1/4 INALAMBRICA 20 V SBC550 D2K-B2 EQUIVALENTYE A STANLEY O SUPERIOR",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.554.876-4",
+              "NombreProveedor": "Comercial Jaime Francisco Asmussen Chales EIRL",
+              "Cantidad": 1.0,
+              "MontoUnitario": 229000.0
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

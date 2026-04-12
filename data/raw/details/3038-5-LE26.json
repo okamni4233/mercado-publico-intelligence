@@ -1,0 +1,215 @@
+{
+  "Cantidad": 1,
+  "FechaCreacion": "2026-04-06T01:39:47.5558732Z",
+  "Version": "v1",
+  "Listado": [
+    {
+      "CodigoExterno": "3038-5-LE26",
+      "Nombre": "“SERVICIOS DE ASEO AÑO 2026 -EE.EE comuna de Lolol",
+      "CodigoEstado": 8,
+      "Descripcion": "“SERVICIOS DE ASEO AÑO 2026 - ESTABLECIMIENTOS EDUCATIVOS ADMINISTRADOS POR LA ILUSTRE MUNICIPALIDAD DE LOLOL “",
+      "FechaCierre": null,
+      "Estado": "Adjudicada",
+      "Comprador": {
+        "CodigoOrganismo": "113258",
+        "NombreOrganismo": "I MUNICIPALIDAD DE LOLOL",
+        "RutUnidad": "69.090.500-0",
+        "CodigoUnidad": "3985",
+        "NombreUnidad": "DEPARTAMENTO DE EDUCACION",
+        "DireccionUnidad": "LOS AROMOS 85",
+        "ComunaUnidad": "Lolol",
+        "RegionUnidad": "Región del Libertador General Bernardo O´Higgins",
+        "RutUsuario": "",
+        "CodigoUsuario": "1580536",
+        "NombreUsuario": "Gonzalo Varas",
+        "CargoUsuario": "Encargado Finanzas DAEM"
+      },
+      "DiasCierreLicitacion": "0",
+      "Informada": 0,
+      "CodigoTipo": 1,
+      "Tipo": "LE",
+      "TipoConvocatoria": "1",
+      "Moneda": "CLP",
+      "Etapas": 1,
+      "EstadoEtapas": "1",
+      "TomaRazon": "0",
+      "EstadoPublicidadOfertas": 1,
+      "JustificacionPublicidad": "",
+      "Contrato": "1",
+      "Obras": "0",
+      "CantidadReclamos": 119,
+      "Fechas": {
+        "FechaCreacion": "2026-02-17T11:51:27.69",
+        "FechaCierre": "2026-02-24T11:22:00",
+        "FechaInicio": "2026-02-17T15:54:00",
+        "FechaFinal": "2026-02-20T15:54:00",
+        "FechaPubRespuestas": "2026-02-21T15:54:00",
+        "FechaActoAperturaTecnica": "2026-02-24T12:00:00",
+        "FechaActoAperturaEconomica": "2026-02-24T12:00:00",
+        "FechaPublicacion": "2026-02-17T12:36:56.827",
+        "FechaAdjudicacion": "2026-04-01T15:49:41.957",
+        "FechaEstimadaAdjudicacion": "2026-02-27T13:23:00",
+        "FechaSoporteFisico": null,
+        "FechaTiempoEvaluacion": null,
+        "FechaEstimadaFirma": null,
+        "FechasUsuario": null,
+        "FechaVisitaTerreno": null,
+        "FechaEntregaAntecedentes": null
+      },
+      "UnidadTiempoEvaluacion": 1,
+      "DireccionVisita": "",
+      "DireccionEntrega": "",
+      "Estimacion": 1,
+      "FuenteFinanciamiento": "Subvencion Normal",
+      "VisibilidadMonto": 0,
+      "MontoEstimado": null,
+      "Tiempo": "10",
+      "UnidadTiempo": "1",
+      "Modalidad": 1,
+      "TipoPago": "1",
+      "NombreResponsablePago": "GONZALO VARAS ACUÑA",
+      "EmailResponsablePago": "",
+      "NombreResponsableContrato": "JOSE ALFREDO ROMAN CHAVEZ",
+      "EmailResponsableContrato": "",
+      "FonoResponsableContrato": "",
+      "ProhibicionContratacion": "",
+      "SubContratacion": "0",
+      "UnidadTiempoDuracionContrato": 4,
+      "TiempoDuracionContrato": "10",
+      "TipoDuracionContrato": " ",
+      "JustificacionMontoEstimado": "",
+      "ObservacionContract": null,
+      "ExtensionPlazo": 0,
+      "EsBaseTipo": 0,
+      "UnidadTiempoContratoLicitacion": "2",
+      "ValorTiempoRenovacion": "0",
+      "PeriodoTiempoRenovacion": " ",
+      "EsRenovable": 0,
+      "CodigoBIP": null,
+      "Adjudicacion": {
+        "Tipo": 4,
+        "Fecha": "2026-03-09T00:00:00",
+        "Numero": "530",
+        "NumeroOferentes": 7,
+        "UrlActa": "http://www.mercadopublico.cl/Procurement/Modules/RFB/StepsProcessAward/PreviewAwardAct.aspx?qs=2nHVCzWK1rF+Pm8r5JR0xijJiXicHuq26sn7LKTejrQ="
+      },
+      "Items": {
+        "Cantidad": 7,
+        "Listado": [
+          {
+            "Correlativo": 1,
+            "CodigoProducto": 76111501,
+            "CodigoCategoria": "76111500",
+            "Categoria": "Servicios de limpieza industrial / Servicios de limpieza / Servicios de limpieza de edificios y oficinas en general",
+            "NombreProducto": "Servicios de limpieza de edificios",
+            "Descripcion": "Servicio de aseo 1 Escuela Octavio Mujica, Hacienda de Lolol",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "16.708.488-5",
+              "NombreProveedor": "DOREMA ELIZABETH VILO VERDUGO",
+              "Cantidad": 1.0,
+              "MontoUnitario": 3587020.0
+            }
+          },
+          {
+            "Correlativo": 2,
+            "CodigoProducto": 76111501,
+            "CodigoCategoria": "76111500",
+            "Categoria": "Servicios de limpieza industrial / Servicios de limpieza / Servicios de limpieza de edificios y oficinas en general",
+            "NombreProducto": "Servicios de limpieza de edificios",
+            "Descripcion": "Servicio de aseo 2 Escuela Octavio Mujica, Hacienda de Lolol",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "11.368.629-4",
+              "NombreProveedor": "ESPERANZA DEL CARMEN PIZARRO GONZALEZ",
+              "Cantidad": 1.0,
+              "MontoUnitario": 3587020.0
+            }
+          },
+          {
+            "Correlativo": 3,
+            "CodigoProducto": 76111501,
+            "CodigoCategoria": "76111500",
+            "Categoria": "Servicios de limpieza industrial / Servicios de limpieza / Servicios de limpieza de edificios y oficinas en general",
+            "NombreProducto": "Servicios de limpieza de edificios",
+            "Descripcion": "Servicio de aseo Escuela Especial de Nerquihue, El Buche Nerquihue.",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "11.760.995-2",
+              "NombreProveedor": "GLORIA ALEJANDRA MUNOZ ARAYA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 3587020.0
+            }
+          },
+          {
+            "Correlativo": 4,
+            "CodigoProducto": 76111501,
+            "CodigoCategoria": "76111500",
+            "Categoria": "Servicios de limpieza industrial / Servicios de limpieza / Servicios de limpieza de edificios y oficinas en general",
+            "NombreProducto": "Servicios de limpieza de edificios",
+            "Descripcion": "Servicio de Aseo Escuela Rinconada de Quiahue.",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "20.690.092-K",
+              "NombreProveedor": "ISIDORA ESPERANZA NUNEZ GONZALEZ",
+              "Cantidad": 1.0,
+              "MontoUnitario": 3209440.0
+            }
+          },
+          {
+            "Correlativo": 5,
+            "CodigoProducto": 76111501,
+            "CodigoCategoria": "76111500",
+            "Categoria": "Servicios de limpieza industrial / Servicios de limpieza / Servicios de limpieza de edificios y oficinas en general",
+            "NombreProducto": "Servicios de limpieza de edificios",
+            "Descripcion": "Servicio de Aseo Escuela Olga de Gómez, El Membrillo",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "13.781.612-1",
+              "NombreProveedor": "YOVANY VLADIMIR LABRAÑA RODRÍGUEZ",
+              "Cantidad": 1.0,
+              "MontoUnitario": 3209440.0
+            }
+          },
+          {
+            "Correlativo": 6,
+            "CodigoProducto": 76111501,
+            "CodigoCategoria": "76111500",
+            "Categoria": "Servicios de limpieza industrial / Servicios de limpieza / Servicios de limpieza de edificios y oficinas en general",
+            "NombreProducto": "Servicios de limpieza de edificios",
+            "Descripcion": "Servicio de Aseo Escuela Eduvigis Pantoja, Los Tricahues",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "18.679.891-0",
+              "NombreProveedor": "YISSA XIMENA ORDENES BARRAZA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 3209440.0
+            }
+          },
+          {
+            "Correlativo": 7,
+            "CodigoProducto": 76111501,
+            "CodigoCategoria": "76111500",
+            "Categoria": "Servicios de limpieza industrial / Servicios de limpieza / Servicios de limpieza de edificios y oficinas en general",
+            "NombreProducto": "Servicios de limpieza de edificios",
+            "Descripcion": "Servicio de Aseo Escuela Hugo Urzua, Ránguil",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "14.049.571-9",
+              "NombreProveedor": "MARILUZ DE LAS NIEVES MUNOZ MUNOZ",
+              "Cantidad": 1.0,
+              "MontoUnitario": 3209440.0
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

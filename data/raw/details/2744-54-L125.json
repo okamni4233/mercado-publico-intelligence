@@ -1,0 +1,471 @@
+{
+  "Cantidad": 1,
+  "FechaCreacion": "2026-04-06T01:31:26.8751942Z",
+  "Version": "v1",
+  "Listado": [
+    {
+      "CodigoExterno": "2744-54-L125",
+      "Nombre": "Medicamentos SAR Alemania",
+      "CodigoEstado": 8,
+      "Descripcion": "Req. de Compra N°35 del 20.08.2025\r\nLa necesidad de abastecimiento de medicamentos para la comunidad de atenciones en servicio de urgencias del Depto. de Salud Municipal Angol.",
+      "FechaCierre": null,
+      "Estado": "Adjudicada",
+      "Comprador": {
+        "CodigoOrganismo": "100156",
+        "NombreOrganismo": "I MUNICIPALIDAD DE ANGOL",
+        "RutUnidad": "69.180.100-4",
+        "CodigoUnidad": "3733",
+        "NombreUnidad": "SALUD",
+        "DireccionUnidad": "Sallen 1145",
+        "ComunaUnidad": "Angol",
+        "RegionUnidad": "Región de la Araucanía ",
+        "RutUsuario": "",
+        "CodigoUsuario": "1474581",
+        "NombreUsuario": "Karina Beatriz Arriagada Garay",
+        "CargoUsuario": "Unidad de Adquisiciones DSM Angol"
+      },
+      "DiasCierreLicitacion": "0",
+      "Informada": 0,
+      "CodigoTipo": 1,
+      "Tipo": "L1",
+      "TipoConvocatoria": "1",
+      "Moneda": "CLP",
+      "Etapas": 1,
+      "EstadoEtapas": "1",
+      "TomaRazon": "0",
+      "EstadoPublicidadOfertas": 1,
+      "JustificacionPublicidad": "",
+      "Contrato": "0",
+      "Obras": "0",
+      "CantidadReclamos": 407,
+      "Fechas": {
+        "FechaCreacion": "2025-09-24T00:00:00",
+        "FechaCierre": "2025-10-23T18:37:00",
+        "FechaInicio": "2025-10-17T20:37:00",
+        "FechaFinal": "2025-10-20T20:37:00",
+        "FechaPubRespuestas": "2025-10-21T20:37:00",
+        "FechaActoAperturaTecnica": "2025-10-23T18:38:00",
+        "FechaActoAperturaEconomica": "2025-10-23T18:38:00",
+        "FechaPublicacion": "2025-10-17T16:58:35.4",
+        "FechaAdjudicacion": "2026-04-01T16:38:52.43",
+        "FechaEstimadaAdjudicacion": "2025-10-31T18:38:00",
+        "FechaSoporteFisico": null,
+        "FechaTiempoEvaluacion": null,
+        "FechaEstimadaFirma": null,
+        "FechasUsuario": null,
+        "FechaVisitaTerreno": null,
+        "FechaEntregaAntecedentes": null
+      },
+      "UnidadTiempoEvaluacion": 1,
+      "DireccionVisita": "",
+      "DireccionEntrega": "",
+      "Estimacion": 2,
+      "FuenteFinanciamiento": "Conv. SAR Alemania",
+      "VisibilidadMonto": 0,
+      "MontoEstimado": null,
+      "Tiempo": null,
+      "UnidadTiempo": "1",
+      "Modalidad": 1,
+      "TipoPago": "4",
+      "NombreResponsablePago": "Gladys Artigas Flores",
+      "EmailResponsablePago": "",
+      "NombreResponsableContrato": "Hector Betanzo Cuevas",
+      "EmailResponsableContrato": "",
+      "FonoResponsableContrato": "",
+      "ProhibicionContratacion": "",
+      "SubContratacion": "0",
+      "UnidadTiempoDuracionContrato": 1,
+      "TiempoDuracionContrato": "0",
+      "TipoDuracionContrato": " ",
+      "JustificacionMontoEstimado": "",
+      "ObservacionContract": null,
+      "ExtensionPlazo": 0,
+      "EsBaseTipo": 0,
+      "UnidadTiempoContratoLicitacion": "1",
+      "ValorTiempoRenovacion": "0",
+      "PeriodoTiempoRenovacion": " ",
+      "EsRenovable": 0,
+      "CodigoBIP": null,
+      "Adjudicacion": {
+        "Tipo": 4,
+        "Fecha": "2026-03-31T00:00:00",
+        "Numero": "759",
+        "NumeroOferentes": 17,
+        "UrlActa": "http://www.mercadopublico.cl/Procurement/Modules/RFB/StepsProcessAward/PreviewAwardAct.aspx?qs=1n/ccrWsdYlawK/60y0o46t7wUSfh8Bn2rU+DOg/aEA="
+      },
+      "Items": {
+        "Cantidad": 23,
+        "Listado": [
+          {
+            "Correlativo": 1,
+            "CodigoProducto": 51102301,
+            "CodigoCategoria": "51102300",
+            "Categoria": "Medicamentos y productos farmacéuticos / Medicamentos anti infecciosos / Medicamentos antivirales",
+            "NombreProducto": "Aciclovir",
+            "Descripcion": "ACICLOVIR CM 400 MG\r\n",
+            "UnidadMedida": "Comprimido",
+            "Cantidad": 5000.0,
+            "Adjudicacion": {
+              "RutProveedor": "77.596.940-7",
+              "NombreProveedor": "LABORATORIO CHILE S A",
+              "Cantidad": 4970.0,
+              "MontoUnitario": 55.0
+            }
+          },
+          {
+            "Correlativo": 2,
+            "CodigoProducto": 51151616,
+            "CodigoCategoria": "51151600",
+            "Categoria": "Medicamentos y productos farmacéuticos / Medicamentos para el sistema nervioso autónomo / Agentes bloqueadores colinérgicos",
+            "NombreProducto": "Atropina",
+            "Descripcion": "ATROPINA/PAPAVERINA CM 0.5/40 MG (ANTIESPASMODICO)\r\n",
+            "UnidadMedida": "Comprimido",
+            "Cantidad": 1000.0,
+            "Adjudicacion": {
+              "RutProveedor": "77.596.940-7",
+              "NombreProveedor": "LABORATORIO CHILE S A",
+              "Cantidad": 4500.0,
+              "MontoUnitario": 44.0
+            }
+          },
+          {
+            "Correlativo": 3,
+            "CodigoProducto": 51151914,
+            "CodigoCategoria": "51151900",
+            "Categoria": "Medicamentos y productos farmacéuticos / Medicamentos para el sistema nervioso autónomo / Relajantes músculo-esqueléticos de acción centrada",
+            "NombreProducto": "Clorhidrato de ciclobenzaprina",
+            "Descripcion": "CICLOBENZAPRINA CM 10 MG\r\n",
+            "UnidadMedida": "Comprimido",
+            "Cantidad": 10000.0,
+            "Adjudicacion": {
+              "RutProveedor": "80.447.400-5",
+              "NombreProveedor": "MUNNICH PHARMA MEDICAL SPA",
+              "Cantidad": 10000.0,
+              "MontoUnitario": 16.0
+            }
+          },
+          {
+            "Correlativo": 4,
+            "CodigoProducto": 51101503,
+            "CodigoCategoria": "51101500",
+            "Categoria": "Medicamentos y productos farmacéuticos / Medicamentos anti infecciosos / Antibióticos",
+            "NombreProducto": "Cloranfenicol",
+            "Descripcion": "CLORANFENICOL 0.5% SOL.OFTALMICA 10 ML\r\n",
+            "UnidadMedida": "Frasco",
+            "Cantidad": 100.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.669.630-9",
+              "NombreProveedor": "OPKO CHILE S.A.",
+              "Cantidad": 100.0,
+              "MontoUnitario": 561.0
+            }
+          },
+          {
+            "Correlativo": 5,
+            "CodigoProducto": 51161630,
+            "CodigoCategoria": "51161600",
+            "Categoria": "Medicamentos y productos farmacéuticos / Medicamentos para el tracto respiratorio / Antihistamínicos o bloqueadores H2",
+            "NombreProducto": "Maleato de clorfeniramina",
+            "Descripcion": "CLORFENAMINA AMP 10 MG/ML\r\n",
+            "UnidadMedida": "Ampolla",
+            "Cantidad": 800.0,
+            "Adjudicacion": {
+              "RutProveedor": "88.597.500-3",
+              "NombreProveedor": "LABORATORIO BIOSANO S A",
+              "Cantidad": 800.0,
+              "MontoUnitario": 120.0
+            }
+          },
+          {
+            "Correlativo": 6,
+            "CodigoProducto": 51161630,
+            "CodigoCategoria": "51161600",
+            "Categoria": "Medicamentos y productos farmacéuticos / Medicamentos para el tracto respiratorio / Antihistamínicos o bloqueadores H2",
+            "NombreProducto": "Maleato de clorfeniramina",
+            "Descripcion": "CLORFENAMINA CM 4 MG\r\n",
+            "UnidadMedida": "Comprimido",
+            "Cantidad": 10000.0,
+            "Adjudicacion": {
+              "RutProveedor": "80.447.400-5",
+              "NombreProveedor": "MUNNICH PHARMA MEDICAL SPA",
+              "Cantidad": 10000.0,
+              "MontoUnitario": 7.9
+            }
+          },
+          {
+            "Correlativo": 7,
+            "CodigoProducto": 51101805,
+            "CodigoCategoria": "51101800",
+            "Categoria": "Medicamentos y productos farmacéuticos / Medicamentos anti infecciosos / Fungicidas",
+            "NombreProducto": "Cotrimazol",
+            "Descripcion": "CLOTRIMAZOL 1 % CREMA\r\n",
+            "UnidadMedida": "Tubo",
+            "Cantidad": 100.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.986.924-7",
+              "NombreProveedor": "MDC HEALTH SPA",
+              "Cantidad": 100.0,
+              "MontoUnitario": 265.0
+            }
+          },
+          {
+            "Correlativo": 8,
+            "CodigoProducto": 51181704,
+            "CodigoCategoria": "51181700",
+            "Categoria": "Medicamentos y productos farmacéuticos / Hormonas y antagonistas hormonales / Corticosteroides",
+            "NombreProducto": "Dexametasona",
+            "Descripcion": "DEXAMETASONA AMP 4 MG/ML\r\n",
+            "UnidadMedida": "Ampolla",
+            "Cantidad": 100.0,
+            "Adjudicacion": {
+              "RutProveedor": "88.597.500-3",
+              "NombreProveedor": "LABORATORIO BIOSANO S A",
+              "Cantidad": 500.0,
+              "MontoUnitario": 120.0
+            }
+          },
+          {
+            "Correlativo": 9,
+            "CodigoProducto": 51161812,
+            "CodigoCategoria": "51161800",
+            "Categoria": "Medicamentos y productos farmacéuticos / Medicamentos para el tracto respiratorio / Productos para tos, resfriados y antialérgicos",
+            "NombreProducto": "Combinación clorfeniramina-acetaminofeno",
+            "Descripcion": "DOMPERIDONA CM 10 MG\r\n",
+            "UnidadMedida": "Comprimido",
+            "Cantidad": 2500.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.669.630-9",
+              "NombreProveedor": "OPKO CHILE S.A.",
+              "Cantidad": 5000.0,
+              "MontoUnitario": 22.0
+            }
+          },
+          {
+            "Correlativo": 10,
+            "CodigoProducto": 51101512,
+            "CodigoCategoria": "51101500",
+            "Categoria": "Medicamentos y productos farmacéuticos / Medicamentos anti infecciosos / Antibióticos",
+            "NombreProducto": "Cloxacilina",
+            "Descripcion": "FLUCLOXACILINA CM 500 MG\r\n",
+            "UnidadMedida": "Comprimido",
+            "Cantidad": 3000.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.986.924-7",
+              "NombreProveedor": "MDC HEALTH SPA",
+              "Cantidad": 3000.0,
+              "MontoUnitario": 100.0
+            }
+          },
+          {
+            "Correlativo": 11,
+            "CodigoProducto": 51181706,
+            "CodigoCategoria": "51181700",
+            "Categoria": "Medicamentos y productos farmacéuticos / Hormonas y antagonistas hormonales / Corticosteroides",
+            "NombreProducto": "Hidrocortisona",
+            "Descripcion": "HIDROCORTISONA FA 500 MG\r\n",
+            "UnidadMedida": "Ampolla",
+            "Cantidad": 160.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.642.770-7",
+              "NombreProveedor": "LABVITALIS S.A.",
+              "Cantidad": 200.0,
+              "MontoUnitario": 1600.0
+            }
+          },
+          {
+            "Correlativo": 12,
+            "CodigoProducto": 51241120,
+            "CodigoCategoria": "51241100",
+            "Categoria": "Medicamentos y productos farmacéuticos / Medicamentos para los oídos, ojos, nariz y piel / Agentes oftálmicos",
+            "NombreProducto": "Lágrimas artificiales",
+            "Descripcion": "LAGRIMAS ARTIFICIALES GOTAS 10 ML\r\n",
+            "UnidadMedida": "Tubo",
+            "Cantidad": 200.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.669.630-9",
+              "NombreProveedor": "OPKO CHILE S.A.",
+              "Cantidad": 200.0,
+              "MontoUnitario": 665.0
+            }
+          },
+          {
+            "Correlativo": 13,
+            "CodigoProducto": 51171702,
+            "CodigoCategoria": "51171700",
+            "Categoria": "Medicamentos y productos farmacéuticos / Medicamentos para el sistema gastrointestinal / Antidiarreicos",
+            "NombreProducto": "Hidrocloruro de loperamida",
+            "Descripcion": "LOPERAMIDA CM 2 MG\r\n",
+            "UnidadMedida": "Comprimido",
+            "Cantidad": 1000.0,
+            "Adjudicacion": {
+              "RutProveedor": "77.596.940-7",
+              "NombreProveedor": "LABORATORIO CHILE S A",
+              "Cantidad": 1500.0,
+              "MontoUnitario": 44.0
+            }
+          },
+          {
+            "Correlativo": 14,
+            "CodigoProducto": 51161606,
+            "CodigoCategoria": "51161600",
+            "Categoria": "Medicamentos y productos farmacéuticos / Medicamentos para el tracto respiratorio / Antihistamínicos o bloqueadores H2",
+            "NombreProducto": "Loratadina",
+            "Descripcion": "LORATADINA CM 10 MG\r\n",
+            "UnidadMedida": "Comprimido",
+            "Cantidad": 27000.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.669.630-9",
+              "NombreProveedor": "OPKO CHILE S.A.",
+              "Cantidad": 27000.0,
+              "MontoUnitario": 11.7
+            }
+          },
+          {
+            "Correlativo": 15,
+            "CodigoProducto": 51161606,
+            "CodigoCategoria": "51161600",
+            "Categoria": "Medicamentos y productos farmacéuticos / Medicamentos para el tracto respiratorio / Antihistamínicos o bloqueadores H2",
+            "NombreProducto": "Loratadina",
+            "Descripcion": "LORATADINA JARABE 1MG / ML\r\n",
+            "UnidadMedida": "Frasco",
+            "Cantidad": 450.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.079.782-0",
+              "NombreProveedor": "WINPHARM SPA",
+              "Cantidad": 450.0,
+              "MontoUnitario": 2000.0
+            }
+          },
+          {
+            "Correlativo": 16,
+            "CodigoProducto": 51142009,
+            "CodigoCategoria": "51142000",
+            "Categoria": "Medicamentos y productos farmacéuticos / Medicamentos para el sistema nervioso central / Analgésicos no narcóticos / antipiréticos",
+            "NombreProducto": "Metamizol sódico",
+            "Descripcion": "METAMIZOL AMP 1 G/ 2 ML\r\n",
+            "UnidadMedida": "Ampolla",
+            "Cantidad": 2000.0,
+            "Adjudicacion": {
+              "RutProveedor": "77.337.544-5",
+              "NombreProveedor": "SCM PHARMA SPA",
+              "Cantidad": 2000.0,
+              "MontoUnitario": 343.0
+            }
+          },
+          {
+            "Correlativo": 17,
+            "CodigoProducto": 51142009,
+            "CodigoCategoria": "51142000",
+            "Categoria": "Medicamentos y productos farmacéuticos / Medicamentos para el sistema nervioso central / Analgésicos no narcóticos / antipiréticos",
+            "NombreProducto": "Metamizol sódico",
+            "Descripcion": "METAMIZOL CM 300 MG\r\n",
+            "UnidadMedida": "Comprimido",
+            "Cantidad": 2000.0,
+            "Adjudicacion": {
+              "RutProveedor": "80.447.400-5",
+              "NombreProveedor": "MUNNICH PHARMA MEDICAL SPA",
+              "Cantidad": 5000.0,
+              "MontoUnitario": 21.0
+            }
+          },
+          {
+            "Correlativo": 18,
+            "CodigoProducto": 51171806,
+            "CodigoCategoria": "51171800",
+            "Categoria": "Medicamentos y productos farmacéuticos / Medicamentos para el sistema gastrointestinal / Agentes antivértigo, antinauseantes y antieméticos",
+            "NombreProducto": "Metoclopramida",
+            "Descripcion": "METOCLOPRAMIDA AMP 10 MG/2 ML\r\n",
+            "UnidadMedida": "Ampolla",
+            "Cantidad": 2000.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.642.770-7",
+              "NombreProveedor": "LABVITALIS S.A.",
+              "Cantidad": 2000.0,
+              "MontoUnitario": 120.0
+            }
+          },
+          {
+            "Correlativo": 19,
+            "CodigoProducto": 51171909,
+            "CodigoCategoria": "51171900",
+            "Categoria": "Medicamentos y productos farmacéuticos / Medicamentos para el sistema gastrointestinal / Fármacos antiúlcera y otros fármacos gastrointestinales relacionados",
+            "NombreProducto": "Omeprazol",
+            "Descripcion": "OMEPRAZOL CM 20 MG\r\n",
+            "UnidadMedida": "Comprimido",
+            "Cantidad": 10000.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.986.924-7",
+              "NombreProveedor": "MDC HEALTH SPA",
+              "Cantidad": 10000.0,
+              "MontoUnitario": 12.5
+            }
+          },
+          {
+            "Correlativo": 20,
+            "CodigoProducto": 51171909,
+            "CodigoCategoria": "51171900",
+            "Categoria": "Medicamentos y productos farmacéuticos / Medicamentos para el sistema gastrointestinal / Fármacos antiúlcera y otros fármacos gastrointestinales relacionados",
+            "NombreProducto": "Omeprazol",
+            "Descripcion": "OMEPRAZOL FA 40 MG\r\n",
+            "UnidadMedida": "Ampolla",
+            "Cantidad": 200.0,
+            "Adjudicacion": {
+              "RutProveedor": "80.447.400-5",
+              "NombreProveedor": "MUNNICH PHARMA MEDICAL SPA",
+              "Cantidad": 300.0,
+              "MontoUnitario": 840.0
+            }
+          },
+          {
+            "Correlativo": 21,
+            "CodigoProducto": 51161812,
+            "CodigoCategoria": "51161800",
+            "Categoria": "Medicamentos y productos farmacéuticos / Medicamentos para el tracto respiratorio / Productos para tos, resfriados y antialérgicos",
+            "NombreProducto": "Combinación clorfeniramina-acetaminofeno",
+            "Descripcion": "PARACETAMOL CM 80 MG\r\n",
+            "UnidadMedida": "Comprimido",
+            "Cantidad": 10000.0,
+            "Adjudicacion": {
+              "RutProveedor": "77.596.940-7",
+              "NombreProveedor": "LABORATORIO CHILE S A",
+              "Cantidad": 8000.0,
+              "MontoUnitario": 41.0
+            }
+          },
+          {
+            "Correlativo": 22,
+            "CodigoProducto": 51101507,
+            "CodigoCategoria": "51101500",
+            "Categoria": "Medicamentos y productos farmacéuticos / Medicamentos anti infecciosos / Antibióticos",
+            "NombreProducto": "Penicilina",
+            "Descripcion": "PENICILINA-G BENZATINA FA 1.200.000 UI\r\n",
+            "UnidadMedida": "Ampolla",
+            "Cantidad": 100.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.669.630-9",
+              "NombreProveedor": "OPKO CHILE S.A.",
+              "Cantidad": 100.0,
+              "MontoUnitario": 499.0
+            }
+          },
+          {
+            "Correlativo": 23,
+            "CodigoProducto": 51171604,
+            "CodigoCategoria": "51171600",
+            "Categoria": "Medicamentos y productos farmacéuticos / Medicamentos para el sistema gastrointestinal / Laxantes",
+            "NombreProducto": "Docusato de sodio",
+            "Descripcion": "SODIO CLORURO AMP 0.9% 20 ML\r\n",
+            "UnidadMedida": "Ampolla",
+            "Cantidad": 1000.0,
+            "Adjudicacion": {
+              "RutProveedor": "88.597.500-3",
+              "NombreProveedor": "LABORATORIO BIOSANO S A",
+              "Cantidad": 1500.0,
+              "MontoUnitario": 149.0
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

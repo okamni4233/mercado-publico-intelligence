@@ -1,0 +1,535 @@
+{
+  "Cantidad": 1,
+  "FechaCreacion": "2026-04-05T09:52:26.3444441Z",
+  "Version": "v1",
+  "Listado": [
+    {
+      "CodigoExterno": "1232837-10-LE26",
+      "Nombre": "ADQUISICIÓN DE ROPA CORPORATIVA",
+      "CodigoEstado": 8,
+      "Descripcion": "La presente licitación tiene por objeto la adquisición de ropa corporativa destinada a los funcionarios y funcionarias de la Corporación Municipal de Fomento Productivo de Arica Costa Chinchorro, con la finalidad de uniformar su presentación institucional, fortalecer la identidad corporativa y proporcionar indumentaria adecuada para el desempeño de sus funciones.\r\nLas prendas deberán cumplir con las especificaciones técnicas mínimas establecidas en las Bases Técnicas, en cuanto a materialidad, confección, durabilidad, comodidad y demás características requeridas.",
+      "FechaCierre": null,
+      "Estado": "Adjudicada",
+      "Comprador": {
+        "CodigoOrganismo": "1820138",
+        "NombreOrganismo": "CORPORACION MUNICIPAL DE FOMENTO   PRODUCTIVO DE ARICA",
+        "RutUnidad": "65.166.511-6",
+        "CodigoUnidad": "1232837",
+        "NombreUnidad": "Corporación Municipal de Fomento Productivo de Arica",
+        "DireccionUnidad": "Avenida Comandante San Martín 693",
+        "ComunaUnidad": "Arica",
+        "RegionUnidad": "Región de Arica y Parinacota",
+        "RutUsuario": "",
+        "CodigoUsuario": "1950859",
+        "NombreUsuario": "Melissa Segovia Ambrosetti",
+        "CargoUsuario": "Apoyo Administrativo"
+      },
+      "DiasCierreLicitacion": "0",
+      "Informada": 0,
+      "CodigoTipo": 1,
+      "Tipo": "LE",
+      "TipoConvocatoria": "1",
+      "Moneda": "CLP",
+      "Etapas": 1,
+      "EstadoEtapas": "1",
+      "TomaRazon": "0",
+      "EstadoPublicidadOfertas": 1,
+      "JustificacionPublicidad": "",
+      "Contrato": "2",
+      "Obras": "0",
+      "CantidadReclamos": 0,
+      "Fechas": {
+        "FechaCreacion": "2026-03-16T11:24:57.443",
+        "FechaCierre": "2026-03-26T17:00:00",
+        "FechaInicio": "2026-03-16T17:01:00",
+        "FechaFinal": "2026-03-23T11:00:00",
+        "FechaPubRespuestas": "2026-03-23T11:01:00",
+        "FechaActoAperturaTecnica": "2026-03-26T17:01:00",
+        "FechaActoAperturaEconomica": "2026-03-26T17:01:00",
+        "FechaPublicacion": "2026-03-16T12:53:02.337",
+        "FechaAdjudicacion": "2026-04-02T11:05:23.637",
+        "FechaEstimadaAdjudicacion": "2026-04-02T18:00:00",
+        "FechaSoporteFisico": null,
+        "FechaTiempoEvaluacion": null,
+        "FechaEstimadaFirma": null,
+        "FechasUsuario": null,
+        "FechaVisitaTerreno": null,
+        "FechaEntregaAntecedentes": null
+      },
+      "UnidadTiempoEvaluacion": 1,
+      "DireccionVisita": "",
+      "DireccionEntrega": "",
+      "Estimacion": 2,
+      "FuenteFinanciamiento": "",
+      "VisibilidadMonto": 1,
+      "MontoEstimado": 12850000.0,
+      "Tiempo": null,
+      "UnidadTiempo": "1",
+      "Modalidad": 1,
+      "TipoPago": "1",
+      "NombreResponsablePago": "Andrés Calderón ",
+      "EmailResponsablePago": "",
+      "NombreResponsableContrato": "Sebastián Saguez",
+      "EmailResponsableContrato": "",
+      "FonoResponsableContrato": "",
+      "ProhibicionContratacion": "Según Art. 18 de las presentes bases.",
+      "SubContratacion": "1",
+      "UnidadTiempoDuracionContrato": 1,
+      "TiempoDuracionContrato": "0",
+      "TipoDuracionContrato": " ",
+      "JustificacionMontoEstimado": "",
+      "ObservacionContract": null,
+      "ExtensionPlazo": 0,
+      "EsBaseTipo": 0,
+      "UnidadTiempoContratoLicitacion": "1",
+      "ValorTiempoRenovacion": "0",
+      "PeriodoTiempoRenovacion": " ",
+      "EsRenovable": 0,
+      "CodigoBIP": null,
+      "Adjudicacion": {
+        "Tipo": 2,
+        "Fecha": "2026-04-01T00:00:00",
+        "Numero": "179-2026",
+        "NumeroOferentes": 9,
+        "UrlActa": "http://www.mercadopublico.cl/Procurement/Modules/RFB/StepsProcessAward/PreviewAwardAct.aspx?qs=FN2Y05Uum7VewfEKcZ/xiSZ4G9RIyK4Qe68Xojibc+Q="
+      },
+      "Items": {
+        "Cantidad": 27,
+        "Listado": [
+          {
+            "Correlativo": 1,
+            "CodigoProducto": 53101802,
+            "CodigoCategoria": "53101800",
+            "Categoria": "Ropa, maletas y productos de aseo personal / Ropa / Abrigos y chaquetas",
+            "NombreProducto": "Abrigos y chaquetas para hombre",
+            "Descripcion": "PARKA TERMICA HOMBRE SEGÚN ETT.",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 37.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.009.245-2",
+              "NombreProveedor": "SOCIEDAD COMERCIAL CRV SPA",
+              "Cantidad": 37.0,
+              "MontoUnitario": 29999.0
+            }
+          },
+          {
+            "Correlativo": 2,
+            "CodigoProducto": 53101804,
+            "CodigoCategoria": "53101800",
+            "Categoria": "Ropa, maletas y productos de aseo personal / Ropa / Abrigos y chaquetas",
+            "NombreProducto": "Abrigos y chaquetas para mujer",
+            "Descripcion": "PARKA TERMICA MUJER SEGÚN ETT.",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 43.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.009.245-2",
+              "NombreProveedor": "SOCIEDAD COMERCIAL CRV SPA",
+              "Cantidad": 43.0,
+              "MontoUnitario": 28409.0
+            }
+          },
+          {
+            "Correlativo": 3,
+            "CodigoProducto": 91111703,
+            "CodigoCategoria": "91111700",
+            "Categoria": "Servicios de cuidado personal y domésticos / Servicio doméstico y de cuidados / Servicios de compras o trueques para consumo",
+            "NombreProducto": "Vestuario",
+            "Descripcion": "POLERA MANGA CORTA UNISEX CON LOGO DE CORPORACIÓN SEGÚN ETT.",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 55.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.009.245-2",
+              "NombreProveedor": "SOCIEDAD COMERCIAL CRV SPA",
+              "Cantidad": 55.0,
+              "MontoUnitario": 4731.0
+            }
+          },
+          {
+            "Correlativo": 4,
+            "CodigoProducto": 91111703,
+            "CodigoCategoria": "91111700",
+            "Categoria": "Servicios de cuidado personal y domésticos / Servicio doméstico y de cuidados / Servicios de compras o trueques para consumo",
+            "NombreProducto": "Vestuario",
+            "Descripcion": "POLERA MANGA LARGA CON LOGO DE CORPORACIÓN SEGÚN ETT.",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 61.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.009.245-2",
+              "NombreProveedor": "SOCIEDAD COMERCIAL CRV SPA",
+              "Cantidad": 61.0,
+              "MontoUnitario": 4999.0
+            }
+          },
+          {
+            "Correlativo": 5,
+            "CodigoProducto": 53103001,
+            "CodigoCategoria": "53103000",
+            "Categoria": "Ropa, maletas y productos de aseo personal / Ropa / Camisetas",
+            "NombreProducto": "Camisetas de caballero",
+            "Descripcion": "POLERA MANGA LARGA HOMBRE CON LOGO DE CORPORACIÓN SEGÚN ETT.",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 66.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.009.245-2",
+              "NombreProveedor": "SOCIEDAD COMERCIAL CRV SPA",
+              "Cantidad": 66.0,
+              "MontoUnitario": 8439.0
+            }
+          },
+          {
+            "Correlativo": 6,
+            "CodigoProducto": 53101604,
+            "CodigoCategoria": "53101600",
+            "Categoria": "Ropa, maletas y productos de aseo personal / Ropa / Camisas y blusas",
+            "NombreProducto": "Camisas o blusas de mujer",
+            "Descripcion": "POLERA MANGA LARGA MUJER CON LOGO DE CORPORACIÓN SEGÚN ETT.",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 42.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.009.245-2",
+              "NombreProveedor": "SOCIEDAD COMERCIAL CRV SPA",
+              "Cantidad": 42.0,
+              "MontoUnitario": 7279.0
+            }
+          },
+          {
+            "Correlativo": 7,
+            "CodigoProducto": 53103001,
+            "CodigoCategoria": "53103000",
+            "Categoria": "Ropa, maletas y productos de aseo personal / Ropa / Camisetas",
+            "NombreProducto": "Camisetas de caballero",
+            "Descripcion": "POLERA MANGA CORTA HOMBRE CON LOGO DE CORPORACIÓN SEGÚN ETT.",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 44.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.009.245-2",
+              "NombreProveedor": "SOCIEDAD COMERCIAL CRV SPA",
+              "Cantidad": 44.0,
+              "MontoUnitario": 7699.0
+            }
+          },
+          {
+            "Correlativo": 8,
+            "CodigoProducto": 53101604,
+            "CodigoCategoria": "53101600",
+            "Categoria": "Ropa, maletas y productos de aseo personal / Ropa / Camisas y blusas",
+            "NombreProducto": "Camisas o blusas de mujer",
+            "Descripcion": "POLERA MANGA CORTA MUJER CON LOGO DE CORPORACIÓN SEGÚN ETT.",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 35.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.009.245-2",
+              "NombreProveedor": "SOCIEDAD COMERCIAL CRV SPA",
+              "Cantidad": 35.0,
+              "MontoUnitario": 6899.0
+            }
+          },
+          {
+            "Correlativo": 9,
+            "CodigoProducto": 53101604,
+            "CodigoCategoria": "53101600",
+            "Categoria": "Ropa, maletas y productos de aseo personal / Ropa / Camisas y blusas",
+            "NombreProducto": "Camisas o blusas de mujer",
+            "Descripcion": "POLERA MANGA LARGA MUJER CON LOGO DE CORPORACIÓN SEGÚN ETT.",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 10.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.009.245-2",
+              "NombreProveedor": "SOCIEDAD COMERCIAL CRV SPA",
+              "Cantidad": 10.0,
+              "MontoUnitario": 8899.0
+            }
+          },
+          {
+            "Correlativo": 10,
+            "CodigoProducto": 53101604,
+            "CodigoCategoria": "53101600",
+            "Categoria": "Ropa, maletas y productos de aseo personal / Ropa / Camisas y blusas",
+            "NombreProducto": "Camisas o blusas de mujer",
+            "Descripcion": "POLERA MANGA LARGA MUJER CON LOGO DE CORPORACIÓN SEGÚN ETT.",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 5.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.009.245-2",
+              "NombreProveedor": "SOCIEDAD COMERCIAL CRV SPA",
+              "Cantidad": 5.0,
+              "MontoUnitario": 8999.0
+            }
+          },
+          {
+            "Correlativo": 11,
+            "CodigoProducto": 53103001,
+            "CodigoCategoria": "53103000",
+            "Categoria": "Ropa, maletas y productos de aseo personal / Ropa / Camisetas",
+            "NombreProducto": "Camisetas de caballero",
+            "Descripcion": "POLERA MANGA LARGA HOMBRE CON LOGO DE CORPORACIÓN SEGÚN ETT.",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 10.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.009.245-2",
+              "NombreProveedor": "SOCIEDAD COMERCIAL CRV SPA",
+              "Cantidad": 10.0,
+              "MontoUnitario": 9999.0
+            }
+          },
+          {
+            "Correlativo": 12,
+            "CodigoProducto": 53101802,
+            "CodigoCategoria": "53101800",
+            "Categoria": "Ropa, maletas y productos de aseo personal / Ropa / Abrigos y chaquetas",
+            "NombreProducto": "Abrigos y chaquetas para hombre",
+            "Descripcion": "PARKA TERMICA HOMBRE SEGÚN ETT.",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 21.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.009.245-2",
+              "NombreProveedor": "SOCIEDAD COMERCIAL CRV SPA",
+              "Cantidad": 21.0,
+              "MontoUnitario": 29999.0
+            }
+          },
+          {
+            "Correlativo": 13,
+            "CodigoProducto": 53101804,
+            "CodigoCategoria": "53101800",
+            "Categoria": "Ropa, maletas y productos de aseo personal / Ropa / Abrigos y chaquetas",
+            "NombreProducto": "Abrigos y chaquetas para mujer",
+            "Descripcion": "PARKA TERMICA MUJER SEGÚN ETT.",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 23.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.009.245-2",
+              "NombreProveedor": "SOCIEDAD COMERCIAL CRV SPA",
+              "Cantidad": 23.0,
+              "MontoUnitario": 29999.0
+            }
+          },
+          {
+            "Correlativo": 14,
+            "CodigoProducto": 91111703,
+            "CodigoCategoria": "91111700",
+            "Categoria": "Servicios de cuidado personal y domésticos / Servicio doméstico y de cuidados / Servicios de compras o trueques para consumo",
+            "NombreProducto": "Vestuario",
+            "Descripcion": "PANTALON CARGO NEGRO DE HOMBRE SEGÚN ETT.",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 31.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.009.245-2",
+              "NombreProveedor": "SOCIEDAD COMERCIAL CRV SPA",
+              "Cantidad": 31.0,
+              "MontoUnitario": 25990.0
+            }
+          },
+          {
+            "Correlativo": 15,
+            "CodigoProducto": 91111703,
+            "CodigoCategoria": "91111700",
+            "Categoria": "Servicios de cuidado personal y domésticos / Servicio doméstico y de cuidados / Servicios de compras o trueques para consumo",
+            "NombreProducto": "Vestuario",
+            "Descripcion": "PANTALON CARGO NEGRO DE MUJER SEGÚN ETT.",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 32.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.009.245-2",
+              "NombreProveedor": "SOCIEDAD COMERCIAL CRV SPA",
+              "Cantidad": 32.0,
+              "MontoUnitario": 25990.0
+            }
+          },
+          {
+            "Correlativo": 16,
+            "CodigoProducto": 46181531,
+            "CodigoCategoria": "46181500",
+            "Categoria": "Equipos y suministros de defensa, orden público, protección y seguridad / Seguridad y protección personal / Ropa protectora de seguridad contra materias peligrosas",
+            "NombreProducto": "Ropa reflectante o accesorios",
+            "Descripcion": "CHALECO DE SEGURIDAD BLACK WOLF GEO GABARDINA O SU EQUIVALENTE CON REFLECTANTE AZUL SEGÚN ETT.",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 7.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.009.245-2",
+              "NombreProveedor": "SOCIEDAD COMERCIAL CRV SPA",
+              "Cantidad": 7.0,
+              "MontoUnitario": 7899.0
+            }
+          },
+          {
+            "Correlativo": 17,
+            "CodigoProducto": 91111703,
+            "CodigoCategoria": "91111700",
+            "Categoria": "Servicios de cuidado personal y domésticos / Servicio doméstico y de cuidados / Servicios de compras o trueques para consumo",
+            "NombreProducto": "Vestuario",
+            "Descripcion": "PANTALÓN UNISEX CARGO GABARDINA AZUL CON PROTECCION UV SEGÚN ETT.",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 43.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.009.245-2",
+              "NombreProveedor": "SOCIEDAD COMERCIAL CRV SPA",
+              "Cantidad": 43.0,
+              "MontoUnitario": 11099.0
+            }
+          },
+          {
+            "Correlativo": 18,
+            "CodigoProducto": 53101602,
+            "CodigoCategoria": "53101600",
+            "Categoria": "Ropa, maletas y productos de aseo personal / Ropa / Camisas y blusas",
+            "NombreProducto": "Camisas de hombre",
+            "Descripcion": "CAMISA LISA BLANCA OXFORD O EQUIVALENTE DE HOMBRE CON LOGO SEGÚN ETT.",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 18.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.009.245-2",
+              "NombreProveedor": "SOCIEDAD COMERCIAL CRV SPA",
+              "Cantidad": 18.0,
+              "MontoUnitario": 10599.0
+            }
+          },
+          {
+            "Correlativo": 19,
+            "CodigoProducto": 53101602,
+            "CodigoCategoria": "53101600",
+            "Categoria": "Ropa, maletas y productos de aseo personal / Ropa / Camisas y blusas",
+            "NombreProducto": "Camisas de hombre",
+            "Descripcion": "CAMISA LISA CELESTE OXFORD O EQUIVALENTE DE HOMBRE CON LOGO SEGÚN ETT.",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 18.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.009.245-2",
+              "NombreProveedor": "SOCIEDAD COMERCIAL CRV SPA",
+              "Cantidad": 18.0,
+              "MontoUnitario": 10599.0
+            }
+          },
+          {
+            "Correlativo": 20,
+            "CodigoProducto": 53101604,
+            "CodigoCategoria": "53101600",
+            "Categoria": "Ropa, maletas y productos de aseo personal / Ropa / Camisas y blusas",
+            "NombreProducto": "Camisas o blusas de mujer",
+            "Descripcion": "POLERA MANGA LARGA MUJER DE COLOR NEGRO Y BLANCO CON LOGO SEGÚN ETT.",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 3.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.009.245-2",
+              "NombreProveedor": "SOCIEDAD COMERCIAL CRV SPA",
+              "Cantidad": 3.0,
+              "MontoUnitario": 7899.0
+            }
+          },
+          {
+            "Correlativo": 21,
+            "CodigoProducto": 53103001,
+            "CodigoCategoria": "53103000",
+            "Categoria": "Ropa, maletas y productos de aseo personal / Ropa / Camisetas",
+            "NombreProducto": "Camisetas de caballero",
+            "Descripcion": "POLERA MANGA LARGA HOMBRE DE COLOR NEGRO Y BLANCO CON LOGO SEGÚN ETT.",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 18.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.009.245-2",
+              "NombreProveedor": "SOCIEDAD COMERCIAL CRV SPA",
+              "Cantidad": 18.0,
+              "MontoUnitario": 8999.0
+            }
+          },
+          {
+            "Correlativo": 22,
+            "CodigoProducto": 91111703,
+            "CodigoCategoria": "91111700",
+            "Categoria": "Servicios de cuidado personal y domésticos / Servicio doméstico y de cuidados / Servicios de compras o trueques para consumo",
+            "NombreProducto": "Vestuario",
+            "Descripcion": "PANTALON CARGO NEGRO DE HOMBRE SEGÚN ETT.",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 18.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.009.245-2",
+              "NombreProveedor": "SOCIEDAD COMERCIAL CRV SPA",
+              "Cantidad": 18.0,
+              "MontoUnitario": 25990.0
+            }
+          },
+          {
+            "Correlativo": 23,
+            "CodigoProducto": 91111703,
+            "CodigoCategoria": "91111700",
+            "Categoria": "Servicios de cuidado personal y domésticos / Servicio doméstico y de cuidados / Servicios de compras o trueques para consumo",
+            "NombreProducto": "Vestuario",
+            "Descripcion": "PANTALON CARGO NEGRO DE MUJER SEGÚN ETT.",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 3.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.009.245-2",
+              "NombreProveedor": "SOCIEDAD COMERCIAL CRV SPA",
+              "Cantidad": 3.0,
+              "MontoUnitario": 25990.0
+            }
+          },
+          {
+            "Correlativo": 24,
+            "CodigoProducto": 91111703,
+            "CodigoCategoria": "91111700",
+            "Categoria": "Servicios de cuidado personal y domésticos / Servicio doméstico y de cuidados / Servicios de compras o trueques para consumo",
+            "NombreProducto": "Vestuario",
+            "Descripcion": "PANTALON FORMAL HOMBRE SEGÚN ETT.",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 18.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.009.245-2",
+              "NombreProveedor": "SOCIEDAD COMERCIAL CRV SPA",
+              "Cantidad": 18.0,
+              "MontoUnitario": 8999.0
+            }
+          },
+          {
+            "Correlativo": 25,
+            "CodigoProducto": 91111703,
+            "CodigoCategoria": "91111700",
+            "Categoria": "Servicios de cuidado personal y domésticos / Servicio doméstico y de cuidados / Servicios de compras o trueques para consumo",
+            "NombreProducto": "Vestuario",
+            "Descripcion": "PANTALON FORMAL MUJER SEGÚN ETT.",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 3.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.009.245-2",
+              "NombreProveedor": "SOCIEDAD COMERCIAL CRV SPA",
+              "Cantidad": 3.0,
+              "MontoUnitario": 7499.0
+            }
+          },
+          {
+            "Correlativo": 26,
+            "CodigoProducto": 53101604,
+            "CodigoCategoria": "53101600",
+            "Categoria": "Ropa, maletas y productos de aseo personal / Ropa / Camisas y blusas",
+            "NombreProducto": "Camisas o blusas de mujer",
+            "Descripcion": "CAMISA LISA BLANCA OXFORD O EQUIVALENTE DE MUJER CON LOGO SEGÚN ETT.",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 3.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.009.245-2",
+              "NombreProveedor": "SOCIEDAD COMERCIAL CRV SPA",
+              "Cantidad": 3.0,
+              "MontoUnitario": 9399.0
+            }
+          },
+          {
+            "Correlativo": 27,
+            "CodigoProducto": 53101604,
+            "CodigoCategoria": "53101600",
+            "Categoria": "Ropa, maletas y productos de aseo personal / Ropa / Camisas y blusas",
+            "NombreProducto": "Camisas o blusas de mujer",
+            "Descripcion": "CAMISA LISA CELESTE OXFORD O EQUIVALENTE DE MUJER CON LOGO SEGÚN ETT.",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 3.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.009.245-2",
+              "NombreProveedor": "SOCIEDAD COMERCIAL CRV SPA",
+              "Cantidad": 3.0,
+              "MontoUnitario": 9590.0
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,442 @@
+{
+  "Cantidad": 1,
+  "FechaCreacion": "2026-04-05T09:51:08.3756198Z",
+  "Version": "v1",
+  "Listado": [
+    {
+      "CodigoExterno": "1075963-82-LE26",
+      "Nombre": "ADQUISICION DE TUBOS ENDOTQQ SONDAS  MASCARILLAS CATETER SENSOR PIC AGUJAS  VALVULA DVP Y OTROS INSUMOS CLINICOS",
+      "CodigoEstado": 8,
+      "Descripcion": "\t\r\nADQUISICION DE TUBOS ENDOTQQ, SONDAS, , MASCARILLAS, CATETER, SENSOR PIC, AGUJAS , VALVULA DVP Y OTROS INSUMOS CLINICOS\r\n",
+      "FechaCierre": null,
+      "Estado": "Adjudicada",
+      "Comprador": {
+        "CodigoOrganismo": "1667479",
+        "NombreOrganismo": "SERVICIO DE SALUD ARICA HOSP DR JUAN NOE CREVANI",
+        "RutUnidad": "61.606.001-5",
+        "CodigoUnidad": "1075963",
+        "NombreUnidad": "Hospital Juan Noé",
+        "DireccionUnidad": "18 DE SEPTIEMBRE #1000, ARICA. ",
+        "ComunaUnidad": "Santiago",
+        "RegionUnidad": "Región de Arica y Parinacota",
+        "RutUsuario": "",
+        "CodigoUsuario": "1703346",
+        "NombreUsuario": "Pamela Donoso",
+        "CargoUsuario": "Profesional "
+      },
+      "DiasCierreLicitacion": "0",
+      "Informada": 0,
+      "CodigoTipo": 1,
+      "Tipo": "LE",
+      "TipoConvocatoria": "1",
+      "Moneda": "CLP",
+      "Etapas": 1,
+      "EstadoEtapas": "1",
+      "TomaRazon": "0",
+      "EstadoPublicidadOfertas": 1,
+      "JustificacionPublicidad": "",
+      "Contrato": "1",
+      "Obras": "0",
+      "CantidadReclamos": 145,
+      "Fechas": {
+        "FechaCreacion": "2026-01-29T00:00:00",
+        "FechaCierre": "2026-02-16T17:30:00",
+        "FechaInicio": "2026-02-04T13:01:00",
+        "FechaFinal": "2026-02-09T17:30:00",
+        "FechaPubRespuestas": "2026-02-11T17:30:00",
+        "FechaActoAperturaTecnica": "2026-02-17T08:00:00",
+        "FechaActoAperturaEconomica": "2026-02-17T08:00:00",
+        "FechaPublicacion": "2026-02-04T11:26:02.503",
+        "FechaAdjudicacion": "2026-04-02T12:03:31.81",
+        "FechaEstimadaAdjudicacion": "2026-03-17T18:44:00",
+        "FechaSoporteFisico": null,
+        "FechaTiempoEvaluacion": null,
+        "FechaEstimadaFirma": null,
+        "FechasUsuario": null,
+        "FechaVisitaTerreno": null,
+        "FechaEntregaAntecedentes": null
+      },
+      "UnidadTiempoEvaluacion": 1,
+      "DireccionVisita": "",
+      "DireccionEntrega": "",
+      "Estimacion": 2,
+      "FuenteFinanciamiento": "HOSPITAL JUAN NOE CREVANI",
+      "VisibilidadMonto": 0,
+      "MontoEstimado": null,
+      "Tiempo": "12",
+      "UnidadTiempo": "1",
+      "Modalidad": 1,
+      "TipoPago": "1",
+      "NombreResponsablePago": "Renata Baltolu Zenteno",
+      "EmailResponsablePago": "",
+      "NombreResponsableContrato": "ROBERTO GUTIERREZ",
+      "EmailResponsableContrato": "",
+      "FonoResponsableContrato": "",
+      "ProhibicionContratacion": "",
+      "SubContratacion": "0",
+      "UnidadTiempoDuracionContrato": 4,
+      "TiempoDuracionContrato": "12",
+      "TipoDuracionContrato": " ",
+      "JustificacionMontoEstimado": "",
+      "ObservacionContract": null,
+      "ExtensionPlazo": 0,
+      "EsBaseTipo": 0,
+      "UnidadTiempoContratoLicitacion": "2",
+      "ValorTiempoRenovacion": "0",
+      "PeriodoTiempoRenovacion": " ",
+      "EsRenovable": 0,
+      "CodigoBIP": null,
+      "Adjudicacion": {
+        "Tipo": 2,
+        "Fecha": "2025-03-31T00:00:00",
+        "Numero": "176",
+        "NumeroOferentes": 21,
+        "UrlActa": "http://www.mercadopublico.cl/Procurement/Modules/RFB/StepsProcessAward/PreviewAwardAct.aspx?qs=dU+AcE6dY1r9vyhKE5IxaaEcsdpCUUyLWF0kK+ddWPU="
+      },
+      "Items": {
+        "Cantidad": 24,
+        "Listado": [
+          {
+            "Correlativo": 1,
+            "CodigoProducto": 42271903,
+            "CodigoCategoria": "42271900",
+            "Categoria": "Equipamiento y suministros médicos / Productos de resucitación, anestesia y respiratorios / Productos para el manejo de la vía aérea",
+            "NombreProducto": "Tubos endotraquiales",
+            "Descripcion": "2220007 - TUBO ENDOTRAQUEAL 3.0 C/BALON - (UM: UNIDAD)\r\n",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 200.0,
+            "Adjudicacion": {
+              "RutProveedor": "84.609.600-0",
+              "NombreProveedor": "MADEGOM SPA",
+              "Cantidad": 200.0,
+              "MontoUnitario": 610.0
+            }
+          },
+          {
+            "Correlativo": 2,
+            "CodigoProducto": 42271903,
+            "CodigoCategoria": "42271900",
+            "Categoria": "Equipamiento y suministros médicos / Productos de resucitación, anestesia y respiratorios / Productos para el manejo de la vía aérea",
+            "NombreProducto": "Tubos endotraquiales",
+            "Descripcion": "2223595 - TUBO ENDOTRAQUEAL 4.0 C/BALÓN (APF 1.3 PAB) - (UM: UNIDAD)\r\n",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 300.0,
+            "Adjudicacion": {
+              "RutProveedor": "84.609.600-0",
+              "NombreProveedor": "MADEGOM SPA",
+              "Cantidad": 300.0,
+              "MontoUnitario": 610.0
+            }
+          },
+          {
+            "Correlativo": 3,
+            "CodigoProducto": 42271903,
+            "CodigoCategoria": "42271900",
+            "Categoria": "Equipamiento y suministros médicos / Productos de resucitación, anestesia y respiratorios / Productos para el manejo de la vía aérea",
+            "NombreProducto": "Tubos endotraquiales",
+            "Descripcion": "2223604 - TUBO ENDOTRAQUEAL 6.5 C/BALÓN (APF 1.3 PAB) - (UM: UNIDAD)\r\n",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 400.0,
+            "Adjudicacion": {
+              "RutProveedor": "84.609.600-0",
+              "NombreProveedor": "MADEGOM SPA",
+              "Cantidad": 400.0,
+              "MontoUnitario": 610.0
+            }
+          },
+          {
+            "Correlativo": 4,
+            "CodigoProducto": 42271903,
+            "CodigoCategoria": "42271900",
+            "Categoria": "Equipamiento y suministros médicos / Productos de resucitación, anestesia y respiratorios / Productos para el manejo de la vía aérea",
+            "NombreProducto": "Tubos endotraquiales",
+            "Descripcion": "2220234 - TUBO ENDOTRAQUEAL PREFORMADA NASAL 7 C/B - (UM: UNIDAD)\r\n",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 100.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.758.693-0",
+              "NombreProveedor": "SOTECNO MEDICAL SPA",
+              "Cantidad": 100.0,
+              "MontoUnitario": 954.0
+            }
+          },
+          {
+            "Correlativo": 5,
+            "CodigoProducto": 42271903,
+            "CodigoCategoria": "42271900",
+            "Categoria": "Equipamiento y suministros médicos / Productos de resucitación, anestesia y respiratorios / Productos para el manejo de la vía aérea",
+            "NombreProducto": "Tubos endotraquiales",
+            "Descripcion": "2220299 - TUBO ENDOTRAQUEAL 4,5 C/BALON (APF 1.3 PAB) - (UM: UNIDAD)\r\n",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 500.0,
+            "Adjudicacion": {
+              "RutProveedor": "84.609.600-0",
+              "NombreProveedor": "MADEGOM SPA",
+              "Cantidad": 500.0,
+              "MontoUnitario": 610.0
+            }
+          },
+          {
+            "Correlativo": 6,
+            "CodigoProducto": 42271903,
+            "CodigoCategoria": "42271900",
+            "Categoria": "Equipamiento y suministros médicos / Productos de resucitación, anestesia y respiratorios / Productos para el manejo de la vía aérea",
+            "NombreProducto": "Tubos endotraquiales",
+            "Descripcion": "2220190 - TUBO ENDOTRAQUEAL 5.0 C/BALON , LIBRE DE LATEX (APF 1.3 PAB) - (UM: UNIDAD)\r\n",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 300.0,
+            "Adjudicacion": {
+              "RutProveedor": "84.609.600-0",
+              "NombreProveedor": "MADEGOM SPA",
+              "Cantidad": 300.0,
+              "MontoUnitario": 610.0
+            }
+          },
+          {
+            "Correlativo": 7,
+            "CodigoProducto": 42293603,
+            "CodigoCategoria": "42293600",
+            "Categoria": "Equipamiento y suministros médicos / Productos quirúrgicos / Bougies quirúrgicos, sondas, obturadores y productos relacionados",
+            "NombreProducto": "Sondas quirúrgicas",
+            "Descripcion": "2220063 - SONDA PEZZER # 14, LATEX - (UM: UNIDAD)\r\n",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 100.0,
+            "Adjudicacion": null
+          },
+          {
+            "Correlativo": 8,
+            "CodigoProducto": 42292603,
+            "CodigoCategoria": "42292600",
+            "Categoria": "Equipamiento y suministros médicos / Productos quirúrgicos / Dilatadores, sondas, ranuras quirúrgicas y productos relacionados",
+            "NombreProducto": "Sondas o directores quirúrgicos",
+            "Descripcion": "2220108 - SONDA PROST. FOLYSIL 22 FR 2 VIAS SILICONA 5-15 ML TIPO AA6122 - (UM: UNIDAD)\r\n",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 300.0,
+            "Adjudicacion": {
+              "RutProveedor": "96.625.950-7",
+              "NombreProveedor": "TECNIKA S A",
+              "Cantidad": 300.0,
+              "MontoUnitario": 3500.0
+            }
+          },
+          {
+            "Correlativo": 9,
+            "CodigoProducto": 42293603,
+            "CodigoCategoria": "42293600",
+            "Categoria": "Equipamiento y suministros médicos / Productos quirúrgicos / Bougies quirúrgicos, sondas, obturadores y productos relacionados",
+            "NombreProducto": "Sondas quirúrgicas",
+            "Descripcion": "2220151 - SONDA T (KEHR) Nº 14 40 CM , LATEX (SEGUNDA OPCION SILICONA) - (UM: UNIDAD)\r\n",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 40.0,
+            "Adjudicacion": null
+          },
+          {
+            "Correlativo": 10,
+            "CodigoProducto": 42293603,
+            "CodigoCategoria": "42293600",
+            "Categoria": "Equipamiento y suministros médicos / Productos quirúrgicos / Bougies quirúrgicos, sondas, obturadores y productos relacionados",
+            "NombreProducto": "Sondas quirúrgicas",
+            "Descripcion": "2220157 - SONDA NELATON DESECHABLE #20 - (UM: UNIDAD)\r\n",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 300.0,
+            "Adjudicacion": {
+              "RutProveedor": "78.027.120-5",
+              "NombreProveedor": "DISTRIBUIDORA DE PRODUCTOS DE LABORATORIO DIPROLAB LIMITADA",
+              "Cantidad": 300.0,
+              "MontoUnitario": 445.0
+            }
+          },
+          {
+            "Correlativo": 11,
+            "CodigoProducto": 42293603,
+            "CodigoCategoria": "42293600",
+            "Categoria": "Equipamiento y suministros médicos / Productos quirúrgicos / Bougies quirúrgicos, sondas, obturadores y productos relacionados",
+            "NombreProducto": "Sondas quirúrgicas",
+            "Descripcion": "2223641 - SONDA PROST. DUFOUR 20 FR 2 VIAS SILICONA 30-50 ML TIPO  - (UM: UNIDAD)\r\n",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 30.0,
+            "Adjudicacion": null
+          },
+          {
+            "Correlativo": 12,
+            "CodigoProducto": 42292603,
+            "CodigoCategoria": "42292600",
+            "Categoria": "Equipamiento y suministros médicos / Productos quirúrgicos / Dilatadores, sondas, ranuras quirúrgicas y productos relacionados",
+            "NombreProducto": "Sondas o directores quirúrgicos",
+            "Descripcion": "2223680 - SONDA PROST. FOLYSIL 20 FR 2 VIAS SILICONA 0-15 ML TIPO AA6120 - (UM: UNIDAD)\r\n",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 400.0,
+            "Adjudicacion": {
+              "RutProveedor": "96.625.950-7",
+              "NombreProveedor": "TECNIKA S A",
+              "Cantidad": 400.0,
+              "MontoUnitario": 3893.0
+            }
+          },
+          {
+            "Correlativo": 13,
+            "CodigoProducto": 42293603,
+            "CodigoCategoria": "42293600",
+            "Categoria": "Equipamiento y suministros médicos / Productos quirúrgicos / Bougies quirúrgicos, sondas, obturadores y productos relacionados",
+            "NombreProducto": "Sondas quirúrgicas",
+            "Descripcion": "2220361 - SONDA DE ASPIRACION DESC. # 5 C/CONTROL DE SUCCION (APF 1.3 NEO) - (UM: UNIDAD)\r\n",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 200.0,
+            "Adjudicacion": null
+          },
+          {
+            "Correlativo": 14,
+            "CodigoProducto": 42292603,
+            "CodigoCategoria": "42292600",
+            "Categoria": "Equipamiento y suministros médicos / Productos quirúrgicos / Dilatadores, sondas, ranuras quirúrgicas y productos relacionados",
+            "NombreProducto": "Sondas o directores quirúrgicos",
+            "Descripcion": "2227805 - SONDA T (KHER) Nº 10 - LARGAS 40 CMS, LATEX (SEGUNDA OPCION SILICONA) - (UM: UNIDAD)\r\n",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 20.0,
+            "Adjudicacion": null
+          },
+          {
+            "Correlativo": 15,
+            "CodigoProducto": 42292603,
+            "CodigoCategoria": "42292600",
+            "Categoria": "Equipamiento y suministros médicos / Productos quirúrgicos / Dilatadores, sondas, ranuras quirúrgicas y productos relacionados",
+            "NombreProducto": "Sondas o directores quirúrgicos",
+            "Descripcion": "2227840 - SONDA PROST. COUVELAIRE 22 FR 2 VIAS SILICONA 30-50 ML TIPO AB6522 - (UM: UNIDAD)\r\n",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 20.0,
+            "Adjudicacion": null
+          },
+          {
+            "Correlativo": 16,
+            "CodigoProducto": 42271802,
+            "CodigoCategoria": "42271800",
+            "Categoria": "Equipamiento y suministros médicos / Productos de resucitación, anestesia y respiratorios / Productos para terapia respiratoria en aerosol y humidificación",
+            "NombreProducto": "Nebulizadores o accesorios",
+            "Descripcion": "2220219 - MASCARILLA LARINGEA Nº2 DESECHABLE - (UM: UNIDAD)\r\n",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 100.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.758.693-0",
+              "NombreProveedor": "SOTECNO MEDICAL SPA",
+              "Cantidad": 100.0,
+              "MontoUnitario": 4198.0
+            }
+          },
+          {
+            "Correlativo": 17,
+            "CodigoProducto": 42271802,
+            "CodigoCategoria": "42271800",
+            "Categoria": "Equipamiento y suministros médicos / Productos de resucitación, anestesia y respiratorios / Productos para terapia respiratoria en aerosol y humidificación",
+            "NombreProducto": "Nebulizadores o accesorios",
+            "Descripcion": "2220874 - MASCARILLA LARINGEA N°4 REUTILIZABLE - (UM: UNIDAD)\r\n",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 300.0,
+            "Adjudicacion": {
+              "RutProveedor": "84.609.600-0",
+              "NombreProveedor": "MADEGOM SPA",
+              "Cantidad": 300.0,
+              "MontoUnitario": 15000.0
+            }
+          },
+          {
+            "Correlativo": 18,
+            "CodigoProducto": 42142530,
+            "CodigoCategoria": "42142500",
+            "Categoria": "Equipamiento y suministros médicos / Suministros y productos clínicos / Agujas clínicas",
+            "NombreProducto": "Agujas de tratamiento diagnóstico",
+            "Descripcion": "2227734 - AGUJA GRIPPER 20G X 25 MM, CONEXION EN \"Y\" NO LUER LOCK, SIN BIOSEGURIDAD, ANTIPUNCION - (UM: UNIDAD)\r\n",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1000.0,
+            "Adjudicacion": {
+              "RutProveedor": "78.297.510-2",
+              "NombreProveedor": "MEDICINA TECNICA LTDA",
+              "Cantidad": 1000.0,
+              "MontoUnitario": 10700.0
+            }
+          },
+          {
+            "Correlativo": 19,
+            "CodigoProducto": 42294102,
+            "CodigoCategoria": "42294100",
+            "Categoria": "Equipamiento y suministros médicos / Productos quirúrgicos / Dispositivos esqueléticos quirúrgicos de tracción y productos relacionados",
+            "NombreProducto": "Dispositivos de tracción del cráneo o productos relacionados",
+            "Descripcion": "2227913 - KIT VALVULA DVP PRESION MEDIA SMALL (APF 1.3 PAB) - (UM: UNIDAD)\r\n",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 6.0,
+            "Adjudicacion": null
+          },
+          {
+            "Correlativo": 20,
+            "CodigoProducto": 42221501,
+            "CodigoCategoria": "42221500",
+            "Categoria": "Equipamiento y suministros médicos / Productos administrados por vía intravenosa y arterial / Accesorios, catéteres y cánulas intravenosas y arteriales",
+            "NombreProducto": "Catéteres de línea arterial",
+            "Descripcion": "2229136 - CATETER URETRAL SOF FLEX EXTREMO ABIERTO (SIMIL FLEXI TIP REF. 021305/021306) - (UM: UNIDAD)\r\n",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 100.0,
+            "Adjudicacion": {
+              "RutProveedor": "96.515.660-7",
+              "NombreProveedor": "CENTRAL DE COMPRAS DEL EXTRASISTEMA S.A.",
+              "Cantidad": 100.0,
+              "MontoUnitario": 21000.0
+            }
+          },
+          {
+            "Correlativo": 21,
+            "CodigoProducto": 42131606,
+            "CodigoCategoria": "42131600",
+            "Categoria": "Equipamiento y suministros médicos / Vestuario clínico / Vestuario para el personal médico y artículos relacionados",
+            "NombreProducto": "Mascarillas de aislamiento o quirófano para el personal sanitario",
+            "Descripcion": "3409245 - MASCARILLA FILTRANTE DE PARTICULAS USO ONCOLOGICO N100, FFP3, PARA ALTA TOXICIDAD 50XOEL - (UM: UNIDAD)\r\n",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 300.0,
+            "Adjudicacion": null
+          },
+          {
+            "Correlativo": 22,
+            "CodigoProducto": 42294944,
+            "CodigoCategoria": "42294900",
+            "Categoria": "Equipamiento y suministros médicos / Productos quirúrgicos / Instrumentos endoscópicos, suministros, accesorios y productos relacionados",
+            "NombreProducto": "Kits de accesorios para endoscopía",
+            "Descripcion": "3408774 - CANASTILLO DORMIA 4 ALAMBRES PUNTA METALICA REDONDA (22MM X 1950MM X 2.8MM) - (UM: UNIDAD)\r\n",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 30.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.142.730-k",
+              "NombreProveedor": "GEMCO GENERAL MACHINERY S.A.",
+              "Cantidad": 30.0,
+              "MontoUnitario": 75000.0
+            }
+          },
+          {
+            "Correlativo": 23,
+            "CodigoProducto": 42142504,
+            "CodigoCategoria": "42142500",
+            "Categoria": "Equipamiento y suministros médicos / Suministros y productos clínicos / Agujas clínicas",
+            "NombreProducto": "Agujas de biopsia",
+            "Descripcion": "3408839 - AGUJA BIOPSIA MEDULA OSEA 15GA X 2.688 IN (25 MM) MAX ASPIR. ESTERNON - (UM: UNIDAD)\r\n",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 120.0,
+            "Adjudicacion": {
+              "RutProveedor": "78.297.510-2",
+              "NombreProveedor": "MEDICINA TECNICA LTDA",
+              "Cantidad": 120.0,
+              "MontoUnitario": 14500.0
+            }
+          },
+          {
+            "Correlativo": 24,
+            "CodigoProducto": 42294102,
+            "CodigoCategoria": "42294100",
+            "Categoria": "Equipamiento y suministros médicos / Productos quirúrgicos / Dispositivos esqueléticos quirúrgicos de tracción y productos relacionados",
+            "NombreProducto": "Dispositivos de tracción del cráneo o productos relacionados",
+            "Descripcion": "3408920 - SENSOR PIC CAPTORES NEUROVENT-P - (UM: UNIDAD)\r\n",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 5.0,
+            "Adjudicacion": null
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,3098 @@
+{
+  "Cantidad": 1,
+  "FechaCreacion": "2026-04-06T01:37:07.6252899Z",
+  "Version": "v1",
+  "Listado": [
+    {
+      "CodigoExterno": "2912-4-LE26",
+      "Nombre": "MEDICAMENTOS PARA LA FARMACIA CESFAM FRUTILLAR",
+      "CodigoEstado": 8,
+      "Descripcion": "MEDICAMENTOS PARA LA FARMACIA CESFAM FRUTILLAR",
+      "FechaCierre": null,
+      "Estado": "Adjudicada",
+      "Comprador": {
+        "CodigoOrganismo": "84478",
+        "NombreOrganismo": "I MUNICIPALIDAD DE FRUTILLAR",
+        "RutUnidad": "69.220.702-5",
+        "CodigoUnidad": "3898",
+        "NombreUnidad": "Municipalidad de Frutillar Depto. Adm. Salud ",
+        "DireccionUnidad": "Avda. Phillippi Nº 753",
+        "ComunaUnidad": "Frutillar",
+        "RegionUnidad": "Región de los Lagos ",
+        "RutUsuario": "",
+        "CodigoUsuario": "1353624",
+        "NombreUsuario": "Jessica Montiel Vega",
+        "CargoUsuario": "Encargada de Abastecimiento DESAM"
+      },
+      "DiasCierreLicitacion": "0",
+      "Informada": 0,
+      "CodigoTipo": 1,
+      "Tipo": "LE",
+      "TipoConvocatoria": "1",
+      "Moneda": "CLP",
+      "Etapas": 1,
+      "EstadoEtapas": "1",
+      "TomaRazon": "0",
+      "EstadoPublicidadOfertas": 1,
+      "JustificacionPublicidad": "",
+      "Contrato": "1",
+      "Obras": "0",
+      "CantidadReclamos": 319,
+      "Fechas": {
+        "FechaCreacion": "2026-02-11T14:16:01.17",
+        "FechaCierre": "2026-02-23T16:53:00",
+        "FechaInicio": "2026-02-11T16:18:00",
+        "FechaFinal": "2026-02-14T16:18:00",
+        "FechaPubRespuestas": "2026-02-15T16:18:00",
+        "FechaActoAperturaTecnica": "2026-02-23T16:54:00",
+        "FechaActoAperturaEconomica": "2026-02-23T16:54:00",
+        "FechaPublicacion": "2026-02-11T15:53:37.68",
+        "FechaAdjudicacion": "2026-04-01T15:38:51.873",
+        "FechaEstimadaAdjudicacion": "2026-03-05T19:54:00",
+        "FechaSoporteFisico": null,
+        "FechaTiempoEvaluacion": null,
+        "FechaEstimadaFirma": null,
+        "FechasUsuario": null,
+        "FechaVisitaTerreno": null,
+        "FechaEntregaAntecedentes": null
+      },
+      "UnidadTiempoEvaluacion": 1,
+      "DireccionVisita": "",
+      "DireccionEntrega": "",
+      "Estimacion": 1,
+      "FuenteFinanciamiento": "",
+      "VisibilidadMonto": 1,
+      "MontoEstimado": 60000000.0,
+      "Tiempo": null,
+      "UnidadTiempo": "1",
+      "Modalidad": 1,
+      "TipoPago": "2",
+      "NombreResponsablePago": "PAMELA GOPALDAS A.",
+      "EmailResponsablePago": "",
+      "NombreResponsableContrato": "JESSICA OJEDA URIBE",
+      "EmailResponsableContrato": "",
+      "FonoResponsableContrato": "",
+      "ProhibicionContratacion": "",
+      "SubContratacion": "1",
+      "UnidadTiempoDuracionContrato": 1,
+      "TiempoDuracionContrato": "0",
+      "TipoDuracionContrato": " ",
+      "JustificacionMontoEstimado": "LA NECESIDAD DE ADQUIRIR MEDICAMENTOS PARA LA FARMACIA CESFAM",
+      "ObservacionContract": null,
+      "ExtensionPlazo": 0,
+      "EsBaseTipo": 0,
+      "UnidadTiempoContratoLicitacion": "1",
+      "ValorTiempoRenovacion": "0",
+      "PeriodoTiempoRenovacion": " ",
+      "EsRenovable": 0,
+      "CodigoBIP": null,
+      "Adjudicacion": {
+        "Tipo": 4,
+        "Fecha": "2026-03-23T00:00:00",
+        "Numero": "799",
+        "NumeroOferentes": 27,
+        "UrlActa": "http://www.mercadopublico.cl/Procurement/Modules/RFB/StepsProcessAward/PreviewAwardAct.aspx?qs=C+CKHEz4+ZlpPhDUQ3rZXr8+eoYPat1lYUnybE83bmI="
+      },
+      "Items": {
+        "Cantidad": 190,
+        "Listado": [
+          {
+            "Correlativo": 1,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Aciclovir 400 mg comprimido",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "77.596.940-7",
+              "NombreProveedor": "LABORATORIO CHILE S A",
+              "Cantidad": 1.0,
+              "MontoUnitario": 53.0
+            }
+          },
+          {
+            "Correlativo": 2,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Acido Acetilsalicilico 100 mg comprimido",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "77.596.940-7",
+              "NombreProveedor": "LABORATORIO CHILE S A",
+              "Cantidad": 1.0,
+              "MontoUnitario": 7.0
+            }
+          },
+          {
+            "Correlativo": 3,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Acido Acetilsalicílico 500 mg comprimido",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.956.140-4",
+              "NombreProveedor": "ETHON PHARMACEUTICALS  COMERCIALIZADORA  IMP EXP Y DIST SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 68.2
+            }
+          },
+          {
+            "Correlativo": 4,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Acido Fólico 1 mg comprimido",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.956.140-4",
+              "NombreProveedor": "ETHON PHARMACEUTICALS  COMERCIALIZADORA  IMP EXP Y DIST SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 13.5
+            }
+          },
+          {
+            "Correlativo": 5,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Acido Mefenámico 500 mg comprimido",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.956.140-4",
+              "NombreProveedor": "ETHON PHARMACEUTICALS  COMERCIALIZADORA  IMP EXP Y DIST SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 35.9
+            }
+          },
+          {
+            "Correlativo": 6,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Adenosina 6 mg/2ml solución inyectable, ampolla",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.830.090-9",
+              "NombreProveedor": "FARMACEUTICA CARIBEAN SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 7230.0
+            }
+          },
+          {
+            "Correlativo": 7,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Alopurinol 100 mg comprimido",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.830.090-9",
+              "NombreProveedor": "FARMACEUTICA CARIBEAN SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 26.0
+            }
+          },
+          {
+            "Correlativo": 8,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Alopurinol 300 mg comprimido",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.830.090-9",
+              "NombreProveedor": "FARMACEUTICA CARIBEAN SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 39.0
+            }
+          },
+          {
+            "Correlativo": 9,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Alprazolam 0,5 mg comprimido",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "77.596.940-7",
+              "NombreProveedor": "LABORATORIO CHILE S A",
+              "Cantidad": 1.0,
+              "MontoUnitario": 10.0
+            }
+          },
+          {
+            "Correlativo": 10,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Aluminio Hidróxido 6% Suspensión Oral,  frasco 180 - 200 ml",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "77.596.940-7",
+              "NombreProveedor": "LABORATORIO CHILE S A",
+              "Cantidad": 1.0,
+              "MontoUnitario": 3064.0
+            }
+          },
+          {
+            "Correlativo": 11,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Amiodarona Clorhidrato 200 mg comprimido",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.956.140-4",
+              "NombreProveedor": "ETHON PHARMACEUTICALS  COMERCIALIZADORA  IMP EXP Y DIST SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 94.5
+            }
+          },
+          {
+            "Correlativo": 12,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Amitriptilina Clorhidrato 25 mg comprimido",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.830.090-9",
+              "NombreProveedor": "FARMACEUTICA CARIBEAN SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 41.0
+            }
+          },
+          {
+            "Correlativo": 13,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Amlodipino 10 mg comprimido",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.830.090-9",
+              "NombreProveedor": "FARMACEUTICA CARIBEAN SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 13.0
+            }
+          },
+          {
+            "Correlativo": 14,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Amlodipino 5 mg comprimido",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.669.630-9",
+              "NombreProveedor": "OPKO CHILE S.A.",
+              "Cantidad": 1.0,
+              "MontoUnitario": 9.9
+            }
+          },
+          {
+            "Correlativo": 15,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Amoxicilina 500 mg + Acido Clavulánico 125 mg comprimido Recubiertos",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.956.140-4",
+              "NombreProveedor": "ETHON PHARMACEUTICALS  COMERCIALIZADORA  IMP EXP Y DIST SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 115.0
+            }
+          },
+          {
+            "Correlativo": 16,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Amoxicilina 500 mg cápsulas/comprimido",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.986.924-7",
+              "NombreProveedor": "MDC HEALTH SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 41.0
+            }
+          },
+          {
+            "Correlativo": 17,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Amoxicilina Polvo 500 mg/5 ml, polvo para suspensión oral, frasco 60 - 100 ml",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.669.630-9",
+              "NombreProveedor": "OPKO CHILE S.A.",
+              "Cantidad": 1.0,
+              "MontoUnitario": 949.0
+            }
+          },
+          {
+            "Correlativo": 18,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Amoxicilina Trihidrato + Acido Clavulánico 400 mg/57 mg/5 ml, polvo para suspensión oral, frasco 70-100 ml",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "77.596.940-7",
+              "NombreProveedor": "LABORATORIO CHILE S A",
+              "Cantidad": 1.0,
+              "MontoUnitario": 3832.0
+            }
+          },
+          {
+            "Correlativo": 19,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Atenolol 50 mg comprimido",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.237.266-5",
+              "NombreProveedor": "LABORATORIOS ANDROMACO S.A.",
+              "Cantidad": 1.0,
+              "MontoUnitario": 9.0
+            }
+          },
+          {
+            "Correlativo": 20,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Atorvastatina 10 mg comprimido recubierto",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.669.630-9",
+              "NombreProveedor": "OPKO CHILE S.A.",
+              "Cantidad": 1.0,
+              "MontoUnitario": 10.9
+            }
+          },
+          {
+            "Correlativo": 21,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Atorvastatina 20 mg comprimido recubierto",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.669.630-9",
+              "NombreProveedor": "OPKO CHILE S.A.",
+              "Cantidad": 1.0,
+              "MontoUnitario": 10.5
+            }
+          },
+          {
+            "Correlativo": 22,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Atorvastatina Calcica 40 mg comprimido recubierto",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.299.758-4",
+              "NombreProveedor": "LABORATORIO FLEX PHARMA CHILE SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 23.0
+            }
+          },
+          {
+            "Correlativo": 23,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Atropina Sulfato 0,5 mg/Papaverina Clorhidrato 40 mg comprimido",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.956.140-4",
+              "NombreProveedor": "ETHON PHARMACEUTICALS  COMERCIALIZADORA  IMP EXP Y DIST SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 35.1
+            }
+          },
+          {
+            "Correlativo": 24,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Atropina sulfato 1 mg/1 ml solución inyectable, ampolla",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.956.140-4",
+              "NombreProveedor": "ETHON PHARMACEUTICALS  COMERCIALIZADORA  IMP EXP Y DIST SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 157.1
+            }
+          },
+          {
+            "Correlativo": 25,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Azelastina 0,05% solución oftálmica, frasco 6 -10 ml",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "94.544.000-7",
+              "NombreProveedor": "MEGALABS CHILE S.A",
+              "Cantidad": 1.0,
+              "MontoUnitario": 14223.0
+            }
+          },
+          {
+            "Correlativo": 26,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Bacitracina + Neomicina 500 U.I./5 mg /g ungüento dérmico, 15-20 g",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "77.596.940-7",
+              "NombreProveedor": "LABORATORIO CHILE S A",
+              "Cantidad": 1.0,
+              "MontoUnitario": 811.0
+            }
+          },
+          {
+            "Correlativo": 27,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Bencilpenicilina Benzatina 1.200.000 U.I. Polvo Para Suspension inyectable, ampolla",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.669.630-9",
+              "NombreProveedor": "OPKO CHILE S.A.",
+              "Cantidad": 1.0,
+              "MontoUnitario": 450.0
+            }
+          },
+          {
+            "Correlativo": 28,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Betametasona 0,05% Crema tópica 15-20 gr",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.956.140-4",
+              "NombreProveedor": "ETHON PHARMACEUTICALS  COMERCIALIZADORA  IMP EXP Y DIST SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 239.0
+            }
+          },
+          {
+            "Correlativo": 29,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Betametasona 4mg/1ml solución inyectable, ampolla",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.055.804-4",
+              "NombreProveedor": "INVERSIONES PHARMAVISAN SOCIEDAD ANONIMA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 117.0
+            }
+          },
+          {
+            "Correlativo": 30,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Bicarbonato De Sodio 8,4% solución inyectable, ampolla 10 ml",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.830.090-9",
+              "NombreProveedor": "FARMACEUTICA CARIBEAN SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 1230.0
+            }
+          },
+          {
+            "Correlativo": 31,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Brimonidina Tartrato 0,2% solución oftálmica",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "96.945.670-2",
+              "NombreProveedor": "NOVOFARMA SERVICE S A",
+              "Cantidad": 1.0,
+              "MontoUnitario": 2900.0
+            }
+          },
+          {
+            "Correlativo": 32,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Calcio 500 mg + Vitamina D 400 U.I. Cápsulas",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.237.266-5",
+              "NombreProveedor": "LABORATORIOS ANDROMACO S.A.",
+              "Cantidad": 1.0,
+              "MontoUnitario": 90.0
+            }
+          },
+          {
+            "Correlativo": 33,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Calcio 500 mg comprimido recubierto/cápsula",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.830.090-9",
+              "NombreProveedor": "FARMACEUTICA CARIBEAN SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 21.0
+            }
+          },
+          {
+            "Correlativo": 34,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Captopril 25 mg comprimido",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.956.140-4",
+              "NombreProveedor": "ETHON PHARMACEUTICALS  COMERCIALIZADORA  IMP EXP Y DIST SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 32.6
+            }
+          },
+          {
+            "Correlativo": 35,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Carvedilol 12,5 mg comprimido",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "77.596.940-7",
+              "NombreProveedor": "LABORATORIO CHILE S A",
+              "Cantidad": 1.0,
+              "MontoUnitario": 21.0
+            }
+          },
+          {
+            "Correlativo": 36,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Carvedilol 25 mg comprimido",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.956.140-4",
+              "NombreProveedor": "ETHON PHARMACEUTICALS  COMERCIALIZADORA  IMP EXP Y DIST SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 21.8
+            }
+          },
+          {
+            "Correlativo": 37,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Carvedilol 6,25 mg comprimido",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.956.140-4",
+              "NombreProveedor": "ETHON PHARMACEUTICALS  COMERCIALIZADORA  IMP EXP Y DIST SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 17.3
+            }
+          },
+          {
+            "Correlativo": 38,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Cefadroxilo 250 mg/5 ml Polvo para suspensión oral, frasco 60-100 ml",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.237.266-5",
+              "NombreProveedor": "LABORATORIOS ANDROMACO S.A.",
+              "Cantidad": 1.0,
+              "MontoUnitario": 2300.0
+            }
+          },
+          {
+            "Correlativo": 39,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Cefadroxilo 500 mg cápsula",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.956.140-4",
+              "NombreProveedor": "ETHON PHARMACEUTICALS  COMERCIALIZADORA  IMP EXP Y DIST SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 79.7
+            }
+          },
+          {
+            "Correlativo": 40,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Ceftriaxona 1 g polvo para solución inyectable, ampolla",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.830.090-9",
+              "NombreProveedor": "FARMACEUTICA CARIBEAN SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 415.0
+            }
+          },
+          {
+            "Correlativo": 41,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Celecoxib 200 mg cápsulas",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "77.615.297-8",
+              "NombreProveedor": "ALEMBIC PHARMACEUTICALS SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 32.0
+            }
+          },
+          {
+            "Correlativo": 42,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Cetirizina Diclorhidrato 10 mg comprimido recubierto",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.986.924-7",
+              "NombreProveedor": "MDC HEALTH SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 15.0
+            }
+          },
+          {
+            "Correlativo": 43,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Ciclobenzaprina Clorhidrato 10 mg comprimido recubierto",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.956.140-4",
+              "NombreProveedor": "ETHON PHARMACEUTICALS  COMERCIALIZADORA  IMP EXP Y DIST SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 17.9
+            }
+          },
+          {
+            "Correlativo": 44,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Ciprofloxacino 500 mg comprimido",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.055.804-4",
+              "NombreProveedor": "INVERSIONES PHARMAVISAN SOCIEDAD ANONIMA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 40.0
+            }
+          },
+          {
+            "Correlativo": 45,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Claritromicina 250 mg/5 ml polvo granular para suspensión oral, frasco 80 - 100 ml",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.458.051-6",
+              "NombreProveedor": "NEOETHICALS CHILE SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 3695.0
+            }
+          },
+          {
+            "Correlativo": 46,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Claritromicina 500 mg comprimido recubierto",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.237.266-5",
+              "NombreProveedor": "LABORATORIOS ANDROMACO S.A.",
+              "Cantidad": 1.0,
+              "MontoUnitario": 195.0
+            }
+          },
+          {
+            "Correlativo": 47,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Clindamicina 300 mg cápsula",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.830.090-9",
+              "NombreProveedor": "FARMACEUTICA CARIBEAN SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 947.0
+            }
+          },
+          {
+            "Correlativo": 48,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Clonazepam 0,5 mg comprimido",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.956.140-4",
+              "NombreProveedor": "ETHON PHARMACEUTICALS  COMERCIALIZADORA  IMP EXP Y DIST SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 19.7
+            }
+          },
+          {
+            "Correlativo": 49,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Clonazepam 2 mg comprimido recubierto",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": null
+          },
+          {
+            "Correlativo": 50,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Clonixinato De Lisina 100 mg/2 ml solución inyectable, ampolla",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.956.140-4",
+              "NombreProveedor": "ETHON PHARMACEUTICALS  COMERCIALIZADORA  IMP EXP Y DIST SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 350.0
+            }
+          },
+          {
+            "Correlativo": 51,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Clonixinato De Lisina 125 mg comprimido recubierto",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.237.266-5",
+              "NombreProveedor": "LABORATORIOS ANDROMACO S.A.",
+              "Cantidad": 1.0,
+              "MontoUnitario": 50.0
+            }
+          },
+          {
+            "Correlativo": 52,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Cloranfenicol 0,5% solución oftálmica, frasco 10-15 ml",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.956.140-4",
+              "NombreProveedor": "ETHON PHARMACEUTICALS  COMERCIALIZADORA  IMP EXP Y DIST SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 562.0
+            }
+          },
+          {
+            "Correlativo": 53,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Cloranfenicol 1% ungüento oftálmico ",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.956.140-4",
+              "NombreProveedor": "ETHON PHARMACEUTICALS  COMERCIALIZADORA  IMP EXP Y DIST SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 510.0
+            }
+          },
+          {
+            "Correlativo": 54,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Clorfenamina 10 mg/1ml solución inyectable, ampolla",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.830.090-9",
+              "NombreProveedor": "FARMACEUTICA CARIBEAN SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 138.0
+            }
+          },
+          {
+            "Correlativo": 55,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Clorfenamina 2mg/5ml jarabe, frasco 100 - 150 ml",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.830.090-9",
+              "NombreProveedor": "FARMACEUTICA CARIBEAN SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 1353.0
+            }
+          },
+          {
+            "Correlativo": 56,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Clorfenamina Maleato 4 mg comprimido",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.830.090-9",
+              "NombreProveedor": "FARMACEUTICA CARIBEAN SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 10.0
+            }
+          },
+          {
+            "Correlativo": 57,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Clorpromazina Clorhidrato 100 mg comprimido",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.079.782-0",
+              "NombreProveedor": "WINPHARM SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 400.0
+            }
+          },
+          {
+            "Correlativo": 58,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Cloruro de Potasio 600 mg comprimido de liberación prolongada",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": null
+          },
+          {
+            "Correlativo": 59,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Clotrimazol 1% Crema Dermica, 15-20 gr",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.956.140-4",
+              "NombreProveedor": "ETHON PHARMACEUTICALS  COMERCIALIZADORA  IMP EXP Y DIST SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 261.0
+            }
+          },
+          {
+            "Correlativo": 60,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Clotrimazol 100 mg óvulos vaginales",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.830.090-9",
+              "NombreProveedor": "FARMACEUTICA CARIBEAN SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 192.0
+            }
+          },
+          {
+            "Correlativo": 61,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Clotrimazol 500 mg óvulos vaginales",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.830.090-9",
+              "NombreProveedor": "FARMACEUTICA CARIBEAN SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 1878.0
+            }
+          },
+          {
+            "Correlativo": 62,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Cloxacilina 500 mg cápsula",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.669.630-9",
+              "NombreProveedor": "OPKO CHILE S.A.",
+              "Cantidad": 1.0,
+              "MontoUnitario": 100.0
+            }
+          },
+          {
+            "Correlativo": 63,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Dexametasona 4 mg/ml solución inyectable, ampolla",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.458.051-6",
+              "NombreProveedor": "NEOETHICALS CHILE SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 110.0
+            }
+          },
+          {
+            "Correlativo": 64,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Diazepam 10 mg comprimido",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.956.140-4",
+              "NombreProveedor": "ETHON PHARMACEUTICALS  COMERCIALIZADORA  IMP EXP Y DIST SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 22.9
+            }
+          },
+          {
+            "Correlativo": 65,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Diazepam 10 mg/2 ml solución inyectable, ampolla",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.956.140-4",
+              "NombreProveedor": "ETHON PHARMACEUTICALS  COMERCIALIZADORA  IMP EXP Y DIST SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 263.7
+            }
+          },
+          {
+            "Correlativo": 66,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Diclofenaco 15mg/ml gotas orales, frasco 20-30 ml",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.830.090-9",
+              "NombreProveedor": "FARMACEUTICA CARIBEAN SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 1307.0
+            }
+          },
+          {
+            "Correlativo": 67,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Diclofenaco Sódico 75 mg/ 3ml solución inyectable, ampolla",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.055.804-4",
+              "NombreProveedor": "INVERSIONES PHARMAVISAN SOCIEDAD ANONIMA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 117.0
+            }
+          },
+          {
+            "Correlativo": 68,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Diclofenaco Sódico comprimido 50 mg",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.669.630-9",
+              "NombreProveedor": "OPKO CHILE S.A.",
+              "Cantidad": 1.0,
+              "MontoUnitario": 10.9
+            }
+          },
+          {
+            "Correlativo": 69,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Diclofenaco Sódico Supositorios 12,5 mg",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "77.596.940-7",
+              "NombreProveedor": "LABORATORIO CHILE S A",
+              "Cantidad": 1.0,
+              "MontoUnitario": 102.0
+            }
+          },
+          {
+            "Correlativo": 70,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Digoxina 0,25 mg comprimido",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": null
+          },
+          {
+            "Correlativo": 71,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Disulfiram 500 mg comprimido",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.956.140-4",
+              "NombreProveedor": "ETHON PHARMACEUTICALS  COMERCIALIZADORA  IMP EXP Y DIST SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 188.6
+            }
+          },
+          {
+            "Correlativo": 72,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Domperidona 10 mg comprimido",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.669.630-9",
+              "NombreProveedor": "OPKO CHILE S.A.",
+              "Cantidad": 1.0,
+              "MontoUnitario": 21.0
+            }
+          },
+          {
+            "Correlativo": 73,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Domperidona 10 mg comprimido",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.669.630-9",
+              "NombreProveedor": "OPKO CHILE S.A.",
+              "Cantidad": 1.0,
+              "MontoUnitario": 21.0
+            }
+          },
+          {
+            "Correlativo": 74,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Domperidona 10 mg/ml suspensión oral para gotas, frasco 15-20 ml",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.237.266-5",
+              "NombreProveedor": "LABORATORIOS ANDROMACO S.A.",
+              "Cantidad": 1.0,
+              "MontoUnitario": 1325.0
+            }
+          },
+          {
+            "Correlativo": 75,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Dorzolamida 2% solución oftálmica, frasco 5 ml",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.669.630-9",
+              "NombreProveedor": "OPKO CHILE S.A.",
+              "Cantidad": 1.0,
+              "MontoUnitario": 3200.0
+            }
+          },
+          {
+            "Correlativo": 76,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Dorzolamida/Timolol 20 mg/5 mg/1 ml solución oftálmica, excipientes: carmelosa, cloruro de sodio, borato de sodio, ácido ascórbico, agua purificada, frasco 6 ml",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.669.630-9",
+              "NombreProveedor": "OPKO CHILE S.A.",
+              "Cantidad": 1.0,
+              "MontoUnitario": 2859.0
+            }
+          },
+          {
+            "Correlativo": 77,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Enalapril Maleato 10 mg comprimido",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.237.266-5",
+              "NombreProveedor": "LABORATORIOS ANDROMACO S.A.",
+              "Cantidad": 1.0,
+              "MontoUnitario": 7.0
+            }
+          },
+          {
+            "Correlativo": 78,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Enalapril Maleato 20 mg comprimido",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.669.630-9",
+              "NombreProveedor": "OPKO CHILE S.A.",
+              "Cantidad": 1.0,
+              "MontoUnitario": 18.5
+            }
+          },
+          {
+            "Correlativo": 79,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Epinefrina 1 mg/1 ml solución inyectable, ampolla",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.830.090-9",
+              "NombreProveedor": "FARMACEUTICA CARIBEAN SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 538.0
+            }
+          },
+          {
+            "Correlativo": 80,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Eritromicina 500 mg comprimido",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.956.140-4",
+              "NombreProveedor": "ETHON PHARMACEUTICALS  COMERCIALIZADORA  IMP EXP Y DIST SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 179.8
+            }
+          },
+          {
+            "Correlativo": 81,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Espironolactona 25 mg comprimido",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.237.266-5",
+              "NombreProveedor": "LABORATORIOS ANDROMACO S.A.",
+              "Cantidad": 1.0,
+              "MontoUnitario": 27.0
+            }
+          },
+          {
+            "Correlativo": 82,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Fenobarbital 100 mg comprimido",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "77.596.940-7",
+              "NombreProveedor": "LABORATORIO CHILE S A",
+              "Cantidad": 1.0,
+              "MontoUnitario": 145.0
+            }
+          },
+          {
+            "Correlativo": 83,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Fenoterol + Bromuro de Ipratropio 0,05 g/0,025 g/1 ml solución para nebulizar, frasco 15-20 ml",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.830.090-9",
+              "NombreProveedor": "FARMACEUTICA CARIBEAN SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 6153.0
+            }
+          },
+          {
+            "Correlativo": 84,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Flucloxacilina 250mg/5 ml polvo para suspensión oral, frasco 60 ml",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.956.140-4",
+              "NombreProveedor": "ETHON PHARMACEUTICALS  COMERCIALIZADORA  IMP EXP Y DIST SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 1698.3
+            }
+          },
+          {
+            "Correlativo": 85,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Flucloxacilina 500 mg cápsula",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.986.924-7",
+              "NombreProveedor": "MDC HEALTH SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 115.0
+            }
+          },
+          {
+            "Correlativo": 86,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Fluconazol 150 mg cápsula",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.956.140-4",
+              "NombreProveedor": "ETHON PHARMACEUTICALS  COMERCIALIZADORA  IMP EXP Y DIST SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 165.0
+            }
+          },
+          {
+            "Correlativo": 87,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Flumazenil 0,5 mg/5 ml solución inyectable, ampolla",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.830.090-9",
+              "NombreProveedor": "FARMACEUTICA CARIBEAN SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 2923.0
+            }
+          },
+          {
+            "Correlativo": 88,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Flunarizina 10 mg comprimido",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.956.140-4",
+              "NombreProveedor": "ETHON PHARMACEUTICALS  COMERCIALIZADORA  IMP EXP Y DIST SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 147.0
+            }
+          },
+          {
+            "Correlativo": 89,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Fluoxetina 20 mg comprimido",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.956.140-4",
+              "NombreProveedor": "ETHON PHARMACEUTICALS  COMERCIALIZADORA  IMP EXP Y DIST SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 16.6
+            }
+          },
+          {
+            "Correlativo": 90,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Fumarato Ferroso 330 mg + Vitamina B12 1 mg + Acido Ascórbico 100 mg + Acido Fólico 2 mg  cápsula",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.956.140-4",
+              "NombreProveedor": "ETHON PHARMACEUTICALS  COMERCIALIZADORA  IMP EXP Y DIST SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 192.3
+            }
+          },
+          {
+            "Correlativo": 91,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Furosemida 40 mg comprimido",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "77.596.940-7",
+              "NombreProveedor": "LABORATORIO CHILE S A",
+              "Cantidad": 1.0,
+              "MontoUnitario": 16.0
+            }
+          },
+          {
+            "Correlativo": 92,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Furosemisa 20 mg/1 ml solución inyectable, ampolla",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.956.140-4",
+              "NombreProveedor": "ETHON PHARMACEUTICALS  COMERCIALIZADORA  IMP EXP Y DIST SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 126.8
+            }
+          },
+          {
+            "Correlativo": 93,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Gemfibrozilo comprimido Recubiertos 600 mg",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.956.140-4",
+              "NombreProveedor": "ETHON PHARMACEUTICALS  COMERCIALIZADORA  IMP EXP Y DIST SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 88.1
+            }
+          },
+          {
+            "Correlativo": 94,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Gentamicina 0,3% solución oftálmica, frasco 5 ml",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.956.140-4",
+              "NombreProveedor": "ETHON PHARMACEUTICALS  COMERCIALIZADORA  IMP EXP Y DIST SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 1035.0
+            }
+          },
+          {
+            "Correlativo": 95,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Gentamicina 0,3% ungüento oftálmico ",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.956.140-4",
+              "NombreProveedor": "ETHON PHARMACEUTICALS  COMERCIALIZADORA  IMP EXP Y DIST SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 3798.0
+            }
+          },
+          {
+            "Correlativo": 96,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Gentamicina 80 mg/2 ml solución inyectable, ampolla",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": null
+          },
+          {
+            "Correlativo": 97,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Glibenclamida 5 mg comprimido",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.830.090-9",
+              "NombreProveedor": "FARMACEUTICA CARIBEAN SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 12.0
+            }
+          },
+          {
+            "Correlativo": 98,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Haloperidol 5 mg comprimido",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "77.615.297-8",
+              "NombreProveedor": "ALEMBIC PHARMACEUTICALS SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 130.0
+            }
+          },
+          {
+            "Correlativo": 99,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Hidralazina Clorhidrato 50 mg comprimido",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.830.090-9",
+              "NombreProveedor": "FARMACEUTICA CARIBEAN SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 72.0
+            }
+          },
+          {
+            "Correlativo": 100,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Hidroclorotiazida 25 mg + Triamtireno 50 mg comprimido",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.956.140-4",
+              "NombreProveedor": "ETHON PHARMACEUTICALS  COMERCIALIZADORA  IMP EXP Y DIST SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 19.0
+            }
+          },
+          {
+            "Correlativo": 101,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Hidroclorotiazida 50 mg comprimido",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": null
+          },
+          {
+            "Correlativo": 102,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Hidrocortisona 1% crema tópica, 15-20 gr",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.956.140-4",
+              "NombreProveedor": "ETHON PHARMACEUTICALS  COMERCIALIZADORA  IMP EXP Y DIST SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 651.0
+            }
+          },
+          {
+            "Correlativo": 103,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Hidrocortisona 100 mg polvo liofilizado para solución inyectable, frasco ampolla",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.642.770-7",
+              "NombreProveedor": "LABVITALIS S.A.",
+              "Cantidad": 1.0,
+              "MontoUnitario": 500.0
+            }
+          },
+          {
+            "Correlativo": 104,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Ibuprofeno 200mg/5ml suspensión oral, frasco 100-200 ml",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.669.630-9",
+              "NombreProveedor": "OPKO CHILE S.A.",
+              "Cantidad": 1.0,
+              "MontoUnitario": 749.0
+            }
+          },
+          {
+            "Correlativo": 105,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Ibuprofeno 400 mg comprimido",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.669.630-9",
+              "NombreProveedor": "OPKO CHILE S.A.",
+              "Cantidad": 1.0,
+              "MontoUnitario": 21.0
+            }
+          },
+          {
+            "Correlativo": 106,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Imipramina Clorhidrato 25 mg comprimido ",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.830.090-9",
+              "NombreProveedor": "FARMACEUTICA CARIBEAN SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 47.0
+            }
+          },
+          {
+            "Correlativo": 107,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Inmunoglobulina humana anti-Rh 300 mcg/2 ml solución inyectable, ampolla",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.830.090-9",
+              "NombreProveedor": "FARMACEUTICA CARIBEAN SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 69230.0
+            }
+          },
+          {
+            "Correlativo": 108,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Isosorbide 10 mg comprimido",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.956.140-4",
+              "NombreProveedor": "ETHON PHARMACEUTICALS  COMERCIALIZADORA  IMP EXP Y DIST SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 16.9
+            }
+          },
+          {
+            "Correlativo": 109,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Ketorolaco 30 mg/1 ml solución inyectable , ampolla",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.458.051-6",
+              "NombreProveedor": "NEOETHICALS CHILE SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 124.0
+            }
+          },
+          {
+            "Correlativo": 110,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Labetalol Clorhidrato 100 mg/20 ml solución inyectable, ampolla",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.956.140-4",
+              "NombreProveedor": "ETHON PHARMACEUTICALS  COMERCIALIZADORA  IMP EXP Y DIST SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 1600.0
+            }
+          },
+          {
+            "Correlativo": 111,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Lactulosa 65% solución oral, frasco 180-200 ml",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.458.051-6",
+              "NombreProveedor": "NEOETHICALS CHILE SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 1890.0
+            }
+          },
+          {
+            "Correlativo": 112,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Lágrimas artificiales gel oftálmico",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.481.561-0",
+              "NombreProveedor": "SOCIEDAD FARMACEUTICA TERVIS PHARMA LIMITADA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 3200.0
+            }
+          },
+          {
+            "Correlativo": 113,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Lágrimas Artificiales: Carboximetilcelulosa sódica 0,5% solución oftálmica, excipientes: ácido bórico, cloruro de calcio, cloruro de magnesio, cloruro de potasio,cloruro de sodio, perborato de sodio, agua purificada; frasco 15 ml",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": null
+          },
+          {
+            "Correlativo": 114,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Lágrimas artificiales: Dextran / Hipromelosa 0,3/0,1 g/ 100 ml, frasco 15 Ml",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "86.537.600-6",
+              "NombreProveedor": "ALCON LABORATORIOS CHILE LTDA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 7192.0
+            }
+          },
+          {
+            "Correlativo": 115,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Lágrimas Artificiales: Trehaloza 3% + Hialuronato de sodio 0,15% solución oftálmica, excipientes: cloruro de sodio, trometamol, ácido clorhídrico, agua para inyectables, durabilidad abierto 3 meses, frasco 10 ml",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.481.561-0",
+              "NombreProveedor": "SOCIEDAD FARMACEUTICA TERVIS PHARMA LIMITADA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 7900.0
+            }
+          },
+          {
+            "Correlativo": 116,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Latanoprost 0,005% solución oftálmica, frasco 3 ml, NO Refrigerado",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.669.630-9",
+              "NombreProveedor": "OPKO CHILE S.A.",
+              "Cantidad": 1.0,
+              "MontoUnitario": 1749.0
+            }
+          },
+          {
+            "Correlativo": 117,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Lidocaina 2 % 100 mg/5 ml, ampolla",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.830.090-9",
+              "NombreProveedor": "FARMACEUTICA CARIBEAN SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 376.0
+            }
+          },
+          {
+            "Correlativo": 118,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Loperamida Clorhidrato 2 mg comprimido",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.830.090-9",
+              "NombreProveedor": "FARMACEUTICA CARIBEAN SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 54.0
+            }
+          },
+          {
+            "Correlativo": 119,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Loratadina 10 mg comprimido",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.956.140-4",
+              "NombreProveedor": "ETHON PHARMACEUTICALS  COMERCIALIZADORA  IMP EXP Y DIST SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 15.7
+            }
+          },
+          {
+            "Correlativo": 120,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Loratadina 5 mg/5 ml jarabe, frasco 60-100 ml",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.458.051-6",
+              "NombreProveedor": "NEOETHICALS CHILE SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 710.0
+            }
+          },
+          {
+            "Correlativo": 121,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Lorazepam 2 mg comprimido",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "77.596.940-7",
+              "NombreProveedor": "LABORATORIO CHILE S A",
+              "Cantidad": 1.0,
+              "MontoUnitario": 43.0
+            }
+          },
+          {
+            "Correlativo": 122,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Losartan Potasico 50 mg comprimido Recubiertos",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.669.630-9",
+              "NombreProveedor": "OPKO CHILE S.A.",
+              "Cantidad": 1.0,
+              "MontoUnitario": 9.9
+            }
+          },
+          {
+            "Correlativo": 123,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Lovastatina 20 mg comprimido",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.830.090-9",
+              "NombreProveedor": "FARMACEUTICA CARIBEAN SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 35.0
+            }
+          },
+          {
+            "Correlativo": 124,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Mebendazol 100 mg comprimido",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.956.140-4",
+              "NombreProveedor": "ETHON PHARMACEUTICALS  COMERCIALIZADORA  IMP EXP Y DIST SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 101.7
+            }
+          },
+          {
+            "Correlativo": 125,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Metamizol Sódico  (Dipirona) 1g/2ml, ampolla 2 ml",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.830.090-9",
+              "NombreProveedor": "FARMACEUTICA CARIBEAN SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 253.0
+            }
+          },
+          {
+            "Correlativo": 126,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Metamizol Sódico (Dipirona) 250 mg supositorio",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.956.140-4",
+              "NombreProveedor": "ETHON PHARMACEUTICALS  COMERCIALIZADORA  IMP EXP Y DIST SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 196.0
+            }
+          },
+          {
+            "Correlativo": 127,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Metamizol Sódico 300 mg comprimido",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.956.140-4",
+              "NombreProveedor": "ETHON PHARMACEUTICALS  COMERCIALIZADORA  IMP EXP Y DIST SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 20.9
+            }
+          },
+          {
+            "Correlativo": 128,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Metformina 500 mg + glibenclamida 5 mg comprimido recubierto",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.830.090-9",
+              "NombreProveedor": "FARMACEUTICA CARIBEAN SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 76.0
+            }
+          },
+          {
+            "Correlativo": 129,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Metformina 850 mg comprimido recubierto",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.669.630-9",
+              "NombreProveedor": "OPKO CHILE S.A.",
+              "Cantidad": 1.0,
+              "MontoUnitario": 14.7
+            }
+          },
+          {
+            "Correlativo": 130,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Metformina Clorhidrato 1000 mg comprimido de liberación prolongada o extendida",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.986.924-7",
+              "NombreProveedor": "MDC HEALTH SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 32.5
+            }
+          },
+          {
+            "Correlativo": 131,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Metildopa 250 mg comprimido",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.830.090-9",
+              "NombreProveedor": "FARMACEUTICA CARIBEAN SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 173.0
+            }
+          },
+          {
+            "Correlativo": 132,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Metilfenidato 10 mg Comprimidos de Liberacion Prolongada",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": null
+          },
+          {
+            "Correlativo": 133,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Metoclopramida Clorhidrato 10 mg comprimido",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.956.140-4",
+              "NombreProveedor": "ETHON PHARMACEUTICALS  COMERCIALIZADORA  IMP EXP Y DIST SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 21.0
+            }
+          },
+          {
+            "Correlativo": 134,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Metoclopramida Clorhidrato solución inyectable 10 mg/2 ml (amp) ",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.642.770-7",
+              "NombreProveedor": "LABVITALIS S.A.",
+              "Cantidad": 1.0,
+              "MontoUnitario": 120.0
+            }
+          },
+          {
+            "Correlativo": 135,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Metronidazol 500 mg comprimido recubiertos",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.055.804-4",
+              "NombreProveedor": "INVERSIONES PHARMAVISAN SOCIEDAD ANONIMA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 111.0
+            }
+          },
+          {
+            "Correlativo": 136,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Metronidazol 500 mg óvulos",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "77.596.940-7",
+              "NombreProveedor": "LABORATORIO CHILE S A",
+              "Cantidad": 1.0,
+              "MontoUnitario": 142.0
+            }
+          },
+          {
+            "Correlativo": 137,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Mirtazapina 30 mg comprimido recubierto",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.285.229-2",
+              "NombreProveedor": "GALENICUM HEALTH CHILE SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 148.0
+            }
+          },
+          {
+            "Correlativo": 138,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Morfina Clorhidrato 10 mg/ml solución inyectable, ampolla",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.956.140-4",
+              "NombreProveedor": "ETHON PHARMACEUTICALS  COMERCIALIZADORA  IMP EXP Y DIST SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 380.0
+            }
+          },
+          {
+            "Correlativo": 139,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Moxifloxacino 0,5% solución oftálmica, frasco 5 ml",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.956.140-4",
+              "NombreProveedor": "ETHON PHARMACEUTICALS  COMERCIALIZADORA  IMP EXP Y DIST SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 5840.0
+            }
+          },
+          {
+            "Correlativo": 140,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Mupirocina 2 % ungüento tópico",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.830.090-9",
+              "NombreProveedor": "FARMACEUTICA CARIBEAN SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 3692.0
+            }
+          },
+          {
+            "Correlativo": 141,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Nifedipino 20 mg comprimido recubiertos de liberación prolongada",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.055.804-4",
+              "NombreProveedor": "INVERSIONES PHARMAVISAN SOCIEDAD ANONIMA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 18.0
+            }
+          },
+          {
+            "Correlativo": 142,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Nistatina 100.000 UI/ml suspensión oral, frasco 20 ml",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.830.090-9",
+              "NombreProveedor": "FARMACEUTICA CARIBEAN SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 18461.0
+            }
+          },
+          {
+            "Correlativo": 143,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Nitrofurantoina macrocristales 100 mg cápsula",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.830.090-9",
+              "NombreProveedor": "FARMACEUTICA CARIBEAN SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 72.0
+            }
+          },
+          {
+            "Correlativo": 144,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Olopatadina 0,2% solución oftálmica, frasco 2,5 ml",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.956.140-4",
+              "NombreProveedor": "ETHON PHARMACEUTICALS  COMERCIALIZADORA  IMP EXP Y DIST SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 12130.0
+            }
+          },
+          {
+            "Correlativo": 145,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Omeprazol 20 mg cápsula con gránulos con recubrimiento entérico",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.986.924-7",
+              "NombreProveedor": "MDC HEALTH SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 14.0
+            }
+          },
+          {
+            "Correlativo": 146,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Paracetamol 10 g/100 ml gotas orales, frasco 15-20 ml",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.830.090-9",
+              "NombreProveedor": "FARMACEUTICA CARIBEAN SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 676.0
+            }
+          },
+          {
+            "Correlativo": 147,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Paracetamol 10 mg/ml solución para perfusión, ampolla 100 ml",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.956.140-4",
+              "NombreProveedor": "ETHON PHARMACEUTICALS  COMERCIALIZADORA  IMP EXP Y DIST SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 999.0
+            }
+          },
+          {
+            "Correlativo": 148,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Paracetamol 125 mg Supositorios",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "77.596.940-7",
+              "NombreProveedor": "LABORATORIO CHILE S A",
+              "Cantidad": 1.0,
+              "MontoUnitario": 98.0
+            }
+          },
+          {
+            "Correlativo": 149,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Paracetamol 500 mg comprimido",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.237.266-5",
+              "NombreProveedor": "LABORATORIOS ANDROMACO S.A.",
+              "Cantidad": 1.0,
+              "MontoUnitario": 7.5
+            }
+          },
+          {
+            "Correlativo": 150,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Paracetamol 80 mg comprimido",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.956.140-4",
+              "NombreProveedor": "ETHON PHARMACEUTICALS  COMERCIALIZADORA  IMP EXP Y DIST SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 18.9
+            }
+          },
+          {
+            "Correlativo": 151,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Pargeverina 5 mg/1 ml solución inyectable, ampolla",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.055.804-4",
+              "NombreProveedor": "INVERSIONES PHARMAVISAN SOCIEDAD ANONIMA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 390.0
+            }
+          },
+          {
+            "Correlativo": 152,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Pargeverina Clorhidrato 5 mg/ml gotas orales, frasco 15-20 ml",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.031.071-9",
+              "NombreProveedor": "SALCOBRAND S.A",
+              "Cantidad": 1.0,
+              "MontoUnitario": 1229.0
+            }
+          },
+          {
+            "Correlativo": 153,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Paroxetina 20 mg comprimido",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.956.140-4",
+              "NombreProveedor": "ETHON PHARMACEUTICALS  COMERCIALIZADORA  IMP EXP Y DIST SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 44.0
+            }
+          },
+          {
+            "Correlativo": 154,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Pasta Lassar, frasco 30-50 g",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.031.071-9",
+              "NombreProveedor": "SALCOBRAND S.A",
+              "Cantidad": 1.0,
+              "MontoUnitario": 695.0
+            }
+          },
+          {
+            "Correlativo": 155,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Penicilina G Sódica 1.000.000 U.I. polvo para solución inyectable, frasco ampolla",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.956.140-4",
+              "NombreProveedor": "ETHON PHARMACEUTICALS  COMERCIALIZADORA  IMP EXP Y DIST SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 271.4
+            }
+          },
+          {
+            "Correlativo": 156,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Permetrina 1% shampoo, frasco 120 ml",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.830.090-9",
+              "NombreProveedor": "FARMACEUTICA CARIBEAN SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 10904.0
+            }
+          },
+          {
+            "Correlativo": 157,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Polivitaminico comprimido",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.481.561-0",
+              "NombreProveedor": "SOCIEDAD FARMACEUTICA TERVIS PHARMA LIMITADA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 120.0
+            }
+          },
+          {
+            "Correlativo": 158,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Polivitaminico jarabe, frasco 100 ml",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.830.090-9",
+              "NombreProveedor": "FARMACEUTICA CARIBEAN SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 11389.0
+            }
+          },
+          {
+            "Correlativo": 159,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Pomada Azufrada 6%, frasco 40 - 50 g",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.956.140-4",
+              "NombreProveedor": "ETHON PHARMACEUTICALS  COMERCIALIZADORA  IMP EXP Y DIST SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 983.8
+            }
+          },
+          {
+            "Correlativo": 160,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Prednisona 20 mg comprimido",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "77.596.940-7",
+              "NombreProveedor": "LABORATORIO CHILE S A",
+              "Cantidad": 1.0,
+              "MontoUnitario": 30.0
+            }
+          },
+          {
+            "Correlativo": 161,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Prednisona 20mg/5ml suspensión oral, frasco 60 - 100 ml",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "77.596.940-7",
+              "NombreProveedor": "LABORATORIO CHILE S A",
+              "Cantidad": 1.0,
+              "MontoUnitario": 1795.0
+            }
+          },
+          {
+            "Correlativo": 162,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Prednisona 5 mg comprimido",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.830.090-9",
+              "NombreProveedor": "FARMACEUTICA CARIBEAN SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 24.0
+            }
+          },
+          {
+            "Correlativo": 163,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Proparacacína 0,5% solución oftálmica, frasco 10 ml",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": null
+          },
+          {
+            "Correlativo": 164,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Propifenazona 440 mg + Adifenina Clorhidrato 50 mg antiespasmódico adulto, supositorio ",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.830.090-9",
+              "NombreProveedor": "FARMACEUTICA CARIBEAN SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 1225.0
+            }
+          },
+          {
+            "Correlativo": 165,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Propranolol Clorhidrato 1mg/1ml solución inyectable, ampolla",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.830.090-9",
+              "NombreProveedor": "FARMACEUTICA CARIBEAN SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 656.0
+            }
+          },
+          {
+            "Correlativo": 166,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Propranolol Clorhidrato 40 mg comprimido",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.830.090-9",
+              "NombreProveedor": "FARMACEUTICA CARIBEAN SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 12.0
+            }
+          },
+          {
+            "Correlativo": 167,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Quetiapina 100 mg comprimido recubierto",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.830.090-9",
+              "NombreProveedor": "FARMACEUTICA CARIBEAN SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 52.0
+            }
+          },
+          {
+            "Correlativo": 168,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Quetiapina 25 mg comprimido recubierto",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.830.090-9",
+              "NombreProveedor": "FARMACEUTICA CARIBEAN SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 25.0
+            }
+          },
+          {
+            "Correlativo": 169,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Ranitidina Clorhidrato 50 mg/2 ml solución inyectable, ampolla",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.055.804-4",
+              "NombreProveedor": "INVERSIONES PHARMAVISAN SOCIEDAD ANONIMA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 130.0
+            }
+          },
+          {
+            "Correlativo": 170,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Risperidona 1 mg comprimido",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.237.266-5",
+              "NombreProveedor": "LABORATORIOS ANDROMACO S.A.",
+              "Cantidad": 1.0,
+              "MontoUnitario": 40.0
+            }
+          },
+          {
+            "Correlativo": 171,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Risperidona 1 mg/ml gotas orales, frasco 30 ml",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.237.266-5",
+              "NombreProveedor": "LABORATORIOS ANDROMACO S.A.",
+              "Cantidad": 1.0,
+              "MontoUnitario": 4250.0
+            }
+          },
+          {
+            "Correlativo": 172,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Risperidona 3 mg comprimido",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.458.051-6",
+              "NombreProveedor": "NEOETHICALS CHILE SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 42.0
+            }
+          },
+          {
+            "Correlativo": 173,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Salbutamol 5 mg/ml solución para nebulización, frasco 20 ml",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.956.140-4",
+              "NombreProveedor": "ETHON PHARMACEUTICALS  COMERCIALIZADORA  IMP EXP Y DIST SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 5980.0
+            }
+          },
+          {
+            "Correlativo": 174,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Sales Para Rehidratacion 60 mEq/Lt polvo para solución oral, sachet",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.669.630-9",
+              "NombreProveedor": "OPKO CHILE S.A.",
+              "Cantidad": 1.0,
+              "MontoUnitario": 180.0
+            }
+          },
+          {
+            "Correlativo": 175,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Sertralina 100 mg comprimido",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.669.630-9",
+              "NombreProveedor": "OPKO CHILE S.A.",
+              "Cantidad": 1.0,
+              "MontoUnitario": 55.0
+            }
+          },
+          {
+            "Correlativo": 176,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Sertralina 50 mg comprimido",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.669.630-9",
+              "NombreProveedor": "OPKO CHILE S.A.",
+              "Cantidad": 1.0,
+              "MontoUnitario": 21.0
+            }
+          },
+          {
+            "Correlativo": 177,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Sulfato Ferroso 125 mg/ml solución gotas orales, excipientes: ácido cítrico, propilenglicol, laurilsulfato de sodio, metilparabeno, sacarosa, esencia de limón, agua purificada; frasco 30 ml",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": null
+          },
+          {
+            "Correlativo": 178,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Sulfato Ferroso 200 mg comprimido ",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.055.804-4",
+              "NombreProveedor": "INVERSIONES PHARMAVISAN SOCIEDAD ANONIMA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 20.0
+            }
+          },
+          {
+            "Correlativo": 179,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Terbinafina 250 mg comprimido",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.986.924-7",
+              "NombreProveedor": "MDC HEALTH SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 61.0
+            }
+          },
+          {
+            "Correlativo": 180,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Tiamina Clorhidrato + Piridoxina Clorhidrato + Cianocobalamina 100 mg/100 mg/10.000 mcg/3 ml solución inyectable, ampolla 3 ml",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.956.140-4",
+              "NombreProveedor": "ETHON PHARMACEUTICALS  COMERCIALIZADORA  IMP EXP Y DIST SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 879.1
+            }
+          },
+          {
+            "Correlativo": 181,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Tiamina Clorhidrato 30 mg/1 ml solución inyectable, ampolla",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.055.804-4",
+              "NombreProveedor": "INVERSIONES PHARMAVISAN SOCIEDAD ANONIMA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 117.0
+            }
+          },
+          {
+            "Correlativo": 182,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Timolol Maleato 0,5% solución oftálmica, frasco 10 ml",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.956.140-4",
+              "NombreProveedor": "ETHON PHARMACEUTICALS  COMERCIALIZADORA  IMP EXP Y DIST SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 1000.0
+            }
+          },
+          {
+            "Correlativo": 183,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Tobramicina 0,3% solución oftálmica, frasco 5 ml",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.956.140-4",
+              "NombreProveedor": "ETHON PHARMACEUTICALS  COMERCIALIZADORA  IMP EXP Y DIST SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 4371.0
+            }
+          },
+          {
+            "Correlativo": 184,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Tobramicina 3 mg + Dexametasona 1 mg suspensión oftálmica,  Frasco 5 ml",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.830.090-9",
+              "NombreProveedor": "FARMACEUTICA CARIBEAN SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 3076.0
+            }
+          },
+          {
+            "Correlativo": 185,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Trazodona 100 mg comprimido",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.830.090-9",
+              "NombreProveedor": "FARMACEUTICA CARIBEAN SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 499.0
+            }
+          },
+          {
+            "Correlativo": 186,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Trazodona 25 mg comprimido",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "77.596.940-7",
+              "NombreProveedor": "LABORATORIO CHILE S A",
+              "Cantidad": 1.0,
+              "MontoUnitario": 650.0
+            }
+          },
+          {
+            "Correlativo": 187,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Vaselina Líquida Estéril 1mg/1 ml, ampolla 10 ml",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.830.090-9",
+              "NombreProveedor": "FARMACEUTICA CARIBEAN SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 1081.0
+            }
+          },
+          {
+            "Correlativo": 188,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Vaselina Líquida Medicinal oral, frasco 200 ml",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.956.140-4",
+              "NombreProveedor": "ETHON PHARMACEUTICALS  COMERCIALIZADORA  IMP EXP Y DIST SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 2490.0
+            }
+          },
+          {
+            "Correlativo": 189,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Venlafaxina 75 mg cápsulas/comprimido de liberación prolongada",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.830.090-9",
+              "NombreProveedor": "FARMACEUTICA CARIBEAN SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 30.0
+            }
+          },
+          {
+            "Correlativo": 190,
+            "CodigoProducto": 42171903,
+            "CodigoCategoria": "42171900",
+            "Categoria": "Equipamiento y suministros médicos / Artículos médicos para urgencias y atención en terreno / Contenedores de almacenaje para servicios médicos de urgencia",
+            "NombreProducto": "Cajas de medicamentos de servicios médicos de urgencia",
+            "Descripcion": "Vitamina A + Vitamina D3 + Vitamina C 2.500 UI/400 U.I/75 mg/ml solución para gotas orales, frasco 30 ml (1 ml= 20 gotas",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 1.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.830.090-9",
+              "NombreProveedor": "FARMACEUTICA CARIBEAN SPA",
+              "Cantidad": 1.0,
+              "MontoUnitario": 1372.0
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

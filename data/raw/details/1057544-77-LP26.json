@@ -1,0 +1,183 @@
+{
+  "Cantidad": 1,
+  "FechaCreacion": "2026-04-05T10:25:58.5002547Z",
+  "Version": "v1",
+  "Listado": [
+    {
+      "CodigoExterno": "1057544-77-LP26",
+      "Nombre": "Compra de Insumos Clínicos en Consignación para Hemodinamia",
+      "CodigoEstado": 8,
+      "Descripcion": "Comprar y contar para su gestión de insumos clínicos en consignación en forma permanente para procedimientos cardiológicos a usuarios de la Unidad de Medicina Cardiovascular Integrada (Hemodinamia)",
+      "FechaCierre": null,
+      "Estado": "Adjudicada",
+      "Comprador": {
+        "CodigoOrganismo": "7419",
+        "NombreOrganismo": "SERVICIO DE SALUD DE TALCAHUANO HOSPITAL",
+        "RutUnidad": "61.607.202-1",
+        "CodigoUnidad": "1057544",
+        "NombreUnidad": "Bienes y Servicios",
+        "DireccionUnidad": "Alto Horno 777 - Higueras",
+        "ComunaUnidad": "Talcahuano",
+        "RegionUnidad": "Región del Biobío ",
+        "RutUsuario": "",
+        "CodigoUsuario": "1402175",
+        "NombreUsuario": "Héctor Leonardo Monsalves Moya",
+        "CargoUsuario": "Profesional de Licitaciones"
+      },
+      "DiasCierreLicitacion": "0",
+      "Informada": 0,
+      "CodigoTipo": 1,
+      "Tipo": "LP",
+      "TipoConvocatoria": "1",
+      "Moneda": "CLP",
+      "Etapas": 1,
+      "EstadoEtapas": "1",
+      "TomaRazon": "0",
+      "EstadoPublicidadOfertas": 1,
+      "JustificacionPublicidad": "",
+      "Contrato": "0",
+      "Obras": "0",
+      "CantidadReclamos": 2819,
+      "Fechas": {
+        "FechaCreacion": "2026-03-05T00:00:00",
+        "FechaCierre": "2026-03-26T15:00:00",
+        "FechaInicio": "2026-03-06T10:00:00",
+        "FechaFinal": "2026-03-14T10:00:00",
+        "FechaPubRespuestas": "2026-03-21T17:00:00",
+        "FechaActoAperturaTecnica": "2026-03-26T15:01:00",
+        "FechaActoAperturaEconomica": "2026-03-26T15:01:00",
+        "FechaPublicacion": "2026-03-06T08:29:00.06",
+        "FechaAdjudicacion": "2026-04-02T16:43:02.343",
+        "FechaEstimadaAdjudicacion": "2026-04-27T17:00:00",
+        "FechaSoporteFisico": null,
+        "FechaTiempoEvaluacion": "1900-01-21T00:00:00",
+        "FechaEstimadaFirma": "2026-05-27T00:00:00",
+        "FechasUsuario": null,
+        "FechaVisitaTerreno": null,
+        "FechaEntregaAntecedentes": null
+      },
+      "UnidadTiempoEvaluacion": 2,
+      "DireccionVisita": "",
+      "DireccionEntrega": "",
+      "Estimacion": 2,
+      "FuenteFinanciamiento": "",
+      "VisibilidadMonto": 1,
+      "MontoEstimado": 195000000.0,
+      "Tiempo": "12",
+      "UnidadTiempo": "2",
+      "Modalidad": 1,
+      "TipoPago": "1",
+      "NombreResponsablePago": "Jhon Álvaro Gustavo Barahona Gómez",
+      "EmailResponsablePago": "",
+      "NombreResponsableContrato": "Luis Ricardo Hernández Beltrán",
+      "EmailResponsableContrato": "",
+      "FonoResponsableContrato": "",
+      "ProhibicionContratacion": "Dejase establecido  que los servicios objeto de la presente licitación serán efectuados en forma personal, por la EMPRESA OFERENTE ADJUDICADA sin la posibilidad de SUB CONTRATAR su ejecución.",
+      "SubContratacion": "1",
+      "UnidadTiempoDuracionContrato": 4,
+      "TiempoDuracionContrato": "12",
+      "TipoDuracionContrato": " ",
+      "JustificacionMontoEstimado": "Comprar y contar para su gestión de insumos clínicos en consignación en forma permanente para procedimientos cardiológicos a usuarios de la Unidad de Medicina Cardiovascular Integrada Hemodinamia, con el objeto de cumplir y satisfacer debidamente la de",
+      "ObservacionContract": null,
+      "ExtensionPlazo": 0,
+      "EsBaseTipo": 0,
+      "UnidadTiempoContratoLicitacion": "2",
+      "ValorTiempoRenovacion": "0",
+      "PeriodoTiempoRenovacion": " ",
+      "EsRenovable": 0,
+      "CodigoBIP": null,
+      "Adjudicacion": {
+        "Tipo": 2,
+        "Fecha": "2026-04-01T00:00:00",
+        "Numero": "2176",
+        "NumeroOferentes": 4,
+        "UrlActa": "http://www.mercadopublico.cl/Procurement/Modules/RFB/StepsProcessAward/PreviewAwardAct.aspx?qs=3+j6UU02JfioxGfHUeAumkK5pKXlntu9iMelmmC08Ro="
+      },
+      "Items": {
+        "Cantidad": 5,
+        "Listado": [
+          {
+            "Correlativo": 1,
+            "CodigoProducto": 42295308,
+            "CodigoCategoria": "42295300",
+            "Categoria": "Equipamiento y suministros médicos / Productos quirúrgicos / Suministros y accesorios para cirugía de corazón abierto y productos relacionados",
+            "NombreProducto": "Sets de perfusión coronaria",
+            "Descripcion": "012-1262 DISPOSITIVO PERFUSION CORONARIA COMUNIC INTERAURICULAR ",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 9.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.044.959-8",
+              "NombreProveedor": "ARTICULOS, EQUIPOS Y PRODUCTOS PARA LA MEDICINA, LABORATORIOS Y LA IND",
+              "Cantidad": 9.0,
+              "MontoUnitario": 3890000.0
+            }
+          },
+          {
+            "Correlativo": 2,
+            "CodigoProducto": 42142801,
+            "CodigoCategoria": "42142800",
+            "Categoria": "Equipamiento y suministros médicos / Suministros y productos clínicos / Suministros y equipos para terapia vascular y de compresión",
+            "NombreProducto": "Dispositivos o tubos de compresión vascular secuencial",
+            "Descripcion": "012-1814 SET DE DISPOSITIVO P/CIERRE ",
+            "UnidadMedida": "Kit",
+            "Cantidad": 6.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.044.959-8",
+              "NombreProveedor": "ARTICULOS, EQUIPOS Y PRODUCTOS PARA LA MEDICINA, LABORATORIOS Y LA IND",
+              "Cantidad": 6.0,
+              "MontoUnitario": 4490000.0
+            }
+          },
+          {
+            "Correlativo": 3,
+            "CodigoProducto": 42221513,
+            "CodigoCategoria": "42221500",
+            "Categoria": "Equipamiento y suministros médicos / Productos administrados por vía intravenosa y arterial / Accesorios, catéteres y cánulas intravenosas y arteriales",
+            "NombreProducto": "Kits de colocación de catéteres cardiovasculares",
+            "Descripcion": "025-0561 STENT S/DROGA CROMO-COBALTO SINUSOIDAL",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 50.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.044.959-8",
+              "NombreProveedor": "ARTICULOS, EQUIPOS Y PRODUCTOS PARA LA MEDICINA, LABORATORIOS Y LA IND",
+              "Cantidad": 50.0,
+              "MontoUnitario": 575000.0
+            }
+          },
+          {
+            "Correlativo": 4,
+            "CodigoProducto": 42221513,
+            "CodigoCategoria": "42221500",
+            "Categoria": "Equipamiento y suministros médicos / Productos administrados por vía intravenosa y arterial / Accesorios, catéteres y cánulas intravenosas y arteriales",
+            "NombreProducto": "Kits de colocación de catéteres cardiovasculares",
+            "Descripcion": "025-0671 STENT ACERO INOX CUBIERTO PTFE MONTADO EN BALON 5 - 10 MM X 22,3",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 12.0,
+            "Adjudicacion": {
+              "RutProveedor": "76.044.959-8",
+              "NombreProveedor": "ARTICULOS, EQUIPOS Y PRODUCTOS PARA LA MEDICINA, LABORATORIOS Y LA IND",
+              "Cantidad": 12.0,
+              "MontoUnitario": 1590000.0
+            }
+          },
+          {
+            "Correlativo": 5,
+            "CodigoProducto": 42203406,
+            "CodigoCategoria": "42203400",
+            "Categoria": "Equipamiento y suministros médicos / Productos para imágenes y de medicina nuclear / Artículos para imágenes vasculares, cardiología intervencional y laboratorio de cateterización cardiaca",
+            "NombreProducto": "Dispositivos para la retirada de catéteres o sets vasculares de diagnóstico o intervención",
+            "Descripcion": "025-0721 DISPOSITIVO PARA EMBOLIZACION DE DUCTUS",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 15.0,
+            "Adjudicacion": {
+              "RutProveedor": "77.009.405-4",
+              "NombreProveedor": "BOSTON SCIENTIFIC CHILE SPA",
+              "Cantidad": 15.0,
+              "MontoUnitario": 5100000.0
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "Cantidad": 1,
+  "FechaCreacion": "2026-04-06T00:22:45.5158593Z",
+  "Version": "v1",
+  "Listado": [
+    {
+      "CodigoExterno": "1024-8-LP26",
+      "Nombre": "BARRERAS PREFABRICADAS HORMIGÓN TIPO F. DRVT",
+      "CodigoEstado": 8,
+      "Descripcion": "La Dirección Regional de Vialidad, con el fin de seguir cumpliendo con su misión institucional, de otorgar seguridad vial a nuestros usuarios; requiere adquirir Barreras Prefabricadas de Hormigón Laterales, simples Tipo F, abatimiento y captafaros o elementos reflectantes tipo captafaros. Lo anterior, para la instalación de un sistema de pesaje en movimiento WIM, en la Plaza Pesaje fijo en la Comuna de Huara, de la Dirección de Vialidad, Región de Tarapacá.",
+      "FechaCierre": null,
+      "Estado": "Adjudicada",
+      "Comprador": {
+        "CodigoOrganismo": "7248",
+        "NombreOrganismo": "MINISTERIO DE OBRAS PUBLICAS DIREC CION GRAL DE OO PP DCYF",
+        "RutUnidad": "61.202.000-0",
+        "CodigoUnidad": "2020",
+        "NombreUnidad": "Dirección de Vialidad - I Región - Dirección Regional",
+        "DireccionUnidad": "Tarapacá N° 130, piso 3",
+        "ComunaUnidad": "Iquique",
+        "RegionUnidad": "Región de Tarapacá  ",
+        "RutUsuario": "",
+        "CodigoUsuario": "1910772",
+        "NombreUsuario": "Nicole Fernanda Castillo Bustillos",
+        "CargoUsuario": "Analista gestiòn presupuestaria"
+      },
+      "DiasCierreLicitacion": "0",
+      "Informada": 0,
+      "CodigoTipo": 1,
+      "Tipo": "LP",
+      "TipoConvocatoria": "1",
+      "Moneda": "CLP",
+      "Etapas": 1,
+      "EstadoEtapas": "1",
+      "TomaRazon": "0",
+      "EstadoPublicidadOfertas": 1,
+      "JustificacionPublicidad": "",
+      "Contrato": "0",
+      "Obras": "0",
+      "CantidadReclamos": 459,
+      "Fechas": {
+        "FechaCreacion": "2026-03-04T09:06:10.697",
+        "FechaCierre": "2026-03-16T16:00:00",
+        "FechaInicio": "2026-03-05T12:01:00",
+        "FechaFinal": "2026-03-07T12:00:00",
+        "FechaPubRespuestas": "2026-03-10T12:00:00",
+        "FechaActoAperturaTecnica": "2026-03-16T16:01:00",
+        "FechaActoAperturaEconomica": "2026-03-16T16:01:00",
+        "FechaPublicacion": "2026-03-05T11:35:03.813",
+        "FechaAdjudicacion": "2026-04-01T09:48:02.307",
+        "FechaEstimadaAdjudicacion": "2026-04-03T14:00:00",
+        "FechaSoporteFisico": null,
+        "FechaTiempoEvaluacion": "1900-01-04T00:00:00",
+        "FechaEstimadaFirma": null,
+        "FechasUsuario": null,
+        "FechaVisitaTerreno": null,
+        "FechaEntregaAntecedentes": null
+      },
+      "UnidadTiempoEvaluacion": 2,
+      "DireccionVisita": "",
+      "DireccionEntrega": "",
+      "Estimacion": 2,
+      "FuenteFinanciamiento": "Sectorial ",
+      "VisibilidadMonto": 0,
+      "MontoEstimado": null,
+      "Tiempo": "12",
+      "UnidadTiempo": "2",
+      "Modalidad": 1,
+      "TipoPago": "1",
+      "NombreResponsablePago": "Hector Saavedra Varas ",
+      "EmailResponsablePago": "",
+      "NombreResponsableContrato": "Nicole Castillo Bustillos",
+      "EmailResponsableContrato": "",
+      "FonoResponsableContrato": "",
+      "ProhibicionContratacion": "",
+      "SubContratacion": "0",
+      "UnidadTiempoDuracionContrato": 4,
+      "TiempoDuracionContrato": "12",
+      "TipoDuracionContrato": " ",
+      "JustificacionMontoEstimado": "La instalación de estas barreras es necesaria, para poder encauzar los vehículos a control de pesos en la pista de pesaje selectivo, con el sistema informático de pesos asociados.",
+      "ObservacionContract": null,
+      "ExtensionPlazo": 0,
+      "EsBaseTipo": 0,
+      "UnidadTiempoContratoLicitacion": "2",
+      "ValorTiempoRenovacion": "0",
+      "PeriodoTiempoRenovacion": " ",
+      "EsRenovable": 0,
+      "CodigoBIP": null,
+      "Adjudicacion": {
+        "Tipo": 2,
+        "Fecha": "2026-03-30T00:00:00",
+        "Numero": "466",
+        "NumeroOferentes": 2,
+        "UrlActa": "http://www.mercadopublico.cl/Procurement/Modules/RFB/StepsProcessAward/PreviewAwardAct.aspx?qs=w1CTgRSdTwaI9/J1sd0CQE1cT8POy2SJ49OFU00Ehs8="
+      },
+      "Items": {
+        "Cantidad": 3,
+        "Listado": [
+          {
+            "Correlativo": 1,
+            "CodigoProducto": 22101901,
+            "CodigoCategoria": "22101900",
+            "Categoria": "Maquinaria para construcción y edificación / Maquinaria pesada de construcción / Maquinaria para construcción de edificios",
+            "NombreProducto": "Plantas de hormigón u hormigoneras",
+            "Descripcion": "BARRERA PREFABRICADA DE HORMIGÓN TIPO F (810mm)",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 150.0,
+            "Adjudicacion": {
+              "RutProveedor": "80.125.000-9",
+              "NombreProveedor": "BOTTAI HERMANOS SOCIEDAD ANONIMA",
+              "Cantidad": 150.0,
+              "MontoUnitario": 407070.0
+            }
+          },
+          {
+            "Correlativo": 2,
+            "CodigoProducto": 22101901,
+            "CodigoCategoria": "22101900",
+            "Categoria": "Maquinaria para construcción y edificación / Maquinaria pesada de construcción / Maquinaria para construcción de edificios",
+            "NombreProducto": "Plantas de hormigón u hormigoneras",
+            "Descripcion": "ABATIMIENTO",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 16.0,
+            "Adjudicacion": {
+              "RutProveedor": "80.125.000-9",
+              "NombreProveedor": "BOTTAI HERMANOS SOCIEDAD ANONIMA",
+              "Cantidad": 4.0,
+              "MontoUnitario": 1628280.0
+            }
+          },
+          {
+            "Correlativo": 3,
+            "CodigoProducto": 22101901,
+            "CodigoCategoria": "22101900",
+            "Categoria": "Maquinaria para construcción y edificación / Maquinaria pesada de construcción / Maquinaria para construcción de edificios",
+            "NombreProducto": "Plantas de hormigón u hormigoneras",
+            "Descripcion": "CAPTAFAROS (OJOS DE GATO)",
+            "UnidadMedida": "Unidad",
+            "Cantidad": 100.0,
+            "Adjudicacion": {
+              "RutProveedor": "80.125.000-9",
+              "NombreProveedor": "BOTTAI HERMANOS SOCIEDAD ANONIMA",
+              "Cantidad": 100.0,
+              "MontoUnitario": 9000.0
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

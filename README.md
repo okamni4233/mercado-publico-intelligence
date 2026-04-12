@@ -1,34 +1,23 @@
-# mercado-publico-intelligence
+# Mercado Publico Intelligence
 
-Plataforma en Python para extraer, normalizar, enriquecer y analizar oportunidades de licitaciones publicas de Chile usando la API oficial de Mercado Publico.
+Proyecto en Python para consumir la API oficial de Mercado Publico / ChileCompra, procesar licitaciones y transformarlas en datasets utiles para analisis.
 
-El proyecto esta pensado como portafolio profesional de Data Analytics / Data Engineering aplicado a un problema real: monitorear oportunidades comerciales, construir datasets reutilizables y generar scoring inicial de licitaciones.
+La idea no es solo descargar datos, sino convertirlos en informacion accionable para detectar oportunidades de negocio, analizar compras publicas y construir un portafolio de Data Analytics / Data Engineering aplicado a un caso real.
 
-## Problema De Negocio
+## Que Hace Este Proyecto
 
-Las licitaciones publicadas en Mercado Publico cambian a diario y suelen revisarse de forma manual. Esto dificulta:
+- Consulta licitaciones desde la API oficial de Mercado Publico.
+- Permite traer datos por fecha, codigo o rango de fechas.
+- Guarda respuestas crudas en JSON.
+- Enriquece licitaciones consultando detalle por `CodigoExterno`.
+- Normaliza respuestas resumidas y detalladas a DataFrames de pandas.
+- Exporta datasets a CSV.
+- Guarda resultados parciales en procesos largos.
+- Reutiliza detalles ya descargados para evitar llamadas repetidas.
+- Genera datasets listos para analisis.
+- Calcula un score basico de oportunidad.
 
-- detectar oportunidades relevantes a tiempo,
-- priorizar licitaciones segun rubro, region, estado y monto,
-- construir historicos para analisis posterior,
-- monitorear organismos compradores estrategicos,
-- preparar reporting comercial o institucional.
-
-## Solucion
-
-El proyecto implementa un pipeline modular que:
-
-- consulta licitaciones por fecha, rango de fechas o codigo,
-- guarda respuestas crudas en JSON,
-- consolida licitaciones resumidas,
-- consulta detalle por `CodigoExterno`,
-- reutiliza detalles ya descargados para evitar llamadas repetidas,
-- genera datasets CSV de resumen, detalle e items,
-- guarda resultados parciales durante procesos largos,
-- crea columnas listas para analisis,
-- calcula un score de oportunidad de 0 a 100.
-
-## Arquitectura
+## Estructura Del Proyecto
 
 ```text
 mercado-publico-intelligence/
@@ -87,7 +76,7 @@ python -m venv .venv
 pip install -r requirements.txt
 ```
 
-Si `python` no esta disponible en PATH, usa el ejecutable del entorno virtual:
+Si `python` no esta disponible en PATH:
 
 ```powershell
 .venv\Scripts\python.exe -m app.cli --help
@@ -95,10 +84,16 @@ Si `python` no esta disponible en PATH, usa el ejecutable del entorno virtual:
 
 ## Configuracion
 
-Copia `.env.example` a `.env` y agrega tu ticket:
+Copia `.env.example` a `.env`:
+
+```powershell
+Copy-Item .env.example .env
+```
+
+Configura el ticket:
 
 ```env
-MP_TICKET=tu_ticket_aqui
+MP_TICKET=tu_ticket_real
 MP_BASE_URL=https://api.mercadopublico.cl/servicios/v1/publico
 REQUEST_TIMEOUT=30
 DATA_DIR=./data
@@ -110,9 +105,25 @@ RETRY_BACKOFF_SECONDS=1.5
 
 Importante:
 
-- No subas tu archivo `.env` a Git.
-- El ticket se lee desde `MP_TICKET`.
-- La API usa fechas en formato `ddmmaaaa`, pero la CLI acepta `YYYY-MM-DD` en los comandos principales.
+- No subir `.env` a Git.
+- `MP_TICKET` es obligatorio para llamar la API.
+- La CLI usa fechas `YYYY-MM-DD`; el cliente las convierte al formato requerido por la API.
+
+## Quickstart
+
+Prueba corta recomendada:
+
+```powershell
+python -m app.cli build-bulk-dataset --start-date 2026-04-01 --end-date 2026-04-02 --limit 30 --skip-existing-details
+python -m app.cli score-dataset
+python -m app.cli export-analysis-ready --start-date 2026-04-01 --end-date 2026-04-02
+```
+
+Si quieres solo validar conexion:
+
+```powershell
+python -m app.cli fetch-date --date 2026-04-04
+```
 
 ## Comandos Principales
 
@@ -134,33 +145,33 @@ Consultar licitaciones por fecha:
 python -m app.cli fetch-date --date 2026-04-04
 ```
 
-Consultar licitacion por codigo:
+Consultar una licitacion por codigo:
 
 ```powershell
-python -m app.cli fetch-code --code 1234-56-LQ25
+python -m app.cli fetch-code --code 1292-6-LE26
 ```
 
-Generar dataset simple de una fecha:
+Generar dataset simple por fecha:
 
 ```powershell
 python -m app.cli build-dataset --date 2026-04-04
 ```
 
-## Extraccion Bulk
+## Extraccion Por Rango
 
-Descargar licitaciones resumidas por rango de fechas:
+Descargar respuestas resumidas por dia:
 
 ```powershell
 python -m app.cli fetch-range --start-date 2026-04-01 --end-date 2026-04-05
 ```
 
-Esto guarda JSON diarios en:
+Salida:
 
 ```text
 data/raw/licitaciones_raw_YYYY-MM-DD_timestamp.json
 ```
 
-## Construccion Bulk De Datasets
+## Build Bulk Dataset
 
 Construir datasets de resumen, detalle e items:
 
@@ -168,17 +179,24 @@ Construir datasets de resumen, detalle e items:
 python -m app.cli build-bulk-dataset --start-date 2026-04-01 --end-date 2026-04-05
 ```
 
-Para probar rapido con pocos codigos:
+Probar rapido con pocos codigos:
 
 ```powershell
 python -m app.cli build-bulk-dataset --start-date 2026-04-01 --end-date 2026-04-05 --limit 50
 ```
 
-Para reutilizar detalles ya descargados:
+Reutilizar detalles ya descargados:
 
 ```powershell
 python -m app.cli build-bulk-dataset --start-date 2026-04-01 --end-date 2026-04-05 --limit 50 --skip-existing-details
 ```
+
+Opciones utiles:
+
+- `--limit N`: procesa solo los primeros `N` codigos unicos.
+- `--skip-existing-details`: reutiliza `data/raw/details/{codigo}.json` si existe.
+- `--sleep-seconds 0.2`: pausa entre requests de detalle. El default actual es `0.2`.
+- `--deduplicate-summary`: deduplica el dataset resumen por `codigo_externo`.
 
 Salidas finales:
 
@@ -188,7 +206,7 @@ data/processed/licitaciones_detalladas.csv
 data/processed/licitaciones_items.csv
 ```
 
-Salidas parciales durante procesos largos:
+Salidas parciales:
 
 ```text
 data/processed/licitaciones_detalladas_partial.csv
@@ -201,7 +219,7 @@ Detalles crudos por codigo:
 data/raw/details/{CodigoExterno}.json
 ```
 
-Logs de errores bulk:
+Logs:
 
 ```text
 data/logs/bulk_errors.log
@@ -209,13 +227,13 @@ data/logs/bulk_errors.log
 
 ## Export Analysis Ready
 
-Crear datasets finales listos para analisis:
+Exportar datasets finales listos para analisis:
 
 ```powershell
 python -m app.cli export-analysis-ready --start-date 2026-04-01 --end-date 2026-04-05
 ```
 
-Si el proceso bulk fue interrumpido y solo existen parciales:
+Si solo existen parciales:
 
 ```powershell
 python -m app.cli export-analysis-ready --start-date 2026-04-01 --end-date 2026-04-05 --use-partials
@@ -230,39 +248,29 @@ data/exports/items_analysis_ready.csv
 
 ## Scoring De Oportunidades
 
-Generar score de oportunidad sobre el dataset detallado:
+Generar score sobre el dataset detallado:
 
 ```powershell
 python -m app.cli score-dataset
 ```
 
-Entrada por defecto:
+Input por defecto:
 
 ```text
 data/processed/licitaciones_detalladas.csv
 ```
 
-Salida por defecto:
+Output por defecto:
 
 ```text
 data/processed/licitaciones_scored.csv
 ```
 
-Tambien puedes indicar rutas:
+Con rutas explicitas:
 
 ```powershell
 python -m app.cli score-dataset --input data/processed/licitaciones_detalladas.csv --output data/processed/licitaciones_scored.csv
 ```
-
-El score usa reglas simples:
-
-- keywords industriales en nombre o descripcion,
-- multiples keywords,
-- estado publicada,
-- fecha de cierre futura,
-- monto estimado mayor a 10 millones,
-- regiones mineras prioritarias,
-- descuento por keywords excluidas.
 
 Columnas agregadas:
 
@@ -274,35 +282,77 @@ score
 prioridad
 ```
 
-## Flujo Recomendado
+Reglas principales:
 
-Para una primera corrida pequena:
+- `+30` si nombre o descripcion contiene keyword industrial.
+- `+20` si contiene multiples keywords industriales.
+- `+15` si `codigo_estado == 5`.
+- `+15` si `fecha_cierre` es futura.
+- `+10` si `monto_estimado > 10_000_000`.
+- `+10` si `region_unidad` contiene Antofagasta, Tarapaca o Atacama.
+- `-25` si contiene keywords excluidas.
+
+Prioridad:
+
+- `alta`: score >= 70
+- `media`: score >= 40
+- `baja`: score < 40
+
+## Datasets Generados
+
+`licitaciones_resumen.csv`: dataset base desde respuestas diarias resumidas. Puede mantener duplicados si una licitacion aparece en distintos dias.
+
+`licitaciones_detalladas.csv`: dataset principal, deduplicado por `codigo_externo`.
+
+`licitaciones_items.csv`: items asociados a licitaciones cuando la API entrega esa informacion.
+
+`licitaciones_scored.csv`: dataset detallado con score y prioridad.
+
+`licitaciones_analysis_ready.csv`: version enriquecida para analisis.
+
+`items_analysis_ready.csv`: version de items lista para analisis.
+
+## Flujo Recomendado De Trabajo
+
+1. Verifica conexion:
+
+```powershell
+python -m app.cli fetch-date --date 2026-04-04
+```
+
+2. Ejecuta una prueba pequena:
 
 ```powershell
 python -m app.cli build-bulk-dataset --start-date 2026-04-01 --end-date 2026-04-02 --limit 30 --skip-existing-details
+```
+
+3. Aplica scoring:
+
+```powershell
 python -m app.cli score-dataset
+```
+
+4. Exporta analysis-ready:
+
+```powershell
 python -m app.cli export-analysis-ready --start-date 2026-04-01 --end-date 2026-04-02
 ```
 
-Para continuar una corrida larga reutilizando detalles ya guardados:
+5. Si una corrida larga se interrumpe:
+
+```powershell
+python -m app.cli export-analysis-ready --start-date 2026-04-01 --end-date 2026-04-02 --use-partials
+```
+
+6. Para reanudar evitando repetir detalles:
 
 ```powershell
 python -m app.cli build-bulk-dataset --start-date 2026-04-01 --end-date 2026-04-05 --skip-existing-details
 ```
 
-## Datasets
-
-`licitaciones_resumen.csv` contiene licitaciones resumidas por fecha de consulta. Puede mantener duplicados si una licitacion aparece en varios dias.
-
-`licitaciones_detalladas.csv` contiene una fila por `codigo_externo`, deduplicada para analisis.
-
-`licitaciones_items.csv` contiene multiples filas por licitacion, una por item cuando la API entrega esa informacion.
-
-`licitaciones_scored.csv` contiene el dataset detallado con score y prioridad.
-
 ## Notebooks
 
-Los notebooks estan pensados para exploracion y storytelling:
+Los notebooks estan pensados para exploracion, limpieza y analisis:
 
 - `notebooks/01_exploracion_api.ipynb`
 - `notebooks/02_limpieza_licitaciones.ipynb`
@@ -313,16 +363,52 @@ Los notebooks estan pensados para exploracion y storytelling:
 - Inteligencia comercial.
 - Monitoreo de oportunidades.
 - Analisis territorial.
-- Priorizacion por rubro y estado.
+- Priorizacion por rubro, estado, region y monto.
 - Reporting institucional.
 - Portafolio profesional de Data Analytics / Data Engineering.
 
+## Troubleshooting
+
+Si `python` no se reconoce:
+
+```powershell
+.venv\Scripts\python.exe -m app.cli --help
+```
+
+Si falta el ticket:
+
+```text
+MP_TICKET is empty
+```
+
+Revisa tu `.env` y confirma que `MP_TICKET` tenga un valor valido.
+
+Si una corrida bulk demora demasiado:
+
+```powershell
+python -m app.cli build-bulk-dataset --start-date 2026-04-01 --end-date 2026-04-05 --limit 50 --skip-existing-details
+```
+
+Si solo tienes parciales y no finales:
+
+```powershell
+python -m app.cli export-analysis-ready --start-date 2026-04-01 --end-date 2026-04-05 --use-partials
+```
+
 ## Supuestos Y Consideraciones
 
-- La estructura del JSON puede variar entre respuesta resumida y detallada.
-- El proyecto usa `.get()` y normalizacion defensiva para no romper con campos faltantes.
+- La estructura de la API puede variar entre respuesta resumida y detallada.
+- El codigo usa `.get()` y normalizacion defensiva para tolerar campos faltantes.
 - Algunos campos pueden quedar como `None` o `NaN` si la API no los entrega.
-- El pipeline bulk incluye `--limit`, `--skip-existing-details`, pausas entre requests y guardado parcial para evitar perder avance.
+- El proyecto depende de la disponibilidad y estabilidad de la API oficial de Mercado Publico.
+
+## Futuras Mejoras
+
+- Dashboard Streamlit sobre `licitaciones_scored.csv`.
+- Persistencia completa en SQLite.
+- Alertas por correo o Telegram.
+- Automatizacion local programada.
+- Analisis historico por organismo, region, monto y categoria.
 
 ## Disclaimer
 

@@ -2,12 +2,20 @@
 
 from __future__ import annotations
 
-import unicodedata
 from datetime import datetime
 from pathlib import Path
 from typing import Any
 
 import pandas as pd
+
+from app.services.keywords import (
+    CONSTRUCCION_KEYWORDS,
+    EXCLUDED_KEYWORDS,
+    INDUSTRIAL_KEYWORDS,
+    SERVICIO_KEYWORDS,
+    contains_any_keyword,
+    normalize_text,
+)
 
 
 SUMMARY_COLUMNS = [
@@ -129,23 +137,6 @@ STATE_MAP = {
     18: "Revocada",
     19: "Suspendida",
 }
-
-INDUSTRIAL_KEYWORDS = [
-    "mantencion",
-    "industrial",
-    "montaje",
-    "instrumentacion",
-    "electrico",
-    "reparacion",
-    "obra",
-    "obras",
-    "construccion",
-    "campamento",
-    "campamentos",
-]
-SERVICIO_KEYWORDS = ["servicio", "servicios", "asesoria"]
-EXCLUDED_KEYWORDS = ["catering", "carpa", "toldos", "cubrepiso"]
-
 
 def normalize_licitaciones_summary(
     data: dict[str, Any],
@@ -413,11 +404,11 @@ def build_analysis_ready_licitaciones(dataframe: pd.DataFrame) -> pd.DataFrame:
     descripcion = frame["descripcion"].fillna("")
     frame["texto_busqueda"] = (nombre + " " + descripcion).str.strip()
 
-    normalized_text = frame["texto_busqueda"].map(_normalize_text_for_search)
-    frame["es_industrial_keyword"] = normalized_text.map(lambda value: _contains_any_keyword(value, INDUSTRIAL_KEYWORDS))
-    frame["es_construccion_keyword"] = normalized_text.map(lambda value: _contains_any_keyword(value, ["obra", "obras", "construccion"]))
-    frame["es_servicio_keyword"] = normalized_text.map(lambda value: _contains_any_keyword(value, SERVICIO_KEYWORDS))
-    frame["contiene_excluida"] = normalized_text.map(lambda value: _contains_any_keyword(value, EXCLUDED_KEYWORDS))
+    normalized_text = frame["texto_busqueda"].map(normalize_text)
+    frame["es_industrial_keyword"] = normalized_text.map(lambda value: contains_any_keyword(value, INDUSTRIAL_KEYWORDS))
+    frame["es_construccion_keyword"] = normalized_text.map(lambda value: contains_any_keyword(value, CONSTRUCCION_KEYWORDS))
+    frame["es_servicio_keyword"] = normalized_text.map(lambda value: contains_any_keyword(value, SERVICIO_KEYWORDS))
+    frame["contiene_excluida"] = normalized_text.map(lambda value: contains_any_keyword(value, EXCLUDED_KEYWORDS))
     frame["prioridad_inicial"] = frame.apply(_compute_prioridad_inicial, axis=1)
 
     return frame
@@ -587,15 +578,6 @@ def _to_bool(value: Any) -> bool | None:
     if normalized in {"0", "false", "no"}:
         return False
     return None
-
-
-def _normalize_text_for_search(value: str) -> str:
-    normalized = unicodedata.normalize("NFKD", value.lower())
-    return "".join(char for char in normalized if not unicodedata.combining(char))
-
-
-def _contains_any_keyword(text: str, keywords: list[str]) -> bool:
-    return any(keyword in text for keyword in keywords)
 
 
 def _compute_prioridad_inicial(row: pd.Series) -> str:

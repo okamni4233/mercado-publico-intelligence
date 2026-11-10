@@ -109,6 +109,18 @@ Importante:
 - `MP_TICKET` es obligatorio para llamar la API.
 - La CLI usa fechas `YYYY-MM-DD`; el cliente las convierte al formato requerido por la API.
 
+## Datos
+
+Los datos descargados no se versionan: `data/raw/`, `data/raw/details/`, `data/processed/` y `data/exports/` estan en `.gitignore`. Las respuestas de la API incluyen nombres y cargos de funcionarios de los organismos compradores, y los datasets se pueden regenerar en cualquier momento.
+
+Para reconstruirlos necesitas un ticket de la API (se solicita en el sitio de ChileCompra) configurado en `.env`, y luego:
+
+```powershell
+python -m app.cli build-bulk-dataset --start-date 2026-04-01 --end-date 2026-04-05 --skip-existing-details
+```
+
+Ese comando descarga el resumen diario, guarda un JSON de detalle por licitacion en `data/raw/details/` y genera los CSV de `data/processed/`. El rango de fechas es un ejemplo; la API entrega lo que este publicado al momento de la consulta, por lo que una descarga posterior puede no coincidir exactamente con una anterior.
+
 ## Quickstart
 
 Prueba corta recomendada:

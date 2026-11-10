@@ -41,12 +41,12 @@ Prioridad: alta desde 70 puntos, media desde 40 y baja bajo 40.
 
 Dos advertencias para leerlo bien:
 
-- **Los pesos son arbitrarios.** No se calibraron con datos de adjudicaciones ni se comprobó que el puntaje ordene bien las oportunidades. Las palabras clave y las regiones corresponden al caso de una empresa de servicios industriales del norte del país y están fijas en el código (`app/services/keywords.py` y `app/services/scoring.py`).
+- **Los pesos son arbitrarios.** No se calibraron con datos de adjudicaciones ni se comprobó que el puntaje ordene bien las oportunidades. Las palabras clave y las regiones apuntan a servicios industriales y de construcción en el norte del país, y están fijas en el código (`app/services/keywords.py` y `app/services/scoring.py`).
 - **El puntaje depende de la fecha en que se calcula**, porque una regla compara la fecha de cierre con el momento actual. La misma licitación puede cambiar de prioridad de un día a otro.
 
 ## Dataset
 
-- **Fuente:** [API de Mercado Público](https://api.mercadopublico.cl) (ChileCompra). Requiere un ticket de acceso personal y gratuito.
+- **Fuente:** [API de Mercado Público](https://api.mercadopublico.cl) (ChileCompra). Requiere un ticket de acceso, que se solicita a ChileCompra.
 - **Tamaño de la corrida de muestra:** 1.407 licitaciones con su detalle (unos 12 MB en JSON).
 - **Los datos no se versionan**: las respuestas incluyen nombres y cargos de funcionarios de los organismos compradores, y se pueden regenerar. `data/raw/`, `data/raw/details/`, `data/processed/` y `data/exports/` están en `.gitignore`.
 - La API entrega lo que esté publicado al momento de la consulta, así que una descarga posterior puede no coincidir exactamente con las cifras de este README.

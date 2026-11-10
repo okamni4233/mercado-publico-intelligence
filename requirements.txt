@@ -7,3 +7,4 @@ streamlit==1.67.0
 typer==0.29.0
 pytest==8.4.2
 plotly==5.24.1
+matplotlib==3.11.2

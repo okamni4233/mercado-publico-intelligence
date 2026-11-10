@@ -2,27 +2,19 @@
 
 from __future__ import annotations
 
-import unicodedata
 from datetime import datetime
 
 import pandas as pd
 
+from app.services.keywords import (
+    EXCLUDED_KEYWORDS,
+    INDUSTRIAL_KEYWORDS,
+    contains_any_keyword,
+    count_keywords,
+    normalize_text,
+)
 
-INDUSTRIAL_KEYWORDS = [
-    "mantencion",
-    "industrial",
-    "montaje",
-    "instrumentacion",
-    "electrico",
-    "reparacion",
-    "obra",
-    "obras",
-    "construccion",
-    "campamento",
-    "campamentos",
-]
 
-EXCLUDED_KEYWORDS = ["catering", "carpa", "toldos", "cubrepiso"]
 PRIORITY_REGIONS = ["antofagasta", "tarapaca", "atacama"]
 
 
@@ -50,15 +42,15 @@ def score_licitaciones(df: pd.DataFrame) -> pd.DataFrame:
     output = df.copy()
 
     output["texto_busqueda"] = _build_texto_busqueda(output)
-    normalized_text = output["texto_busqueda"].fillna("").map(_normalize_text)
-    keyword_count = normalized_text.map(_count_industrial_keywords)
+    normalized_text = output["texto_busqueda"].fillna("").map(normalize_text)
+    keyword_count = normalized_text.map(lambda text: count_keywords(text, INDUSTRIAL_KEYWORDS))
     output["contiene_keyword"] = keyword_count.gt(0)
-    output["contiene_excluida"] = normalized_text.map(_contains_excluded_keywords)
+    output["contiene_excluida"] = normalized_text.map(lambda text: contains_any_keyword(text, EXCLUDED_KEYWORDS))
 
     codigo_estado = pd.to_numeric(output.get("codigo_estado"), errors="coerce")
     fecha_cierre = pd.to_datetime(output.get("fecha_cierre"), errors="coerce")
     monto_estimado = pd.to_numeric(output.get("monto_estimado"), errors="coerce")
-    region_normalized = output.get("region_unidad", pd.Series(index=output.index, dtype="object")).fillna("").map(_normalize_text)
+    region_normalized = output.get("region_unidad", pd.Series(index=output.index, dtype="object")).fillna("").map(normalize_text)
 
     score = pd.Series(0, index=output.index, dtype="int64")
     score = score + output["contiene_keyword"].astype(int) * 30
@@ -85,21 +77,6 @@ def _build_texto_busqueda(df: pd.DataFrame) -> pd.Series:
     nombre = df.get("nombre", pd.Series(index=df.index, dtype="object")).fillna("").astype(str)
     descripcion = df.get("descripcion", pd.Series(index=df.index, dtype="object")).fillna("").astype(str)
     return (nombre.str.strip() + " " + descripcion.str.strip()).str.strip()
-
-
-def _normalize_text(value: str) -> str:
-    normalized = unicodedata.normalize("NFKD", value.lower())
-    return "".join(char for char in normalized if not unicodedata.combining(char))
-
-
-def _count_industrial_keywords(text: str) -> int:
-    normalized_keywords = {_normalize_text(keyword) for keyword in INDUSTRIAL_KEYWORDS}
-    return sum(1 for keyword in normalized_keywords if keyword in text)
-
-
-def _contains_excluded_keywords(text: str) -> bool:
-    normalized_keywords = {_normalize_text(keyword) for keyword in EXCLUDED_KEYWORDS}
-    return any(keyword in text for keyword in normalized_keywords)
 
 
 def _is_priority_region(text: str) -> bool:

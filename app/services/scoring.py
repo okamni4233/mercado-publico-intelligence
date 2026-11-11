@@ -1,34 +1,80 @@
-"""Scoring helpers for detailed Mercado Publico licitations."""
+"""Rule-based scoring of detailed Mercado Publico licitations.
+
+The score is a sum of fixed points for simple conditions (keywords in the text,
+state, closing date, amount and region). Keywords, regions, points and
+thresholds live in :class:`ScoringConfig`, so the same code can serve
+different search profiles. The defaults are an example profile: industrial and
+construction services for buyers in the north of Chile.
+"""
 
 from __future__ import annotations
 
+import json
 from datetime import datetime
+from pathlib import Path
 
 import pandas as pd
+from pydantic import BaseModel, ConfigDict, Field
 
 from app.services.keywords import (
-    EXCLUDED_KEYWORDS,
-    INDUSTRIAL_KEYWORDS,
+    DEFAULT_EXCLUDED_WORDS,
+    DEFAULT_INDUSTRIAL_WORDS,
+    compile_keywords,
     contains_any_keyword,
     count_keywords,
     normalize_text,
 )
 
 
-PRIORITY_REGIONS = ["antofagasta", "tarapaca", "atacama"]
+PUBLISHED_STATE_CODE = 5
+DEFAULT_PRIORITY_REGIONS = ["antofagasta", "tarapaca", "atacama"]
+SCORE_COLUMNS = ["texto_busqueda", "contiene_keyword", "contiene_excluida", "score", "prioridad"]
 
 
-def score_licitaciones(df: pd.DataFrame) -> pd.DataFrame:
-    """Score detailed licitations and return a new analysis-ready DataFrame.
+class ScoringConfig(BaseModel):
+    """Search profile and point values used by :func:`score_licitaciones`."""
 
-    Expected input columns include at least:
-    - nombre
-    - descripcion
-    - codigo_estado
-    - fecha_cierre
-    - monto_estimado
-    - region_unidad
+    model_config = ConfigDict(frozen=True, extra="forbid")
+
+    keywords: list[str] = Field(default_factory=lambda: list(DEFAULT_INDUSTRIAL_WORDS))
+    excluded_keywords: list[str] = Field(default_factory=lambda: list(DEFAULT_EXCLUDED_WORDS))
+    priority_regions: list[str] = Field(default_factory=lambda: list(DEFAULT_PRIORITY_REGIONS))
+    amount_threshold: float = 10_000_000
+
+    points_keyword: int = 30
+    points_multiple_keywords: int = 20
+    points_published: int = 15
+    points_open: int = 15
+    points_amount: int = 10
+    points_region: int = 10
+    penalty_excluded: int = 25
+
+    high_priority_from: int = 70
+    medium_priority_from: int = 40
+
+
+def load_scoring_config(path: str | Path) -> ScoringConfig:
+    """Load a scoring profile from a JSON file. Missing fields keep their default."""
+
+    return ScoringConfig.model_validate(json.loads(Path(path).read_text(encoding="utf-8")))
+
+
+def score_licitaciones(
+    df: pd.DataFrame,
+    config: ScoringConfig | None = None,
+    reference_date: datetime | str | None = None,
+) -> pd.DataFrame:
+    """Score detailed licitations and return a new DataFrame with the score columns.
+
+    Expected input columns: nombre, descripcion, codigo_estado, fecha_cierre,
+    monto_estimado and region_unidad. Missing columns simply add no points.
+
+    ``reference_date`` is the date against which "still open" is decided. It
+    defaults to the current moment, which makes the score change over time;
+    pass a fixed date to get reproducible results.
     """
+
+    active_config = config or ScoringConfig()
 
     if df.empty:
         output = df.copy()
@@ -39,53 +85,51 @@ def score_licitaciones(df: pd.DataFrame) -> pd.DataFrame:
         output["prioridad"] = pd.Series(dtype="object")
         return output
 
+    reference = pd.Timestamp(reference_date) if reference_date is not None else pd.Timestamp(datetime.now())
+    keywords = compile_keywords(active_config.keywords)
+    excluded = compile_keywords(active_config.excluded_keywords)
+    regions = [normalize_text(region).strip() for region in active_config.priority_regions if region.strip()]
+
     output = df.copy()
 
     output["texto_busqueda"] = _build_texto_busqueda(output)
     normalized_text = output["texto_busqueda"].fillna("").map(normalize_text)
-    keyword_count = normalized_text.map(lambda text: count_keywords(text, INDUSTRIAL_KEYWORDS))
+    keyword_count = normalized_text.map(lambda text: count_keywords(text, keywords))
     output["contiene_keyword"] = keyword_count.gt(0)
-    output["contiene_excluida"] = normalized_text.map(lambda text: contains_any_keyword(text, EXCLUDED_KEYWORDS))
+    output["contiene_excluida"] = normalized_text.map(lambda text: contains_any_keyword(text, excluded))
 
-    codigo_estado = pd.to_numeric(output.get("codigo_estado"), errors="coerce")
-    fecha_cierre = pd.to_datetime(output.get("fecha_cierre"), errors="coerce")
-    monto_estimado = pd.to_numeric(output.get("monto_estimado"), errors="coerce")
-    region_normalized = output.get("region_unidad", pd.Series(index=output.index, dtype="object")).fillna("").map(normalize_text)
+    empty = pd.Series(index=output.index, dtype="object")
+    codigo_estado = pd.to_numeric(output.get("codigo_estado", empty), errors="coerce")
+    fecha_cierre = pd.to_datetime(output.get("fecha_cierre", empty), errors="coerce")
+    monto_estimado = pd.to_numeric(output.get("monto_estimado", empty), errors="coerce")
+    region_normalized = output.get("region_unidad", empty).fillna("").astype(str).map(normalize_text)
+    in_priority_region = region_normalized.map(lambda text: any(region in text for region in regions))
 
     score = pd.Series(0, index=output.index, dtype="int64")
-    score = score + output["contiene_keyword"].astype(int) * 30
-    score = score + keyword_count.ge(2).astype(int) * 20
-    score = score + codigo_estado.eq(5).fillna(False).astype(int) * 15
-    score = score + fecha_cierre.gt(pd.Timestamp(datetime.now())).fillna(False).astype(int) * 15
-    score = score + monto_estimado.gt(10_000_000).fillna(False).astype(int) * 10
-    score = score + region_normalized.map(_is_priority_region).astype(int) * 10
-    score = score - output["contiene_excluida"].astype(int) * 25
+    score = score + output["contiene_keyword"].astype(int) * active_config.points_keyword
+    score = score + keyword_count.ge(2).astype(int) * active_config.points_multiple_keywords
+    score = score + codigo_estado.eq(PUBLISHED_STATE_CODE).fillna(False).astype(int) * active_config.points_published
+    score = score + fecha_cierre.gt(reference).fillna(False).astype(int) * active_config.points_open
+    score = score + monto_estimado.gt(active_config.amount_threshold).fillna(False).astype(int) * active_config.points_amount
+    score = score + in_priority_region.astype(int) * active_config.points_region
+    score = score - output["contiene_excluida"].astype(int) * active_config.penalty_excluded
 
     output["score"] = score.clip(lower=0, upper=100).astype(int)
-    output["prioridad"] = output["score"].map(_score_to_priority)
+    output["prioridad"] = output["score"].map(lambda value: _score_to_priority(value, active_config))
 
     return output
 
 
-def score_oportunities(df: pd.DataFrame) -> pd.DataFrame:
-    """Backward-compatible wrapper for the previous placeholder name."""
-
-    return score_licitaciones(df)
-
-
 def _build_texto_busqueda(df: pd.DataFrame) -> pd.Series:
-    nombre = df.get("nombre", pd.Series(index=df.index, dtype="object")).fillna("").astype(str)
-    descripcion = df.get("descripcion", pd.Series(index=df.index, dtype="object")).fillna("").astype(str)
+    empty = pd.Series(index=df.index, dtype="object")
+    nombre = df.get("nombre", empty).fillna("").astype(str)
+    descripcion = df.get("descripcion", empty).fillna("").astype(str)
     return (nombre.str.strip() + " " + descripcion.str.strip()).str.strip()
 
 
-def _is_priority_region(text: str) -> bool:
-    return any(region in text for region in PRIORITY_REGIONS)
-
-
-def _score_to_priority(score: int) -> str:
-    if score >= 70:
+def _score_to_priority(score: int, config: ScoringConfig) -> str:
+    if score >= config.high_priority_from:
         return "alta"
-    if score >= 40:
+    if score >= config.medium_priority_from:
         return "media"
     return "baja"

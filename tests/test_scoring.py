@@ -6,11 +6,12 @@ import pytest
 from app.services.keywords import (
     EXCLUDED_KEYWORDS,
     INDUSTRIAL_KEYWORDS,
+    compile_keywords,
     contains_any_keyword,
     count_keywords,
     normalize_text,
 )
-from app.services.scoring import score_licitaciones
+from app.services.scoring import ScoringConfig, load_scoring_config, score_licitaciones
 
 
 def _licitacion(nombre: str, **overrides: object) -> dict[str, object]:
@@ -108,3 +109,62 @@ def test_empty_dataframe_returns_scoring_columns() -> None:
     assert result.empty
     for column in ("texto_busqueda", "contiene_keyword", "contiene_excluida", "score", "prioridad"):
         assert column in result.columns
+
+
+def test_compile_keywords_merges_a_word_with_its_plural() -> None:
+    patterns = compile_keywords(["Obra", "obras", " reparación ", "reparaciones", ""])
+
+    assert list(patterns) == ["obra", "reparacion"]
+    assert count_keywords(normalize_text("Obras y reparaciones varias"), patterns) == 2
+
+
+def test_custom_profile_changes_keywords_regions_and_points() -> None:
+    config = ScoringConfig(
+        keywords=["software", "licencia"],
+        excluded_keywords=[],
+        priority_regions=["Biobío"],
+        points_keyword=40,
+        points_region=25,
+    )
+
+    con_perfil = score_licitaciones(
+        pd.DataFrame([_licitacion("Licencias de software", region_unidad="Región del Biobío")]), config=config
+    ).iloc[0]
+    con_defecto = _score("Licencias de software", region_unidad="Región del Biobío")
+
+    assert con_perfil["score"] == 40 + 20 + 25
+    assert con_perfil["prioridad"] == "alta"
+    assert con_defecto["score"] == 0
+
+
+def test_reference_date_decides_whether_a_licitation_is_still_open() -> None:
+    data = pd.DataFrame([_licitacion("Compra de insumos", fecha_cierre="2026-04-10T15:00:00")])
+
+    antes = score_licitaciones(data, reference_date="2026-04-01").iloc[0]
+    despues = score_licitaciones(data, reference_date="2026-05-01").iloc[0]
+
+    assert antes["score"] == 15
+    assert despues["score"] == 0
+
+
+def test_load_scoring_config_reads_json_and_keeps_defaults(tmp_path) -> None:
+    path = tmp_path / "perfil.json"
+    path.write_text('{"keywords": ["software"], "points_keyword": 50}', encoding="utf-8")
+
+    config = load_scoring_config(path)
+
+    assert config.keywords == ["software"]
+    assert config.points_keyword == 50
+    assert config.points_region == ScoringConfig().points_region
+
+
+def test_example_config_file_matches_the_default_profile() -> None:
+    assert load_scoring_config("config/scoring.example.json") == ScoringConfig()
+
+
+def test_unknown_config_field_is_rejected(tmp_path) -> None:
+    path = tmp_path / "perfil.json"
+    path.write_text('{"palabras": ["software"]}', encoding="utf-8")
+
+    with pytest.raises(ValueError):
+        load_scoring_config(path)

@@ -1,0 +1,15 @@
+{
+  "keywords": ["mantencion", "industrial", "montaje", "instrumentacion", "electrico", "reparacion", "obra", "construccion", "campamento"],
+  "excluded_keywords": ["catering", "carpa", "toldo", "cubrepiso"],
+  "priority_regions": ["antofagasta", "tarapaca", "atacama"],
+  "amount_threshold": 10000000,
+  "points_keyword": 30,
+  "points_multiple_keywords": 20,
+  "points_published": 15,
+  "points_open": 15,
+  "points_amount": 10,
+  "points_region": 10,
+  "penalty_excluded": 25,
+  "high_priority_from": 70,
+  "medium_priority_from": 40
+}

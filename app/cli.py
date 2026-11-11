@@ -19,7 +19,7 @@ from app.services.extract import (
 )
 from app.services.extract_bulk import fetch_licitaciones_range
 from app.services.load import save_processed_dataframe
-from app.services.scoring import score_licitaciones
+from app.services.scoring import load_scoring_config, score_licitaciones
 from app.services.transform import normalize_items, normalize_licitaciones
 
 
@@ -212,6 +212,16 @@ def score_dataset(
         "--output",
         help="Ruta de salida del CSV scoreado. Por defecto usa data/processed/licitaciones_scored.csv.",
     ),
+    config_path: Path | None = typer.Option(
+        None,
+        "--config",
+        help="JSON con el perfil de scoring (ver config/scoring.example.json). Por defecto usa el perfil de ejemplo.",
+    ),
+    reference_date: str | None = typer.Option(
+        None,
+        "--reference-date",
+        help="Fecha YYYY-MM-DD contra la que se decide si una licitacion sigue abierta. Por defecto, hoy.",
+    ),
 ) -> None:
     """Score a detailed licitations dataset and export the result to CSV."""
 
@@ -224,7 +234,8 @@ def score_dataset(
         raise typer.Exit(code=1)
 
     dataframe = pd.read_csv(resolved_input, encoding="utf-8-sig")
-    scored_df = score_licitaciones(dataframe)
+    config = load_scoring_config(config_path) if config_path else None
+    scored_df = score_licitaciones(dataframe, config=config, reference_date=reference_date)
     resolved_output.parent.mkdir(parents=True, exist_ok=True)
     scored_df.to_csv(resolved_output, index=False, encoding="utf-8-sig")
 
@@ -234,18 +245,11 @@ def score_dataset(
     typer.echo(f"Filas procesadas: {len(scored_df)}")
 
 
-@cli.command("export-alerts")
-def export_alerts(date: str = typer.Option(..., "--date", help="Fecha objetivo.")) -> None:
-    """Placeholder for future alerts export command."""
-
-    typer.echo(f"Comando reservado para alertas futuras. Fecha solicitada: {date}")
-
-
 @cli.command("run-dashboard")
 def run_dashboard() -> None:
     """Guide the user to run the Streamlit application."""
 
-    typer.echo("Ejecuta: streamlit run app/dashboard/streamlit_app.py")
+    typer.echo("Ejecuta: streamlit run streamlit_app.py")
 
 
 if __name__ == "__main__":

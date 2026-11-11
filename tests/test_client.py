@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import json
+import logging
 from typing import Any
 
 import pytest
@@ -112,3 +113,28 @@ def test_request_fails_after_exhausting_retries(bad_response: FakeResponse) -> N
         _client(session, max_retries=2).get_licitaciones_today()
 
     assert len(session.calls) == 2
+
+
+def test_the_ticket_is_not_written_to_the_log(caplog: pytest.LogCaptureFixture) -> None:
+    session = FakeSession(FakeResponse())
+
+    with caplog.at_level(logging.INFO):
+        _client(session).get_licitaciones_by_date("2026-04-04")
+
+    logged = [record for record in caplog.records if record.getMessage() == "Mercado Publico request"]
+    assert logged
+    for record in logged:
+        assert record.params == {"fecha": "04042026"}
+        assert "ticket-de-prueba" not in str(record.__dict__)
+
+
+def test_the_ticket_is_not_included_in_error_messages() -> None:
+    response = FakeResponse(status_code=500, text="error")
+    response.url = "https://api.example.test/licitaciones.json?ticket=ticket-de-prueba&fecha=04042026"
+    session = FakeSession(response)
+
+    with pytest.raises(MercadoPublicoRequestError) as error:
+        _client(session, max_retries=1).get_licitaciones_by_date("2026-04-04")
+
+    assert "ticket-de-prueba" not in str(error.value)
+    assert "fecha=04042026" in str(error.value)

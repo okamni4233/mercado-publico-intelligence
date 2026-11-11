@@ -11,7 +11,10 @@ import typer
 from app.api.client import MercadoPublicoAPIClient
 from app.config import get_settings
 from app.logging_config import configure_logging
-from app.services.build_dataset import build_bulk_dataset, export_analysis_ready as export_analysis_ready_files
+from app.services.build_dataset import build_bulk_dataset
+from app.services.build_dataset import (
+    export_analysis_ready as export_analysis_ready_files,
+)
 from app.services.extract import (
     fetch_licitaciones_by_date,
     fetch_licitaciones_today,
@@ -21,7 +24,6 @@ from app.services.extract_bulk import fetch_licitaciones_range
 from app.services.load import save_processed_dataframe
 from app.services.scoring import load_scoring_config, score_licitaciones
 from app.services.transform import normalize_items, normalize_licitaciones
-
 
 cli = typer.Typer(add_completion=False, help="CLI para Mercado Publico Intelligence.")
 
@@ -193,7 +195,7 @@ def export_analysis_ready_command(
         result = export_analysis_ready_files(use_partials=use_partials)
     except FileNotFoundError as exc:
         typer.echo(str(exc))
-        raise typer.Exit(code=1)
+        raise typer.Exit(code=1) from exc
 
     typer.echo(f"Rango de referencia: {start_date} a {end_date}")
     typer.echo(f"Licitaciones analysis-ready: {result['licitaciones_analysis_ready']}")

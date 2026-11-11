@@ -11,7 +11,6 @@ import re
 import unicodedata
 from collections.abc import Iterable
 
-
 KeywordPatterns = dict[str, re.Pattern[str]]
 
 DEFAULT_INDUSTRIAL_WORDS = [

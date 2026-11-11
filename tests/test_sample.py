@@ -4,8 +4,12 @@ import json
 
 import pandas as pd
 
-from app.services.sample import SAMPLE_COLUMNS, build_public_sample, main_category, redact_contact_details
-
+from app.services.sample import (
+    SAMPLE_COLUMNS,
+    build_public_sample,
+    main_category,
+    redact_contact_details,
+)
 
 PERSONAL_COLUMNS = {
     "nombre_usuario",

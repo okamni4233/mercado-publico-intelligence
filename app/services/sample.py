@@ -14,8 +14,10 @@ from pathlib import Path
 
 import pandas as pd
 
-from app.services.transform import normalize_licitacion_detail, normalize_licitacion_items
-
+from app.services.transform import (
+    normalize_licitacion_detail,
+    normalize_licitacion_items,
+)
 
 SAMPLE_COLUMNS = [
     "codigo_externo",

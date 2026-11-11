@@ -9,7 +9,6 @@ from pathlib import Path
 from dotenv import load_dotenv
 from pydantic import BaseModel, ConfigDict, Field, ValidationError, field_validator
 
-
 load_dotenv()
 
 

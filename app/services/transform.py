@@ -17,7 +17,6 @@ from app.services.keywords import (
     normalize_text,
 )
 
-
 SUMMARY_COLUMNS = [
     "codigo_externo",
     "nombre",

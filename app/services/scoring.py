@@ -25,7 +25,6 @@ from app.services.keywords import (
     normalize_text,
 )
 
-
 PUBLISHED_STATE_CODE = 5
 DEFAULT_PRIORITY_REGIONS = ["antofagasta", "tarapaca", "atacama"]
 SCORE_COLUMNS = ["texto_busqueda", "contiene_keyword", "contiene_excluida", "score", "prioridad"]

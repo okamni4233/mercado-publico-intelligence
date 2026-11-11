@@ -27,7 +27,7 @@ from app.services.keywords import (
 
 PUBLISHED_STATE_CODE = 5
 DEFAULT_PRIORITY_REGIONS = ["antofagasta", "tarapaca", "atacama"]
-SCORE_COLUMNS = ["texto_busqueda", "contiene_keyword", "contiene_excluida", "score", "prioridad"]
+SCORE_COLUMNS = ["texto_busqueda", "contiene_keyword", "contiene_excluida", "en_rubro_objetivo", "score", "prioridad"]
 
 
 class ScoringConfig(BaseModel):
@@ -38,6 +38,9 @@ class ScoringConfig(BaseModel):
     keywords: list[str] = Field(default_factory=lambda: list(DEFAULT_INDUSTRIAL_WORDS))
     excluded_keywords: list[str] = Field(default_factory=lambda: list(DEFAULT_EXCLUDED_WORDS))
     priority_regions: list[str] = Field(default_factory=lambda: list(DEFAULT_PRIORITY_REGIONS))
+    # Official categories ("rubros") the profile is interested in. Empty by default:
+    # the example profile relies on keywords only.
+    target_categories: list[str] = Field(default_factory=list)
     amount_threshold: float = 10_000_000
 
     points_keyword: int = 30
@@ -46,6 +49,7 @@ class ScoringConfig(BaseModel):
     points_open: int = 15
     points_amount: int = 10
     points_region: int = 10
+    points_category: int = 30
     penalty_excluded: int = 25
 
     high_priority_from: int = 70
@@ -66,7 +70,8 @@ def score_licitaciones(
     """Score detailed licitations and return a new DataFrame with the score columns.
 
     Expected input columns: nombre, descripcion, codigo_estado, fecha_cierre,
-    monto_estimado and region_unidad. Missing columns simply add no points.
+    monto_estimado, region_unidad and rubro_principal. Missing columns simply
+    add no points.
 
     ``reference_date`` is the date against which "still open" is decided. It
     defaults to the current moment, which makes the score change over time;
@@ -80,6 +85,7 @@ def score_licitaciones(
         output["texto_busqueda"] = pd.Series(dtype="object")
         output["contiene_keyword"] = pd.Series(dtype="bool")
         output["contiene_excluida"] = pd.Series(dtype="bool")
+        output["en_rubro_objetivo"] = pd.Series(dtype="bool")
         output["score"] = pd.Series(dtype="int64")
         output["prioridad"] = pd.Series(dtype="object")
         return output
@@ -104,6 +110,10 @@ def score_licitaciones(
     region_normalized = output.get("region_unidad", empty).fillna("").astype(str).map(normalize_text)
     in_priority_region = region_normalized.map(lambda text: any(region in text for region in regions))
 
+    categories = {normalize_text(category).strip() for category in active_config.target_categories if category.strip()}
+    category_normalized = output.get("rubro_principal", empty).fillna("").astype(str).map(normalize_text).str.strip()
+    output["en_rubro_objetivo"] = category_normalized.isin(categories)
+
     score = pd.Series(0, index=output.index, dtype="int64")
     score = score + output["contiene_keyword"].astype(int) * active_config.points_keyword
     score = score + keyword_count.ge(2).astype(int) * active_config.points_multiple_keywords
@@ -111,6 +121,7 @@ def score_licitaciones(
     score = score + fecha_cierre.gt(reference).fillna(False).astype(int) * active_config.points_open
     score = score + monto_estimado.gt(active_config.amount_threshold).fillna(False).astype(int) * active_config.points_amount
     score = score + in_priority_region.astype(int) * active_config.points_region
+    score = score + output["en_rubro_objetivo"].astype(int) * active_config.points_category
     score = score - output["contiene_excluida"].astype(int) * active_config.penalty_excluded
 
     output["score"] = score.clip(lower=0, upper=100).astype(int)

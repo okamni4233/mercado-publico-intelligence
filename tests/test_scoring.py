@@ -107,7 +107,7 @@ def test_empty_dataframe_returns_scoring_columns() -> None:
     result = score_licitaciones(pd.DataFrame())
 
     assert result.empty
-    for column in ("texto_busqueda", "contiene_keyword", "contiene_excluida", "score", "prioridad"):
+    for column in ("texto_busqueda", "contiene_keyword", "contiene_excluida", "en_rubro_objetivo", "score", "prioridad"):
         assert column in result.columns
 
 
@@ -168,3 +168,26 @@ def test_unknown_config_field_is_rejected(tmp_path) -> None:
 
     with pytest.raises(ValueError):
         load_scoring_config(path)
+
+
+def test_target_category_adds_points_ignoring_case_and_accents() -> None:
+    config = ScoringConfig(keywords=[], target_categories=["Servicios de construcción y mantenimiento"])
+    data = pd.DataFrame(
+        [
+            _licitacion("Pavimentación de calle", rubro_principal="SERVICIOS DE CONSTRUCCION Y MANTENIMIENTO"),
+            _licitacion("Compra de guantes", rubro_principal="Equipamiento y suministros médicos"),
+            _licitacion("Sin rubro informado", rubro_principal=None),
+        ]
+    )
+
+    result = score_licitaciones(data, config=config)
+
+    assert result["en_rubro_objetivo"].tolist() == [True, False, False]
+    assert result["score"].tolist() == [30, 0, 0]
+
+
+def test_without_target_categories_the_category_adds_nothing() -> None:
+    row = _score("Compra de insumos", rubro_principal="Servicios de construcción y mantenimiento")
+
+    assert bool(row["en_rubro_objetivo"]) is False
+    assert row["score"] == 0

@@ -78,7 +78,7 @@ streamlit run streamlit_app.py
 pytest
 ```
 
-El dashboard se abre con la muestra pública. Para el análisis: `jupyter nbconvert --to notebook --execute --inplace notebooks/03_eda_oportunidades.ipynb` (requiere además `pip install nbconvert ipykernel`).
+El dashboard se abre con la muestra pública. Para reejecutar el análisis: `pip install -r requirements-dev.txt` y luego `jupyter nbconvert --to notebook --execute --inplace notebooks/03_eda_oportunidades.ipynb`.
 
 ### Con datos propios
 
@@ -97,6 +97,8 @@ python scripts/resumen_datos.py     # resumen y gráfico de licitaciones por reg
 1. Entra a [share.streamlit.io](https://share.streamlit.io) con tu cuenta de GitHub y elige **Create app**.
 2. Repositorio `okamni4233/mercado-publico-intelligence`, rama `master`, archivo principal `streamlit_app.py`.
 3. En las opciones avanzadas elige Python 3.11 o superior. No hace falta configurar secretos: el dashboard no llama a la API.
+
+Los nombres de los botones pueden cambiar con el tiempo; lo que importa es el repositorio, la rama y el archivo principal.
 
 ## Estructura
 

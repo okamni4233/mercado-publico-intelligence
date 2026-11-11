@@ -1,7 +1,6 @@
 requests==2.34.2
 pandas==2.3.3
 pydantic==2.14.3
-SQLAlchemy==2.1.8
 python-dotenv==1.2.4
 streamlit==1.67.0
 typer==0.29.0

@@ -7,8 +7,11 @@ from streamlit.testing.v1 import AppTest
 from app.dashboard.data import (
     ROOT,
     SAMPLE_PATH,
+    add_competition,
     amounts_in_clp,
+    load_competition,
     load_dataset,
+    load_monthly_summary,
     summarize_amounts,
 )
 
@@ -55,6 +58,31 @@ def test_public_sample_loads_with_the_columns_the_dashboard_needs() -> None:
         assert column in frame.columns
 
 
+def test_monthly_summary_covers_twelve_months() -> None:
+    monthly = load_monthly_summary()
+
+    assert monthly["mes"].tolist()[0] == "2025-04"
+    assert monthly["mes"].tolist()[-1] == "2026-03"
+    assert len(monthly) == 12
+    assert monthly["licitaciones"].sum() == 100124
+
+
+def test_competition_is_attached_by_category_ignoring_case_and_accents() -> None:
+    frame = pd.DataFrame({"rubro_principal": ["Servicios de construcción y mantenimiento", "Rubro que no existe", None]})
+
+    result = add_competition(frame, load_competition())
+
+    assert result.loc[0, "oferentes_tipicos_rubro"] == 3
+    assert result.loc[0, "pct_poca_competencia_rubro"] == pytest.approx(40.3)
+    assert result["oferentes_tipicos_rubro"].isna().tolist() == [False, True, True]
+
+
+def test_most_sample_licitations_get_the_competition_of_their_category() -> None:
+    sample = add_competition(load_dataset(SAMPLE_PATH), load_competition())
+
+    assert sample["oferentes_tipicos_rubro"].notna().mean() > 0.9
+
+
 @pytest.fixture()
 def app(monkeypatch: pytest.MonkeyPatch) -> AppTest:
     # Always exercise the public sample, even if a local extraction exists.
@@ -70,7 +98,7 @@ def test_dashboard_renders_the_public_sample_without_errors(app: AppTest) -> Non
     assert not app.exception
     assert _metric(app, "Licitaciones") == "1.407"
     assert _metric(app, "Prioridad alta") == "26"
-    assert [tab.label for tab in app.tabs] == ["Resumen", "Montos", "Oportunidades", "Acerca del puntaje"]
+    assert [tab.label for tab in app.tabs] == ["Resumen", "Montos", "Oportunidades", "Tendencias", "Acerca del puntaje"]
 
 
 def test_dashboard_region_filter_narrows_the_data(app: AppTest) -> None:
@@ -93,3 +121,10 @@ def test_dashboard_warns_when_no_licitation_matches(app: AppTest) -> None:
     assert not app.exception
     assert len(app.warning) == 1
     assert len(app.metric) == 0
+
+
+def test_dashboard_target_categories_raise_priorities(app: AppTest) -> None:
+    app.multiselect(key="target_categories").set_value(["Servicios de construcción y mantenimiento"]).run()
+
+    assert not app.exception
+    assert int(_metric(app, "Prioridad alta")) > 26

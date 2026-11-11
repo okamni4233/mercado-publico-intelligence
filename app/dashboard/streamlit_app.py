@@ -8,8 +8,11 @@ import streamlit as st
 
 from app.dashboard.data import (
     MILLION,
+    add_competition,
     amounts_in_clp,
+    load_competition,
     load_dataset,
+    load_monthly_summary,
     resolve_dataset,
     summarize_amounts,
 )
@@ -89,6 +92,12 @@ def _sidebar(frame: pd.DataFrame, source_label: str, default_reference) -> tuple
     priority_regions = st.sidebar.multiselect(
         "Regiones prioritarias", region_options, default=default_regions, key="priority_regions"
     )
+    target_categories = st.sidebar.multiselect(
+        "Rubros objetivo",
+        _options(frame, "rubro_principal"),
+        key="target_categories",
+        help="Rubro oficial de la licitación. Es una señal de relevancia más confiable que las palabras clave.",
+    )
     reference_date = st.sidebar.date_input(
         "Fecha de referencia",
         value=default_reference,
@@ -100,6 +109,7 @@ def _sidebar(frame: pd.DataFrame, source_label: str, default_reference) -> tuple
         keywords=_split_words(keywords),
         excluded_keywords=_split_words(excluded),
         priority_regions=priority_regions,
+        target_categories=target_categories,
     )
     return filtered, config, reference_date
 
@@ -186,15 +196,48 @@ def _tab_oportunidades(scored: pd.DataFrame) -> None:
         "fecha_cierre",
         "moneda",
         "monto_estimado",
+        "oferentes_tipicos_rubro",
+        "pct_poca_competencia_rubro",
         "score",
         "prioridad",
     ]
+    st.caption(
+        "Las dos columnas de competencia vienen del histórico de 12 meses: la mediana de oferentes del rubro "
+        "y el porcentaje de sus licitaciones que recibió 2 oferentes o menos. Describen al rubro, no a esta licitación."
+    )
     st.dataframe(table[columns], use_container_width=True, hide_index=True)
     st.download_button(
         "Descargar esta tabla (CSV)",
         table[columns].to_csv(index=False).encode("utf-8-sig"),
         file_name="licitaciones_priorizadas.csv",
         mime="text/csv",
+    )
+
+
+def _tab_tendencias() -> None:
+    monthly = load_monthly_summary()
+    st.caption(
+        f"Licitaciones con al menos una oferta publicadas entre {monthly['mes'].iloc[0]} y {monthly['mes'].iloc[-1]} "
+        f"({_number(monthly['licitaciones'].sum())} en total), según los datos abiertos de ChileCompra. "
+        "No depende de los filtros de la barra lateral."
+    )
+
+    left, right = st.columns(2)
+    left.plotly_chart(
+        px.bar(monthly, x="mes", y="licitaciones", title="Licitaciones publicadas por mes", height=380),
+        use_container_width=True,
+    )
+    right.plotly_chart(
+        px.line(monthly, x="mes", y="mediana_monto_mm", markers=True, title="Mediana del monto estimado (MM$)", height=380),
+        use_container_width=True,
+    )
+    st.plotly_chart(
+        px.line(monthly, x="mes", y="pct_adjudicadas", markers=True, title="% de licitaciones adjudicadas", height=320),
+        use_container_width=True,
+    )
+    st.info(
+        "La baja de la adjudicación en los meses más recientes se debe en buena parte a licitaciones que aún no se "
+        "resuelven, no a que se adjudique menos."
     )
 
 
@@ -211,13 +254,15 @@ def _tab_acerca(config: ScoringConfig, reference_date) -> None:
 | Cierra después de la fecha de referencia ({reference_date:%d-%m-%Y}) | +{config.points_open} |
 | El monto estimado supera ${_number(config.amount_threshold)} | +{config.points_amount} |
 | El organismo es de una región prioritaria | +{config.points_region} |
+| El rubro oficial es uno de los rubros objetivo | +{config.points_category} |
 | El texto contiene una palabra excluida | −{config.penalty_excluded} |
 
 Prioridad alta desde {config.high_priority_from} puntos y media desde {config.medium_priority_from}.
 
 **Qué tener presente.**
 
-- Los puntos son arbitrarios: no se calibraron con adjudicaciones reales ni se comprobó que el orden sea correcto. El puntaje sirve para acortar la lista, no para decidir.
+- Los puntos son de criterio, no aprendidos de los datos. Al contrastarlo con 100.124 licitaciones de 12 meses, la prioridad alta no se adjudicó más ni tuvo menos competencia que el resto. El puntaje ordena por parecido con el perfil; sirve para acortar la lista, no para decidir.
+- Las palabras clave son un filtro débil: frente al rubro oficial de construcción y mantenimiento tienen 36 % de precisión y 35,5 % de cobertura. Los rubros objetivo son una señal más confiable.
 - El perfil inicial es un ejemplo (servicios industriales y de construcción en el norte del país). Cámbialo en la barra lateral.
 - En la muestra pública las palabras se buscan solo en el nombre de la licitación, porque la descripción no se publica.
 - Cerca de la mitad de las licitaciones no informa monto estimado.
@@ -243,15 +288,20 @@ def main() -> None:
         return
 
     scored = score_licitaciones(filtered, config=config, reference_date=str(reference_date))
+    scored = add_competition(scored, load_competition())
     _kpis(scored)
 
-    resumen, montos, oportunidades, acerca = st.tabs(["Resumen", "Montos", "Oportunidades", "Acerca del puntaje"])
+    resumen, montos, oportunidades, tendencias, acerca = st.tabs(
+        ["Resumen", "Montos", "Oportunidades", "Tendencias", "Acerca del puntaje"]
+    )
     with resumen:
         _tab_resumen(scored)
     with montos:
         _tab_montos(scored)
     with oportunidades:
         _tab_oportunidades(scored)
+    with tendencias:
+        _tab_tendencias()
     with acerca:
         _tab_acerca(config, reference_date)
 

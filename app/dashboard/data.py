@@ -10,9 +10,13 @@ from pathlib import Path
 
 import pandas as pd
 
+from app.services.keywords import normalize_text
+
 ROOT = Path(__file__).resolve().parents[2]
 SAMPLE_PATH = ROOT / "data" / "sample" / "licitaciones_muestra.csv"
 LOCAL_PATH = ROOT / "data" / "processed" / "licitaciones_detalladas.csv"
+MONTHLY_PATH = ROOT / "data" / "historico" / "resumen_mensual.csv"
+COMPETITION_PATH = ROOT / "data" / "historico" / "competencia_por_rubro.csv"
 
 DATE_COLUMNS = ["fecha_publicacion", "fecha_cierre"]
 MIN_VALID_AMOUNT = 1000
@@ -79,3 +83,38 @@ def summarize_amounts(frame: pd.DataFrame, group_column: str) -> pd.DataFrame:
         }
     )
     return table.sort_values("monto_total_mm", ascending=False)
+
+
+def load_monthly_summary(path: Path = MONTHLY_PATH) -> pd.DataFrame:
+    """Twelve-month summary built from ChileCompra's open data (see scripts/build_historico.py)."""
+
+    return pd.read_csv(path, encoding="utf-8")
+
+
+def load_competition(path: Path = COMPETITION_PATH) -> pd.DataFrame:
+    """Historical competition per category, indexed by the normalized category name."""
+
+    table = pd.read_csv(path, encoding="utf-8")
+    table["rubro_clave"] = table["rubro_principal"].map(_category_key)
+    return table.set_index("rubro_clave")[["mediana_oferentes", "pct_pocos_oferentes"]]
+
+
+def add_competition(frame: pd.DataFrame, competition: pd.DataFrame) -> pd.DataFrame:
+    """Attach to each licitation the historical competition of its category.
+
+    Categories are matched ignoring case and accents, because the API writes
+    them in sentence case and the open-data files in upper case. Licitations
+    whose category is not in the table keep missing values.
+    """
+
+    keys = frame["rubro_principal"].map(_category_key)
+    result = frame.copy()
+    result["oferentes_tipicos_rubro"] = keys.map(competition["mediana_oferentes"])
+    result["pct_poca_competencia_rubro"] = keys.map(competition["pct_pocos_oferentes"])
+    return result
+
+
+def _category_key(value: object) -> str | None:
+    if value is None or pd.isna(value):
+        return None
+    return normalize_text(str(value)).strip()

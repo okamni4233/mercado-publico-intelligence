@@ -35,7 +35,6 @@ Otros hallazgos del análisis (`notebooks/03_eda_oportunidades.ipynb`):
 | Análisis de calidad de datos y de montos (notebooks 02 y 03) | Implementado |
 | Integración continua (lint y tests en cada pull request) | Implementada |
 | Alertas y reportes periódicos | Próximamente |
-| Persistencia en base de datos | Próximamente (hay tablas definidas, sin uso) |
 
 ### Puntaje de oportunidad
 
@@ -108,7 +107,6 @@ app/
   api/               cliente HTTP, endpoints y excepciones
   services/          extracción, normalización, muestra pública, filtros, palabras clave y puntaje
   dashboard/         dashboard de Streamlit y sus funciones de datos
-  db/, models/       tablas y esquemas, aún sin uso
   cli.py             comandos de línea
   config.py          configuración desde variables de entorno
 config/

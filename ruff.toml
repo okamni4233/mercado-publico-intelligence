@@ -1,0 +1,9 @@
+target-version = "py311"
+extend-exclude = ["notebooks"]
+
+[lint]
+select = ["E", "F", "I", "UP", "B"]
+ignore = [
+    "E501", # largo de linea: no se usa formateador automatico y hay tablas en cadenas de texto
+    "B008", # typer.Option(...) como valor por defecto es el uso normal de Typer
+]

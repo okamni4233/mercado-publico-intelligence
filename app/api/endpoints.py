@@ -6,7 +6,6 @@ from dataclasses import dataclass
 from datetime import date, datetime
 from typing import Any
 
-
 LICITACIONES_RESOURCE = "licitaciones.json"
 ORDENES_COMPRA_RESOURCE = "ordenesdecompra.json"
 

@@ -17,7 +17,6 @@ from app.services.keywords import (
     normalize_text,
 )
 
-
 SUMMARY_COLUMNS = [
     "codigo_externo",
     "nombre",
@@ -134,6 +133,7 @@ STATE_MAP = {
     7: "Desierta",
     8: "Adjudicada",
     15: "Revocada o finalizada no vigente",
+    16: "Suspendida",
     18: "Revocada",
     19: "Suspendida",
 }

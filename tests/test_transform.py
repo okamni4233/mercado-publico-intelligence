@@ -12,7 +12,6 @@ from app.services.transform import (
     normalize_licitaciones_summary,
 )
 
-
 LICITACION_COMPLETA = {
     "CodigoExterno": "1000-1-LQ26",
     "Nombre": "  Servicio de datos  ",

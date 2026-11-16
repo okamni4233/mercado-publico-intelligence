@@ -23,7 +23,6 @@ from app.services.transform import (
     normalize_detail_records,
 )
 
-
 logger = logging.getLogger(__name__)
 
 

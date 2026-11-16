@@ -9,7 +9,6 @@ from pathlib import Path
 from dotenv import load_dotenv
 from pydantic import BaseModel, ConfigDict, Field, ValidationError, field_validator
 
-
 load_dotenv()
 
 
@@ -25,7 +24,6 @@ class Settings(BaseModel):
     )
     request_timeout: int = Field(default=30, alias="REQUEST_TIMEOUT")
     data_dir: Path = Field(default=Path("./data"), alias="DATA_DIR")
-    db_url: str = Field(default="sqlite:///./data/mercado_publico.db", alias="DB_URL")
     log_level: str = Field(default="INFO", alias="LOG_LEVEL")
     max_retries: int = Field(default=3, alias="MAX_RETRIES")
     retry_backoff_seconds: float = Field(default=1.5, alias="RETRY_BACKOFF_SECONDS")
@@ -95,7 +93,6 @@ def _build_settings_payload() -> dict[str, object]:
         "MP_BASE_URL": os.getenv("MP_BASE_URL", "https://api.mercadopublico.cl/servicios/v1/publico"),
         "REQUEST_TIMEOUT": os.getenv("REQUEST_TIMEOUT", "30"),
         "DATA_DIR": os.getenv("DATA_DIR", "./data"),
-        "DB_URL": os.getenv("DB_URL", "sqlite:///./data/mercado_publico.db"),
         "LOG_LEVEL": os.getenv("LOG_LEVEL", "INFO"),
         "MAX_RETRIES": os.getenv("MAX_RETRIES", "3"),
         "RETRY_BACKOFF_SECONDS": os.getenv("RETRY_BACKOFF_SECONDS", "1.5"),

@@ -5,9 +5,12 @@ from __future__ import annotations
 import logging
 import time
 from typing import Any
+from urllib.parse import parse_qsl, urlencode, urlsplit, urlunsplit
 
 import requests
 from requests import Response, Session
+
+from app.config import Settings, get_settings, require_ticket
 
 from . import endpoints
 from .exceptions import (
@@ -16,7 +19,6 @@ from .exceptions import (
     MercadoPublicoJSONError,
     MercadoPublicoRequestError,
 )
-from app.config import Settings, get_settings, require_ticket
 
 
 class MercadoPublicoAPIClient:
@@ -85,7 +87,7 @@ class MercadoPublicoAPIClient:
                         "method": method,
                         "url": url,
                         "attempt": attempt,
-                        "params": params,
+                        "params": _without_ticket(params),
                     },
                 )
                 response = self.session.request(
@@ -124,21 +126,35 @@ class MercadoPublicoAPIClient:
     def _raise_for_status(self, response: Response) -> None:
         if response.status_code >= 400:
             raise MercadoPublicoHTTPError(
-                f"HTTP {response.status_code} returned by Mercado Publico API for {response.url}"
+                f"HTTP {response.status_code} returned by Mercado Publico API for {_safe_url(response.url)}"
             )
 
     def _parse_json(self, response: Response) -> dict[str, Any]:
         if not response.text or not response.text.strip():
-            raise MercadoPublicoEmptyResponseError(f"Empty response received from {response.url}")
+            raise MercadoPublicoEmptyResponseError(f"Empty response received from {_safe_url(response.url)}")
 
         try:
             payload = response.json()
         except ValueError as exc:
-            raise MercadoPublicoJSONError(f"Invalid JSON received from {response.url}") from exc
+            raise MercadoPublicoJSONError(f"Invalid JSON received from {_safe_url(response.url)}") from exc
 
         if not isinstance(payload, dict):
             raise MercadoPublicoJSONError(
-                f"Unexpected JSON payload type {type(payload).__name__} from {response.url}"
+                f"Unexpected JSON payload type {type(payload).__name__} from {_safe_url(response.url)}"
             )
 
         return payload
+
+
+def _without_ticket(params: dict[str, Any] | None) -> dict[str, Any]:
+    """Return the request parameters without the access ticket, for logging."""
+
+    return {key: value for key, value in (params or {}).items() if key != "ticket"}
+
+
+def _safe_url(url: str) -> str:
+    """Return the URL without the ticket query parameter, for logs and error messages."""
+
+    parts = urlsplit(url)
+    query = [(key, value) for key, value in parse_qsl(parts.query, keep_blank_values=True) if key != "ticket"]
+    return urlunsplit(parts._replace(query=urlencode(query)))
